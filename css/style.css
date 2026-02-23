@@ -1,0 +1,592 @@
+/* NHS Scotland Design System Colors */
+:root {
+    --nhs-blue: #005eb8;
+    --nhs-dark-blue: #003d7a;
+    --nhs-light-blue: #41b6e6;
+    --nhs-white: #ffffff;
+    --nhs-black: #231f20;
+    --nhs-grey-1: #f5f7f9;
+    --nhs-grey-2: #e8ebed;
+    --nhs-grey-3: #d4d8db;
+    --nhs-grey-4: #8c9497;
+    --nhs-red: #da291c;
+    --nhs-yellow: #f7c700;
+    --nhs-green: #007f5c;
+    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.15);
+    --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.2);
+    --border-radius: 4px;
+    --border-radius-lg: 8px;
+    --transition: all 0.2s ease-in-out;
+}
+
+/* Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Frutiger W01', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.5;
+    color: var(--nhs-black);
+    background-color: var(--nhs-white);
+    padding: 0;
+    margin: 0;
+}
+
+.nhsuk-container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header Styles */
+.nhsuk-header {
+    background-color: var(--nhs-blue);
+    color: var(--nhs-white);
+    padding: 16px 0;
+    box-shadow: var(--shadow-md);
+}
+
+.nhsuk-header__logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.nhsuk-header__logo-img {
+    height: 40px;
+    width: auto;
+}
+
+.nhsuk-header__title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+/* Main Content */
+main {
+    padding: 40px 0;
+}
+
+.page-title {
+    font-size: 2.25rem;
+    font-weight: 700;
+    margin-bottom: 24px;
+    color: var(--nhs-dark-blue);
+}
+
+.page-intro {
+    font-size: 1.125rem;
+    margin-bottom: 32px;
+    max-width: 700px;
+    line-height: 1.6;
+}
+
+.content-section {
+    margin-bottom: 40px;
+    max-width: 800px;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: var(--nhs-dark-blue);
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--nhs-light-blue);
+}
+
+.content-text {
+    line-height: 1.6;
+    margin-bottom: 16px;
+}
+
+.careers-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 24px;
+    margin-top: 24px;
+}
+
+.career-card {
+    border: 1px solid var(--nhs-grey-3);
+    border-radius: var(--border-radius-lg);
+    padding: 20px;
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition);
+}
+
+.career-card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+}
+
+.career-card h3 {
+    font-size: 1.25rem;
+    margin-bottom: 12px;
+    color: var(--nhs-blue);
+}
+
+.career-card p {
+    font-size: 0.9rem;
+    color: var(--nhs-grey-4);
+}
+
+/* Footer Styles */
+.nhsuk-footer {
+    background-color: var(--nhs-dark-blue);
+    color: var(--nhs-white);
+    padding: 32px 0;
+    margin-top: 60px;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 250px;
+}
+
+.footer-section h3 {
+    font-size: 1.25rem;
+    margin-bottom: 16px;
+    position: relative;
+    padding-bottom: 8px;
+}
+
+.footer-section h3::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40px;
+    height: 3px;
+    background-color: var(--nhs-light-blue);
+}
+
+.footer-links {
+    list-style: none;
+}
+
+.footer-links li {
+    margin-bottom: 8px;
+}
+
+.footer-links a {
+    color: var(--nhs-light-blue);
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.footer-links a:hover {
+    color: var(--nhs-white);
+    text-decoration: underline;
+}
+
+.copyright {
+    margin-top: 32px;
+    padding-top: 16px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+/* Chat Widget Styles */
+#chat-widget {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 1000;
+    font-family: inherit;
+}
+
+#chat-toggle {
+    background-color: var(--nhs-blue);
+    color: var(--nhs-white);
+    border: none;
+    border-radius: 50px;
+    padding: 14px 24px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: var(--shadow-lg);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: var(--transition);
+    position: relative;
+    z-index: 1001;
+}
+
+#chat-toggle:hover,
+#chat-toggle:focus {
+    background-color: var(--nhs-dark-blue);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+}
+
+#chat-toggle:focus {
+    outline: 3px solid var(--nhs-yellow);
+    outline-offset: 2px;
+}
+
+#chat-toggle::after {
+    content: '';
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    bottom: -4px;
+    left: -4px;
+    background: radial-gradient(circle, rgba(65, 182, 230, 0.4) 0%, rgba(65, 182, 230, 0) 70%);
+    border-radius: 50px;
+    z-index: -1;
+    animation: pulse 2s infinite;
+    opacity: 0;
+}
+
+#chat-toggle:hover::after {
+    opacity: 1;
+}
+
+@keyframes pulse {
+    0% { transform: scale(0.9); opacity: 0.7; }
+    70% { transform: scale(1.1); opacity: 0.3; }
+    100% { transform: scale(1.2); opacity: 0; }
+}
+
+#chat-window {
+    position: fixed;
+    bottom: 90px;
+    right: 24px;
+    width: 380px;
+    max-width: 95vw;
+    background: var(--nhs-white);
+    border-radius: var(--border-radius-lg);
+    box-shadow: var(--shadow-lg);
+    display: flex;
+    flex-direction: column;
+    max-height: 85vh;
+    z-index: 1000;
+    transform: translateY(20px);
+    opacity: 0;
+    visibility: hidden;
+    transition: var(--transition);
+}
+
+#chat-window.visible {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+}
+
+.chat-header {
+    background-color: var(--nhs-blue);
+    color: var(--nhs-white);
+    padding: 16px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top-left-radius: var(--border-radius-lg);
+    border-top-right-radius: var(--border-radius-lg);
+}
+
+.chat-header h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.chat-header h2::before {
+    content: '💬';
+    font-size: 1.4rem;
+}
+
+#chat-close {
+    background: none;
+    border: none;
+    color: var(--nhs-white);
+    font-size: 1.8rem;
+    cursor: pointer;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: var(--transition);
+}
+
+#chat-close:hover,
+#chat-close:focus {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+#chat-close:focus {
+    outline: 2px solid var(--nhs-yellow);
+    outline-offset: 2px;
+}
+
+.chat-messages {
+    padding: 20px;
+    overflow-y: auto;
+    flex-grow: 1;
+    background-color: var(--nhs-grey-1);
+    max-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.message {
+    max-width: 85%;
+    padding: 12px 16px;
+    border-radius: var(--border-radius-lg);
+    line-height: 1.5;
+    position: relative;
+    animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.bot-message {
+    align-self: flex-start;
+    background-color: var(--nhs-white);
+    border: 1px solid var(--nhs-grey-3);
+    border-bottom-left-radius: 4px;
+}
+
+.bot-message::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 20px;
+    width: 16px;
+    height: 16px;
+    background-color: var(--nhs-white);
+    border-left: 1px solid var(--nhs-grey-3);
+    border-bottom: 1px solid var(--nhs-grey-3);
+    transform: rotate(45deg);
+    z-index: -1;
+}
+
+.user-message {
+    align-self: flex-end;
+    background-color: var(--nhs-blue);
+    color: var(--nhs-white);
+    border-bottom-right-radius: 4px;
+}
+
+.user-message::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    right: 20px;
+    width: 16px;
+    height: 16px;
+    background-color: var(--nhs-blue);
+    transform: rotate(45deg);
+    z-index: -1;
+}
+
+.message-time {
+    font-size: 0.75rem;
+    color: var(--nhs-grey-4);
+    margin-top: 4px;
+    text-align: right;
+}
+
+.chat-input-container {
+    padding: 16px;
+    border-top: 1px solid var(--nhs-grey-3);
+    background-color: var(--nhs-white);
+    display: flex;
+    gap: 10px;
+}
+
+#user-input {
+    flex: 1;
+    padding: 12px 16px;
+    border: 2px solid var(--nhs-grey-3);
+    border-radius: var(--border-radius);
+    font-family: inherit;
+    font-size: 1rem;
+    transition: var(--transition);
+}
+
+#user-input:focus {
+    border-color: var(--nhs-blue);
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0, 94, 184, 0.2);
+}
+
+#send-btn {
+    background-color: var(--nhs-blue);
+    color: var(--nhs-white);
+    border: none;
+    border-radius: var(--border-radius);
+    padding: 0 20px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+    white-space: nowrap;
+}
+
+#send-btn:hover,
+#send-btn:focus {
+    background-color: var(--nhs-dark-blue);
+}
+
+#send-btn:focus {
+    outline: 3px solid var(--nhs-yellow);
+    outline-offset: 2px;
+}
+
+#send-btn:disabled {
+    background-color: var(--nhs-grey-3);
+    cursor: not-allowed;
+}
+
+.chat-disclaimer {
+    font-size: 0.8rem;
+    color: var(--nhs-grey-4);
+    padding: 12px 20px;
+    background-color: var(--nhs-grey-1);
+    border-top: 1px solid var(--nhs-grey-2);
+    border-bottom: 1px solid var(--nhs-grey-2);
+}
+
+/* Chat Footer with Ticket Button */
+.chat-footer {
+    padding: 12px 20px;
+    background-color: var(--nhs-white);
+    border-top: 1px solid var(--nhs-grey-3);
+}
+
+.ticket-btn {
+    width: 100%;
+    background-color: var(--nhs-white);
+    color: var(--nhs-blue);
+    border: 2px solid var(--nhs-blue);
+    border-radius: var(--border-radius);
+    padding: 10px 16px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: var(--transition);
+    font-size: 0.95rem;
+}
+
+.ticket-btn:hover,
+.ticket-btn:focus {
+    background-color: var(--nhs-blue);
+    color: var(--nhs-white);
+}
+
+.ticket-btn:focus {
+    outline: 3px solid var(--nhs-yellow);
+    outline-offset: 2px;
+}
+
+.ticket-icon {
+    font-size: 1.2rem;
+}
+
+/* Accessibility Enhancements */
+.visually-hidden {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+}
+
+/* Focus styles for keyboard navigation */
+a:focus,
+button:focus,
+input:focus {
+    outline: 3px solid var(--nhs-yellow) !important;
+    outline-offset: 2px !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .nhsuk-container {
+        padding: 0 16px;
+    }
+    
+    main {
+        padding: 24px 0;
+    }
+    
+    .page-title {
+        font-size: 1.875rem;
+    }
+    
+    .careers-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    #chat-window {
+        width: calc(100vw - 48px);
+        bottom: 80px;
+    }
+    
+    .chat-messages {
+        max-height: 65vh;
+    }
+}
+
+@media (max-width: 480px) {
+    .nhsuk-header__title {
+        font-size: 1.25rem;
+    }
+    
+    #chat-toggle {
+        padding: 12px 16px;
+        font-size: 0.9rem;
+    }
+    
+    .chat-header h2 {
+        font-size: 1.1rem;
+    }
+    
+    .footer-content {
+        flex-direction: column;
+        gap: 24px;
+    }
+    
+    .ticket-btn {
+        padding: 12px;
+        font-size: 0.9rem;
+    }
+}
+
+/* Animation for new messages */
+@keyframes slideIn {
+    from { opacity: 0; transform: translateX(20px); }
+    to { opacity: 1; transform: translateX(0); }
+}
+
+.new-message {
+    animation: slideIn 0.4s ease-out forwards;
+}
