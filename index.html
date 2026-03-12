@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NHS Scotland Careers - Chat Assistant</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- NHS Scotland Header -->
+    <header class="nhsuk-header">
+        <div class="nhsuk-container">
+            <div class="nhsuk-header__logo">
+                <svg class="nhsuk-header__logo-img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" aria-label="NHS Scotland logo">
+                    <path d="M0 0h400v100H0z" fill="#005eb8"/>
+                    <path d="M30 30h80v40H30z" fill="#fff"/>
+                    <circle cx="70" cy="50" r="15" fill="#005eb8"/>
+                    <text x="150" y="65" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#fff">NHS Scotland</text>
+                </svg>
+                <span class="nhsuk-header__title">Careers</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="nhsuk-container">
+        <h1 class="page-title">Build Your Career with NHS Scotland</h1>
+        <p class="page-intro">Join Scotland's largest employer and make a real difference to people's lives. With over 300 different career paths across healthcare, we offer rewarding opportunities, excellent training, and the chance to develop your skills in a supportive environment.</p>
+        
+        <section class="content-section">
+            <h2 class="section-title">Why Work With Us?</h2>
+            <p class="content-text">NHS Scotland is committed to providing high-quality healthcare services to communities across Scotland. As an employer, we value our staff and offer:</p>
+            <ul class="content-text" style="padding-left: 24px; margin: 16px 0;">
+                <li>Competitive salaries and excellent pension schemes</li>
+                <li>Comprehensive training and professional development opportunities</li>
+                <li>Flexible working arrangements where possible</li>
+                <li>Generous annual leave entitlement that increases with service</li>
+                <li>Health and wellbeing support services for staff</li>
+                <li>Commitment to equality, diversity and inclusion</li>
+            </ul>
+        </section>
+        
+        <section class="content-section">
+            <h2 class="section-title">Popular Career Paths</h2>
+            <div class="careers-grid">
+                <div class="career-card">
+                    <h3>Nursing</h3>
+                    <p>Provide compassionate care to patients across various specialisms including adult, children's, mental health and learning disability nursing.</p>
+                </div>
+                <div class="career-card">
+                    <h3>Allied Health Professionals</h3>
+                    <p>Work in professions such as physiotherapy, occupational therapy, radiography, and dietetics to support patient recovery and wellbeing.</p>
+                </div>
+                <div class="career-card">
+                    <h3>Healthcare Science</h3>
+                    <p>Apply scientific principles to prevent, diagnose and treat illnesses through roles in life sciences, physical sciences, and bioinformatics.</p>
+                </div>
+                <div class="career-card">
+                    <h3>Administrative & Support</h3>
+                    <p>Keep our services running smoothly in roles including medical secretaries, porters, estates staff, and catering teams.</p>
+                </div>
+            </div>
+        </section>
+        
+        <section class="content-section">
+            <h2 class="section-title">How To Apply</h2>
+            <p class="content-text">Most NHS Scotland vacancies are advertised on the <a href="#" style="color: var(--nhs-blue); text-decoration: underline; font-weight: 600;">NHS Scotland Jobs website</a>. The application process typically includes:</p>
+            <ol class="content-text" style="padding-left: 24px; margin: 16px 0;">
+                <li>Creating an account on the NHS Scotland Jobs portal</li>
+                <li>Searching for vacancies by location, profession, or keyword</li>
+                <li>Completing the online application form</li>
+                <li>Attending an interview and possible assessment</li>
+                <li>Completing pre-employment checks including references and PVG scheme membership</li>
+            </ol>
+            <p class="content-text" style="margin-top: 16px;">For specific guidance on applications, training requirements, or career progression, use our chat assistant below.</p>
+        </section>
+    </main>
+
+    <!-- NHS Scotland Footer -->
+    <footer class="nhsuk-footer">
+        <div class="nhsuk-container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>NHS Scotland Careers</h3>
+                    <p style="margin: 16px 0 24px; line-height: 1.6; color: rgba(255,255,255,0.8);">
+                        Helping you find your perfect career in Scotland's healthcare system.
+                    </p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">Current Vacancies</a></li>
+                        <li><a href="#">Training & Development</a></li>
+                        <li><a href="#">Work Experience</a></li>
+                        <li><a href="#">Apprenticeships</a></li>
+                        <li><a href="#">Graduate Schemes</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Support</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">Application Guidance</a></li>
+                        <li><a href="#">Reasonable Adjustments</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Accessibility Statement</a></li>
+                        <li><a href="#">Privacy Notice</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; <span id="current-year"></span> NHS Scotland. All rights reserved.</p>
+                <p style="margin-top: 8px;">NHS Scotland is the operating name of the Scottish Health Department</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Chat Widget -->
+    <div id="chat-widget" role="region" aria-label="Chat assistant">
+        <button 
+            id="chat-toggle"
+            aria-label="Open chat assistant"
+            aria-expanded="false"
+        >
+            💬 Chat with us
+        </button>
+
+        <div id="chat-window" role="dialog" aria-modal="true" aria-labelledby="chat-heading" tabindex="-1">
+            <div class="chat-header">
+                <h2 id="chat-heading">NHS Scotland Careers Assistant</h2>
+                <button id="chat-close" aria-label="Close chat">&times;</button>
+            </div>
+            <div id="chat-messages" class="chat-messages" aria-live="polite">
+                <div class="message bot-message new-message">
+                    <p>Hello! I'm here to help with questions about careers at NHS Scotland. I can provide information about:</p>
+                    <ul style="padding-left: 20px; margin-top: 8px;">
+                        <li>Career paths and opportunities</li>
+                        <li>Entry requirements and qualifications</li>
+                        <li>Application process and timelines</li>
+                        <li>Training and development options</li>
+                    </ul>
+                    <p style="margin-top: 8px;">How can I assist you today?</p>
+                    <div class="message-time">Just now</div>
+                </div>
+            </div>
+            <div class="chat-input-container">
+                <label for="user-input" class="visually-hidden">Type your question here</label>
+                <input 
+                    type="text" 
+                    id="user-input" 
+                    placeholder="Type your question..." 
+                    aria-describedby="input-instructions"
+                >
+                <div id="input-instructions" class="visually-hidden">Press Enter to send your message</div>
+                <button id="send-btn">Send</button>
+            </div>
+            <div class="chat-disclaimer">
+                <p>This is an AI assistant. For complex queries, you may be transferred to a human advisor. We do not store personal information in this chat.</p>
+            </div>
+            <div class="chat-footer">
+                <button id="submit-ticket-btn" class="ticket-btn">
+                    <span class="ticket-icon" aria-hidden="true">🎫</span>
+                    Submit a Support Ticket
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
