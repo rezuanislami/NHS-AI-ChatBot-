@@ -1,0 +1,43 @@
+{
+  "id": "prosthetic-support-worker",
+  "title": "Prosthetic Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/prosthetic-support-worker/",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship.",
+  "description": "Prosthetic support workers work with prosthetists to design, make, and fit artificial limbs for patients. Prostheses substitute or supplement missing limbs and are made from special plastics, metals, leather, and carbon fibre.",
+  "role_overview": "As a prosthetic support worker, you'll use the prosthetist's designs and specifications to make artificial limbs to restore patients' mobility. You'll often be involved in the design stage, providing technical support and expertise, and will be responsible for maintaining and repairing prostheses.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. There are no specific entry requirements.",
+    "useful_subjects": [
+      "Science",
+      "Engineering Science",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Modern Apprenticeship in Engineering.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "additional_qualifications": [
+      "SVQ Healthcare Support (Clinical) at SCQF level 7",
+      "Professional Development Award (PDA) in Rehabilitation Technologies"
+    ]
+  },
+  "career_progression": {
+    "overview": "Experience as a healthcare support worker can support entry to university to become a registered prosthetist.",
+    "progression_roles": [
+      "Registered prosthetist (via undergraduate degree)"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "prosthetic-support-worker-001", "section": "how_to_become", "text": "To become a prosthetic support worker, apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship in Engineering." },
+    { "chunk_id": "prosthetic-support-worker-002", "section": "description", "text": "Prosthetic support workers work with prosthetists to design, make, and fit artificial limbs for patients, using special plastics, metals, leather, and carbon fibre." },
+    { "chunk_id": "prosthetic-support-worker-003", "section": "role_overview", "text": "Prosthetic support workers use the prosthetist's designs to make artificial limbs, are involved in the design stage, provide technical support and expertise, and maintain and repair prostheses." },
+    { "chunk_id": "prosthetic-support-worker-004", "section": "entry_requirements", "text": "No specific entry requirements. Useful school subjects include Science, Engineering Science, English, and Maths." },
+    { "chunk_id": "prosthetic-support-worker-005", "section": "learning_and_development", "text": "Additional qualifications include SVQ Healthcare Support (Clinical) at SCQF level 7 and Professional Development Award (PDA) in Rehabilitation Technologies." },
+    { "chunk_id": "prosthetic-support-worker-006", "section": "career_progression", "text": "Experience as a prosthetic support worker can support entry to university to become a registered prosthetist." }
+  ]
+}

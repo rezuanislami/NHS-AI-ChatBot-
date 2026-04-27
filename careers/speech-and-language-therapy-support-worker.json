@@ -1,0 +1,49 @@
+{
+  "id": "speech-and-language-therapy-support-worker",
+  "title": "Speech and Language Therapy Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/speech-and-language-therapy-support-worker/",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship.",
+  "description": "Speech and language therapy support workers assist speech and language therapists in caring for people with speech and communication difficulties and those with eating, drinking, and swallowing problems.",
+  "role_overview": "As a speech and language therapy support worker, you'll work with speech and language therapists to help people of all ages overcome speech, language, and swallowing problems. You'll plan therapy exercises as part of the client's treatment plan, caring for children, people with physical or learning disabilities, people with mental health problems, people recovering from illness, and the elderly.",
+  "patient_groups": [
+    "Children",
+    "People with physical or learning disabilities",
+    "People with mental health problems",
+    "People recovering from illness or a medical condition",
+    "The elderly"
+  ],
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. There are no specific entry requirements.",
+    "useful_subjects": [
+      "Science",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Healthcare Support Modern Apprenticeship with clinical pathway units for speech and language therapy. Mandatory units include communication, health and safety, and learning development.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "overview": "You'll work closely with speech and language therapists and complete supervised training to develop your skills.",
+    "additional_qualifications": [
+      "SVQ Healthcare Support (Clinical) at SCQF level 7"
+    ]
+  },
+  "career_progression": {
+    "overview": "Experience as a healthcare support worker can support entry to university to become a registered speech and language therapist.",
+    "progression_roles": [
+      "Registered speech and language therapist (via undergraduate degree)"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "speech-and-language-therapy-support-worker-001", "section": "how_to_become", "text": "To become a speech and language therapy support worker, apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship in Healthcare Support." },
+    { "chunk_id": "speech-and-language-therapy-support-worker-002", "section": "description", "text": "Speech and language therapy support workers assist speech and language therapists in caring for people with speech and communication difficulties and those with eating, drinking, and swallowing problems." },
+    { "chunk_id": "speech-and-language-therapy-support-worker-003", "section": "role_overview", "text": "Speech and language therapy support workers help plan therapy exercises as part of treatment plans, working with children, people with physical or learning disabilities, people with mental health problems, people recovering from illness, and the elderly." },
+    { "chunk_id": "speech-and-language-therapy-support-worker-004", "section": "entry_requirements", "text": "No specific entry requirements. Useful school subjects include Science, English, and Maths." },
+    { "chunk_id": "speech-and-language-therapy-support-worker-005", "section": "learning_and_development", "text": "You'll complete supervised training working closely with speech and language therapists. Additional qualifications include SVQ Healthcare Support (Clinical) at SCQF level 7." },
+    { "chunk_id": "speech-and-language-therapy-support-worker-006", "section": "career_progression", "text": "Experience as a speech and language therapy support worker can support entry to university to become a registered speech and language therapist." }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "it-support-engineer",
+  "title": "IT Support Engineer",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/it-support-engineer/",
+  "how_to_become": "To become an IT support engineer, you'll need an HND in Computing: Technical Support or an equivalent qualification at SCQF level 8.",
+  "salary": {
+    "entry": "£30,353",
+    "entry_note": "IT support engineers in the NHS start at £30,353 before tax.",
+    "experienced": "£41,424",
+    "experienced_note": "IT support engineers in the NHS can earn up to £41,424 before tax."
+  },
+  "description": "In the NHS, IT support engineers help to maintain digital devices, services, and systems across the health service. They provide front-line support and advice to make sure technical problems with hardware, software, and computer networks are resolved at first contact.",
+  "role_overview": "IT service desk technicians provide support to people who need help with their computer hardware or software. They are vital to the running of the health service.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed, along with an HND in Computing: Technical Support or equivalent at SCQF level 8.",
+    "useful_subjects": [
+      "Computing Science",
+      "Engineering Science",
+      "Administration and IT",
+      "Physics",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "modern_apprenticeships": [
+      "IT and Telecommunications",
+      "Digital Applications"
+    ],
+    "college_courses": [
+      "HND Computing: Technical Support at SCQF level 8",
+      "HND Technologies in Business at SCQF level 8"
+    ]
+  },
+  "learning_and_development": {
+    "overview": "You will be encouraged to develop your career in the NHS. As well as learning specific to your role, you'll need to complete mandatory training.",
+    "mandatory_training": [
+      "Health and safety",
+      "Occupational health",
+      "Fire safety",
+      "Counter-fraud",
+      "Moving and handling",
+      "Safe information handling"
+    ],
+    "note": "Your NHS employer will confirm their mandatory training requirements during your induction."
+  },
+  "career_progression": {
+    "overview": "Gaining new qualifications will help when applying for more senior roles.",
+    "qualifications": [
+      "ITIL Foundation Certificate",
+      "ITIL Practitioner Certificate"
+    ],
+    "progression_roles": [
+      "IT systems support specialist",
+      "IT business analyst"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "it-support-engineer-001", "section": "how_to_become", "text": "To become an IT support engineer in the NHS, you'll need an HND in Computing: Technical Support or an equivalent qualification at SCQF level 8." },
+    { "chunk_id": "it-support-engineer-002", "section": "salary", "text": "IT support engineers in the NHS start at £30,353 before tax and can earn up to £41,424 before tax at experienced level." },
+    { "chunk_id": "it-support-engineer-003", "section": "description", "text": "NHS IT support engineers maintain digital devices, services, and systems across the health service. They provide front-line support to resolve technical problems with hardware, software, and computer networks at first contact." },
+    { "chunk_id": "it-support-engineer-004", "section": "role_overview", "text": "IT service desk technicians support staff with computer hardware and software issues and are vital to the running of the health service." },
+    { "chunk_id": "it-support-engineer-005", "section": "entry_requirements", "text": "Useful school subjects include Computing Science, Engineering Science, Administration and IT, Physics, English, and Maths. An HND in Computing: Technical Support or equivalent at SCQF level 8 is required." },
+    { "chunk_id": "it-support-engineer-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "it-support-engineer-007", "section": "education_and_training", "text": "Modern Apprenticeships in IT and Telecommunications or Digital Applications are available. College qualifications include HND Computing: Technical Support at SCQF level 8 and HND Technologies in Business at SCQF level 8." },
+    { "chunk_id": "it-support-engineer-008", "section": "learning_and_development", "text": "Mandatory training for NHS IT support engineers includes health and safety, occupational health, fire safety, counter-fraud, moving and handling, and safe information handling. Requirements are confirmed during induction." },
+    { "chunk_id": "it-support-engineer-009", "section": "career_progression", "text": "Further qualifications such as ITIL Foundation Certificate and ITIL Practitioner Certificate support progression into roles like IT systems support specialist or IT business analyst." }
+  ]
+}

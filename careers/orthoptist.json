@@ -1,0 +1,81 @@
+
+{
+  "id": "orthoptist",
+  "title": "Orthoptist",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/orthoptist/",
+  "how_to_become": "To become an orthoptist in the NHS, you must complete a pre-registration undergraduate degree programme approved by the Health and Care Professions Council (HCPC).",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Orthoptists in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist orthoptists can earn up to £50,702. Advanced orthoptists can earn up to £59,159 before tax."
+  },
+  "description": "Orthoptists care for people of all ages. They assess, diagnose, and treat eye disorders including reduced vision, double vision, and childhood vision problems.",
+  "role_overview": "As an orthoptist, you'll investigate, diagnose, and treat vision problems including amblyopia (lazy eye), strabismus (squint), and abnormalities of eye movement causing double vision. You may prescribe exercises, eye patches or drops, or prisms for glasses, and may recommend eye surgery. Eye problems such as double vision may indicate other health conditions, so orthoptists play an important part in identifying and referring serious conditions.",
+  "treatments_and_interventions": [
+    "Exercises to help eye control",
+    "Eye patches or drops to improve vision in children",
+    "Prisms for glasses to address double vision",
+    "Recommendation of eye surgery as part of a care plan"
+  ],
+  "entry_requirements": {
+    "overview": "A pre-registration undergraduate degree in Orthoptics approved by the HCPC is required.",
+    "useful_subjects": [
+      "Human Biology",
+      "Physics",
+      "Maths",
+      "English"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "college_route": "At college, you could do an HNC in Healthcare Practice or Applied Science before applying to university.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_universities": [
+      "Glasgow Caledonian University"
+    ],
+    "undergraduate_duration": "4 years full-time.",
+    "note": "After graduation, you must register with the HCPC before applying for NHS vacancies."
+  },
+  "learning_and_development": {
+    "overview": "Orthoptists must keep skills and knowledge up to date through continuing professional development.",
+    "cpd_provider": "British and Irish Orthoptic Society (BIOS)",
+    "cpd_activities": [
+      "Courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "overview": "With training and experience, orthoptists can progress to specialist, advanced, or consultant roles, or move into management, teaching, or research.",
+    "progression_roles": [
+      "Specialist orthoptist",
+      "Advanced orthoptist",
+      "Consultant orthoptist",
+      "Head of orthoptics service",
+      "Teaching and research roles"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "British and Irish Orthoptic Society (BIOS)"
+  ],
+  "related_careers": [
+    "Speech and language therapist",
+    "Physiotherapist",
+    "Occupational therapist"
+  ],
+  "chunks": [
+    { "chunk_id": "orthoptist-001", "section": "how_to_become", "text": "To become an orthoptist in the NHS, you must complete a pre-registration undergraduate degree programme approved by the Health and Care Professions Council (HCPC)." },
+    { "chunk_id": "orthoptist-002", "section": "salary", "text": "Orthoptists in the NHS start at £33,247 before tax. Specialist orthoptists can earn up to £50,702. Advanced orthoptists can earn up to £59,159 before tax." },
+    { "chunk_id": "orthoptist-003", "section": "description", "text": "Orthoptists assess, diagnose, and treat eye disorders in people of all ages, including reduced vision, double vision, and childhood vision problems." },
+    { "chunk_id": "orthoptist-004", "section": "role_overview", "text": "Orthoptists investigate and treat vision problems including lazy eye, squint, and double vision. They may prescribe exercises, eye patches or drops, or prisms for glasses, and recommend eye surgery. They also identify eye problems that may indicate serious conditions elsewhere in the body and refer patients to other healthcare professionals." },
+    { "chunk_id": "orthoptist-005", "section": "entry_requirements", "text": "Useful school subjects include Human Biology, Physics, Maths, and English. A pre-registration undergraduate degree in Orthoptics approved by the HCPC is required." },
+    { "chunk_id": "orthoptist-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "orthoptist-007", "section": "education_and_training", "text": "In Scotland, Glasgow Caledonian University offers a 4-year pre-registration undergraduate programme in Orthoptics approved by the HCPC. College options include HNC in Healthcare Practice or Applied Science. SWAP supports adult learners into higher education." },
+    { "chunk_id": "orthoptist-008", "section": "learning_and_development", "text": "Orthoptists maintain skills through continuing professional development including courses, conferences, and seminars provided by the British and Irish Orthoptic Society (BIOS)." },
+    { "chunk_id": "orthoptist-009", "section": "career_progression", "text": "With training and experience, orthoptists can progress to specialist, advanced, or consultant orthoptist roles, or become head of an orthoptics service with team and budget responsibility. Teaching and research opportunities are also available." },
+    { "chunk_id": "orthoptist-010", "section": "professional_bodies", "text": "Orthoptists must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the British and Irish Orthoptic Society (BIOS)." }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "emergency-call-handler",
+  "title": "Emergency Call Handler",
+  "sector": "Ambulance Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/ambulance-services/emergency-call-handler/",
+  "how_to_become": "To become an emergency call handler, you'll need to complete a training programme delivered by the Scottish Ambulance Service. Once qualified, you'll answer 999 calls on the front line of the NHS.",
+  "salary": {
+    "entry": "£28,011",
+    "entry_note": "Emergency call handlers in the NHS start at £28,011 before tax.",
+    "experienced": "£30,230",
+    "experienced_note": "Emergency call handlers can earn up to £30,230 before tax."
+  },
+  "description": "Emergency call handlers are the first chain of survival in dealing with medical emergencies. They must remain calm under pressure and help callers provide the information needed for the best response to an emergency.",
+  "role_overview": "As an emergency call handler, you'll answer 999 calls from people in different medical situations, find out as much as possible from the caller, electronically record the details including exact location and what happened, and pass the call to an emergency dispatcher. You are the first link in patient care and must provide reassurance that help is on the way.",
+  "entry_requirements": {
+    "overview": "A good standard of education is required. No specific qualifications are listed but the following school subjects are useful.",
+    "useful_subjects": [
+      "English",
+      "Human Biology",
+      "Maths",
+      "Geography"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "An in-house Scottish Ambulance Service training programme specifically designed for this role.",
+    "training_includes": [
+      "Using call centre equipment and software",
+      "Customer care",
+      "Communication skills",
+      "First aid",
+      "Prioritising calls",
+      "Giving telephone advice using the Medical Priority Dispatch System"
+    ],
+    "training_structure": "Training begins with an induction week, followed by 3 weeks of classroom training mixed with buddying over 10 weeks. After this, you can begin to work unaided."
+  },
+  "learning_and_development": {
+    "overview": "You must keep skills and knowledge up to date throughout your career. The Scottish Ambulance Service will provide role-specific training.",
+    "cpd_requirement": "24 hours of continuous educational development every 2 years is required for recertification. A licence is required to take 999 calls."
+  },
+  "career_progression": {
+    "overview": "You can develop your career within the Scottish Ambulance Service or move into accident and emergency roles.",
+    "progression_roles": [
+      "Emergency call dispatcher",
+      "Control room supervisor",
+      "Ambulance technician"
+    ]
+  },
+  "professional_bodies": [
+    "National Academy of Emergency Dispatch"
+  ],
+  "related_careers": [
+    "Paramedic",
+    "Ambulance technician",
+    "Ambulance care assistant"
+  ],
+  "chunks": [
+    { "chunk_id": "emergency-call-handler-001", "section": "how_to_become", "text": "To become an emergency call handler, complete a training programme delivered by the Scottish Ambulance Service. Once qualified, you'll answer 999 calls on the front line of the NHS." },
+    { "chunk_id": "emergency-call-handler-002", "section": "salary", "text": "Emergency call handlers in the NHS start at £28,011 before tax and can earn up to £30,230 before tax at experienced level." },
+    { "chunk_id": "emergency-call-handler-003", "section": "description", "text": "Emergency call handlers are the first chain of survival in medical emergencies, remaining calm under pressure and helping callers provide the information needed for the best emergency response." },
+    { "chunk_id": "emergency-call-handler-004", "section": "role_overview", "text": "Emergency call handlers answer 999 calls, gather information from callers, electronically record details including exact location and what happened, and pass calls to an emergency dispatcher. They are the first link in patient care and provide reassurance that help is on the way." },
+    { "chunk_id": "emergency-call-handler-005", "section": "entry_requirements", "text": "A good standard of education is required. Useful school subjects include English, Human Biology, Maths, and Geography." },
+    { "chunk_id": "emergency-call-handler-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland." },
+    { "chunk_id": "emergency-call-handler-007", "section": "education_and_training", "text": "Training is delivered through an in-house Scottish Ambulance Service programme covering call centre equipment and software, customer care, communication skills, first aid, prioritising calls, and giving telephone advice using the Medical Priority Dispatch System. Training includes an induction week, 3 weeks of classroom training, and buddying over 10 weeks." },
+    { "chunk_id": "emergency-call-handler-008", "section": "learning_and_development", "text": "Emergency call handlers must complete 24 hours of continuous educational development every 2 years for recertification. A licence is required to take 999 calls." },
+    { "chunk_id": "emergency-call-handler-009", "section": "career_progression", "text": "Emergency call handlers can progress to emergency call dispatcher and then control room supervisor. They can also apply for accident and emergency roles such as ambulance technician." },
+    { "chunk_id": "emergency-call-handler-010", "section": "professional_bodies", "text": "Emergency call handlers can join the National Academy of Emergency Dispatch." }
+  ]
+}

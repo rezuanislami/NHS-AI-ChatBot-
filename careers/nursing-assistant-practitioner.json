@@ -1,0 +1,50 @@
+{
+  "id": "nursing-assistant-practitioner",
+  "title": "Nursing Assistant Practitioner",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/nursing-assistant-practitioner/",
+  "how_to_become": "You'll need a healthcare-related qualification at SCQF level 8 or equivalent, or relevant previous experience demonstrated through recognition of prior learning.",
+  "description": "Nursing assistant practitioners carry out routine care and treatment with patients in hospital and community settings. Supervised by registered nurses, they provide person-centred, safe, and effective care responsive to individual needs, preferences, and values, including clinical observations, reporting on a patient's condition, and escalating concerns.",
+  "role_overview": "As a nursing assistant practitioner, you'll have direct contact with patients, families, and carers, working in a multidisciplinary team. You'll carry out delegated clinical tasks, evaluate patient responses to treatment or rehabilitation, report progress to a registered nurse, supervise healthcare support workers, and assist with nursing students' education and training.",
+  "entry_requirements": {
+    "overview": "Healthcare-related qualifications at SCQF level 8 or equivalent, or relevant experience demonstrated through recognition of prior learning.",
+    "prior_experience_examples": [
+      "Knowledge and understanding of procedures and delivering treatment plans",
+      "Working in an integrated multidisciplinary team",
+      "Managing a delegated caseload",
+      "Supervision of healthcare support workers and students",
+      "Reflective practice"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland. Some nursing assistant practitioners start as healthcare support workers.",
+  "learning_and_development": {
+    "overview": "Nursing assistant practitioners must keep knowledge and skills up to date through reflective practice and CPD.",
+    "mandatory_training": [
+      "Health and safety",
+      "Infection control",
+      "Moving and handling"
+    ],
+    "role_specific_training": [
+      "Higher clinical skills",
+      "Medicines administration"
+    ]
+  },
+  "career_progression": {
+    "overview": "Nursing assistant practitioners can take on more responsibilities, move to associate practice educator roles, or become a registered nurse.",
+    "progression_routes": [
+      "Associate practice educator",
+      "Registered nurse (via pre-registration undergraduate nursing degree — 3 years full-time, with possible entry to year 2 based on accreditation of qualifications and experience)"
+    ]
+  },
+  "professional_bodies": [
+    "Royal College of Nursing (RCN)"
+  ],
+  "chunks": [
+    { "chunk_id": "nursing-assistant-practitioner-001", "section": "how_to_become", "text": "To become a nursing assistant practitioner, you'll need a healthcare-related qualification at SCQF level 8 or equivalent, or relevant experience demonstrated through recognition of prior learning." },
+    { "chunk_id": "nursing-assistant-practitioner-002", "section": "description", "text": "Nursing assistant practitioners carry out routine care and treatment in hospital and community settings, supervised by registered nurses, providing person-centred, safe, and effective care including clinical observations and escalating concerns." },
+    { "chunk_id": "nursing-assistant-practitioner-003", "section": "role_overview", "text": "Nursing assistant practitioners carry out delegated clinical tasks, evaluate patient responses to treatment, report to registered nurses, supervise healthcare support workers, and assist with nursing students' education and training." },
+    { "chunk_id": "nursing-assistant-practitioner-004", "section": "entry_requirements", "text": "A healthcare-related qualification at SCQF level 8 or equivalent is required, or relevant experience including working in multidisciplinary teams, managing a delegated caseload, supervising support workers, and reflective practice." },
+    { "chunk_id": "nursing-assistant-practitioner-005", "section": "learning_and_development", "text": "Mandatory training includes health and safety, infection control, and moving and handling. Role-specific training may include higher clinical skills and medicines administration." },
+    { "chunk_id": "nursing-assistant-practitioner-006", "section": "career_progression", "text": "Nursing assistant practitioners can progress to associate practice educator roles or become a registered nurse via a pre-registration undergraduate nursing degree. Accreditation of qualifications and experience may provide entry to year 2." }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "anatomical-pathology-technologist",
+  "title": "Anatomical Pathology Technologist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Laboratory Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/laboratory-sciences/anatomical-pathology-technologist/",
+  "published": "28/03/2023",
+  "last_updated": "09/04/2026",
+  "how_to_become": "To become an anatomical pathology technologist in the NHS, apply for training opportunities on the NHS recruitment website.",
+  "salary": {
+    "entry": "£31,537",
+    "entry_note": "Qualified anatomical pathology technologists start at £31,537 before tax. Trainees are paid £24,012, increasing to £31,537 on completion of the training programme.",
+    "experienced": "£34,303",
+    "experienced_note": "Qualified anatomical pathology technologists can earn up to £34,303 before tax."
+  },
+  "description": "Anatomical pathology technologists work in hospital mortuaries assisting pathologists with post-mortems. The purpose of a post-mortem is to examine a body to determine the cause of death.",
+  "role_overview": "As an anatomical pathology technologist, you'll make sure mortuary and post-mortem services run smoothly, assisting with post-mortems, arranging viewings of the deceased, keeping records, and overseeing legal documentation.",
+  "entry_requirements": {
+    "overview": "No specific prior qualifications are required. A good standard of education is expected.",
+    "useful_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "Level 3 Diploma in Healthcare Science (Anatomical Pathology Technology), equivalent to SCQF level 6. A distance-learning course accredited by the Royal Society for Public Health.",
+    "training_covers": [
+      "Assisting with a standard post-mortem",
+      "Arranging viewings of the deceased",
+      "Keeping records",
+      "Overseeing legal documentation"
+    ],
+    "registration": "On completion, you can join the Academy for Healthcare Science Practitioner Register."
+  },
+  "learning_and_development": {
+    "overview": "Anatomical pathology technologists must keep skills and knowledge up to date through Continuing Professional Development (CPD).",
+    "cpd_provider": "Association of Anatomical Pathology Technology (AAPT)",
+    "cpd_activities": [
+      "Training courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "overview": "Additional qualifications support progression into senior roles with added responsibilities.",
+    "qualifications": [
+      "Level 4 Diploma in Anatomical Pathology Technology — for associate anatomical pathology technologists, covering advanced practices, mortuary procedures, and managerial skills."
+    ],
+    "progression_roles": [
+      "Senior anatomical pathology technologist",
+      "Mentor for trainees",
+      "Mortuary staff manager"
+    ]
+  },
+  "professional_bodies": [
+    "Academy for Healthcare Science (AHCS)",
+    "Association of Anatomical Pathology Technology (AAPT)",
+    "Royal Society for Public Health"
+  ],
+  "chunks": [
+    { "chunk_id": "anatomical-pathology-technologist-001", "section": "how_to_become", "text": "To become an anatomical pathology technologist in the NHS, apply for training opportunities on the NHS recruitment website." },
+    { "chunk_id": "anatomical-pathology-technologist-002", "section": "salary", "text": "Anatomical pathology technologists start at £31,537 before tax. Trainees are paid £24,012, increasing to £31,537 on completion of training. Experienced technologists can earn up to £34,303 before tax." },
+    { "chunk_id": "anatomical-pathology-technologist-003", "section": "description", "text": "Anatomical pathology technologists work in hospital mortuaries assisting pathologists with post-mortems to determine the cause of death." },
+    { "chunk_id": "anatomical-pathology-technologist-004", "section": "role_overview", "text": "Anatomical pathology technologists ensure mortuary and post-mortem services run smoothly, assisting with post-mortems, arranging viewings of the deceased, keeping records, and overseeing legal documentation." },
+    { "chunk_id": "anatomical-pathology-technologist-005", "section": "entry_requirements", "text": "Useful school subjects include Biology, Chemistry, Physics, English, and Maths. No specific prior qualifications are required." },
+    { "chunk_id": "anatomical-pathology-technologist-006", "section": "education_and_training", "text": "Training involves the Level 3 Diploma in Healthcare Science (Anatomical Pathology Technology) at SCQF level 6, a distance-learning course accredited by the Royal Society for Public Health. On completion, technologists can join the Academy for Healthcare Science Practitioner Register." },
+    { "chunk_id": "anatomical-pathology-technologist-007", "section": "learning_and_development", "text": "CPD is required throughout the career, with training courses, conferences, and seminars provided by the Association of Anatomical Pathology Technology (AAPT)." },
+    { "chunk_id": "anatomical-pathology-technologist-008", "section": "career_progression", "text": "The Level 4 Diploma in Anatomical Pathology Technology covers advanced practices, mortuary procedures, and managerial skills, supporting progression to senior roles including mentoring trainees and managing mortuary staff." },
+    { "chunk_id": "anatomical-pathology-technologist-009", "section": "professional_bodies", "text": "Anatomical pathology technologists can join the Academy for Healthcare Science (AHCS), Association of Anatomical Pathology Technology (AAPT), and Royal Society for Public Health." }
+  ]
+}

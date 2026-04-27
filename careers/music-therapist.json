@@ -1,0 +1,84 @@
+{
+  "id": "music-therapist",
+  "title": "Music Therapist",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/music-therapist/",
+  "how_to_become": "You'll need a postgraduate-level degree in Music Therapy to become a music therapist. You'll then register with the Health and Care Professions Council (HCPC) to work in the NHS.",
+  "salary": {
+    "entry": "£43,321",
+    "entry_note": "Music therapists in the NHS start at £43,321 before tax.",
+    "experienced": "£61,466",
+    "experienced_note": "Specialist music therapists in the NHS can earn up to £61,466 before tax."
+  },
+  "description": "Music therapists work with people of all ages, helping them interact with others, express their feelings, relieve stress, and build confidence using music. Music therapy creates opportunities for people to make positive changes to their physical and emotional health and wellbeing.",
+  "role_overview": "As a music therapist, you'll use a variety of musical instruments and styles to help people with emotional or mental health problems, life-limiting conditions, and physical illness. You'll work with individuals or groups depending on their needs.",
+  "entry_requirements": {
+    "overview": "A postgraduate degree in Music Therapy approved by the HCPC is required. Entry requirements include a UK honours degree in Music or a related subject and a high level of musicianship in at least one instrument.",
+    "useful_subjects": [
+      "Music",
+      "Psychology",
+      "Care",
+      "Human Biology",
+      "Maths",
+      "English"
+    ],
+    "useful_undergraduate_degrees": [
+      "Psychology",
+      "Teaching",
+      "Nursing",
+      "Social Work",
+      "Performing Arts",
+      "Occupational Therapy"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "postgraduate": "In Scotland, Queen Margaret University in Edinburgh offers a postgraduate programme in Music Therapy, taking 2 years full-time.",
+    "note": "After graduation, you must register with the HCPC before applying for NHS vacancies."
+  },
+  "learning_and_development": {
+    "overview": "Music therapists must keep skills and knowledge up to date through Continuing Professional Development (CPD).",
+    "cpd_provider": "British Association for Music Therapy (BAMT)",
+    "cpd_activities": [
+      "Training courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "specialisms": [
+      "Children and young people",
+      "Adults",
+      "Offenders",
+      "Neuro-disability",
+      "Palliative care"
+    ],
+    "progression_roles": [
+      "Senior music therapist",
+      "Consultant music therapist",
+      "Head of arts therapy department"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "British Association for Music Therapy (BAMT)"
+  ],
+  "related_careers": [
+    "Art therapist",
+    "Dramatherapist",
+    "Occupational therapist"
+  ],
+  "chunks": [
+    { "chunk_id": "music-therapist-001", "section": "how_to_become", "text": "To become a music therapist in the NHS, you'll need a postgraduate degree in Music Therapy approved by the HCPC, followed by HCPC registration." },
+    { "chunk_id": "music-therapist-002", "section": "salary", "text": "Music therapists in the NHS start at £43,321 before tax. Specialist music therapists can earn up to £61,466 before tax." },
+    { "chunk_id": "music-therapist-003", "section": "description", "text": "Music therapists help people of all ages interact with others, express feelings, relieve stress, and build confidence using music, creating opportunities for positive changes to physical and emotional health and wellbeing." },
+    { "chunk_id": "music-therapist-004", "section": "role_overview", "text": "Music therapists use musical instruments and styles to help people with emotional or mental health problems, life-limiting conditions, and physical illness, working with individuals or groups." },
+    { "chunk_id": "music-therapist-005", "section": "entry_requirements", "text": "A postgraduate degree in Music Therapy approved by the HCPC is required, with entry requirements including a UK honours degree in Music or a related subject and a high level of musicianship in at least one instrument. Useful school subjects include Music, Psychology, Care, Human Biology, Maths, and English." },
+    { "chunk_id": "music-therapist-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "music-therapist-007", "section": "education_and_training", "text": "In Scotland, Queen Margaret University in Edinburgh offers a postgraduate programme in Music Therapy taking 2 years full-time. After graduation, HCPC registration is required before applying for NHS vacancies. SWAP supports adult learners into higher education." },
+    { "chunk_id": "music-therapist-008", "section": "learning_and_development", "text": "Music therapists maintain skills through Continuing Professional Development (CPD) including training courses, conferences, and seminars provided by the British Association for Music Therapy (BAMT)." },
+    { "chunk_id": "music-therapist-009", "section": "career_progression", "text": "Music therapists can specialise in working with children, adults, offenders, or people with neuro-disability or in palliative care. Progression roles include senior music therapist, consultant music therapist, and head of arts therapy department." },
+    { "chunk_id": "music-therapist-010", "section": "professional_bodies", "text": "Music therapists must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the British Association for Music Therapy (BAMT)." }
+  ]
+}

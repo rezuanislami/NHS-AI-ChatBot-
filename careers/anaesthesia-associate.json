@@ -1,0 +1,52 @@
+{
+  "id": "anaesthesia-associate",
+  "title": "Anaesthesia Associate",
+  "sector": "Medical Associate Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/medical-associate-professions/anaesthesia-associate/",
+  "how_to_become": "To become an anaesthesia associate, you must complete a postgraduate training programme. Apply for postgraduate trainee anaesthesia associate opportunities on the NHS recruitment website. Your Health Board will then sponsor you to achieve your postgraduate qualification.",
+  "description": "Anaesthesia associates are highly trained healthcare professionals qualified to deliver care before, during, and after surgery, including anaesthesia. They work under the supervision of a medically qualified anaesthetist. Formerly known as Physicians Assistants (Anaesthesia), they are now aligned with Medical Associate Professions (MAP).",
+  "role_overview": "As an anaesthesia associate, you'll provide anaesthetic services to patients before, during, and after surgical procedures, working in anaesthesia, theatre, and critical care environments within clearly defined boundaries under the broad supervision of a consultant anaesthetist.",
+  "entry_requirements": {
+    "route_1_registered_practitioners": {
+      "overview": "Registered healthcare practitioners with a first degree in a health-related subject, evidence of successful academic activity within the last 3 years, and at least 3 years of full-time post-qualification experience in a relevant area."
+    },
+    "route_2_graduates": {
+      "overview": "New entrants to healthcare, such as graduates or graduate equivalents, with a biomedical science or biological science degree and a demonstrable commitment to a career in healthcare."
+    },
+    "useful_subjects": [
+      "Human Biology",
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "universities": [
+      "University of Birmingham — Anaesthesia Associate Postgraduate Diploma",
+      "University College London — Anaesthesia and Perioperative Science MSc"
+    ],
+    "duration": "2 years, delivered through a combination of distance learning and clinical placements. The postgraduate diploma requires an additional 3 months of supervised practice.",
+    "note": "You must not apply to the universities directly. You must first secure a position as a trainee anaesthesia associate through your NHS Health Board."
+  },
+  "learning_and_development": {
+    "cpd_requirement": "The Association of Anaesthesia Associates recommends 50 hours of CPD per year."
+  },
+  "registration": "Since December 2024, all newly qualified anaesthesia associates must register with the General Medical Council (GMC) prior to employment.",
+  "professional_bodies": [
+    "General Medical Council (GMC) — mandatory registration since December 2024",
+    "Association of Anaesthesia Associates (AAA)",
+    "Royal College of Anaesthetists (RCoA)"
+  ],
+  "chunks": [
+    { "chunk_id": "anaesthesia-associate-001", "section": "how_to_become", "text": "To become an anaesthesia associate, apply for a postgraduate trainee position on the NHS recruitment website. Your Health Board will sponsor you to complete the postgraduate qualification. You must not apply directly to universities." },
+    { "chunk_id": "anaesthesia-associate-002", "section": "description", "text": "Anaesthesia associates are highly trained healthcare professionals qualified to deliver anaesthesia care before, during, and after surgery, working under the supervision of a medically qualified anaesthetist as part of the multidisciplinary anaesthesia team." },
+    { "chunk_id": "anaesthesia-associate-003", "section": "entry_requirements", "text": "Route 1: Registered healthcare practitioners need a health-related degree, evidence of recent academic activity, and 3 years of post-qualification experience. Route 2: Graduates need a biomedical or biological science degree and a demonstrable commitment to healthcare. Useful school subjects include Human Biology, Biology, Chemistry, Physics, English, and Maths." },
+    { "chunk_id": "anaesthesia-associate-004", "section": "education_and_training", "text": "Training is via a 2-year postgraduate programme at the University of Birmingham (Postgraduate Diploma) or University College London (MSc in Anaesthesia and Perioperative Science), delivered through distance learning and clinical placements. The diploma requires an additional 3 months of supervised practice." },
+    { "chunk_id": "anaesthesia-associate-005", "section": "learning_and_development", "text": "The Association of Anaesthesia Associates recommends 50 hours of CPD per year." },
+    { "chunk_id": "anaesthesia-associate-006", "section": "registration", "text": "Since December 2024, all newly qualified anaesthesia associates must register with the General Medical Council (GMC) prior to employment." },
+    { "chunk_id": "anaesthesia-associate-007", "section": "professional_bodies", "text": "Anaesthesia associates must register with the GMC. They can also join the Association of Anaesthesia Associates (AAA) and Royal College of Anaesthetists (RCoA)." }
+  ]
+}

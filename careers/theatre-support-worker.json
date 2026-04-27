@@ -1,0 +1,40 @@
+{
+  "id": "theatre-support-worker",
+  "title": "Theatre Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/theatre-support-worker/",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship.",
+  "description": "Theatre support workers prepare the theatre, set up surgical instruments and equipment, manage stock, and support the operating department team during the patient's procedure. They also check patients into theatre reception, receive handovers from ward staff, check patient details, and prepare patients for their operation.",
+  "role_overview": "As a theatre support worker, you'll prepare the theatre environment ensuring equipment is set out and ready for surgery. You'll also provide support and reassurance to patients in the anaesthetic room, delivering a high standard of patient care.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. There are no specific entry requirements.",
+    "useful_subjects": [
+      "Science",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Healthcare Support Modern Apprenticeship with clinical pathway units for theatre support workers. Mandatory units include communication, health and safety, and learning development.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "overview": "Development is reviewed annually with your manager through Personal Development Planning."
+  },
+  "career_progression": {
+    "overview": "Experience as a theatre support worker can support progression to more senior healthcare roles.",
+    "progression_roles": [
+      "Operating department practitioner",
+      "Nurse"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "theatre-support-worker-001", "section": "how_to_become", "text": "To become a theatre support worker, apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship in Healthcare Support." },
+    { "chunk_id": "theatre-support-worker-002", "section": "description", "text": "Theatre support workers prepare the theatre, set up surgical instruments and equipment, manage stock, and support the operating department team. They check patients in, receive ward handovers, check patient details, and prepare patients for their operation." },
+    { "chunk_id": "theatre-support-worker-003", "section": "role_overview", "text": "Theatre support workers prepare the theatre environment ensuring equipment is ready for surgery, and provide support and reassurance to patients in the anaesthetic room." },
+    { "chunk_id": "theatre-support-worker-004", "section": "entry_requirements", "text": "No specific entry requirements. Useful school subjects include Science, English, and Maths." },
+    { "chunk_id": "theatre-support-worker-005", "section": "learning_and_development", "text": "Development is reviewed annually with your manager through Personal Development Planning. Mandatory Induction Standards must be completed within 3 to 6 months of employment." },
+    { "chunk_id": "theatre-support-worker-006", "section": "career_progression", "text": "Experience as a theatre support worker can support progression to operating department practitioner or nurse roles." }
+  ]
+}

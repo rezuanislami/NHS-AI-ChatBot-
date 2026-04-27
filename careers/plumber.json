@@ -1,0 +1,36 @@
+{
+  "id": "plumber",
+  "title": "Plumber",
+  "sector": "Support Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/support-services/plumber/",
+  "published": "13/06/2023",
+  "last_updated": "10/10/2023",
+  "how_to_become": "Complete a Modern Apprenticeship or apply for vacancies on the NHS recruitment website.",
+  "description": "NHS plumbers carry out testing, fault finding, and repairs on plumbing fixtures and equipment including water pipes, thermostatic mixing valves, sprinkler systems, sinks, toilets, showers, water filtration plant, emergency water bypass systems, and drainage systems.",
+  "role_overview": "As a plumber, you'll carry out planned maintenance, testing, and repairs on plumbing fixtures and equipment to ensure they can be used safely.",
+  "entry_requirements": {
+    "useful_subjects": ["English", "Maths", "Science", "Physics", "Engineering Science"],
+    "qualifications": [
+      "Modern Apprenticeship in Plumbing and Heating",
+      "SVQ Plumbing and Heating at SCQF level 7",
+      "HNC Building Services Engineering at SCQF level 7"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "learning_and_development": {
+    "overview": "Work towards completing the Estates Workbook and complete specialised training in systems and equipment to comply with standards, laws, and national guidelines."
+  },
+  "career_progression": {
+    "qualifications": [
+      "SVQ Facilities Management at SCQF level 7",
+      "PDA Managing Self and Others at SCQF level 7"
+    ],
+    "progression_roles": ["Maintenance supervisor", "Estates officer"]
+  },
+  "chunks": [
+    { "chunk_id": "plumber-001", "section": "how_to_become", "text": "To become a plumber in the NHS, complete a Modern Apprenticeship in Plumbing and Heating or apply for vacancies on the NHS recruitment website." },
+    { "chunk_id": "plumber-002", "section": "description", "text": "NHS plumbers test, find faults, and repair plumbing fixtures including water pipes, thermostatic mixing valves, sprinkler systems, sinks, toilets, showers, water filtration plant, and drainage systems." },
+    { "chunk_id": "plumber-003", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Science, Physics, and Engineering Science. A Modern Apprenticeship in Plumbing and Heating is required. SVQ Plumbing and Heating or HNC Building Services Engineering at SCQF level 7 are also useful." },
+    { "chunk_id": "plumber-004", "section": "career_progression", "text": "With SVQ Facilities Management and PDA Managing Self and Others at SCQF level 7, plumbers can progress to maintenance supervisor or estates officer." }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "clinical-technologist-clinical-engineering",
+  "title": "Clinical Technologist — Clinical Engineering",
+  "sector": "Healthcare Science",
+  "sub_sector": "Engineering Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/engineering-sciences/clinical-technologist-clinical-engineering/",
+  "how_to_become": "You'll need to complete a work-based training programme to become a clinical technologist in clinical engineering in the NHS.",
+  "description": "Clinical technologists in clinical engineering calibrate, maintain, monitor, test, and repair specialist equipment and medical devices, working in one of four areas: medical engineering, radiation engineering, rehabilitation engineering, or renal technology.",
+  "role_overview": "As a clinical technologist in clinical engineering, you'll use your knowledge of physics or engineering to operate and monitor the safe use of hospital equipment. You'll perform tests to check and fix complex medical equipment, record test results, and help patients receive accurate diagnoses and treatment.",
+  "specialisms": [
+    "Medical engineering",
+    "Radiation engineering",
+    "Rehabilitation engineering",
+    "Renal technology"
+  ],
+  "entry_requirements": {
+    "overview": "A qualification at SCQF level 7 or above is required to apply for the IPEM Clinical Technologist Training Scheme.",
+    "example_qualifications": [
+      "HNC Applied Sciences at SCQF level 7",
+      "HND Mechanical Engineering at SCQF level 8",
+      "BSc (Hons) Physics at SCQF level 10"
+    ],
+    "useful_subjects": [
+      "Physics",
+      "Science",
+      "Design and Technology",
+      "Computing Science",
+      "Biology",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_scheme": "IPEM Clinical Technologist Training Scheme at SCQF level 9, delivered in the workplace.",
+    "duration": "2 years.",
+    "structure": "Trainees have a training plan and learn to maintain and monitor complex equipment. Practical skills are assessed throughout. A portfolio of work is completed to achieve the IPEM diploma.",
+    "registration": "Once qualified, you can join the Register of Clinical Technologists (RCT).",
+    "alternative_routes": "Some health boards in Scotland offer apprenticeship-style programmes.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education."
+  },
+  "learning_and_development": {
+    "overview": "Clinical technologists in clinical engineering must keep knowledge and skills up to date through CPD. The Register of Clinical Technologists (RCT) audits CPD activities annually.",
+    "cpd_activities": [
+      "Applying for research grants",
+      "Researching new devices",
+      "Post-qualification training courses",
+      "Receiving training on new equipment"
+    ]
+  },
+  "career_progression": {
+    "overview": "With experience, clinical technologists can move into training supervision or academic research.",
+    "progression_roles": [
+      "Training supervisor for clinical technologists",
+      "Academic research with MSc or PhD"
+    ]
+  },
+  "professional_bodies": [
+    "Register of Clinical Technologists (RCT)",
+    "Institute of Physics and Engineering in Medicine (IPEM)",
+    "Institute of Healthcare Engineering and Estate Management (IHEEM)"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-technologist-clinical-engineering-001", "section": "how_to_become", "text": "To become a clinical technologist in clinical engineering, complete the IPEM Clinical Technologist Training Scheme, a 2-year work-based programme at SCQF level 9." },
+    { "chunk_id": "clinical-technologist-clinical-engineering-002", "section": "description", "text": "Clinical technologists in clinical engineering calibrate, maintain, monitor, test, and repair specialist equipment and medical devices in one of four areas: medical engineering, radiation engineering, rehabilitation engineering, or renal technology." },
+    { "chunk_id": "clinical-technologist-clinical-engineering-003", "section": "role_overview", "text": "Clinical technologists in clinical engineering use physics or engineering knowledge to operate and monitor hospital equipment safely, perform tests to check and fix complex medical devices, and record test results to support accurate patient diagnoses and treatment." },
+    { "chunk_id": "clinical-technologist-clinical-engineering-004", "section": "entry_requirements", "text": "A qualification at SCQF level 7 or above is required, such as HNC Applied Sciences (SCQF level 7), HND Mechanical Engineering (SCQF level 8), or BSc (Hons) Physics (SCQF level 10). Useful school subjects include Physics, Science, Design and Technology, Computing Science, Biology, English, and Maths." },
+    { "chunk_id": "clinical-technologist-clinical-engineering-005", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland." },
+    { "chunk_id": "clinical-technologist-clinical-engineering-006", "section": "education_and_training", "text": "The IPEM Clinical Technologist Training Scheme is a 2-year work-based programme at SCQF level 9. Trainees learn to maintain and monitor complex equipment, complete a portfolio of work, and achieve the IPEM diploma. On completion, they can join the Register of Clinical Technologists (RCT). Some health boards offer apprenticeship-style programmes." },
+    { "chunk_id": "clinical-technologist-clinical-engineering-007", "section": "learning_and_development", "text": "Clinical technologists must maintain CPD including research, post-qualification training, and training on new equipment. The RCT audits CPD activities annually." },
+    { "chunk_id": "clinical-technologist-clinical-engineering-008", "section": "career_progression", "text": "With experience, clinical technologists can become training supervisors or move into academic research with an MSc or PhD." },
+    { "chunk_id": "clinical-technologist-clinical-engineering-009", "section": "professional_bodies", "text": "Clinical technologists in clinical engineering can join the Register of Clinical Technologists (RCT), Institute of Physics and Engineering in Medicine (IPEM), and Institute of Healthcare Engineering and Estate Management (IHEEM)." }
+  ]
+}

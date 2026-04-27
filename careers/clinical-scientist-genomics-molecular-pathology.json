@@ -1,0 +1,67 @@
+{
+  "id": "clinical-scientist-genomics-molecular-pathology",
+  "title": "Clinical Scientist — Genomics and Molecular Pathology",
+  "sector": "Healthcare Science",
+  "sub_sector": "Laboratory Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/laboratory-sciences/clinical-scientist-genomics-and-molecular-pathology/",
+  "published": "18/04/2023",
+  "last_updated": "09/12/2025",
+  "how_to_become": "Complete a postgraduate-level work-based training programme, or apply for registration through an equivalence route if you have relevant qualifications and significant professional NHS experience in genetics.",
+  "description": "Clinical scientists in genetics and molecular pathology analyse genetic preparations to identify alterations and abnormalities. They test for genetic abnormalities in prenatal and postnatal samples and provide information on carrier status, diagnosis, and prognosis and therapeutics.",
+  "role_overview": "As a clinical scientist in genetics and molecular pathology, you'll analyse genetic tests using specialised software packages and interpret the results to support diagnosis and treatment decisions.",
+  "key_responsibilities": [
+    "Carrier status — identifying individuals who may be at risk of passing on a genetic disorder to their children.",
+    "Diagnosis — identifying people with inherited and acquired conditions.",
+    "Prognosis and therapeutics — providing prognostic information and suggesting treatment options where relevant."
+  ],
+  "entry_requirements": {
+    "overview": "A relevant undergraduate honours degree at SCQF level 10 is required to apply for the clinical scientist training programme.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Biology",
+      "Chemistry"
+    ],
+    "undergraduate_degrees": [
+      "Genetics",
+      "Molecular Biology",
+      "Biomedical Sciences"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "3-year work-based learning programme. On completion, register as a clinical scientist with the HCPC.",
+    "equivalence_route": "Those with significant NHS genetics experience can apply for equivalence recognition by submitting a portfolio to the Academy for Healthcare Science or Association of Clinical Scientists and attending an interview."
+  },
+  "learning_and_development": {
+    "overview": "Clinical scientists must undertake CPD to keep knowledge and skills up to date and maintain HCPC registration.",
+    "further_qualifications": [
+      "Royal College of Pathologists examination in Genetics",
+      "Royal College of Pathologists examination in Molecular Pathology"
+    ]
+  },
+  "career_progression": {
+    "overview": "Gaining qualifications leads to more senior roles or advancement into specialised practice areas.",
+    "progression_roles": [
+      "Senior clinical scientist — genomics and molecular pathology",
+      "Specialist clinical scientist"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Academy for Healthcare Science (AHCS)",
+    "Association of Clinical Scientists (ACS)",
+    "Royal College of Pathologists",
+    "British Society of Genetic Medicine (BSGM)",
+    "Association for Genomic Science (ACGS)"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-scientist-genomics-molecular-pathology-001", "section": "how_to_become", "text": "To become a clinical scientist in genomics and molecular pathology, complete a 3-year work-based training programme. An equivalence route is available for those with significant NHS genetics experience." },
+    { "chunk_id": "clinical-scientist-genomics-molecular-pathology-002", "section": "description", "text": "Clinical scientists in genetics and molecular pathology analyse genetic preparations to identify alterations and abnormalities in prenatal and postnatal samples, providing information on carrier status, diagnosis, and prognosis." },
+    { "chunk_id": "clinical-scientist-genomics-molecular-pathology-003", "section": "role_overview", "text": "Clinical scientists in genomics and molecular pathology analyse genetic tests using specialised software and interpret results to support carrier status identification, diagnosis of inherited and acquired conditions, and treatment decisions." },
+    { "chunk_id": "clinical-scientist-genomics-molecular-pathology-004", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Biology, and Chemistry. An undergraduate honours degree at SCQF level 10 in Genetics, Molecular Biology, or Biomedical Sciences is required." },
+    { "chunk_id": "clinical-scientist-genomics-molecular-pathology-005", "section": "education_and_training", "text": "Training is via a 3-year work-based programme. On completion, registration with the HCPC as a clinical scientist is required. An equivalence route is available for experienced practitioners with significant NHS genetics experience." },
+    { "chunk_id": "clinical-scientist-genomics-molecular-pathology-006", "section": "learning_and_development", "text": "Clinical scientists must maintain CPD and HCPC registration. Royal College of Pathologists examinations in Genetics and Molecular Pathology support career progression." },
+    { "chunk_id": "clinical-scientist-genomics-molecular-pathology-007", "section": "professional_bodies", "text": "Clinical scientists in genomics and molecular pathology must register with the HCPC. They can also join AHCS, ACS, Royal College of Pathologists, British Society of Genetic Medicine (BSGM), and Association for Genomic Science (ACGS)." }
+  ]
+}

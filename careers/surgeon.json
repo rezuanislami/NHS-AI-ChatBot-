@@ -1,0 +1,88 @@
+{
+  "id": "surgeon",
+  "title": "Surgeon",
+  "sector": "Medicine",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/medicine/surgeon/",
+  "how_to_become": "After medical school, complete a 2-year foundation programme, then core surgical training and surgical specialty training, passing the Fellowship of the Royal College of Surgeons (FRCS) exam.",
+  "description": "Surgeons are trained to perform surgical procedures to investigate and treat diseases, and repair organs, systems, and structures in the human body. Procedures include implanting donor organs, fitting medical devices, removing tumours, limb amputation, reconstructing tissue, and replacing bones and joints.",
+  "role_overview": "As a surgeon, you'll perform life-saving operations, assess patients in outpatient clinics, make ward rounds, schedule follow-up appointments, create post-operative treatment plans, and prescribe medication. With experience, you could support medical education by teaching and supervising surgical registrars.",
+  "surgical_specialties": [
+    "Cardiothoracic surgery",
+    "General surgery",
+    "Neurosurgery",
+    "Oral and maxillofacial surgery",
+    "Otolaryngology (ENT)",
+    "Paediatric surgery",
+    "Plastic surgery",
+    "Trauma and orthopaedic surgery",
+    "Urology",
+    "Vascular surgery"
+  ],
+  "entry_requirements": {
+    "overview": "A medicine degree (MBChB or MBBS) at SCQF level 10 is required. All applicants must sit the UCAT.",
+    "useful_subjects": [
+      "Chemistry",
+      "Biology",
+      "Physics",
+      "Maths",
+      "English",
+      "Religious, Moral, and Philosophical Studies",
+      "Psychology",
+      "Care"
+    ],
+    "widening_access": [
+      "Reach widening access project — for senior school pupils from non-traditional backgrounds",
+      "Scottish Wider Access Programme (SWAP) — for adult learners with few or no qualifications",
+      "Graduate entry programme — for those with an existing honours degree"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to medical school or for medical training in NHSScotland.",
+  "education_and_training": {
+    "medical_schools_in_scotland": [
+      "University of Aberdeen",
+      "University of Dundee",
+      "University of Edinburgh",
+      "University of Glasgow",
+      "University of St Andrews"
+    ],
+    "undergraduate_duration": "4 to 6 years full-time.",
+    "foundation_programme": "2-year Scottish Foundation School work-based training programme (F1 and F2). F2 completion leads to FPCC, ready for core surgery training.",
+    "surgical_training": {
+      "core_surgical_training": "2-year generic programme. Must pass MSRA exam to apply and MRCS exams during training.",
+      "surgical_specialty_training": "4 to 6 further years as a specialty surgical registrar (StR) in chosen specialty.",
+      "final_examination": "Fellowship of the Royal College of Surgeons (FRCS) exam on completion of specialty training."
+    },
+    "registration": "Provisional GMC registration on graduation, full GMC registration after F1. Certificate of Completion of Training (CCT) on completing specialty training, then join GMC Specialist Register."
+  },
+  "learning_and_development": {
+    "overview": "Consultant surgeons must engage in CPD. All doctors must revalidate every 5 years with the GMC.",
+    "cpd_providers": [
+      "The Royal College of Surgeons Edinburgh",
+      "Royal College of Physicians and Surgeons Glasgow"
+    ]
+  },
+  "career_progression": {
+    "overview": "Surgeons can specialise in surgical sub-specialties or take up teaching and research posts.",
+    "progression_roles": [
+      "Senior consultant surgeon",
+      "Surgical sub-specialist",
+      "Teaching and research posts in NHS, higher education, or private sector"
+    ]
+  },
+  "professional_bodies": [
+    "General Medical Council (GMC) — mandatory registration and Specialist Register",
+    "The Royal College of Surgeons Edinburgh",
+    "Royal College of Physicians and Surgeons Glasgow",
+    "British Medical Association"
+  ],
+  "chunks": [
+    { "chunk_id": "surgeon-001", "section": "how_to_become", "text": "To become a surgeon, complete a medicine degree, 2-year foundation programme, 2-year core surgical training, and 4 to 6 years of surgical specialty training, passing the MRCS and FRCS examinations." },
+    { "chunk_id": "surgeon-002", "section": "description", "text": "Surgeons perform surgical procedures to treat disease and repair the human body, including implanting organs, fitting medical devices, removing tumours, limb amputation, reconstructing tissue, and replacing bones and joints." },
+    { "chunk_id": "surgeon-003", "section": "surgical_specialties", "text": "NHS surgical specialties include cardiothoracic surgery, general surgery, neurosurgery, oral and maxillofacial surgery, ENT, paediatric surgery, plastic surgery, trauma and orthopaedic surgery, urology, and vascular surgery." },
+    { "chunk_id": "surgeon-004", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, Biology, Physics, Maths, English, Religious and Moral Studies, Psychology, and Care. A medicine degree (MBChB or MBBS) is required. All applicants must sit the UCAT. Widening access routes include SWAP, Reach project, and graduate entry programmes." },
+    { "chunk_id": "surgeon-005", "section": "education_and_training", "text": "After a medicine degree at one of 5 Scottish medical schools and a 2-year foundation programme, core surgical training (2 years, MSRA and MRCS exams) and surgical specialty training (4 to 6 years) are required. The FRCS exam is taken on completion. A Certificate of Completion of Training (CCT) is issued on qualifying." },
+    { "chunk_id": "surgeon-006", "section": "role_overview", "text": "Surgeons perform life-saving operations, assess patients in outpatient clinics, make ward rounds, create post-operative treatment plans, and may teach and supervise surgical registrars." },
+    { "chunk_id": "surgeon-007", "section": "career_progression", "text": "Surgeons can specialise in surgical sub-specialties or take up senior consultant, teaching, and research posts in the NHS, higher education, or private sector." },
+    { "chunk_id": "surgeon-008", "section": "professional_bodies", "text": "Surgeons must be GMC-registered and on the GMC Specialist Register. They can join the Royal College of Surgeons Edinburgh, Royal College of Physicians and Surgeons Glasgow, and British Medical Association." }
+  ]
+}

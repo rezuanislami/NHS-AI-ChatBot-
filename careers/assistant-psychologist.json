@@ -1,0 +1,37 @@
+{
+  "id": "assistant-psychologist",
+  "title": "Assistant Psychologist",
+  "sector": "Psychology",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/psychology/assistant-psychologist/",
+  "how_to_become": "You will need an undergraduate degree in psychology to become an assistant psychologist.",
+  "description": "Psychology is the study of how people think and behave. Assistant psychologists work in multidisciplinary teams to deliver psychology services across a range of settings, contributing to specialist psychology services and providing specialist research expertise.",
+  "role_overview": "As an assistant psychologist, you'll contribute to providing a specialist psychology service for all clients, working as part of a multidisciplinary team and providing specialist research expertise to enhance service delivery.",
+  "entry_requirements": {
+    "overview": "An undergraduate degree in psychology is required.",
+    "useful_subjects": [
+      "Psychology",
+      "Religious, Moral and Philosophical Studies",
+      "English",
+      "Human Biology",
+      "Maths"
+    ],
+    "college_route": [
+      "HNC Counselling",
+      "HND Counselling"
+    ],
+    "widening_access": "SWAP supports adult learners with few or no qualifications to enter higher education."
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "career_progression": {
+    "overview": "Experience as an assistant psychologist can lead to training as a fully qualified clinical, health, counselling, or forensic psychologist."
+  },
+  "professional_bodies": [
+    "British Psychological Society (BPS) — student, graduate, and chartered membership levels"
+  ],
+  "chunks": [
+    { "chunk_id": "assistant-psychologist-001", "section": "how_to_become", "text": "To become an assistant psychologist, you need an undergraduate degree in psychology." },
+    { "chunk_id": "assistant-psychologist-002", "section": "description", "text": "Assistant psychologists work in multidisciplinary teams to deliver psychology services, contributing to specialist psychology services and providing specialist research expertise." },
+    { "chunk_id": "assistant-psychologist-003", "section": "entry_requirements", "text": "An undergraduate psychology degree is required. Useful school subjects include Psychology, Religious and Moral Studies, English, Human Biology, and Maths. College options include HNC and HND Counselling. SWAP supports adult learners into higher education." },
+    { "chunk_id": "assistant-psychologist-004", "section": "career_progression", "text": "Experience as an assistant psychologist can lead to training as a clinical, health, counselling, or forensic psychologist." }
+  ]
+}

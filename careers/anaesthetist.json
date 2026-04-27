@@ -1,0 +1,86 @@
+{
+  "id": "anaesthetist",
+  "title": "Anaesthetist",
+  "sector": "Medicine",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/medicine/anaesthetist/",
+  "how_to_become": "To become an anaesthetist, you'll need an undergraduate degree in medicine, 2 years as a resident doctor, then 7 to 8 years of postgraduate training, passing the Fellowship of the Royal College of Anaesthetists (FRCA) examinations.",
+  "description": "Anaesthetists provide anaesthesia care before, during, and after surgery. They also provide pain management support for childbirth and diagnostic procedures. They work in pre-hospital emergency medicine, intensive care medicine, and pain medicine. They are qualified doctors registered with the General Medical Council (GMC).",
+  "role_overview": "As an anaesthetist, you'll give general or local anaesthetics for surgical, medical, diagnostic, and psychiatric procedures, lead hospital intensive care units, provide pain management for childbirth, care for people with chronic pain, and provide medical care for seriously ill or injured people before and during transfer to hospital.",
+  "entry_requirements": {
+    "overview": "A medicine degree (MBChB) at SCQF level 10 is required. All applicants must sit the UCAT.",
+    "useful_subjects": [
+      "Chemistry",
+      "Biology",
+      "Physics",
+      "Maths",
+      "English",
+      "Religious, Moral, and Philosophical Studies",
+      "Psychology",
+      "Care"
+    ],
+    "widening_access": [
+      "Reach widening access project — for senior school pupils from non-traditional backgrounds",
+      "Scottish Wider Access Programme (SWAP) — for adult learners with few or no qualifications",
+      "Medicine with a gateway year — for those not immediately ready to start a degree course",
+      "Graduate entry programme — for those with an existing honours degree (e.g. ScotGEM, HCP-Med)"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to medical school or for medical training in NHSScotland.",
+  "education_and_training": {
+    "medical_schools_in_scotland": [
+      "University of Aberdeen",
+      "University of Dundee",
+      "University of Edinburgh",
+      "University of Glasgow",
+      "University of St Andrews"
+    ],
+    "undergraduate_duration": "5 to 6 years full-time (standard entry), or 4 years (graduate entry).",
+    "foundation_programme": "2-year Scottish Foundation School work-based training programme. Foundation Year 1 (F1) and Foundation Year 2 (F2) — F2 completion leads to a Foundation Programme Certificate of Completion (FPCC).",
+    "uk_anaesthesia_training": {
+      "stage_1": "Core anaesthesia training (3 years) or Acute Care Common Stem (ACCS) training (4 years). Must pass MRCS/MSRA exams and FRCA primary exams by end of stage.",
+      "stage_2": "Advanced anaesthesia knowledge and skills including subspecialties. Must pass FRCA final exams.",
+      "stage_3": "Practise anaesthesia unsupervised and focus on one or more Special Interest Areas (SIAs).",
+      "total_duration": "7 to 8 years of postgraduate training."
+    },
+    "registration": "Provisional GMC registration on graduation, full GMC registration after F1. Certificate of Completion of Training (CCT) on completing specialty training, then join GMC Specialist Register."
+  },
+  "learning_and_development": {
+    "overview": "Anaesthetists must engage in CPD to keep knowledge and skills up to date. All doctors must revalidate every 5 years with the GMC.",
+    "cpd_provider": "Royal College of Anaesthetists"
+  },
+  "career_progression": {
+    "specialisms": [
+      "Intensive care medicine",
+      "Pain medicine",
+      "Neuro anaesthesia",
+      "Cardiothoracic anaesthesia",
+      "Vascular anaesthesia",
+      "Paediatric anaesthesia"
+    ],
+    "other_opportunities": [
+      "Teaching at universities",
+      "Supervising trainee anaesthetists",
+      "Research posts in NHS, higher education, or private sector"
+    ]
+  },
+  "professional_bodies": [
+    "General Medical Council (GMC) — mandatory registration and Specialist Register",
+    "Royal College of Anaesthetists",
+    "Royal College of Emergency Medicine",
+    "Faculty of Intensive Care Medicine",
+    "Faculty of Pain Medicine",
+    "Faculty of Pre Hospital Care",
+    "Association of Anaesthetists",
+    "Intensive Care Society",
+    "British Medical Association"
+  ],
+  "chunks": [
+    { "chunk_id": "anaesthetist-001", "section": "how_to_become", "text": "To become an anaesthetist, complete a medicine degree (MBChB), 2 years as a resident doctor in a foundation programme, then 7 to 8 years of postgraduate anaesthesia training, passing the FRCA examinations." },
+    { "chunk_id": "anaesthetist-002", "section": "description", "text": "Anaesthetists provide anaesthesia care before, during, and after surgery, and support pain management for childbirth and diagnostic procedures. They work in pre-hospital emergency medicine, intensive care, and pain medicine, and must be GMC-registered." },
+    { "chunk_id": "anaesthetist-003", "section": "role_overview", "text": "Anaesthetists give general or local anaesthetics for surgical and medical procedures, lead intensive care units, manage chronic and childbirth pain, and care for seriously ill or injured people before and during hospital transfer." },
+    { "chunk_id": "anaesthetist-004", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, Biology, Physics, Maths, English, Religious and Moral Studies, Psychology, and Care. A medicine degree (MBChB) at SCQF level 10 is required. All applicants must sit the UCAT. Widening access routes include SWAP, Reach project, gateway year, and graduate entry programmes." },
+    { "chunk_id": "anaesthetist-005", "section": "education_and_training", "text": "Medical schools in Scotland include Aberdeen, Dundee, Edinburgh, Glasgow, and St Andrews. After a 5 to 6 year medicine degree and 2-year foundation programme, anaesthesia training takes 7 to 8 years across 3 stages: core training (ACCS or core anaesthesia), advanced subspecialty training, and unsupervised practice with Special Interest Area focus." },
+    { "chunk_id": "anaesthetist-006", "section": "career_progression", "text": "Anaesthetists can specialise in intensive care, pain medicine, neuro, cardiothoracic, vascular, or paediatric anaesthesia, and may take up teaching, supervising trainees, or research posts." },
+    { "chunk_id": "anaesthetist-007", "section": "professional_bodies", "text": "Anaesthetists must be GMC-registered and on the GMC Specialist Register. They can join the Royal College of Anaesthetists, Association of Anaesthetists, Faculty of Intensive Care Medicine, Faculty of Pain Medicine, and British Medical Association." }
+  ]
+}

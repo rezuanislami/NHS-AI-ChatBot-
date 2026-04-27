@@ -1,0 +1,36 @@
+{
+  "id": "laundry-assistant",
+  "title": "Laundry Assistant",
+  "sector": "Support Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/support-services/laundry-assistant/",
+  "published": "13/06/2023",
+  "last_updated": "21/06/2024",
+  "how_to_become": "Apply for vacancies on the NHS recruitment website.",
+  "description": "Laundry and linen services process and finish thousands of pieces of linen every day across NHS Scotland. Laundry assistants sort used linen into categories for washing, press and fold linen, and dispatch it to hospital wards and departments.",
+  "role_overview": "As a laundry assistant, you'll sort, process, and finish linen including bedding, curtains, surgical sheets, and scrubs to ensure it is clean and hygienic.",
+  "entry_requirements": {
+    "overview": "A good standard of education and some experience in a production environment are useful.",
+    "useful_subjects": ["English", "Maths"],
+    "college_courses": [
+      "SVQ Hospitality at SCQF level 4",
+      "SVQ Customer Service at SCQF level 4"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "learning_and_development": {
+    "role_specific_training": [
+      "Linen Workbook",
+      "Health and safety training",
+      "Supervised training on equipment and laundry processes"
+    ]
+  },
+  "career_progression": {
+    "qualifications": ["SVQ Textile Care Services at SCQF level 5"],
+    "progression_roles": ["Laundry supervisor", "Production manager"]
+  },
+  "chunks": [
+    { "chunk_id": "laundry-assistant-001", "section": "how_to_become", "text": "To become a laundry assistant in the NHS, apply for vacancies on the NHS recruitment website." },
+    { "chunk_id": "laundry-assistant-002", "section": "description", "text": "NHS laundry assistants sort, process, and finish thousands of pieces of linen daily, including bedding, curtains, surgical sheets, and scrubs, ensuring items are clean and hygienic before returning them to hospital wards." },
+    { "chunk_id": "laundry-assistant-003", "section": "career_progression", "text": "With SVQ Textile Care Services at SCQF level 5, laundry assistants can progress to laundry supervisor or production manager." }
+  ]
+}

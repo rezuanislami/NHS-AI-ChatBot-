@@ -1,0 +1,96 @@
+{
+  "id": "diagnostic-radiographer",
+  "title": "Diagnostic Radiographer",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/diagnostic-radiographer/",
+  "how_to_become": "You'll need a degree in Diagnostic Radiography or Diagnostic Imaging to become a diagnostic radiographer in the NHS. In Scotland, 3 universities offer pre-registration degree programmes.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Diagnostic radiographers in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist diagnostic radiographers can earn up to £50,702. Advanced diagnostic radiographers can earn up to £59,159 before tax."
+  },
+  "description": "Diagnostic radiographers play a key role in large medical teams. Using the latest imaging technology, they take high-quality images of the inside of the body to diagnose and monitor illnesses or injuries so patients receive the correct treatment. They must be registered with the HCPC to work in the NHS.",
+  "role_overview": "As a diagnostic radiographer, you'll take images using techniques including x-rays, ultrasound, fluoroscopy, CT, MRI, nuclear medicine, angiography, and mammography. Your knowledge and skills are used to identify injuries and illnesses including cancers and coronary artery disease.",
+  "imaging_techniques": [
+    "X-rays",
+    "Ultrasound",
+    "Fluoroscopy",
+    "CT",
+    "MRI",
+    "Nuclear medicine",
+    "Angiography",
+    "Mammography"
+  ],
+  "entry_requirements": {
+    "overview": "A degree in Diagnostic Radiography or Diagnostic Imaging approved by the HCPC is required.",
+    "useful_subjects": [
+      "Human Biology",
+      "Chemistry",
+      "Physics",
+      "Maths",
+      "English"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_universities": [
+      "Glasgow Caledonian University",
+      "Queen Margaret University",
+      "Robert Gordon University"
+    ],
+    "undergraduate_duration": "4 years full-time.",
+    "postgraduate": "If you have relevant qualifications and healthcare experience, you can do a postgraduate diploma or master's in Diagnostic Radiography, usually taking 2 years.",
+    "college_route": "At college, you could do an HNC in a science-based subject before applying to university."
+  },
+  "learning_and_development": {
+    "overview": "Diagnostic radiographers must keep skills and knowledge up to date through Continuing Professional Development (CPD).",
+    "cpd_provider": "Society and College of Radiographers (SCoR)",
+    "cpd_activities": [
+      "Courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "specialisms": [
+      "MRI",
+      "Sonography",
+      "Breast screening",
+      "Children",
+      "Stroke patients",
+      "Cancer patients"
+    ],
+    "progression_roles": [
+      "Specialist diagnostic radiographer",
+      "Advanced diagnostic radiographer",
+      "Management within radiography services",
+      "General management",
+      "Research",
+      "Education",
+      "Independent sector"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Society and College of Radiographers (SCoR)"
+  ],
+  "related_careers": [
+    "Therapeutic radiographer",
+    "Orthoptist",
+    "Prosthetist"
+  ],
+  "chunks": [
+    { "chunk_id": "diagnostic-radiographer-001", "section": "how_to_become", "text": "To become a diagnostic radiographer in the NHS, you'll need a degree in Diagnostic Radiography or Diagnostic Imaging approved by the HCPC. Three universities in Scotland offer pre-registration degree programmes." },
+    { "chunk_id": "diagnostic-radiographer-002", "section": "salary", "text": "Diagnostic radiographers in the NHS start at £33,247 before tax. Specialist diagnostic radiographers can earn up to £50,702. Advanced diagnostic radiographers can earn up to £59,159 before tax." },
+    { "chunk_id": "diagnostic-radiographer-003", "section": "description", "text": "Diagnostic radiographers use the latest imaging technology to take high-quality images of the inside of the body to diagnose and monitor illnesses or injuries. They must be registered with the HCPC to work in the NHS." },
+    { "chunk_id": "diagnostic-radiographer-004", "section": "role_overview", "text": "Diagnostic radiographers use imaging techniques including x-rays, ultrasound, fluoroscopy, CT, MRI, nuclear medicine, angiography, and mammography to identify injuries and illnesses including cancers and coronary artery disease." },
+    { "chunk_id": "diagnostic-radiographer-005", "section": "entry_requirements", "text": "Useful school subjects include Human Biology, Chemistry, Physics, Maths, and English. A degree in Diagnostic Radiography or Diagnostic Imaging approved by the HCPC is required." },
+    { "chunk_id": "diagnostic-radiographer-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "diagnostic-radiographer-007", "section": "education_and_training", "text": "Undergraduate degrees in Diagnostic Radiography or Diagnostic Imaging are offered at Glasgow Caledonian University, Queen Margaret University, and Robert Gordon University, taking 4 years full-time. A postgraduate diploma or master's is available for those with relevant qualifications and experience, usually taking 2 years. SWAP supports adult learners into higher education." },
+    { "chunk_id": "diagnostic-radiographer-008", "section": "learning_and_development", "text": "Diagnostic radiographers maintain skills through Continuing Professional Development (CPD) including courses, conferences, and seminars provided by the Society and College of Radiographers (SCoR)." },
+    { "chunk_id": "diagnostic-radiographer-009", "section": "career_progression", "text": "Diagnostic radiographers can specialise in MRI, sonography, breast screening, or working with specific patient groups such as children, stroke patients, or cancer patients. Progression routes include specialist and advanced roles, management, research, education, and the independent sector." },
+    { "chunk_id": "diagnostic-radiographer-010", "section": "professional_bodies", "text": "Diagnostic radiographers must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the Society and College of Radiographers (SCoR)." }
+  ]
+}

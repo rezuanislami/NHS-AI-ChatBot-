@@ -1,0 +1,38 @@
+{
+  "id": "catering-assistant",
+  "title": "Catering Assistant",
+  "sector": "Support Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/support-services/catering-assistant/",
+  "published": "12/06/2023",
+  "last_updated": "21/06/2024",
+  "how_to_become": "Apply for vacancies on the NHS recruitment website.",
+  "description": "Catering teams provide freshly cooked meals that meet patients' medical and cultural needs and promote healthy living. Catering assistants prepare, pack, and distribute meals in hospital kitchens, and operate cash registers and serve food in retail and dining areas. They also maintain clean, hygienic, and welcoming kitchen and dining environments.",
+  "entry_requirements": {
+    "overview": "A good standard of education and some food preparation, cooking, and customer service experience are useful.",
+    "useful_subjects": ["English", "Health and Food Technology", "Maths"],
+    "college_courses": [
+      "SVQ Hospitality at SCQF level 4",
+      "SVQ Customer Service at SCQF level 4"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "learning_and_development": {
+    "role_specific_training": [
+      "Catering Workbook",
+      "Elementary Food Hygiene at SCQF level 5"
+    ]
+  },
+  "career_progression": {
+    "qualifications": [
+      "SVQ Food Production and Cooking at SCQF level 5",
+      "SVQ Kitchen Services at SCQF level 5"
+    ],
+    "progression_roles": ["Team leader", "Catering supervisor"]
+  },
+  "chunks": [
+    { "chunk_id": "catering-assistant-001", "section": "how_to_become", "text": "To become a catering assistant in the NHS, apply for vacancies on the NHS recruitment website." },
+    { "chunk_id": "catering-assistant-002", "section": "description", "text": "NHS catering assistants prepare, pack, and distribute meals in hospital kitchens and serve food in dining areas. They maintain clean, hygienic, and welcoming kitchen and dining environments, providing meals that meet patients' medical and cultural needs." },
+    { "chunk_id": "catering-assistant-003", "section": "entry_requirements", "text": "Useful school subjects include English, Health and Food Technology, and Maths. College options include SVQ Hospitality and SVQ Customer Service at SCQF level 4. Food preparation and customer service experience is helpful." },
+    { "chunk_id": "catering-assistant-004", "section": "career_progression", "text": "With qualifications such as SVQ Food Production and Cooking or SVQ Kitchen Services at SCQF level 5, catering assistants can progress to team leader or catering supervisor roles." }
+  ]
+}

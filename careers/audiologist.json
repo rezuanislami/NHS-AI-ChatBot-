@@ -1,0 +1,52 @@
+{
+  "id": "audiologist",
+  "title": "Audiologist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physiological Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physiological-sciences/audiologist/",
+  "how_to_become": "Apply for a practitioner training programme on the NHS recruitment website, or complete a pre-registration postgraduate degree in Audiology at university.",
+  "description": "Audiologists support people who may have hearing loss, tinnitus, complex auditory or sound sensitivity disorders, or medical conditions affecting their hearing or balance. They carry out assessments, analyse test results, provide diagnosis and treatment plans, and support patients through treatment implementation.",
+  "role_overview": "As an audiologist, you'll assess patients to help diagnose and treat auditory disorders, hearing loss, or neurological problems. You'll support patients with selecting and fitting hearing aids, counselling on adjusting to hearing loss, and making the most of technology and rehabilitation options.",
+  "entry_requirements": {
+    "overview": "A pre-registration degree programme is required, either undergraduate or postgraduate.",
+    "useful_subjects": [
+      "English",
+      "Biology",
+      "Maths",
+      "Physics",
+      "Psychology",
+      "Chemistry"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "undergraduate_route": "Clinical physiology undergraduate training programme — employed by an NHSScotland Health Board while completing an undergraduate honours degree at SCQF level 10, with departmental training.",
+    "postgraduate_route": "MSc Audiology at SCQF level 11 offered by Queen Margaret University, for those with a related undergraduate degree.",
+    "registration": "On qualifying, register with the Academy for Healthcare Science (AHCS) as a healthcare science practitioner."
+  },
+  "learning_and_development": {
+    "overview": "Ongoing requirements for education and skills development after registration."
+  },
+  "career_progression": {
+    "overview": "With training and experience, audiologists can move into specialist, advanced, or management roles.",
+    "progression_roles": [
+      "Specialist audiologist",
+      "Advanced audiologist",
+      "Audiology service manager",
+      "Clinical scientist in audiology (via equivalence recognition)"
+    ]
+  },
+  "professional_bodies": [
+    "Academy for Healthcare Science (AHCS)",
+    "British Academy of Audiology (BAA)"
+  ],
+  "chunks": [
+    { "chunk_id": "audiologist-001", "section": "how_to_become", "text": "To become an audiologist in the NHS, apply for a practitioner training programme on the recruitment website or complete a pre-registration postgraduate degree in Audiology at university." },
+    { "chunk_id": "audiologist-002", "section": "description", "text": "Audiologists support people with hearing loss, tinnitus, complex auditory disorders, and conditions affecting hearing or balance. They carry out assessments, provide diagnoses, and support patients through treatment." },
+    { "chunk_id": "audiologist-003", "section": "role_overview", "text": "Audiologists assess patients to diagnose auditory disorders and hearing loss, support hearing aid selection and fitting, counsel patients on adjusting to hearing loss, and provide information on rehabilitation options." },
+    { "chunk_id": "audiologist-004", "section": "entry_requirements", "text": "Useful school subjects include English, Biology, Maths, Physics, Psychology, and Chemistry. A pre-registration degree programme is required." },
+    { "chunk_id": "audiologist-005", "section": "education_and_training", "text": "Routes include the clinical physiology undergraduate training programme (employed by an NHS Health Board while completing an undergraduate honours degree at SCQF level 10) or the MSc Audiology at SCQF level 11 at Queen Margaret University." },
+    { "chunk_id": "audiologist-006", "section": "career_progression", "text": "Audiologists can progress to specialist, advanced, and management roles including audiology service manager. Equivalence recognition allows progression to clinical scientist in audiology." },
+    { "chunk_id": "audiologist-007", "section": "professional_bodies", "text": "Qualified audiologists can register with the Academy for Healthcare Science (AHCS) and join the British Academy of Audiology (BAA)." }
+  ]
+}

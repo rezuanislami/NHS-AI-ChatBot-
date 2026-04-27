@@ -1,0 +1,84 @@
+{
+  "id": "occupational-therapist",
+  "title": "Occupational Therapist",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/occupational-therapist/",
+  "how_to_become": "You'll need a degree in Occupational Therapy to become an occupational therapist in the NHS. In Scotland, 3 universities offer pre-registration degree programmes.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Occupational therapists in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist occupational therapists can earn up to £50,702. Advanced occupational therapists can earn up to £59,159 before tax."
+  },
+  "description": "Occupational therapists enable people of all ages to be as independent as possible in activities that matter to them. The ability to engage in everyday tasks can be impacted by physical conditions, injury, mental health, and ageing. Occupational therapists work alongside people to consider new ways of doing activities or changing their environment to make things easier.",
+  "role_overview": "As an occupational therapist, you'll care for people of all ages with different needs, including improving a young person's cognitive, physical, sensory, and motor skills, and providing equipment and adaptations such as ramps, stairlifts, and rails to help older people continue living at home.",
+  "entry_requirements": {
+    "overview": "A degree in Occupational Therapy approved by the HCPC is required.",
+    "useful_subjects": [
+      "Human Biology",
+      "Psychology",
+      "Care",
+      "Maths",
+      "English"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "college_route": "At college, you could do an HNC in Healthcare Practice. With an HNC in Occupational Therapy Support, some universities may let you start your degree in year 2.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_universities": [
+      "Glasgow Caledonian University",
+      "Queen Margaret University",
+      "Robert Gordon University"
+    ],
+    "undergraduate_duration": "4 years full-time.",
+    "postgraduate": "If you have relevant qualifications and healthcare experience, you can do a master's degree in Occupational Therapy, usually taking 2 years.",
+    "note": "After graduation, you must register with the HCPC before applying for NHS vacancies."
+  },
+  "learning_and_development": {
+    "overview": "Occupational therapists must keep skills and knowledge up to date through continuing professional development.",
+    "cpd_provider": "Royal College of Occupational Therapists (RCOT)",
+    "cpd_activities": [
+      "Courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "specialisms": [
+      "Elderly care",
+      "Physical and mental health settings",
+      "Paediatrics",
+      "Brain injury",
+      "Learning disability",
+      "Dementia",
+      "Palliative care"
+    ],
+    "progression_roles": [
+      "Specialist occupational therapist",
+      "Advanced occupational therapist",
+      "Service manager in health and social care partnerships"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Royal College of Occupational Therapists (RCOT)"
+  ],
+  "related_careers": [
+    "Physiotherapist",
+    "Dramatherapist",
+    "Music therapist"
+  ],
+  "chunks": [
+    { "chunk_id": "occupational-therapist-001", "section": "how_to_become", "text": "To become an occupational therapist in the NHS, you'll need a degree in Occupational Therapy approved by the HCPC. Three universities in Scotland offer pre-registration degree programmes." },
+    { "chunk_id": "occupational-therapist-002", "section": "salary", "text": "Occupational therapists in the NHS start at £33,247 before tax. Specialist occupational therapists can earn up to £50,702. Advanced occupational therapists can earn up to £59,159 before tax." },
+    { "chunk_id": "occupational-therapist-003", "section": "description", "text": "Occupational therapists enable people of all ages to be as independent as possible in everyday activities. They work with people whose abilities are affected by physical conditions, injury, mental health, or ageing, helping them find new ways of doing activities or adapting their environment." },
+    { "chunk_id": "occupational-therapist-004", "section": "role_overview", "text": "Occupational therapists care for people of all ages, including improving young people's cognitive, physical, sensory, and motor skills, and providing equipment and adaptations such as ramps, stairlifts, and rails to help older people live at home independently." },
+    { "chunk_id": "occupational-therapist-005", "section": "entry_requirements", "text": "Useful school subjects include Human Biology, Psychology, Care, Maths, and English. A degree in Occupational Therapy approved by the HCPC is required." },
+    { "chunk_id": "occupational-therapist-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "occupational-therapist-007", "section": "education_and_training", "text": "Undergraduate degrees in Occupational Therapy are offered at Glasgow Caledonian University, Queen Margaret University, and Robert Gordon University, taking 4 years full-time. A master's degree is available for those with relevant qualifications and experience, usually taking 2 years. An HNC in Occupational Therapy Support may allow entry into year 2 of a degree. SWAP supports adult learners into higher education." },
+    { "chunk_id": "occupational-therapist-008", "section": "learning_and_development", "text": "Occupational therapists maintain skills through continuing professional development including courses, conferences, and seminars provided by the Royal College of Occupational Therapists (RCOT)." },
+    { "chunk_id": "occupational-therapist-009", "section": "career_progression", "text": "Occupational therapists can specialise in elderly care, paediatrics, brain injury, learning disability, dementia, or palliative care. Progression roles include specialist and advanced occupational therapist and service manager in health and social care partnerships." },
+    { "chunk_id": "occupational-therapist-010", "section": "professional_bodies", "text": "Occupational therapists must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the Royal College of Occupational Therapists (RCOT)." }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "clinical-photographer",
+  "title": "Clinical Photographer",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physical and Imaging Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physical-and-imaging-sciences/clinical-photographer/",
+  "how_to_become": "You'll need an undergraduate degree in Clinical Photography to become a clinical photographer in the NHS. If you have an undergraduate degree in Photography, you can apply for a trainee opportunity and complete a postgraduate certificate in Clinical Photography.",
+  "description": "Clinical photographers produce different types of images to support diagnosis and document changes in a condition over time. In addition to standard digital photography, specialised imaging techniques include dermoscopy, ophthalmic imaging, and 3D imaging. They may also take photos and videos for teaching, research, publication, and medico-legal purposes.",
+  "role_overview": "Clinical photographers produce digital photographs to record and monitor a patient's medical condition and assess the effectiveness of surgery or treatment.",
+  "imaging_techniques": [
+    "Standard digital photography",
+    "Dermoscopy",
+    "Ophthalmic imaging",
+    "3D imaging"
+  ],
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree in Clinical Photography at SCQF level 10 accredited by the Institute of Medical Illustrators (IMI) is required. Alternatively, an undergraduate degree in Photography plus a postgraduate certificate in Clinical Photography.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Administration and IT",
+      "Photography",
+      "Art and Design",
+      "Graphic Communication"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "undergraduate_route": "Undergraduate honours degree in Clinical Photography at SCQF level 10, accredited by the IMI.",
+    "trainee_route": "Apply for a trainee post with an undergraduate honours degree in Photography at SCQF level 10, then complete a postgraduate certificate in Clinical Photography at SCQF level 11 via distance learning.",
+    "alternative_route": "Some clinical photographers start as clinical photography assistants, applying with an HND in Photography at SCQF level 8.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education.",
+    "registration": "On qualifying, register with the Academy for Healthcare Science (AHCS)."
+  },
+  "learning_and_development": {
+    "overview": "CPD is essential for career development and maintaining registration on the AHCS Accredited Register for Medical Illustrators.",
+    "cpd_activities": [
+      "Training courses and workshops",
+      "Researching new imaging techniques"
+    ]
+  },
+  "career_progression": {
+    "overview": "With experience, clinical photographers can move into management, teaching, or research.",
+    "progression_roles": [
+      "Team manager",
+      "Clinical photography trainer",
+      "Academic researcher (with MSc or PhD)"
+    ]
+  },
+  "professional_bodies": [
+    "Institute of Medical Illustrators (IMI)",
+    "Academy for Healthcare Science (AHCS) Register for Medical Illustrators",
+    "Ophthalmic Imaging Association (OIA)"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-photographer-001", "section": "how_to_become", "text": "To become a clinical photographer in the NHS, you'll need an undergraduate honours degree in Clinical Photography accredited by the IMI, or a Photography degree plus a postgraduate certificate in Clinical Photography." },
+    { "chunk_id": "clinical-photographer-002", "section": "description", "text": "Clinical photographers produce images to support diagnosis and document changes in conditions over time using standard digital photography, dermoscopy, ophthalmic imaging, and 3D imaging. They also create images for teaching, research, publication, and medico-legal purposes." },
+    { "chunk_id": "clinical-photographer-003", "section": "role_overview", "text": "Clinical photographers produce digital photographs to record and monitor patients' medical conditions and assess the effectiveness of surgery or treatment." },
+    { "chunk_id": "clinical-photographer-004", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Administration and IT, Photography, Art and Design, and Graphic Communication. An IMI-accredited undergraduate honours degree in Clinical Photography at SCQF level 10 is required, or a Photography degree plus a postgraduate certificate in Clinical Photography." },
+    { "chunk_id": "clinical-photographer-005", "section": "education_and_training", "text": "Routes include an IMI-accredited undergraduate degree in Clinical Photography, a trainee post with a Photography degree followed by a postgraduate certificate in Clinical Photography, or starting as a clinical photography assistant with an HND in Photography at SCQF level 8. SWAP supports adult learners into higher education." },
+    { "chunk_id": "clinical-photographer-006", "section": "learning_and_development", "text": "CPD is essential for maintaining AHCS Accredited Register for Medical Illustrators registration, including training courses, workshops, and researching new imaging techniques." },
+    { "chunk_id": "clinical-photographer-007", "section": "career_progression", "text": "With experience, clinical photographers can become team managers or trainers, or move into academic research or teaching with an MSc or PhD." },
+    { "chunk_id": "clinical-photographer-008", "section": "professional_bodies", "text": "Clinical photographers can join the Institute of Medical Illustrators (IMI), Academy for Healthcare Science (AHCS) Register for Medical Illustrators, and Ophthalmic Imaging Association (OIA)." }
+  ]
+}

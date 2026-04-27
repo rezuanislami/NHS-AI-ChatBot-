@@ -1,0 +1,44 @@
+{
+  "id": "neuropsychologist",
+  "title": "Neuropsychologist",
+  "sector": "Psychology",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/psychology/neuropsychologist/",
+  "how_to_become": "To become a neuropsychologist, complete an accredited psychology degree, then a doctorate in clinical or counselling psychology, then work in a specialist service for at least one year, then complete the BPS Qualification in Clinical Neuropsychology (QiCN) or accredited university route.",
+  "description": "Clinical neuropsychologists are concerned with the assessment and rehabilitation of people with brain injury or other neurological disease. They require specialist knowledge in the neurosciences alongside knowledge of the broad range of mental health problems.",
+  "role_overview": "As a neuropsychologist, you'll assess and rehabilitate people with brain injury or neurological disease, applying specialist knowledge of the relationship between brain and neuropsychological function.",
+  "entry_requirements": {
+    "overview": "Neuropsychology is a post-qualification discipline available to chartered psychologists within clinical or educational psychology. A doctorate in clinical or counselling psychology or equivalent BPS-recognised qualification is required first.",
+    "useful_subjects": [
+      "Psychology",
+      "Religious, Moral and Philosophical Studies",
+      "English",
+      "Human Biology",
+      "Maths"
+    ],
+    "college_route": [
+      "HNC Counselling",
+      "HND Counselling"
+    ],
+    "widening_access": "SWAP supports adult learners with few or no qualifications to enter higher education."
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "prerequisites": "Doctorate in clinical or counselling psychology or BPS-equivalent qualification.",
+    "neuropsychology_qualification": "At least 1 year of work in a specialist neuropsychology service, then completion of the BPS Qualification in Clinical Neuropsychology (QiCN) or accredited university route. This involves a postdoctoral diploma and examination of a portfolio of clinical neuropsychology cases.",
+    "specialist_register": "Successful completion leads to eligibility for entry to the BPS Specialist Register of Clinical Neuropsychologists."
+  },
+  "learning_and_development": {
+    "overview": "Once qualified and HCPC-registered, eligible to work as a practitioner psychologist and apply for chartered BPS membership (CPsychol)."
+  },
+  "professional_bodies": [
+    "British Psychological Society (BPS) — Specialist Register of Clinical Neuropsychologists",
+    "Health and Care Professions Council (HCPC) — mandatory registration"
+  ],
+  "chunks": [
+    { "chunk_id": "neuropsychologist-001", "section": "how_to_become", "text": "To become a neuropsychologist, first complete a doctorate in clinical or counselling psychology, then work at least 1 year in a specialist neuropsychology service, then complete the BPS Qualification in Clinical Neuropsychology (QiCN) or accredited university route." },
+    { "chunk_id": "neuropsychologist-002", "section": "description", "text": "Clinical neuropsychologists assess and rehabilitate people with brain injury or neurological disease, requiring specialist knowledge of the neurosciences alongside broad mental health knowledge." },
+    { "chunk_id": "neuropsychologist-003", "section": "entry_requirements", "text": "Neuropsychology is a post-qualification discipline requiring a doctorate in clinical or counselling psychology. Useful school subjects include Psychology, English, Human Biology, and Maths." },
+    { "chunk_id": "neuropsychologist-004", "section": "education_and_training", "text": "After a clinical or counselling psychology doctorate, at least 1 year in a specialist neuropsychology service is required, followed by the BPS QiCN (postdoctoral diploma and portfolio examination), leading to entry on the BPS Specialist Register of Clinical Neuropsychologists." },
+    { "chunk_id": "neuropsychologist-005", "section": "professional_bodies", "text": "Neuropsychologists must be HCPC-registered and can join the BPS Specialist Register of Clinical Neuropsychologists." }
+  ]
+}

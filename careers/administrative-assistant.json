@@ -1,0 +1,55 @@
+{
+  "id": "administrative-assistant",
+  "title": "Administrative Assistant",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/administrative-assistant/",
+  "published": "29/03/2023",
+  "last_updated": "13/10/2025",
+  "how_to_become": "To become an administrative assistant in the NHS, apply for vacancies on the NHS recruitment website. You could also do a Modern Apprenticeship.",
+  "salary": {
+    "entry": "£25,694",
+    "entry_note": "Administrative assistants in the NHS start at £25,694 before tax.",
+    "experienced": "£33,016",
+    "experienced_note": "Senior administrative assistants in the NHS can earn up to £33,016 before tax."
+  },
+  "description": "In the NHS, administrative assistants work in hospitals, health centres, and board headquarters. They provide business support to clinical staff and business teams to arrange meetings, create documents, and maintain records.",
+  "entry_requirements": {
+    "overview": "To become an administrative assistant, you'll need a good standard of education.",
+    "useful_subjects": ["Administration and IT", "Business Management", "English", "Maths"]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience. This could help when applying to college or a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "With a Business Administration Modern Apprenticeship, you'll get the training and experience needed and a recognised qualification.",
+    "college_courses": [
+      "SVQ Business and Administration at SCQF level 5",
+      "SVQ Customer Service at SCQF level 5"
+    ]
+  },
+  "role_overview": "Communicating, time management, and organisation skills are key. You could work in a clinical setting or in an office providing administrative support.",
+  "skills_required": ["Communication", "Time management", "Organisation"],
+  "learning_and_development": {
+    "mandatory_training": [
+      "Health and safety", "Occupational health", "Fire safety",
+      "Counter-fraud", "Moving and handling", "Safe information handling"
+    ],
+    "note": "Your NHS employer will confirm mandatory training requirements during induction."
+  },
+  "career_progression": {
+    "qualifications": [
+      "SVQ Business and Administration at SCQF level 6",
+      "HNC Administration and Information Technology at SCQF level 7"
+    ],
+    "progression_roles": ["Team leader", "Office manager"]
+  },
+  "chunks": [
+    { "chunk_id": "administrative-assistant-001", "section": "how_to_become", "text": "To become an administrative assistant in the NHS, apply for vacancies on the NHS recruitment website. You could also do a Modern Apprenticeship." },
+    { "chunk_id": "administrative-assistant-002", "section": "salary", "text": "NHS administrative assistants start at £25,694 before tax at entry level. Senior administrative assistants can earn up to £33,016 before tax." },
+    { "chunk_id": "administrative-assistant-003", "section": "description", "text": "In the NHS, administrative assistants work in hospitals, health centres, and board headquarters, providing business support to arrange meetings, create documents, and maintain records." },
+    { "chunk_id": "administrative-assistant-004", "section": "entry_requirements", "text": "A good standard of education is needed. Useful subjects include Administration and IT, Business Management, English, and Maths." },
+    { "chunk_id": "administrative-assistant-005", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland." },
+    { "chunk_id": "administrative-assistant-006", "section": "education_and_training", "text": "Options include a Business Administration Modern Apprenticeship, SVQ Business and Administration at SCQF level 5, and SVQ Customer Service at SCQF level 5." },
+    { "chunk_id": "administrative-assistant-007", "section": "role_overview", "text": "Key skills include communication, time management, and organisation. The role can be in a clinical setting like a reception desk or in an office." },
+    { "chunk_id": "administrative-assistant-008", "section": "learning_and_development", "text": "Mandatory training includes health and safety, occupational health, fire safety, counter-fraud, moving and handling, and safe information handling." },
+    { "chunk_id": "administrative-assistant-009", "section": "career_progression", "text": "Further qualifications like SVQ Business and Administration at SCQF level 6 and HNC Administration and IT at SCQF level 7 support progression into team leader or office manager roles." }
+  ]
+}

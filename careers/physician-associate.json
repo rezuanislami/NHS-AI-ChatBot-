@@ -1,0 +1,44 @@
+{
+  "id": "physician-associate",
+  "title": "Physician Associate",
+  "sector": "Medical Associate Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/medical-associate-professions/physician-associate/",
+  "how_to_become": "To become a physician associate, you'll need a postgraduate diploma or a master's degree in Physician Associate Studies.",
+  "description": "Physician associates (PAs) are medically trained, generalist healthcare professionals who work with doctors in multidisciplinary teams to provide medical care. PAs are dependent practitioners working with a dedicated supervisor but can also work independently on specific tasks.",
+  "role_overview": "As a physician associate, you'll work within clearly defined boundaries under the supervision of a dedicated supervisor, performing specific tasks independently. You could provide cover for trainee doctors and surgeons. Most physician associates work in general practice, acute, or emergency medicine.",
+  "entry_requirements": {
+    "overview": "A postgraduate diploma or master's degree in Physician Associate Studies is required. Entry requires an undergraduate degree in a bioscience-related subject, or eligibility as a registered healthcare professional such as an AHP, nurse, or midwife. A national exam must be passed after graduation.",
+    "useful_subjects": [
+      "Human Biology",
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "duration": "2 years, involving generalist medical training with some focus on specialised disciplines including mental health, surgery, and paediatrics.",
+    "clinical_training": "1,600 hours of clinical training including 350 hours in general hospital medicine and at least 90 hours in mental health, surgery, and paediatrics.",
+    "scottish_university": "University of Aberdeen — MSc in Physician Associate Studies. Minimum 2:1 honours degree in a science or health-related subject required.",
+    "other_universities": "Other UK universities offer physician associate postgraduate courses. See the Faculty of Physician Associates website for an up-to-date list."
+  },
+  "learning_and_development": {
+    "cpd_requirement": "All physician associates must complete 50 hours of CPD per year. Documented evidence must be provided to remain on the Physician Associate Managed Voluntary Register (PAMVR), maintained by the Faculty of Physician Associates (FPA)."
+  },
+  "registration": "Since December 2024, all newly qualified physician associates must register with the General Medical Council (GMC) prior to employment.",
+  "professional_bodies": [
+    "General Medical Council (GMC) — mandatory registration since December 2024",
+    "Faculty of Physician Associates (FPA) — based at the Royal College of Physicians"
+  ],
+  "chunks": [
+    { "chunk_id": "physician-associate-001", "section": "how_to_become", "text": "To become a physician associate, you'll need a postgraduate diploma or master's degree in Physician Associate Studies, requiring an undergraduate degree in a bioscience-related subject or registration as an AHP, nurse, or midwife. A national exam must be passed after graduation." },
+    { "chunk_id": "physician-associate-002", "section": "description", "text": "Physician associates are medically trained, generalist healthcare professionals who work with doctors in multidisciplinary teams, operating as dependent practitioners under a dedicated supervisor with some independent tasks." },
+    { "chunk_id": "physician-associate-003", "section": "role_overview", "text": "Physician associates work within clearly defined boundaries under supervision, performing specific tasks independently and often covering for trainee doctors. Most work in general practice, acute, or emergency medicine." },
+    { "chunk_id": "physician-associate-004", "section": "entry_requirements", "text": "Useful school subjects include Human Biology, Biology, Chemistry, Physics, English, and Maths. An undergraduate degree in a bioscience-related subject is required, or eligibility as a registered healthcare professional." },
+    { "chunk_id": "physician-associate-005", "section": "education_and_training", "text": "Training takes 2 years, including 1,600 hours of clinical training (350 hours in general hospital medicine, 90+ hours in mental health, surgery, and paediatrics). In Scotland, the University of Aberdeen offers an MSc in Physician Associate Studies requiring a minimum 2:1 honours degree." },
+    { "chunk_id": "physician-associate-006", "section": "learning_and_development", "text": "Physician associates must complete 50 hours of CPD per year and provide documented evidence to remain on the Physician Associate Managed Voluntary Register (PAMVR) maintained by the Faculty of Physician Associates (FPA)." },
+    { "chunk_id": "physician-associate-007", "section": "registration", "text": "Since December 2024, all newly qualified physician associates must register with the General Medical Council (GMC) prior to employment." }
+  ]
+}

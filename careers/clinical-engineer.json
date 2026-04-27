@@ -1,0 +1,87 @@
+{
+  "id": "clinical-engineer",
+  "title": "Clinical Engineer",
+  "sector": "Healthcare Science",
+  "sub_sector": "Engineering Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/engineering-sciences/clinical-engineer/",
+  "how_to_become": "You'll need to complete a postgraduate-level work-based training programme to become a clinical engineer in the NHS.",
+  "salary": {
+    "entry": "£43,321",
+    "entry_note": "Clinical engineers in the NHS start at £43,321 before tax.",
+    "experienced": "£61,466",
+    "experienced_note": "Specialist clinical engineers in the NHS can earn up to £61,466 before tax."
+  },
+  "description": "Clinical engineers combine design and development, problem-solving, and engineering knowledge to help healthcare professionals diagnose and treat diseases, and to design, build, and adapt assistive technology or medical devices for patients and clinical services.",
+  "specialisms": [
+    "Clinical measurement — carrying out specialist diagnostic tests to monitor and assess the effectiveness of treatment interventions.",
+    "Medical equipment management — maintaining equipment used to deliver healthcare services, ensuring it is ready and safe to use.",
+    "Engineering design and development — designing and developing medical devices and building technology to meet the needs of clinical services.",
+    "Rehabilitation engineering — manufacturing or adapting assistive technology including wheelchairs, artificial limbs, and robotic aids."
+  ],
+  "role_overview": "Clinical engineers commission, calibrate, and monitor medical equipment and surgical instruments to ensure they are safe for use. They make, improve, or adapt assistive technology and design and develop bespoke medical devices and software to meet the needs of clinical services.",
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree at SCQF level 10 in a relevant engineering subject is required to apply for the training scheme.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Biology",
+      "Computing Science",
+      "Design and Manufacture",
+      "Engineering Science",
+      "Physics"
+    ],
+    "undergraduate_degrees": [
+      "Electronic Engineering",
+      "Engineering Systems",
+      "Manufacturing Engineering",
+      "Mechanical Engineering",
+      "Software Engineering"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland. Some clinical engineers train in industry before bringing their skills to the NHS.",
+  "education_and_training": {
+    "training_scheme": "Scottish Medical Physics and Clinical Engineering Training Scheme.",
+    "structure": [
+      "Year 1 — Master's degree at SCQF level 11.",
+      "Year 2 — Experience working in different clinical engineering specialisms.",
+      "Year 3 — Focus on a single specialism or lead an innovation project."
+    ],
+    "registration": "On completion, register as a clinical scientist with the Health and Care Professions Council (HCPC).",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education."
+  },
+  "learning_and_development": {
+    "overview": "Clinical scientists in clinical engineering must undertake CPD to keep knowledge and skills up to date and maintain HCPC registration.",
+    "further_qualifications": [
+      "Higher specialist development",
+      "PhDs and professional doctorates"
+    ]
+  },
+  "career_progression": {
+    "overview": "Gaining qualifications leads to more senior roles or advancement to specialised areas of service.",
+    "progression_roles": [
+      "Senior clinical engineer",
+      "Specialist clinical engineer",
+      "Academic research roles"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Academy for Healthcare Science (AHCS)",
+    "Association of Clinical Scientists (ACS)",
+    "Institute of Physics and Engineering in Medicine (IPEM)",
+    "The Register of Clinical Technologists (RCT)",
+    "Other chartered professional bodies"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-engineer-001", "section": "how_to_become", "text": "To become a clinical engineer in the NHS, you'll need to complete a postgraduate-level work-based training programme, specifically the Scottish Medical Physics and Clinical Engineering Training Scheme." },
+    { "chunk_id": "clinical-engineer-002", "section": "salary", "text": "Clinical engineers in the NHS start at £43,321 before tax. Specialist clinical engineers can earn up to £61,466 before tax." },
+    { "chunk_id": "clinical-engineer-003", "section": "description", "text": "Clinical engineers combine engineering knowledge with problem-solving skills to help healthcare professionals diagnose and treat diseases, and to design, build, and adapt assistive technology and medical devices." },
+    { "chunk_id": "clinical-engineer-004", "section": "specialisms", "text": "Clinical engineers specialise in one of four areas: clinical measurement (diagnostic tests), medical equipment management (maintaining safe equipment), engineering design and development (designing medical devices), or rehabilitation engineering (adapting assistive technology including wheelchairs and artificial limbs)." },
+    { "chunk_id": "clinical-engineer-005", "section": "entry_requirements", "text": "An undergraduate honours degree at SCQF level 10 in Electronic Engineering, Engineering Systems, Manufacturing Engineering, Mechanical Engineering, or Software Engineering is required. Useful school subjects include English, Maths, Biology, Computing Science, Design and Manufacture, Engineering Science, and Physics." },
+    { "chunk_id": "clinical-engineer-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience. Some clinical engineers train in industry before bringing their skills to the NHS." },
+    { "chunk_id": "clinical-engineer-007", "section": "education_and_training", "text": "The Scottish Medical Physics and Clinical Engineering Training Scheme involves a master's degree at SCQF level 11 in year 1, experience across clinical engineering specialisms in year 2, and specialisation or an innovation project in year 3. On completion, registration with the HCPC as a clinical scientist is required." },
+    { "chunk_id": "clinical-engineer-008", "section": "learning_and_development", "text": "Clinical scientists in clinical engineering must maintain CPD to keep skills up to date and maintain HCPC registration. Further qualifications include higher specialist development and PhDs or professional doctorates." },
+    { "chunk_id": "clinical-engineer-009", "section": "career_progression", "text": "Gaining qualifications leads to more senior or specialist clinical engineer roles and opportunities in academic research." },
+    { "chunk_id": "clinical-engineer-010", "section": "professional_bodies", "text": "Clinical engineers must register with the HCPC to work in the NHS. They may also join the Academy for Healthcare Science (AHCS), Association of Clinical Scientists (ACS), Institute of Physics and Engineering in Medicine (IPEM), and the Register of Clinical Technologists (RCT)." }
+  ]
+}

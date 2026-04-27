@@ -1,0 +1,59 @@
+{
+  "id": "maternity-support-worker",
+  "title": "Maternity Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/maternity-support-worker/",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship.",
+  "description": "Maternity support workers assist midwifery teams in providing high-quality clinical and person-centred care to women, birthing people, and families. Supervised by a registered midwife, they work in birth centres, midwife-led units, consultant-led units, operating theatres, and the community.",
+  "role_overview": "As a maternity support worker, you'll provide clinical and therapeutic support as part of a multi-professional maternity care programme and create and maintain supportive relationships with women, birthing people, and their families. Maternity support workers do not make clinical decisions but assist in delivering personalised care plans.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed.",
+    "useful_subjects": [
+      "Biology",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Healthcare Support Modern Apprenticeship with clinical pathway units for midwifery. Mandatory units include communicating effectively in a healthcare environment, reducing risks to health and safety, and developing knowledge and practice.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "work_based_training": [
+      "Infection control",
+      "Breastfeeding support",
+      "Risk management",
+      "Child protection",
+      "Health and safety"
+    ],
+    "note": "Career development is planned and reviewed annually through the Personal Development Planning (PDP) cycle."
+  },
+  "career_progression": {
+    "overview": "Maternity support workers can progress to senior roles or gain qualifications to become a maternity care assistant or registered midwife.",
+    "qualifications_for_progression": [
+      "HNC in Healthcare Practice at SCQF level 7 — recognised entry to pre-registration midwifery degree",
+      "CertHE Maternity Care Assistant at SCQF level 7 — recognised entry to pre-registration midwifery degree"
+    ],
+    "progression_roles": [
+      "Senior maternity support worker",
+      "Maternity care assistant",
+      "Registered midwife (via undergraduate degree)"
+    ]
+  },
+  "professional_bodies": [
+    "Royal College of Midwives (RCM)"
+  ],
+  "related_careers": [
+    "Maternity care assistant",
+    "Midwife"
+  ],
+  "chunks": [
+    { "chunk_id": "maternity-support-worker-001", "section": "how_to_become", "text": "To become a maternity support worker, apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship in Healthcare Support." },
+    { "chunk_id": "maternity-support-worker-002", "section": "description", "text": "Maternity support workers assist midwifery teams in providing high-quality clinical and person-centred care to women, birthing people, and families in birth centres, midwife-led units, consultant-led units, operating theatres, and the community." },
+    { "chunk_id": "maternity-support-worker-003", "section": "role_overview", "text": "Maternity support workers provide clinical and therapeutic support as part of a multi-professional maternity care programme. They do not make clinical decisions but assist in delivering personalised care plans centred on individual needs and choices." },
+    { "chunk_id": "maternity-support-worker-004", "section": "entry_requirements", "text": "A good standard of education is needed. Useful school subjects include Biology, English, and Maths." },
+    { "chunk_id": "maternity-support-worker-005", "section": "learning_and_development", "text": "Work-based training includes infection control, breastfeeding support, risk management, child protection, and health and safety. Career development is reviewed annually through the PDP cycle." },
+    { "chunk_id": "maternity-support-worker-006", "section": "career_progression", "text": "Maternity support workers can progress to senior maternity support worker, maternity care assistant, or registered midwife. HNC Healthcare Practice and CertHE Maternity Care Assistant at SCQF level 7 are recognised entry options to pre-registration midwifery degree programmes." }
+  ]
+}

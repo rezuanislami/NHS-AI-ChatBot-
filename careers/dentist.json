@@ -1,0 +1,86 @@
+{
+  "id": "dentist",
+  "title": "Dentist",
+  "sector": "Dental",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/dental/dentist/",
+  "published": "30/03/2023",
+  "last_updated": "27/06/2024",
+  "how_to_become": "To become a dentist, you'll need to complete an undergraduate Bachelor of Dental Surgery (BDS) degree programme and then register with the General Dental Council (GDC).",
+  "salary": {
+    "entry": "N/A — dentists are typically self-employed general dental practitioners",
+    "entry_note": "Dentists working in the Public Dental Service start as clinical dental officers on a salaried basis.",
+    "experienced": "N/A",
+    "experienced_note": "Earnings vary depending on whether the dentist works in general dental practice, the Public Dental Service, or the Hospital Dental Service."
+  },
+  "description": "A dentist is a healthcare professional who provides advice, education, and treatment to help patients achieve and maintain good oral health. They restore dental health when it has been impaired. Many work in general dental practice as a practice principal, partner, or associate. Dentists need extensive clinical knowledge, technical skills, and the ability to lead and manage a team.",
+  "role_overview": "As a dentist, you'll give preventive advice and treat problems affecting the mouth and teeth, using knowledge of human anatomy and oral diseases to educate, diagnose, and treat patients. You'll help protect teeth and gums from decay and disease, correct dental irregularities in orthodontics, and treat dental and facial injuries in oral surgery.",
+  "entry_requirements": {
+    "overview": "A Bachelor of Dental Surgery (BDS) degree approved by the GDC is required, along with the University Clinical Aptitude Test (UCAT). Work experience in a dental practice is strongly recommended. English language proficiency is required by the GDC.",
+    "useful_subjects": [
+      "Chemistry",
+      "Biology",
+      "Maths",
+      "Physics",
+      "English"
+    ],
+    "additional_requirements": [
+      "University Clinical Aptitude Test (UCAT) — required in the year of application",
+      "Fitness to practise requirements set by the GDC",
+      "Occupational health screening for blood-borne viral infections before starting the course"
+    ]
+  },
+  "work_experience": "Most universities insist on first-hand experience of dental practice before considering an application. Work placements and volunteering are crucial in helping decide if dentistry is the right career path.",
+  "education_and_training": {
+    "undergraduate_universities": [
+      "University of Dundee — 5 years full-time",
+      "University of Glasgow — 5 years full-time",
+      "University of Aberdeen — 4 years full-time (graduates only)"
+    ],
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education.",
+    "vocational_training": "After graduating with a BDS, all dentists complete one year of vocational training (VT) in an approved dental practice supervised by an experienced practitioner. Successful completion leads to a Certificate of Satisfactory Completion of Training and eligibility for a health board list number.",
+    "dental_core_training": "Optional follow-on from vocational training. DCT1 includes 6 months in the Public Dental Service and 6 months in the Hospital Dental Service. DCT2 usually consists of one year in the Hospital Dental Service.",
+    "specialty_training": "Dental specialty training takes 3 to 5 years. Scottish specialties include orthodontics, oral surgery, paediatric dentistry, restorative dentistry, dental public health, and oral and maxillofacial radiology.",
+    "english_language": "All dental professionals must be sufficiently fluent in written and spoken English to communicate effectively with patients, relatives, the dental team, and other healthcare professionals."
+  },
+  "learning_and_development": {
+    "overview": "All dentists must undertake continuing professional development (CPD) throughout their working lives to maintain skills, knowledge, and competence as required by the GDC."
+  },
+  "career_progression": {
+    "general_practice": [
+      "Associate",
+      "Partner",
+      "Practice principal"
+    ],
+    "public_dental_service": [
+      "Clinical dental officer",
+      "Senior clinical dental officer"
+    ],
+    "specialty_areas": [
+      "Orthodontics",
+      "Oral surgery",
+      "Paediatric dentistry",
+      "Restorative dentistry",
+      "Dental public health",
+      "Oral and maxillofacial radiology"
+    ]
+  },
+  "professional_bodies": [
+    "General Dental Council (GDC) — mandatory for NHS practice"
+  ],
+  "related_careers": [
+    "Dental nurse",
+    "Reconstructive scientist"
+  ],
+  "chunks": [
+    { "chunk_id": "dentist-001", "section": "how_to_become", "text": "To become a dentist, complete an undergraduate Bachelor of Dental Surgery (BDS) degree programme and register with the General Dental Council (GDC). Work experience in a dental practice is strongly recommended before applying to dental school." },
+    { "chunk_id": "dentist-002", "section": "description", "text": "Dentists provide advice, education, and treatment to help patients achieve and maintain good oral health. Many work in general dental practice as a practice principal, partner, or associate, requiring extensive clinical knowledge, technical skills, and team management abilities." },
+    { "chunk_id": "dentist-003", "section": "role_overview", "text": "Dentists give preventive advice, diagnose and treat problems affecting the mouth and teeth, correct dental irregularities in orthodontics, and treat dental and facial injuries in oral surgery." },
+    { "chunk_id": "dentist-004", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, Biology, Maths, Physics, and English. A BDS degree is required along with the University Clinical Aptitude Test (UCAT), GDC fitness to practise requirements, and occupational health screening. English language proficiency is required by the GDC." },
+    { "chunk_id": "dentist-005", "section": "work_experience", "text": "Most universities insist on first-hand experience of dental practice before considering an application. Work placements and volunteering help confirm dentistry is the right career and prepare for the application process." },
+    { "chunk_id": "dentist-006", "section": "education_and_training", "text": "BDS programmes are offered at the University of Dundee and University of Glasgow (5 years full-time) and University of Aberdeen (4 years, graduates only). After graduation, all dentists complete one year of vocational training. Optional dental core training and specialty training (3 to 5 years) are also available. SWAP supports adult learners into higher education." },
+    { "chunk_id": "dentist-007", "section": "specialty_training", "text": "Dental specialty training in Scotland includes orthodontics, oral surgery, paediatric dentistry, restorative dentistry, dental public health, and oral and maxillofacial radiology, taking 3 to 5 years to complete." },
+    { "chunk_id": "dentist-008", "section": "learning_and_development", "text": "All dentists must undertake continuing professional development (CPD) throughout their working lives to maintain skills, knowledge, and competence as required by the GDC." },
+    { "chunk_id": "dentist-009", "section": "career_progression", "text": "Dentists can progress to associate, partner, or practice principal in general dental practice, or start their own practice. In the Public Dental Service, progression follows an established career structure from clinical dental officer. Specialty training leads to careers in specialist dental practice or the Hospital Dental Service." },
+    { "chunk_id": "dentist-010", "section": "professional_bodies", "text": "Dentists must register with the General Dental Council (GDC) to work in the NHS." }
+  ]
+}

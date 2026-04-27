@@ -1,0 +1,77 @@
+{
+  "id": "medical-physicist",
+  "title": "Medical Physicist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physical and Imaging Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physical-and-imaging-sciences/medical-physicist/",
+  "how_to_become": "You'll need to complete a postgraduate-level work-based training programme to become a medical physicist in the NHS.",
+  "description": "Medical physicists use their knowledge of physics to bring together scientific methods and clinical technology to help diagnose illnesses and treat patients. This could include installing and testing new equipment to improve cancer treatment or developing new imaging techniques to track organ function.",
+  "work_areas": [
+    "Radiotherapy",
+    "Radiation protection",
+    "Imaging physics",
+    "Non-ionising radiation",
+    "Nuclear medicine physics",
+    "Medical equipment management"
+  ],
+  "role_overview": "As a medical physicist, you'll use a range of equipment to help prevent, treat, or diagnose medical conditions in patients. Medical physicists must register with the HCPC as clinical scientists to work in the NHS.",
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree at SCQF level 10 in a relevant subject is required to apply for the training scheme.",
+    "useful_subjects": [
+      "Maths",
+      "English",
+      "Physics",
+      "Engineering Science",
+      "Computing Science",
+      "Biology"
+    ],
+    "undergraduate_degrees": [
+      "Physics",
+      "Engineering",
+      "Biomedical Engineering"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_scheme": "Scottish Medical Physics and Clinical Engineering Training Scheme.",
+    "structure": [
+      "Year 1 — Master's degree at SCQF level 11.",
+      "Year 2 — Experience working in different areas of medical physics.",
+      "Year 3 — Specialise in one area or lead an innovation project."
+    ],
+    "registration": "On completion, register as a clinical scientist with the HCPC.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education."
+  },
+  "learning_and_development": {
+    "overview": "Medical physicists must undertake CPD to keep knowledge and skills up to date and maintain HCPC registration.",
+    "further_qualifications": [
+      "Higher specialist development",
+      "PhDs and professional doctorates"
+    ]
+  },
+  "career_progression": {
+    "overview": "Gaining qualifications leads to more senior roles or advancement into specialised areas of service.",
+    "progression_roles": [
+      "Senior medical physicist",
+      "Specialist medical physicist",
+      "Academic research roles"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Academy for Healthcare Science (AHCS)",
+    "Association of Clinical Scientists (ACS)",
+    "Institute of Physics and Engineering in Medicine (IPEM)",
+    "Other chartered professional bodies"
+  ],
+  "chunks": [
+    { "chunk_id": "medical-physicist-001", "section": "how_to_become", "text": "To become a medical physicist in the NHS, complete the Scottish Medical Physics and Clinical Engineering Training Scheme, a postgraduate-level work-based programme." },
+    { "chunk_id": "medical-physicist-002", "section": "description", "text": "Medical physicists use physics knowledge to help diagnose illnesses and treat patients, including installing and testing cancer treatment equipment and developing new imaging techniques to track organ function." },
+    { "chunk_id": "medical-physicist-003", "section": "work_areas", "text": "Medical physicists work in radiotherapy, radiation protection, imaging physics, non-ionising radiation, nuclear medicine physics, and medical equipment management." },
+    { "chunk_id": "medical-physicist-004", "section": "entry_requirements", "text": "Useful school subjects include Maths, English, Physics, Engineering Science, Computing Science, and Biology. An undergraduate honours degree at SCQF level 10 in Physics, Engineering, or Biomedical Engineering is required." },
+    { "chunk_id": "medical-physicist-005", "section": "education_and_training", "text": "The Scottish Medical Physics and Clinical Engineering Training Scheme involves a master's degree in year 1, experience across medical physics areas in year 2, and specialisation or an innovation project in year 3. On completion, registration with the HCPC as a clinical scientist is required." },
+    { "chunk_id": "medical-physicist-006", "section": "learning_and_development", "text": "Medical physicists must maintain CPD and HCPC registration. Further qualifications include higher specialist development and PhDs or professional doctorates." },
+    { "chunk_id": "medical-physicist-007", "section": "career_progression", "text": "Gaining qualifications leads to senior or specialist medical physicist roles and opportunities in academic research." },
+    { "chunk_id": "medical-physicist-008", "section": "professional_bodies", "text": "Medical physicists must register with the HCPC. They can also join the Academy for Healthcare Science (AHCS), Association of Clinical Scientists (ACS), and Institute of Physics and Engineering in Medicine (IPEM)." }
+  ]
+}

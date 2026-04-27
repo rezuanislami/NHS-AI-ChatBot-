@@ -1,0 +1,37 @@
+{
+  "id": "domestic-assistant",
+  "title": "Domestic Assistant",
+  "sector": "Support Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/support-services/domestic-assistant/",
+  "published": "12/06/2023",
+  "last_updated": "21/06/2024",
+  "how_to_become": "Apply for vacancies on the NHS recruitment website.",
+  "description": "Domestic assistants help provide a clean and pleasant environment for patients, visitors, and staff throughout hospitals, health centres, and other healthcare settings, using efficient and effective cleaning methods that meet quality and hygiene standards.",
+  "role_overview": "As a domestic assistant, you'll join the domestic services team, working under domestic supervisors to maintain clean and hygienic health centres, office accommodation, and hospitals in both clinical and non-clinical areas.",
+  "entry_requirements": {
+    "overview": "A good standard of education and large-scale cleaning experience are useful.",
+    "useful_subjects": ["English", "Maths"],
+    "college_courses": [
+      "SVQ Hospitality at SCQF level 4",
+      "SVQ Customer Service at SCQF level 4"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "learning_and_development": {
+    "role_specific_training": ["Domestic Workbook"]
+  },
+  "career_progression": {
+    "qualifications": [
+      "SVQ Cleaning and Support Services at SCQF level 5",
+      "SVQ Facilities Services at SCQF level 5",
+      "British Institute of Cleaning Science (BICSc) qualifications"
+    ],
+    "progression_roles": ["Shift leader", "Domestic supervisor"]
+  },
+  "chunks": [
+    { "chunk_id": "domestic-assistant-001", "section": "how_to_become", "text": "To become a domestic assistant in the NHS, apply for vacancies on the NHS recruitment website." },
+    { "chunk_id": "domestic-assistant-002", "section": "description", "text": "Domestic assistants provide a clean and pleasant environment for patients, visitors, and staff throughout hospitals and health centres, using efficient cleaning methods that meet quality and hygiene standards." },
+    { "chunk_id": "domestic-assistant-003", "section": "entry_requirements", "text": "Useful school subjects include English and Maths. College options include SVQ Hospitality and SVQ Customer Service at SCQF level 4. Large-scale cleaning experience is useful." },
+    { "chunk_id": "domestic-assistant-004", "section": "career_progression", "text": "With qualifications such as SVQ Cleaning and Support Services at SCQF level 5, SVQ Facilities Services at SCQF level 5, or BICSc qualifications, domestic assistants can progress to shift leader or domestic supervisor roles." }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "assistant-practitioner-physiological-sciences",
+  "title": "Assistant Practitioner — Physiological Sciences",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physiological Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physiological-sciences/assistant-practitioner-physiological-sciences/",
+  "how_to_become": "Apply for assistant practitioner vacancies on the NHS recruitment website.",
+  "description": "Assistant practitioners in physiological sciences set up and clean clinical equipment, support routine diagnostic testing, and update patient records. They work in audiology, cardiac sciences, gastrointestinal physiology, neurophysiology, ophthalmic and vision science, respiratory physiology, sleep physiology, and vascular science.",
+  "role_overview": "As an assistant practitioner in physiological sciences, you'll support the clinical physiology team with diagnostic investigations across a range of specialist areas.",
+  "work_areas": [
+    "Audiology",
+    "Cardiac sciences",
+    "Gastrointestinal physiology",
+    "Neurophysiology",
+    "Ophthalmic and vision science",
+    "Respiratory physiology",
+    "Sleep physiology",
+    "Vascular science"
+  ],
+  "entry_requirements": {
+    "useful_subjects": [
+      "English",
+      "Biology",
+      "Chemistry",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "learning_and_development": {
+    "training_topics": [
+      "Standard operating procedures",
+      "Quality management policies",
+      "External quality assessment and internal quality control",
+      "Department and hospital health and safety",
+      "Risk management"
+    ]
+  },
+  "career_progression": {
+    "overview": "With experience and further training, assistant practitioners can apply for the clinical physiology undergraduate training programme to become a qualified healthcare science practitioner.",
+    "progression_roles": [
+      "Healthcare science practitioner (via clinical physiology undergraduate training programme)"
+    ]
+  },
+  "professional_bodies": [
+    "Academy for Healthcare Science (AHCS) — non-accredited healthcare science register"
+  ],
+  "chunks": [
+    { "chunk_id": "assistant-practitioner-physiological-sciences-001", "section": "how_to_become", "text": "Apply for assistant practitioner vacancies on the NHS recruitment website." },
+    { "chunk_id": "assistant-practitioner-physiological-sciences-002", "section": "description", "text": "Assistant practitioners in physiological sciences set up and clean clinical equipment, support routine diagnostic testing, and update patient records across audiology, cardiac sciences, gastrointestinal physiology, neurophysiology, ophthalmic and vision science, respiratory physiology, sleep physiology, and vascular science." },
+    { "chunk_id": "assistant-practitioner-physiological-sciences-003", "section": "entry_requirements", "text": "Useful school subjects include English, Biology, Chemistry, and Maths." },
+    { "chunk_id": "assistant-practitioner-physiological-sciences-004", "section": "learning_and_development", "text": "Training covers standard operating procedures, quality management policies, quality control, department and hospital health and safety, and risk management." },
+    { "chunk_id": "assistant-practitioner-physiological-sciences-005", "section": "career_progression", "text": "With experience and training, assistant practitioners can apply for the clinical physiology undergraduate training programme to become a qualified healthcare science practitioner in their specialist area." }
+  ]
+}

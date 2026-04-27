@@ -1,0 +1,43 @@
+{
+  "id": "nhs-24-call-handler",
+  "title": "NHS 24 Call Handler",
+  "sector": "NHS 24 Service Delivery",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/nhs-24-service-delivery/call-handler/",
+  "how_to_become": "To become an NHS 24 call handler, you must complete NHS 24's core training programme. You'll then receive support as you transition into the role.",
+  "salary": {
+    "entry": "£28,011",
+    "entry_note": "NHS 24 call handlers start at £28,011 before tax.",
+    "experienced": "£33,016",
+    "experienced_note": "Senior NHS 24 call handlers can earn up to £33,016 before tax."
+  },
+  "description": "NHS 24 provides digital and telephone-based health and care services to help people access the right care when needed. The NHS 24 Unscheduled Care Service handles 1.5 million calls annually, approximately 50% at weekends. Call handlers provide person-centred, safe, and effective healthcare on the telephone, assisting callers with minor illnesses, mental health support, or out-of-hours dental care.",
+  "role_overview": "As an NHS 24 call handler, you'll accurately record information given by callers on the patient contact management system, identify their needs using system-generated guidance and additional questions, and follow instructions to determine the appropriate advice or service. Call handlers work an 8-week fixed rota. NHS 24 call handlers must join the Protecting Vulnerable Groups (PVG) scheme.",
+  "entry_requirements": {
+    "overview": "National 5 qualifications at SCQF level 5 or equivalent are required. Customer service or caring experience is helpful.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Administration and IT",
+      "Science"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "Comprehensive in-house core training programme over 3 weeks, learning to navigate the patient contact management system and connect people with vital care and support.",
+    "transition_support": "After training, 2 weeks in a 'protected pod' supported by a manager while transitioning into the role."
+  },
+  "learning_and_development": {
+    "overview": "All NHS 24 staff must complete training regularly to comply with statutory requirements. Staff are encouraged to participate in continuous professional development specific to their role."
+  },
+  "career_progression": {
+    "overview": "While working at NHS 24, staff have access to learning and development opportunities to help them take on new roles and challenges."
+  },
+  "chunks": [
+    { "chunk_id": "nhs-24-call-handler-001", "section": "how_to_become", "text": "To become an NHS 24 call handler, complete NHS 24's 3-week core training programme followed by 2 weeks of supported transition in a protected pod." },
+    { "chunk_id": "nhs-24-call-handler-002", "section": "salary", "text": "NHS 24 call handlers start at £28,011 before tax. Senior NHS 24 call handlers can earn up to £33,016 before tax." },
+    { "chunk_id": "nhs-24-call-handler-003", "section": "description", "text": "NHS 24 call handlers provide person-centred healthcare on the telephone for the Unscheduled Care Service, which handles 1.5 million calls annually. They assist callers with minor illnesses, mental health support, and out-of-hours dental care." },
+    { "chunk_id": "nhs-24-call-handler-004", "section": "role_overview", "text": "NHS 24 call handlers accurately record caller information, identify needs using system-generated guidance, and determine appropriate advice or services. They work an 8-week fixed rota and must be registered with the PVG scheme." },
+    { "chunk_id": "nhs-24-call-handler-005", "section": "entry_requirements", "text": "National 5 qualifications at SCQF level 5 or equivalent are required. Customer service or caring experience is helpful. Useful school subjects include English, Maths, Administration and IT, and Science." },
+    { "chunk_id": "nhs-24-call-handler-006", "section": "education_and_training", "text": "Training is delivered through a 3-week in-house core programme covering the patient contact management system, followed by 2 weeks in a protected pod with manager support." }
+  ]
+}

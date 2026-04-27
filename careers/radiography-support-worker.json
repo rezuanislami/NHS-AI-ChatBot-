@@ -1,0 +1,41 @@
+{
+  "id": "radiography-support-worker",
+  "title": "Radiography Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/radiography-support-worker/",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship.",
+  "description": "Radiography support workers assist diagnostic and therapeutic radiographers. Diagnostic radiographers use imaging to help diagnose disease or medical conditions. Therapeutic radiographers use radiation to treat cancers and tumours. Support workers help administer treatment to patients and process digital images used to diagnose those who are ill.",
+  "role_overview": "As a radiography support worker, you'll assist diagnostic and therapeutic radiographers to diagnose and treat patients.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. There are no specific entry requirements.",
+    "useful_subjects": [
+      "Science",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Healthcare Support Modern Apprenticeship with clinical pathway units for radiography. Mandatory units include communication, health and safety, and learning development.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "additional_qualifications": [
+      "SVQ Healthcare Support (Clinical) at SCQF level 7"
+    ]
+  },
+  "career_progression": {
+    "overview": "Experience as a radiography support worker can support entry to university to become a registered radiographer.",
+    "progression_roles": [
+      "Diagnostic radiographer (via undergraduate degree)",
+      "Therapeutic radiographer (via undergraduate degree)"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "radiography-support-worker-001", "section": "how_to_become", "text": "To become a radiography support worker, apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship in Healthcare Support." },
+    { "chunk_id": "radiography-support-worker-002", "section": "description", "text": "Radiography support workers assist diagnostic radiographers (who use imaging to diagnose disease) and therapeutic radiographers (who use radiation to treat cancers and tumours), helping administer treatment and process digital images." },
+    { "chunk_id": "radiography-support-worker-003", "section": "entry_requirements", "text": "No specific entry requirements. Useful school subjects include Science, English, and Maths." },
+    { "chunk_id": "radiography-support-worker-004", "section": "learning_and_development", "text": "Additional qualifications include SVQ Healthcare Support (Clinical) at SCQF level 7. Mandatory Induction Standards must be completed within 3 to 6 months of employment." },
+    { "chunk_id": "radiography-support-worker-005", "section": "career_progression", "text": "Experience as a radiography support worker can support entry to university to become a registered diagnostic radiographer or therapeutic radiographer." }
+  ]
+}

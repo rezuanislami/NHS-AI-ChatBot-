@@ -1,0 +1,58 @@
+{
+  "id": "ahp-practice-educator",
+  "title": "AHP Practice Educator",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/ahp-practice-educator/",
+  "how_to_become": "If you're a registered allied health professional (AHP), you can become a practice educator to support and inspire the future AHP workforce. You should identify your learning needs, link with experienced practice educators, access learning on Turas, and contact your local practice education lead.",
+  "salary": {
+    "entry": "£41,608",
+    "entry_note": "AHP practice educators in the NHS start at £41,608 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "AHP practice education leads can earn up to £59,159 before tax."
+  },
+  "description": "Practice education is the provision of student placements supervised by registered AHPs. It gives students the opportunity to apply their academic learning in practice and is essential for growing the AHP workforce to meet future care demands.",
+  "role_overview": "As an AHP practice educator, you'll provide training opportunities and support the learning, supervision, and assessment of students on placement. You'll create practice-based learning experiences across a range of environments outside the classroom, contributing to both student development and your own professional growth.",
+  "consensus_statements": [
+    "Everyone — All AHPs have a responsibility to support practice-based learning regardless of their grade, role, setting, or specialism.",
+    "Anywhere — Practice-based learning can occur in any environment, setting, or specialism.",
+    "All ways — A wide range of student supervision models can be used to deliver and support practice-based learning.",
+    "Anytime — Robust infrastructure and availability of resources to support practice-based learning must be embedded in service plans."
+  ],
+  "benefits_of_becoming_practice_educator": [
+    "Support learning and development through CPD activities including re-registration with the HCPC.",
+    "Access to local and national networking and collaboration opportunities.",
+    "Flexibility to support student placement delivery.",
+    "Shared learning with AHP students and practitioners.",
+    "Opportunity to contribute to shaping the future of AHP education in Scotland.",
+    "Opportunity to support students on placement from other professions."
+  ],
+  "steps_to_become_practice_educator": [
+    "1. Identify your learning needs.",
+    "2. Link with experienced practice educators in your team or service.",
+    "3. Access learning on Turas.",
+    "4. Look out for university-run development opportunities.",
+    "5. Contact your local practice education lead.",
+    "6. Seek out additional resources."
+  ],
+  "learning_and_development": {
+    "overview": "Supporting students aligns with the Facilitating Learning pillar of the NMAHP Development Framework and contributes to CPD activities including re-registration with the HCPC.",
+    "framework": "NMAHP Development Framework"
+  },
+  "career_progression": {
+    "overview": "AHP practice educators can progress to practice education lead roles with greater responsibility for shaping AHP education across Scotland.",
+    "progression_roles": [
+      "Practice education lead"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "ahp-practice-educator-001", "section": "how_to_become", "text": "Any registered allied health professional (AHP) can become a practice educator by identifying learning needs, linking with experienced practice educators, accessing learning on Turas, and contacting their local practice education lead." },
+    { "chunk_id": "ahp-practice-educator-002", "section": "salary", "text": "AHP practice educators in the NHS start at £41,608 before tax. AHP practice education leads can earn up to £59,159 before tax." },
+    { "chunk_id": "ahp-practice-educator-003", "section": "description", "text": "Practice education involves supervising student placements to allow AHP students to apply academic learning in practice. It is essential for growing the AHP workforce to meet future care demands." },
+    { "chunk_id": "ahp-practice-educator-004", "section": "role_overview", "text": "AHP practice educators provide training opportunities and support the learning, supervision, and assessment of students on placement across a range of environments outside the classroom." },
+    { "chunk_id": "ahp-practice-educator-005", "section": "consensus_statements", "text": "All AHPs have a responsibility to support practice-based learning (Everyone). It can occur in any environment or specialism (Anywhere), using a wide range of supervision models (All ways), with robust infrastructure embedded in service plans (Anytime)." },
+    { "chunk_id": "ahp-practice-educator-006", "section": "benefits", "text": "Benefits of becoming an AHP practice educator include CPD activities supporting HCPC re-registration, local and national networking, flexibility in placement delivery, shared learning with students and practitioners, and contributing to the future of AHP education in Scotland." },
+    { "chunk_id": "ahp-practice-educator-007", "section": "steps_to_become", "text": "To become an AHP practice educator: identify your learning needs, link with experienced practice educators, access learning on Turas, look out for university-run development opportunities, contact your local practice education lead, and seek additional resources." },
+    { "chunk_id": "ahp-practice-educator-008", "section": "learning_and_development", "text": "Supporting students aligns with the Facilitating Learning pillar of the NMAHP Development Framework and contributes to CPD activities including re-registration with the HCPC." },
+    { "chunk_id": "ahp-practice-educator-009", "section": "career_progression", "text": "AHP practice educators can progress to practice education lead roles with greater responsibility for shaping AHP education across Scotland." }
+  ]
+}

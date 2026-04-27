@@ -1,0 +1,54 @@
+{
+  "id": "maternity-care-assistant",
+  "title": "Maternity Care Assistant",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/maternity-care-assistant/",
+  "how_to_become": "To become a maternity care assistant, you'll need experience as a maternity support worker and must complete a Certificate of Higher Education Maternity Care Assistant qualification at SCQF level 7, working towards a related healthcare qualification at SCQF level 8.",
+  "description": "Maternity care assistants (MCAs) provide support and evidence-based advice to women or birthing people and their families during the antenatal, intrapartum, and postnatal periods of childbirth, supervised by registered midwives. They are vital in creating a positive and nurturing environment that helps families thrive.",
+  "role_overview": "As a maternity care assistant, you'll provide clinical support to registered midwives, taking a holistic approach to midwifery care that meets the needs of women, birthing people, babies, and families. MCAs help to plan, deliver, and evaluate maternity care.",
+  "entry_requirements": {
+    "overview": "Experience as a maternity support worker is required. You must be working as a maternity support worker and be supported by your NHS employer to complete the qualification."
+  },
+  "work_experience": "Maternity care assistants usually begin their careers as support workers in maternity care services.",
+  "education_and_training": {
+    "certhe_programme": "CertHE Maternity Care Assistant course at SCQF level 7, delivered by the University of the West of Scotland and fully funded by the Scottish Government. Covers professional practice skills, health and wellbeing in maternity care, and infant feeding, postnatal, and early parenthood support.",
+    "pda_alternative": "PDA Developing Professional Practice in Health and Social Care at SCQF level 7 is also available to maternity support workers."
+  },
+  "learning_and_development": {
+    "overview": "Throughout your career, keep knowledge and skills up to date through reflective practice and CPD, including mandatory and role-specific training.",
+    "mandatory_training": [
+      "Health and safety",
+      "Infection control",
+      "Moving and handling",
+      "Breastfeeding management",
+      "Hearing screening"
+    ],
+    "role_specific_training": [
+      "Obstetric emergency",
+      "Neonatal resuscitation"
+    ]
+  },
+  "career_progression": {
+    "overview": "MCAs can progress to more responsibilities, associate practice educator roles, or become a registered midwife.",
+    "progression_routes": [
+      "Associate practice educator",
+      "Registered midwife (via pre-registration undergraduate midwifery degree — CertHE MCA is a recognised entry option)"
+    ]
+  },
+  "professional_bodies": [
+    "Royal College of Midwives (RCM)"
+  ],
+  "related_careers": [
+    "Maternity support worker",
+    "Midwife",
+    "Nursing support worker"
+  ],
+  "chunks": [
+    { "chunk_id": "maternity-care-assistant-001", "section": "how_to_become", "text": "To become a maternity care assistant, you need experience as a maternity support worker and must complete the CertHE Maternity Care Assistant qualification at SCQF level 7, supported by your NHS employer." },
+    { "chunk_id": "maternity-care-assistant-002", "section": "description", "text": "Maternity care assistants provide support and evidence-based advice to women, birthing people, and families during antenatal, intrapartum, and postnatal periods, supervised by registered midwives." },
+    { "chunk_id": "maternity-care-assistant-003", "section": "role_overview", "text": "MCAs provide clinical support to registered midwives, helping to plan, deliver, and evaluate holistic maternity care for women, birthing people, babies, and families." },
+    { "chunk_id": "maternity-care-assistant-004", "section": "education_and_training", "text": "The CertHE Maternity Care Assistant course at SCQF level 7 is delivered by the University of the West of Scotland and fully funded by the Scottish Government. A PDA Developing Professional Practice in Health and Social Care at SCQF level 7 is also available." },
+    { "chunk_id": "maternity-care-assistant-005", "section": "learning_and_development", "text": "Mandatory training includes health and safety, infection control, moving and handling, breastfeeding management, and hearing screening. Role-specific training includes obstetric emergency and neonatal resuscitation." },
+    { "chunk_id": "maternity-care-assistant-006", "section": "career_progression", "text": "MCAs can progress to associate practice educator roles or become a registered midwife. The CertHE MCA qualification is a recognised entry option to pre-registration undergraduate midwifery degree programmes in Scotland." }
+  ]
+}

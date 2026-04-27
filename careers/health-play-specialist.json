@@ -1,0 +1,73 @@
+{
+  "id": "health-play-specialist",
+  "title": "Health Play Specialist",
+  "sector": "Health Play Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/health-play-services/health-play-specialist/",
+  "how_to_become": "To become a health play specialist, you'll need a foundation degree in Healthcare Play Specialism and experience working with children in a healthcare environment. You must also be registered with the Healthcare Play Specialist Education Trust (HPSET).",
+  "salary": {
+    "entry": "£30,353",
+    "entry_note": "Health play specialists in the NHS start at £30,353 before tax.",
+    "experienced": "£41,424",
+    "experienced_note": "Health play specialists in the NHS can earn up to £41,424 before tax."
+  },
+  "description": "A health play specialist uses therapeutic play and recreational activities to support children, young people, and families. Health play services are available to all families coming into hospital for an inpatient stay or when visiting the emergency department or an outpatient clinic.",
+  "role_overview": "As a health play specialist, you'll support children and their families and carers during hospital appointments and stays, using therapeutic play to help children adapt, reduce anxiety, understand their care, prepare for procedures, and promote recovery.",
+  "therapeutic_play_uses": [
+    "Help children adapt to unfamiliar surroundings.",
+    "Reduce stress and anxiety, help children develop coping strategies, and provide an outlet for expressing feelings.",
+    "Support children in understanding their illness or injury, care plan, and treatment.",
+    "Prepare children for surgery or procedures using role play with preparation dolls and medical equipment.",
+    "Distract children during diagnostic tests and medical procedures.",
+    "Promote recovery and rehabilitation."
+  ],
+  "entry_requirements": {
+    "overview": "A foundation degree in Healthcare Play Specialism and experience working with children in a healthcare environment are required, along with HPSET registration.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Biology",
+      "Care",
+      "Childcare and development",
+      "Psychology"
+    ],
+    "college_prerequisites": [
+      "National 5 English and Maths or equivalent",
+      "HNC Childhood Practice at SCQF level 7",
+      "SVQ Playwork at SCQF level 6"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland. Some health play specialists start as health play assistants or volunteers in health play services.",
+  "education_and_training": {
+    "foundation_degree": "Foundation degree in Healthcare Play Specialism.",
+    "uk_providers": [
+      "Cardiff and Vale College",
+      "North East Surrey College of Technology",
+      "Leeds City College",
+      "North Warwickshire and South Leicestershire College"
+    ],
+    "registration": "On completing the foundation degree, you'll register as a play specialist with the Healthcare Play Specialist Education Trust (HPSET). Some boards accept evidence of CPD as an alternative to HPSET registration."
+  },
+  "career_progression": {
+    "overview": "With experience and development, health play specialists can progress to more senior roles or train in related healthcare fields.",
+    "progression_roles": [
+      "Senior health play specialist",
+      "Children's nurse",
+      "Occupational therapist"
+    ]
+  },
+  "professional_bodies": [
+    "Healthcare Play Specialist Education Trust (HPSET) — required for practice",
+    "National Association of Health Play Specialists (NAHPS)"
+  ],
+  "chunks": [
+    { "chunk_id": "health-play-specialist-001", "section": "how_to_become", "text": "To become a health play specialist, you'll need a foundation degree in Healthcare Play Specialism, experience working with children in a healthcare environment, and registration with the Healthcare Play Specialist Education Trust (HPSET)." },
+    { "chunk_id": "health-play-specialist-002", "section": "salary", "text": "Health play specialists in the NHS start at £30,353 before tax and can earn up to £41,424 before tax at experienced level." },
+    { "chunk_id": "health-play-specialist-003", "section": "description", "text": "Health play specialists use therapeutic play and recreational activities to support children, young people, and families during hospital inpatient stays, emergency department visits, and outpatient clinic appointments." },
+    { "chunk_id": "health-play-specialist-004", "section": "therapeutic_play_uses", "text": "Therapeutic play helps children adapt to unfamiliar surroundings, reduce stress and anxiety, understand their illness and care plan, prepare for surgery using role play and medical equipment, stay distracted during procedures, and promote recovery and rehabilitation." },
+    { "chunk_id": "health-play-specialist-005", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Biology, Care, Childcare and development, and Psychology. Prerequisites for the foundation degree include National 5 English and Maths and either HNC Childhood Practice at SCQF level 7 or SVQ Playwork at SCQF level 6." },
+    { "chunk_id": "health-play-specialist-006", "section": "work_experience", "text": "Work placements and volunteering in health play services provide relevant experience. Some health play specialists start their NHS careers as health play assistants." },
+    { "chunk_id": "health-play-specialist-007", "section": "education_and_training", "text": "The foundation degree in Healthcare Play Specialism is offered at Cardiff and Vale College, North East Surrey College of Technology, Leeds City College, and North Warwickshire and South Leicestershire College. On completion, registration with HPSET is required." },
+    { "chunk_id": "health-play-specialist-008", "section": "career_progression", "text": "With experience, health play specialists can progress to senior health play specialist. They can also train as a children's nurse or occupational therapist." },
+    { "chunk_id": "health-play-specialist-009", "section": "professional_bodies", "text": "Health play specialists must register with the Healthcare Play Specialist Education Trust (HPSET). They can also join the National Association of Health Play Specialists (NAHPS)." }
+  ]
+}

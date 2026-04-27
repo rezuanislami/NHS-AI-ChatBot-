@@ -1,0 +1,93 @@
+{
+  "id": "paramedic",
+  "title": "Paramedic",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/paramedic/",
+  "how_to_become": "To become a qualified paramedic, you'll need a degree in Paramedic Science. Pre-registration undergraduate degree programmes take 3 years, and postgraduate programmes take 2 years.",
+  "salary": {
+    "entry": "£34,544",
+    "entry_note": "Newly qualified paramedics start at £34,544 before tax, increasing to £43,231 after 12 to 18 months.",
+    "experienced": "£61,466",
+    "experienced_note": "Qualified paramedics can earn up to £52,679. Advanced paramedics can earn up to £61,466 before tax."
+  },
+  "description": "Paramedics use critical thinking and dynamic decision-making skills to assess and manage a wide-ranging and unpredictable caseload safely and effectively. The job includes treating urgent or minor illnesses and providing an emergency response to medical and traumatic events. Paramedics often care for people in their own homes to help reduce avoidable hospital admissions.",
+  "role_overview": "As a paramedic, you'll respond to road traffic collisions, provide medical help to people who have suffered strokes or heart attacks, transfer seriously ill patients to specialist centres, respond to obstetric emergencies, and treat minor injuries and illnesses. Paramedics must be registered with the HCPC to work in the NHS.",
+  "example_incidents": [
+    "Responding to road traffic collisions including multiple or life-threatening injuries",
+    "Providing medical help to a person who has suffered a stroke or heart attack",
+    "Transferring a very sick baby to a specialist treatment centre",
+    "Responding to a pregnant woman in labour or with medical problems",
+    "Treating minor injuries and illnesses that can be discharged or referred to other services"
+  ],
+  "entry_requirements": {
+    "overview": "A degree in Paramedic Science is required. Most universities accept a wide range of qualifications.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Biology",
+      "Care",
+      "Psychology"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "college_route": "You may do an HNC or HND in a health or science-based subject at college before applying to university for an undergraduate degree in Paramedic Science.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education.",
+    "undergraduate_universities": [
+      "Glasgow Caledonian University",
+      "Queen Margaret University",
+      "Robert Gordon University",
+      "University of Stirling",
+      "University of the West of Scotland"
+    ],
+    "undergraduate_duration": "3 years full-time.",
+    "postgraduate": "If you have relevant qualifications and healthcare experience, you can do a master's in Paramedic Science, usually taking 2 years.",
+    "newly_qualified_programme": "A structured 12 to 18-month programme supports newly qualified graduate paramedics as they integrate into the Scottish Ambulance Service. It includes clinical supervision, portfolio recording, reflective practice, and an advanced emergency driving course."
+  },
+  "learning_and_development": {
+    "overview": "Paramedics keep knowledge and skills up to date through Continuing Professional Development (CPD).",
+    "cpd_providers": [
+      "College of Paramedics",
+      "Scottish Ambulance Service"
+    ],
+    "cpd_activities": [
+      "Annual learning in practice training",
+      "Clinical, educational, managerial, leadership, and research development"
+    ]
+  },
+  "career_progression": {
+    "specialist_teams": [
+      "Air Ambulance",
+      "Specialist Operations Response Team (SORT)",
+      "Out of hours urgent care team"
+    ],
+    "progression_roles": [
+      "Advanced paramedic",
+      "Clinical roles",
+      "Education roles",
+      "Management roles"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "College of Paramedics"
+  ],
+  "related_careers": [
+    "Ambulance care assistant",
+    "Ambulance technician",
+    "Emergency call handler"
+  ],
+  "chunks": [
+    { "chunk_id": "paramedic-001", "section": "how_to_become", "text": "To become a qualified paramedic, you'll need a degree in Paramedic Science. Pre-registration undergraduate programmes take 3 years and postgraduate programmes take 2 years." },
+    { "chunk_id": "paramedic-002", "section": "salary", "text": "Newly qualified paramedics start at £34,544 before tax, increasing to £43,231 after 12 to 18 months. Qualified paramedics can earn up to £52,679. Advanced paramedics can earn up to £61,466 before tax." },
+    { "chunk_id": "paramedic-003", "section": "description", "text": "Paramedics use critical thinking and dynamic decision-making to assess and manage a wide-ranging and unpredictable caseload, treating urgent or minor illnesses and providing emergency responses to medical and traumatic events, often in patients' own homes." },
+    { "chunk_id": "paramedic-004", "section": "role_overview", "text": "Paramedics respond to road traffic collisions, strokes, heart attacks, obstetric emergencies, and minor injuries. They transfer seriously ill patients to specialist centres and treat minor conditions that can be discharged or referred to other services." },
+    { "chunk_id": "paramedic-005", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Biology, Care, and Psychology. A degree in Paramedic Science approved by the HCPC is required." },
+    { "chunk_id": "paramedic-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland." },
+    { "chunk_id": "paramedic-007", "section": "education_and_training", "text": "Undergraduate degrees in Paramedic Science are offered at Glasgow Caledonian University, Queen Margaret University, Robert Gordon University, University of Stirling, and University of the West of Scotland, taking 3 years full-time. A master's is available for those with relevant qualifications, usually taking 2 years. SWAP supports adult learners into higher education." },
+    { "chunk_id": "paramedic-008", "section": "newly_qualified_programme", "text": "A structured 12 to 18-month programme supports newly qualified graduate paramedics integrating into the Scottish Ambulance Service, including clinical supervision, portfolio recording, reflective practice, and an advanced emergency driving course. Starting salary is Agenda for Change band 5, progressing to band 6 on completion." },
+    { "chunk_id": "paramedic-009", "section": "learning_and_development", "text": "Paramedics maintain skills through CPD provided by the College of Paramedics and the Scottish Ambulance Service, including annual learning in practice training with the service and partner agencies." },
+    { "chunk_id": "paramedic-010", "section": "career_progression", "text": "Paramedics can join specialist teams including Air Ambulance, Specialist Operations Response Team (SORT), or out of hours urgent care teams. With further training, progression into clinical, education, or management roles is possible." },
+    { "chunk_id": "paramedic-011", "section": "professional_bodies", "text": "Paramedics must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the College of Paramedics." }
+  ]
+}

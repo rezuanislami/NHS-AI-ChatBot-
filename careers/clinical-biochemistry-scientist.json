@@ -1,0 +1,88 @@
+{
+  "id": "clinical-biochemistry-scientist",
+  "title": "Clinical Biochemistry Scientist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Laboratory Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/laboratory-sciences/clinical-biochemistry-scientist/",
+  "published": "15/03/2026",
+  "last_updated": "15/03/2026",
+  "how_to_become": "To become a clinical biochemistry scientist, complete an undergraduate honours degree, gain postgraduate research experience, and complete the NHS Scientist Training Programme (STP). This typically takes 8 to 11 years in total.",
+  "salary": {
+    "entry": "£41,608",
+    "entry_note": "Trainee clinical scientists start at £41,608 before tax.",
+    "experienced": "£128,051",
+    "experienced_note": "Qualified clinical scientists can earn up to £59,159. Principal clinical scientists up to £79,278. Consultant clinical scientists up to £128,051 before tax."
+  },
+  "description": "Clinical biochemistry scientists are highly skilled healthcare professionals who investigate the chemical composition of blood and other body fluids. They have a vital role in the diagnosis, monitoring, and treatment of a wide range of diseases from diabetes to cancer.",
+  "key_responsibilities": [
+    "Diagnostic analysis — performing and interpreting complex biochemical tests using advanced techniques such as mass spectrometry.",
+    "Clinical advice — acting as a consultant to doctors, nurses, and other healthcare professionals on diagnosis and management of conditions like kidney failure, hormone imbalances, and cardiac issues.",
+    "Service leadership — managing laboratory sections, staff training, and quality assurance to meet rigorous accreditation standards.",
+    "Research and innovation — developing new diagnostic biomarkers and validating new tests for earlier disease detection."
+  ],
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree at SCQF level 10 in a relevant subject is required, followed by postgraduate study and the NHS STP.",
+    "useful_subjects": [
+      "Chemistry",
+      "Biology",
+      "Maths",
+      "Physics",
+      "English",
+      "Scientific Technologies Foundation Apprenticeship"
+    ],
+    "undergraduate_degrees": [
+      "Biochemistry",
+      "Biomedical Sciences",
+      "Chemistry",
+      "Molecular Biology"
+    ]
+  },
+  "work_experience": "Shadowing the Clinical Biochemistry department at a local hospital, placements during university, and open day visits are recommended to strengthen applications.",
+  "education_and_training": {
+    "widening_access_routes": [
+      "Degree Link — guaranteed progression from HNC/HND to Robert Gordon University.",
+      "Focus West — programme for S4-S6 pupils from lower-income or underrepresented backgrounds.",
+      "Scottish Wider Access Programme (SWAP) — one-year college courses providing a route to higher education."
+    ],
+    "postgraduate_options": [
+      "Master of Science (MSc) — 1 year, taught degree with research project.",
+      "Master of Research (MRes) — 1 year, independent study focused on a large research project.",
+      "Doctor of Philosophy (PhD) — 3 to 4 years, original research."
+    ],
+    "training_programme": "NHS Scientist Training Programme (STP) — 3-year fixed-term postgraduate training combining workplace learning with a master's degree in Clinical Science (Biochemistry). Includes rotation through blood science specialties, block-release study at a partner university, and practical experience in NHS Scotland laboratories.",
+    "timeline": "Approximately 8 to 11 years: 4 years for honours degree, 1 to 4 years for postgraduate study, 3 years for STP.",
+    "equivalence_route": "Experienced scientists can apply for registration via the equivalence route through AHCS or ACS, involving a portfolio submission and viva voce assessment."
+  },
+  "learning_and_development": {
+    "overview": "Clinical scientists must undertake CPD to keep knowledge and skills up to date and maintain HCPC registration.",
+    "further_qualifications": [
+      "Fellowship of the Royal College of Pathologists (FRCPath)"
+    ]
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Senior clinical biochemistry scientist",
+      "Principal clinical scientist",
+      "Consultant clinical scientist"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Institute of Biomedical Science (IBMS)",
+    "Academy for Healthcare Science (AHCS)",
+    "Association of Clinical Scientists (ACS)",
+    "Royal College of Pathologists"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-biochemistry-scientist-001", "section": "how_to_become", "text": "To become a clinical biochemistry scientist, complete an undergraduate honours degree, postgraduate study (MSc, MRes, or PhD), and the 3-year NHS Scientist Training Programme (STP). The full pathway typically takes 8 to 11 years." },
+    { "chunk_id": "clinical-biochemistry-scientist-002", "section": "salary", "text": "Trainee clinical scientists start at £41,608 before tax. Qualified clinical scientists earn up to £59,159. Principal clinical scientists up to £79,278. Consultant clinical scientists up to £128,051 before tax." },
+    { "chunk_id": "clinical-biochemistry-scientist-003", "section": "description", "text": "Clinical biochemistry scientists investigate the chemical composition of blood and body fluids, playing a vital role in diagnosing, monitoring, and treating diseases from diabetes to cancer." },
+    { "chunk_id": "clinical-biochemistry-scientist-004", "section": "key_responsibilities", "text": "Clinical biochemistry scientists perform and interpret complex biochemical tests, provide clinical advice to doctors and nurses, manage laboratory services and quality assurance, and develop new diagnostic biomarkers and tests." },
+    { "chunk_id": "clinical-biochemistry-scientist-005", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, Biology, Maths, Physics, and English. An undergraduate honours degree in Biochemistry, Biomedical Sciences, Chemistry, or Molecular Biology at SCQF level 10 is required." },
+    { "chunk_id": "clinical-biochemistry-scientist-006", "section": "work_experience", "text": "Shadowing the Clinical Biochemistry department at a local hospital, university placements, and open day visits are recommended to strengthen applications." },
+    { "chunk_id": "clinical-biochemistry-scientist-007", "section": "education_and_training", "text": "After an honours degree, postgraduate study (MSc, MRes, or PhD) is required. The NHS STP is a 3-year programme combining workplace learning with a master's degree in Clinical Science (Biochemistry). Widening access routes include Degree Link, Focus West, and SWAP. An equivalence route is available for experienced scientists." },
+    { "chunk_id": "clinical-biochemistry-scientist-008", "section": "learning_and_development", "text": "Clinical biochemistry scientists must maintain CPD and HCPC registration. Senior roles often involve the Fellowship of the Royal College of Pathologists (FRCPath)." },
+    { "chunk_id": "clinical-biochemistry-scientist-009", "section": "career_progression", "text": "With experience and qualifications, clinical biochemistry scientists can progress to principal clinical scientist and consultant clinical scientist roles involving clinical responsibility, strategic management, and leading research programmes." },
+    { "chunk_id": "clinical-biochemistry-scientist-010", "section": "professional_bodies", "text": "Clinical biochemistry scientists must register with the HCPC. They can also join the IBMS, Academy for Healthcare Science (AHCS), Association of Clinical Scientists (ACS), and Royal College of Pathologists." }
+  ]
+}

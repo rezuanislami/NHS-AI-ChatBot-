@@ -1,0 +1,69 @@
+{
+  "id": "project-officer",
+  "title": "Project Officer",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/project-officer/",
+  "how_to_become": "To become a project officer in the NHS, apply for vacancies on the NHS recruitment website. You could also do a Modern Apprenticeship.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Project officers in the NHS start at £33,247 before tax.",
+    "experienced": "£41,424",
+    "experienced_note": "Project officers in the NHS can earn up to £41,424 before tax."
+  },
+  "description": "Project officers work in teams with project managers, programme managers, and administrators to support and coordinate project activities. This includes scheduling tasks, negotiating with suppliers, and creating progress reports.",
+  "role_overview": "As a project officer, you'll work with the project manager to plan, monitor, and evaluate the project against objectives. You'll also provide administrative support and meet with stakeholders, suppliers, and other external groups.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed to become a project officer in the NHS.",
+    "useful_subjects": [
+      "Administration and IT",
+      "Business Management",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "modern_apprenticeships": [
+      "Business and Administration",
+      "Management"
+    ],
+    "college_courses": [
+      "SVQ Business and Administration at SCQF level 5"
+    ]
+  },
+  "learning_and_development": {
+    "overview": "You will be encouraged to develop your career in the NHS. As well as learning specific to your role, you'll need to complete mandatory training.",
+    "mandatory_training": [
+      "Health and safety",
+      "Occupational health",
+      "Fire safety",
+      "Counter-fraud",
+      "Moving and handling",
+      "Safe information handling"
+    ],
+    "note": "Your NHS employer will confirm their mandatory training requirements during your induction."
+  },
+  "career_progression": {
+    "overview": "Gaining new qualifications will help when applying for more senior roles.",
+    "qualifications": [
+      "Agile Project Management qualification",
+      "PRINCE2 Foundation qualification",
+      "HNC Business at SCQF level 7"
+    ],
+    "progression_roles": [
+      "Project manager",
+      "Programme manager"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "project-officer-001", "section": "how_to_become", "text": "To become a project officer in the NHS, apply for vacancies on the NHS recruitment website or do a Modern Apprenticeship." },
+    { "chunk_id": "project-officer-002", "section": "salary", "text": "Project officers in the NHS start at £33,247 before tax and can earn up to £41,424 before tax at experienced level." },
+    { "chunk_id": "project-officer-003", "section": "description", "text": "Project officers work in teams with project managers, programme managers, and administrators to support and coordinate project activities, including scheduling tasks, negotiating with suppliers, and creating progress reports." },
+    { "chunk_id": "project-officer-004", "section": "role_overview", "text": "As an NHS project officer, you'll work with the project manager to plan, monitor, and evaluate projects against objectives, provide administrative support, and meet with stakeholders, suppliers, and external groups." },
+    { "chunk_id": "project-officer-005", "section": "entry_requirements", "text": "Useful school subjects for a project officer career include Administration and IT, Business Management, English, and Maths." },
+    { "chunk_id": "project-officer-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "project-officer-007", "section": "education_and_training", "text": "Modern Apprenticeships in Business and Administration or Management are available. College qualifications include SVQ Business and Administration at SCQF level 5." },
+    { "chunk_id": "project-officer-008", "section": "learning_and_development", "text": "Mandatory training for NHS project officers includes health and safety, occupational health, fire safety, counter-fraud, moving and handling, and safe information handling. Requirements are confirmed during induction." },
+    { "chunk_id": "project-officer-009", "section": "career_progression", "text": "Further qualifications such as Agile Project Management, PRINCE2 Foundation, and HNC Business at SCQF level 7 support progression into roles like project manager or programme manager." }
+  ]
+}

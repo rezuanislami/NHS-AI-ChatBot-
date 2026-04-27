@@ -1,0 +1,54 @@
+{
+  "id": "clinical-perfusion-scientist",
+  "title": "Clinical Perfusion Scientist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physiological Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physiological-sciences/clinical-perfusion-scientist/",
+  "how_to_become": "Apply for trainee opportunities on the NHS recruitment website. An honours degree in a relevant scientific or nursing subject is required along with completion of a pre-registration training programme.",
+  "description": "Clinical perfusion scientists (also known as clinical perfusionists) set up and manage equipment used to support patients during cardiac surgery, isolated limb perfusion, and extracorporeal membrane oxygenation therapy.",
+  "role_overview": "As a clinical perfusionist, you'll mainly work in hospital operating theatres as part of a cardiac surgical team, with some work in the intensive care unit. You'll set up and manage life-support equipment during complex surgical procedures.",
+  "procedures_supported": [
+    "Cardiac surgery",
+    "Isolated limb perfusion",
+    "Extracorporeal membrane oxygenation (ECMO) therapy"
+  ],
+  "entry_requirements": {
+    "overview": "An honours degree in a relevant scientific or nursing subject is required, plus completion of the pre-registration training programme.",
+    "useful_subjects": [
+      "Chemistry",
+      "English",
+      "Human Biology",
+      "Maths",
+      "Physics"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "Pre-registration training programme including an MSc in Perfusion Science at the University of Bristol at SCQF level 11 and accredited work-based training.",
+    "qualification": "Certificate of Accreditation in Basic Clinical Perfusion Sciences exam on completion.",
+    "registration": "On passing the exam, register as a qualified clinical perfusionist with the College of Clinical Perfusion Scientists."
+  },
+  "learning_and_development": {
+    "overview": "Ongoing requirements for education and skills development after registration. Clinical perfusion scientists undertake academic research as a basic part of training, which can continue after qualification."
+  },
+  "career_progression": {
+    "overview": "Clinical perfusionists are highly specialised. With training and experience, they can move into teaching, management, or academic research.",
+    "progression_roles": [
+      "Teaching roles",
+      "Management roles",
+      "Academic research"
+    ]
+  },
+  "professional_bodies": [
+    "College of Clinical Perfusion Scientists of Great Britain and Ireland"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-perfusion-scientist-001", "section": "how_to_become", "text": "To become a clinical perfusion scientist, apply for trainee opportunities on the NHS recruitment website. An honours degree in a relevant scientific or nursing subject and completion of a pre-registration training programme are required." },
+    { "chunk_id": "clinical-perfusion-scientist-002", "section": "description", "text": "Clinical perfusion scientists set up and manage equipment supporting patients during cardiac surgery, isolated limb perfusion, and extracorporeal membrane oxygenation (ECMO) therapy." },
+    { "chunk_id": "clinical-perfusion-scientist-003", "section": "role_overview", "text": "Clinical perfusionists mainly work in hospital operating theatres as part of a cardiac surgical team, with some work in the intensive care unit." },
+    { "chunk_id": "clinical-perfusion-scientist-004", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, English, Human Biology, Maths, and Physics. An honours degree in a relevant scientific or nursing subject is required." },
+    { "chunk_id": "clinical-perfusion-scientist-005", "section": "education_and_training", "text": "Training includes an MSc in Perfusion Science at the University of Bristol at SCQF level 11 and accredited work-based training. On completion, trainees sit the Certificate of Accreditation in Basic Clinical Perfusion Sciences exam and register with the College of Clinical Perfusion Scientists." },
+    { "chunk_id": "clinical-perfusion-scientist-006", "section": "career_progression", "text": "Clinical perfusionists can progress into teaching, management, or academic research roles." },
+    { "chunk_id": "clinical-perfusion-scientist-007", "section": "professional_bodies", "text": "Clinical perfusion scientists register with the College of Clinical Perfusion Scientists of Great Britain and Ireland." }
+  ]
+}

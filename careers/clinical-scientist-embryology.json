@@ -1,0 +1,71 @@
+m{
+  "id": "clinical-scientist-embryology",
+  "title": "Clinical Scientist — Embryology",
+  "sector": "Healthcare Science",
+  "sub_sector": "Laboratory Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/laboratory-sciences/clinical-scientist-embryology/",
+  "published": "18/04/2023",
+  "last_updated": "09/12/2025",
+  "how_to_become": "To become a clinical scientist in embryology, complete a postgraduate-level work-based training programme. Alternatively, apply for registration through an equivalence route if you have significant professional experience and relevant qualifications.",
+  "description": "Clinical scientists in embryology are reproductive scientists who help people with sub-fertility or infertility to have children. They carry out diagnostic tests to determine a patient's fertility level and provide information about treatment options most likely to result in a successful birth.",
+  "role_overview": "As a clinical embryologist, you'll ensure patients are well-informed about fertility treatments. You'll collect eggs and sperm, carry out IVF and ICSI procedures, monitor embryos, select the strongest for transfer, and manage cryopreservation of embryos, eggs, and sperm for future use.",
+  "assisted_reproductive_technologies": [
+    "In vitro fertilisation (IVF) — collecting eggs and sperm and mixing them in the laboratory.",
+    "Intracytoplasmic sperm injection (ICSI) — injecting a single live sperm directly into the egg when sperm quality is low.",
+    "Cryopreservation — freezing embryos, eggs, or sperm for future use or fertility preservation."
+  ],
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree at SCQF level 10 in a relevant subject is required to apply for the clinical scientist training programme.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Biology",
+      "Chemistry"
+    ],
+    "undergraduate_degrees": [
+      "Biomedical Sciences",
+      "Biology",
+      "Microbiology",
+      "Genetics",
+      "Biochemistry"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programmes": [
+      "Scientist Training Programme (STP) — 3-year work-based programme.",
+      "Alternative work-based training programme — 3-year programme offered by some health boards."
+    ],
+    "registration": "On completion, register as a clinical scientist with the HCPC.",
+    "equivalence_route": "Bioinformaticians with significant NHS embryology experience can apply for equivalence recognition by submitting a portfolio to the Academy for Healthcare Science or Association of Clinical Scientists and attending an interview."
+  },
+  "learning_and_development": {
+    "overview": "Clinical embryologists must undertake CPD to keep knowledge and skills up to date and maintain HCPC registration.",
+    "further_qualifications": [
+      "Higher specialist development",
+      "PhDs and professional doctorates"
+    ]
+  },
+  "career_progression": {
+    "overview": "Gaining qualifications leads to more senior roles or advancement into specialised practice areas.",
+    "progression_roles": [
+      "Senior clinical embryologist",
+      "Specialist clinical embryologist"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Academy for Healthcare Science (AHCS)",
+    "Association of Clinical Scientists (ACS)",
+    "Association of Reproductive and Clinical Scientists (ARCS)"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-scientist-embryology-001", "section": "how_to_become", "text": "To become a clinical scientist in embryology, complete a 3-year postgraduate work-based training programme (STP or alternative). An equivalence route is available for those with significant NHS embryology experience." },
+    { "chunk_id": "clinical-scientist-embryology-002", "section": "description", "text": "Clinical scientists in embryology are reproductive scientists who help people with sub-fertility or infertility to have children, carrying out diagnostic tests and providing information about treatment options most likely to result in a successful birth." },
+    { "chunk_id": "clinical-scientist-embryology-003", "section": "role_overview", "text": "Clinical embryologists carry out IVF and ICSI procedures, monitor and select embryos for transfer, manage cryopreservation of embryos, eggs, and sperm, and ensure patients are well-informed about fertility treatment options." },
+    { "chunk_id": "clinical-scientist-embryology-004", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Biology, and Chemistry. An undergraduate honours degree at SCQF level 10 in Biomedical Sciences, Biology, Microbiology, Genetics, or Biochemistry is required." },
+    { "chunk_id": "clinical-scientist-embryology-005", "section": "education_and_training", "text": "Training is via the 3-year Scientist Training Programme (STP) or an alternative work-based training programme. On completion, registration with the HCPC as a clinical scientist is required. An equivalence route is available for experienced practitioners." },
+    { "chunk_id": "clinical-scientist-embryology-006", "section": "learning_and_development", "text": "Clinical embryologists must maintain CPD and HCPC registration. Further qualifications such as PhDs and professional doctorates support progression to senior and specialist roles." },
+    { "chunk_id": "clinical-scientist-embryology-007", "section": "professional_bodies", "text": "Clinical scientists in embryology must register with the HCPC. They can also join the Academy for Healthcare Science (AHCS), Association of Clinical Scientists (ACS), and Association of Reproductive and Clinical Scientists (ARCS)." }
+  ]
+}

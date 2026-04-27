@@ -1,0 +1,92 @@
+{
+  "id": "podiatrist",
+  "title": "Podiatrist",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/podiatrist/",
+  "how_to_become": "To become a podiatrist in the NHS, you must complete a pre-registration undergraduate degree programme approved by the Health and Care Professions Council (HCPC).",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Podiatrists in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist podiatrists can earn up to £50,702. Advanced podiatrists can earn up to £59,159 before tax."
+  },
+  "description": "Podiatrists diagnose and treat a wide range of mobility and medical conditions of the feet and lower limbs. They help to improve a person's movement, independence, and quality of life.",
+  "role_overview": "As a podiatrist, you'll diagnose and treat conditions affecting foot health in people of all ages, including arthritic conditions, skin conditions, diabetes, heart and blood disorders, disorders of the nervous system, and sports injuries to the foot and lower limb.",
+  "conditions_treated": [
+    "Arthritic conditions",
+    "Skin conditions",
+    "Diabetes",
+    "Heart and blood disorders",
+    "Disorders of the nervous system",
+    "Sports injuries to the foot and lower limb"
+  ],
+  "entry_requirements": {
+    "overview": "A pre-registration undergraduate degree in Podiatry approved by the HCPC is required.",
+    "useful_subjects": [
+      "Human Biology",
+      "Physics",
+      "Chemistry",
+      "Care",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "college_route": "At college, you could do an HND in Applied Biological Science or Applied Sport Science before applying to university.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_universities": [
+      "Glasgow Caledonian University",
+      "Queen Margaret University"
+    ],
+    "undergraduate_duration": "4 years full-time.",
+    "note": "After graduation, you must register with the HCPC before applying for NHS vacancies."
+  },
+  "learning_and_development": {
+    "overview": "Podiatrists must keep skills and knowledge up to date through Continuing Professional Development (CPD).",
+    "cpd_provider": "Royal College of Podiatry (RCPod)",
+    "cpd_activities": [
+      "Training courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "specialisms": [
+      "Sports injuries",
+      "Critical care",
+      "Care of the elderly",
+      "Working with children",
+      "Caring for cancer patients",
+      "Podiatric surgery"
+    ],
+    "progression_roles": [
+      "Specialist podiatrist",
+      "Advanced podiatrist",
+      "Consultant podiatrist",
+      "Head of podiatry service",
+      "Teaching and research roles"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Royal College of Podiatry (RCPod)"
+  ],
+  "related_careers": [
+    "Physiotherapist",
+    "Occupational therapist",
+    "Orthotist"
+  ],
+  "chunks": [
+    { "chunk_id": "podiatrist-001", "section": "how_to_become", "text": "To become a podiatrist in the NHS, you must complete a pre-registration undergraduate degree programme in Podiatry approved by the HCPC." },
+    { "chunk_id": "podiatrist-002", "section": "salary", "text": "Podiatrists in the NHS start at £33,247 before tax. Specialist podiatrists can earn up to £50,702. Advanced podiatrists can earn up to £59,159 before tax." },
+    { "chunk_id": "podiatrist-003", "section": "description", "text": "Podiatrists diagnose and treat a wide range of mobility and medical conditions of the feet and lower limbs, helping to improve a person's movement, independence, and quality of life." },
+    { "chunk_id": "podiatrist-004", "section": "role_overview", "text": "Podiatrists treat foot health conditions in people of all ages including arthritic conditions, skin conditions, diabetes, heart and blood disorders, nervous system disorders, and sports injuries to the foot and lower limb." },
+    { "chunk_id": "podiatrist-005", "section": "entry_requirements", "text": "Useful school subjects include Human Biology, Physics, Chemistry, Care, English, and Maths. A pre-registration undergraduate degree in Podiatry approved by the HCPC is required." },
+    { "chunk_id": "podiatrist-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "podiatrist-007", "section": "education_and_training", "text": "Undergraduate degrees in Podiatry are offered at Glasgow Caledonian University and Queen Margaret University, taking 4 years full-time. College options include HND in Applied Biological Science or Applied Sport Science. SWAP supports adult learners into higher education." },
+    { "chunk_id": "podiatrist-008", "section": "learning_and_development", "text": "Podiatrists maintain skills through Continuing Professional Development (CPD) including training courses, conferences, and seminars provided by the Royal College of Podiatry (RCPod)." },
+    { "chunk_id": "podiatrist-009", "section": "career_progression", "text": "Podiatrists can specialise in sports injuries, critical care, elderly care, paediatrics, cancer care, or podiatric surgery. Progression roles include specialist, advanced, and consultant podiatrist, head of podiatry service, and teaching and research roles." },
+    { "chunk_id": "podiatrist-010", "section": "professional_bodies", "text": "Podiatrists must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the Royal College of Podiatry (RCPod)." }
+  ]
+}

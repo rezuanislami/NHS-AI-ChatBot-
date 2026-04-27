@@ -1,0 +1,73 @@
+{
+  "id": "ambulance-technician",
+  "title": "Ambulance Technician",
+  "sector": "Ambulance Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/ambulance-services/ambulance-technician/",
+  "how_to_become": "You can become an ambulance technician by applying for training opportunities on the NHS recruitment website. A good standard of education and a full UK driving licence including C1 classification are required.",
+  "salary": {
+    "entry": "£34,544",
+    "entry_note": "Qualified ambulance technicians start at £34,544 before tax. Trainees are paid £30,127, increasing as they progress through the training programme.",
+    "experienced": "£43,039",
+    "experienced_note": "Ambulance technicians can earn up to £43,039 per year before tax."
+  },
+  "description": "Ambulance technicians work with paramedics to deliver high-quality pre-hospital care. They provide a front-line response to accidents and emergency incidents including 999 calls, providing immediate care to people in very difficult and challenging environments.",
+  "role_overview": "As an ambulance technician, you'll work with qualified paramedics to deliver the highest possible level of care. Patient needs and emergency situations are different every day, requiring flexibility, compassion, and professionalism in a range of environments and with a range of people.",
+  "entry_requirements": {
+    "overview": "A good standard of education and a full UK driving licence including C1 classification are required.",
+    "useful_subjects": [
+      "English",
+      "Biology",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "A 16-month internal Scottish Ambulance Service education programme. Trainees are employees from their start date.",
+    "training_includes": [
+      "10 weeks of classroom training",
+      "4-week Certificate in Emergency Response Ambulance Driving",
+      "Placement at an ambulance station"
+    ],
+    "qualifications_required": [
+      "Level 4 Diploma for Associate Ambulance Practitioners (equivalent to SCQF level 7)",
+      "Certificate in Emergency Response Ambulance Driving at SCQF level 6"
+    ],
+    "note": "Once training is complete, you'll be allocated to an ambulance station with ongoing learning and support from qualified staff."
+  },
+  "learning_and_development": {
+    "overview": "You must keep your skills and knowledge up to date throughout your career. The Scottish Ambulance Service will provide training specific to your role."
+  },
+  "career_progression": {
+    "overview": "Ambulance technicians may progress to become a paramedic by completing an undergraduate degree in Paramedic Science.",
+    "degree_universities": [
+      "Glasgow Caledonian University",
+      "Queen Margaret University",
+      "Robert Gordon University",
+      "University of Stirling",
+      "University of the West of Scotland"
+    ],
+    "progression_roles": [
+      "Paramedic"
+    ]
+  },
+  "professional_bodies": [
+    "UK Registry of Emergency Medical Technicians (voluntary)",
+    "Health Practice Associates Council (voluntary)"
+  ],
+  "related_careers": [
+    "Paramedic",
+    "Ambulance care assistant",
+    "Emergency call handler"
+  ],
+  "chunks": [
+    { "chunk_id": "ambulance-technician-001", "section": "how_to_become", "text": "To become an ambulance technician, apply for training opportunities on the NHS recruitment website. A good standard of education and a full UK driving licence including C1 classification are required." },
+    { "chunk_id": "ambulance-technician-002", "section": "salary", "text": "Qualified ambulance technicians start at £34,544 before tax. Trainees are paid £30,127, increasing as they progress through training. Experienced ambulance technicians can earn up to £43,039 per year before tax." },
+    { "chunk_id": "ambulance-technician-003", "section": "description", "text": "Ambulance technicians work with paramedics to deliver high-quality pre-hospital care, providing front-line responses to accidents and emergency incidents including 999 calls in very difficult and challenging environments." },
+    { "chunk_id": "ambulance-technician-004", "section": "role_overview", "text": "Ambulance technicians work alongside qualified paramedics to deliver the highest possible level of care, managing a range of emergency situations with flexibility, compassion, and professionalism." },
+    { "chunk_id": "ambulance-technician-005", "section": "entry_requirements", "text": "Useful school subjects include English, Biology, and Maths. A good standard of education and a full UK driving licence including C1 classification are required." },
+    { "chunk_id": "ambulance-technician-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland." },
+    { "chunk_id": "ambulance-technician-007", "section": "education_and_training", "text": "Training is delivered through a 16-month internal Scottish Ambulance Service programme including 10 weeks of classroom training, a 4-week Certificate in Emergency Response Ambulance Driving, and placement at an ambulance station. Qualifications required include the Level 4 Diploma for Associate Ambulance Practitioners (SCQF level 7) and Certificate in Emergency Response Ambulance Driving (SCQF level 6)." },
+    { "chunk_id": "ambulance-technician-008", "section": "career_progression", "text": "Ambulance technicians can progress to become a paramedic by completing an undergraduate degree in Paramedic Science at Glasgow Caledonian University, Queen Margaret University, Robert Gordon University, University of Stirling, or University of the West of Scotland." },
+    { "chunk_id": "ambulance-technician-009", "section": "professional_bodies", "text": "Ambulance technicians can voluntarily register with the UK Registry of Emergency Medical Technicians or the Health Practice Associates Council." }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "senior-library-and-knowledge-services-assistant",
+  "title": "Senior Library and Knowledge Services Assistant",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/senior-library-and-knowledge-services-assistant/",
+  "how_to_become": "To become a senior library and knowledge services assistant, you'll need relevant experience working in a health library environment, or 4 years of experience working in a library environment.",
+  "salary": {
+    "entry": "£25,694",
+    "entry_note": "Senior library and knowledge services assistants in the NHS start at £25,694 before tax.",
+    "experienced": "£41,424",
+    "experienced_note": "Senior library and knowledge services assistants in the NHS can earn up to £41,424 before tax."
+  },
+  "description": "Senior library and knowledge services assistants provide support to the wider knowledge team. They take part in a range of daily tasks to keep systems timely and accurate, and provide specialist information and knowledge to service users accessing the library's services.",
+  "role_overview": "As a senior library and knowledge services assistant, you'll be organising and maintaining library resources and providing specialist knowledge services to users.",
+  "entry_requirements": {
+    "overview": "5 National 5 qualifications including English and Maths are required, or an HNC or HND level qualification. Alternatively, 4 years of experience working in a library environment is accepted.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Information Systems",
+      "Business Studies"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "college_courses": [
+      "Library and Information Services HNC",
+      "Administration and Information Technology HNC"
+    ],
+    "alternative_entry": "4 years of experience working in a library environment is also accepted as an entry route."
+  },
+  "learning_and_development": {
+    "overview": "You will be encouraged to develop your career in the NHS. As well as learning specific to your role, you'll need to complete mandatory training.",
+    "mandatory_training": [
+      "Occupational health",
+      "Health and safety",
+      "Fire safety",
+      "Counter-fraud",
+      "Moving and handling",
+      "Safe information handling"
+    ],
+    "note": "Your NHS employer will confirm their mandatory training requirements during your induction."
+  },
+  "career_progression": {
+    "overview": "With experience you could progress to more senior library and knowledge roles.",
+    "progression_roles": [
+      "Clinical librarian"
+    ]
+  },
+  "professional_bodies": [
+    "Chartered Institute of Library and Information Professionals (CILIP)"
+  ],
+  "related_careers": [
+    "Library and knowledge services assistant"
+  ],
+  "chunks": [
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-001", "section": "how_to_become", "text": "To become a senior library and knowledge services assistant, you'll need relevant experience in a health library environment, or 4 years of experience working in a library environment." },
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-002", "section": "salary", "text": "Senior library and knowledge services assistants in the NHS start at £25,694 before tax and can earn up to £41,424 before tax at experienced level." },
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-003", "section": "description", "text": "Senior library and knowledge services assistants support the wider knowledge team, carrying out daily tasks to keep systems accurate and providing specialist information and knowledge to library service users." },
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-004", "section": "role_overview", "text": "As a senior library and knowledge services assistant, you'll organise and maintain library resources and provide specialist knowledge services to users." },
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-005", "section": "entry_requirements", "text": "Entry requires 5 National 5 qualifications including English and Maths, or an HNC or HND level qualification. Alternatively, 4 years of library experience is accepted. Useful school subjects include English, Maths, Information Systems, and Business Studies." },
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland." },
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-007", "section": "education_and_training", "text": "College courses include Library and Information Services HNC and Administration and Information Technology HNC. Alternatively, 4 years of library experience is accepted as an entry route." },
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-008", "section": "learning_and_development", "text": "Mandatory training includes occupational health, health and safety, fire safety, counter-fraud, moving and handling, and safe information handling. Requirements are confirmed during induction." },
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-009", "section": "career_progression", "text": "With experience, senior library and knowledge services assistants can progress to clinical librarian. Staff can also work towards CILIP certification, which provides access to further training and development." },
+    { "chunk_id": "senior-library-and-knowledge-services-assistant-010", "section": "professional_bodies", "text": "Senior library and knowledge services assistants may work towards the Chartered Institute of Library and Information Professionals (CILIP) certification, which provides access to further training and development as a knowledge services professional." }
+  ]
+}

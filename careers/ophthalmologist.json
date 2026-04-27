@@ -1,0 +1,79 @@
+{
+  "id": "ophthalmologist",
+  "title": "Ophthalmologist",
+  "sector": "Medicine",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/medicine/ophthalmologist/",
+  "how_to_become": "After graduating from medical school, complete a 2-year postgraduate foundation training programme, then apply for 7-year Ophthalmic Specialist Training (OST) to become a consultant ophthalmologist.",
+  "description": "Ophthalmologists are doctors who use medical and surgical skills to diagnose, treat, and prevent eye health or vision problems including eye injuries, infectious eye diseases, corneal ulcers, glaucoma, diabetic eye disease, cataracts, and macular degeneration. Some are involved in researching eye diseases and designing new treatments.",
+  "role_overview": "As an ophthalmologist, you'll carry out clinical assessments and request appropriate investigations to make a diagnosis, then manage a person's clinical care including complex eye surgery or prescribing medication to improve eye health.",
+  "conditions_treated": [
+    "Eye injuries and trauma",
+    "Infectious eye diseases",
+    "Corneal ulcers",
+    "Glaucoma",
+    "Diabetic eye disease",
+    "Cataracts",
+    "Macular degeneration"
+  ],
+  "entry_requirements": {
+    "overview": "A medicine degree (MBChB or MBBS) at SCQF level 10 is required. All applicants must sit the UCAT.",
+    "useful_subjects": [
+      "Chemistry",
+      "Biology",
+      "Physics",
+      "Maths",
+      "English",
+      "Religious, Moral, and Philosophical Studies",
+      "Psychology",
+      "Care"
+    ],
+    "widening_access": [
+      "Reach widening access project — for senior school pupils from non-traditional backgrounds",
+      "Scottish Wider Access Programme (SWAP) — for adult learners with few or no qualifications",
+      "Graduate entry programme — for those with an existing honours degree"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to medical school or for medical training in NHSScotland.",
+  "education_and_training": {
+    "medical_schools_in_scotland": [
+      "University of Aberdeen",
+      "University of Dundee",
+      "University of Edinburgh",
+      "University of Glasgow",
+      "University of St Andrews"
+    ],
+    "undergraduate_duration": "4 to 6 years full-time.",
+    "foundation_programme": "2-year Scottish Foundation School work-based training programme (F1 and F2). F2 completion leads to FPCC, ready for specialty training.",
+    "ophthalmic_specialist_training": "7-year surgical programme (OST). You'll see a diverse range of patients and be supported by ophthalmology consultants learning clinical procedures, surgical skills, and micro-surgical techniques.",
+    "examinations": "Royal College of Ophthalmologists (RCOphth) exams during OST. Passing all 4 exams leads to Fellowship of The Royal College of Ophthalmologists (FRCOphth).",
+    "registration": "Provisional GMC registration on graduation, full GMC registration after F1. Certificate of Completion of Training (CCT) on completing specialty training, then join GMC Specialist Register."
+  },
+  "learning_and_development": {
+    "overview": "Consultant ophthalmologists must engage in CPD. All doctors must revalidate every 5 years with the GMC.",
+    "cpd_provider": "Royal College of Ophthalmologists (RCOphth)"
+  },
+  "career_progression": {
+    "specialisms": [
+      "Retinal disease",
+      "Oculoplastic surgery",
+      "Senior consultant roles"
+    ],
+    "other_opportunities": [
+      "Teaching and research posts in NHS, higher education, or private sector"
+    ]
+  },
+  "professional_bodies": [
+    "General Medical Council (GMC) — mandatory registration and Specialist Register",
+    "Royal College of Ophthalmologists",
+    "British Medical Association"
+  ],
+  "chunks": [
+    { "chunk_id": "ophthalmologist-001", "section": "how_to_become", "text": "To become an ophthalmologist, complete a medicine degree, 2-year foundation programme, then 7-year Ophthalmic Specialist Training (OST), passing the Royal College of Ophthalmologists exams." },
+    { "chunk_id": "ophthalmologist-002", "section": "description", "text": "Ophthalmologists diagnose, treat, and prevent eye health and vision problems including eye injuries, glaucoma, cataracts, diabetic eye disease, and macular degeneration. Some research causes of eye diseases and design new treatments." },
+    { "chunk_id": "ophthalmologist-003", "section": "role_overview", "text": "Ophthalmologists carry out clinical assessments, request investigations, and manage clinical care including complex eye surgery and prescribing medication." },
+    { "chunk_id": "ophthalmologist-004", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, Biology, Physics, Maths, English, Religious and Moral Studies, Psychology, and Care. A medicine degree (MBChB or MBBS) is required. All applicants must sit the UCAT. Widening access routes include SWAP, Reach project, and graduate entry programmes." },
+    { "chunk_id": "ophthalmologist-005", "section": "education_and_training", "text": "After a medicine degree at one of 5 Scottish medical schools and a 2-year foundation programme, 7-year Ophthalmic Specialist Training (OST) is required. Four RCOphth exams must be passed during OST, leading to the FRCOphth and a Certificate of Completion of Training (CCT)." },
+    { "chunk_id": "ophthalmologist-006", "section": "career_progression", "text": "Ophthalmologists can specialise in retinal disease or oculoplastic surgery, and may take up teaching and research posts in the NHS, higher education, or private sector." },
+    { "chunk_id": "ophthalmologist-007", "section": "professional_bodies", "text": "Ophthalmologists must be GMC-registered and on the GMC Specialist Register. They can join the Royal College of Ophthalmologists and British Medical Association." }
+  ]
+}

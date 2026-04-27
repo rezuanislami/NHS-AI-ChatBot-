@@ -1,0 +1,73 @@
+{
+  "id": "learning-disability-nurse",
+  "title": "Learning Disability Nurse",
+  "sector": "Nursing",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/nursing/learning-disability-nurse/",
+  "how_to_become": "To become a learning disability nurse, complete a pre-registration degree programme accredited by the Nursing and Midwifery Council (NMC).",
+  "description": "Learning disability nurses empower people of all ages to live fuller, healthier, and more independent lives. They are vital advocates, boosting understanding and awareness within health and social care services.",
+  "role_overview": "As a learning disability nurse, you'll work to improve the health and social inclusion of people in your care. Using diverse communication techniques, you'll help individuals express their needs, advocate for their rights, reduce barriers to healthcare, and support independence and employment skills.",
+  "entry_requirements": {
+    "useful_subjects": [
+      "Biology",
+      "Chemistry",
+      "Psychology",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland. Caring experience is also valuable.",
+  "education_and_training": {
+    "undergraduate_universities": [
+      "Edinburgh Napier University — BN Nursing (Learning Disabilities), 3 years full-time",
+      "Glasgow Caledonian University — BSc Nursing Studies (Learning Disability), 3 years full-time",
+      "Glasgow Caledonian University — BSc (Hons) Nursing Studies (Learning Disability), 4 years full-time"
+    ],
+    "open_university": "4-year part-time BSc (Honours) Nursing (Learning Disability) degree. Scottish Government covers all tuition fees.",
+    "hnc_route": "HNC in Healthcare Practice at SCQF level 7 — stepping stone for healthcare support workers, may allow entry to year 2 of a nursing degree.",
+    "certhe_route": "CertHE in Healthcare Practice at SCQF level 7 — for nursing support workers progressing to assistant practitioner or nursing degree.",
+    "swap_route": "SWAP — one-year access course for adult learners returning to education after a break.",
+    "return_to_practice": "Former NMC-registered learning disability nurses can return via a return to practice course or the NMC Test of Competence.",
+    "bursary": "Paramedic, Nursing and Midwifery Student Bursary (PNMSB) — £10,000 non-repayable bursary for eligible students."
+  },
+  "learning_and_development": {
+    "overview": "Once registered, there are ongoing education and skills development requirements. Flying Start programme provides extra support in the first year.",
+    "revalidation": "Nurses must revalidate with the NMC every 3 years."
+  },
+  "career_progression": {
+    "specialisms": [
+      "Community nursing",
+      "Sensory disabilities",
+      "Autism",
+      "Epilepsy",
+      "Special needs education",
+      "Profound and multiple disability nursing",
+      "Hospice nursing",
+      "Ambulance services",
+      "NHS 24",
+      "Health visiting"
+    ],
+    "progression_roles": [
+      "Specialist team lead",
+      "Learning disability lecturer",
+      "Clinical educator",
+      "Specialist assessor",
+      "Advanced nurse practitioner",
+      "Service delivery and management",
+      "Public health",
+      "Research and education"
+    ]
+  },
+  "professional_bodies": [
+    "Nursing and Midwifery Council (NMC) — mandatory registration",
+    "Royal College of Nursing (RCN)"
+  ],
+  "chunks": [
+    { "chunk_id": "learning-disability-nurse-001", "section": "how_to_become", "text": "To become a learning disability nurse, complete a pre-registration degree programme accredited by the NMC." },
+    { "chunk_id": "learning-disability-nurse-002", "section": "description", "text": "Learning disability nurses empower people of all ages to live fuller, healthier, and more independent lives, and are vital advocates within health and social care services." },
+    { "chunk_id": "learning-disability-nurse-003", "section": "role_overview", "text": "Learning disability nurses improve the health and social inclusion of people in their care using diverse communication techniques, advocating for rights, reducing barriers to healthcare, and supporting independence." },
+    { "chunk_id": "learning-disability-nurse-004", "section": "entry_requirements", "text": "Useful school subjects include Biology, Chemistry, Psychology, English, and Maths. Caring experience is also valuable." },
+    { "chunk_id": "learning-disability-nurse-005", "section": "education_and_training", "text": "NMC-approved undergraduate programmes are offered at Edinburgh Napier University and Glasgow Caledonian University. Open University offers a 4-year part-time BSc (Hons) Nursing (Learning Disability). HNC, CertHE, and SWAP provide alternative access routes. A £10,000 PNMSB bursary is available." },
+    { "chunk_id": "learning-disability-nurse-006", "section": "career_progression", "text": "Learning disability nurses can specialise in autism, epilepsy, community nursing, sensory disabilities, and more. Progression roles include specialist team lead, clinical educator, advanced nurse practitioner, and service management." },
+    { "chunk_id": "learning-disability-nurse-007", "section": "professional_bodies", "text": "Learning disability nurses must register with the NMC and revalidate every 3 years. They can also join the Royal College of Nursing (RCN)." }
+  ]
+}

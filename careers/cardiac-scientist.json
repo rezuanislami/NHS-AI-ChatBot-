@@ -1,0 +1,55 @@
+{
+  "id": "cardiac-scientist",
+  "title": "Cardiac Scientist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physiological Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physiological-sciences/cardiac-scientist/",
+  "how_to_become": "Apply for trainee opportunities on the NHS recruitment website, or complete an undergraduate degree at university.",
+  "description": "Cardiac scientists use specialist equipment including ECG recording machines and ultrasound scanners to assess how well a patient's heart is functioning. They assist with specialist catheter lab procedures including angiograms and angioplasty, and programme and optimise implantable cardiac devices.",
+  "role_overview": "As a cardiac physiology practitioner, you'll help diagnose and treat patients with known or suspected heart disease across a wide range of diagnostic and therapeutic specialities, from in-utero scans to end-of-life care.",
+  "key_procedures": [
+    "Angiograms — assessing blood flow in the coronary arteries.",
+    "Angioplasty — fitting stents to increase blood flow to the heart.",
+    "Programming and optimising implantable cardiac devices for patients with heart rhythm problems or at risk of cardiac arrest."
+  ],
+  "entry_requirements": {
+    "useful_subjects": [
+      "Maths",
+      "Statistics",
+      "Physics",
+      "Biology",
+      "Chemistry",
+      "English"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "undergraduate_route": "Clinical physiology undergraduate training programme — employed by an NHSScotland Health Board while completing an undergraduate honours degree at SCQF level 10, with departmental training.",
+    "alternative_route": "Some health boards offer alternative 3-year work-based training programmes for those with an undergraduate honours degree in Healthcare Science (Cardiac Physiology) at SCQF level 10 or other science subjects.",
+    "registration": "On completion, register as a healthcare science practitioner with the AHCS."
+  },
+  "learning_and_development": {
+    "overview": "Ongoing requirements for education and skills development after registration."
+  },
+  "career_progression": {
+    "overview": "With training and experience, cardiac scientists can move into supervisory or management roles.",
+    "progression_roles": [
+      "Cardiac physiology service manager",
+      "Clinical scientist in cardiac physiology (via equivalence recognition)"
+    ]
+  },
+  "professional_bodies": [
+    "Academy for Healthcare Science (AHCS)",
+    "Society for Cardiological Science and Technology (SCST)",
+    "British Heart Rhythm Society (BHRS)"
+  ],
+  "chunks": [
+    { "chunk_id": "cardiac-scientist-001", "section": "how_to_become", "text": "To become a cardiac scientist in the NHS, apply for trainee opportunities on the recruitment website or complete an undergraduate degree at university." },
+    { "chunk_id": "cardiac-scientist-002", "section": "description", "text": "Cardiac scientists use ECG machines and ultrasound scanners to assess heart function, assist with catheter lab procedures including angiograms and angioplasty, and programme implantable cardiac devices for patients with heart rhythm problems." },
+    { "chunk_id": "cardiac-scientist-003", "section": "role_overview", "text": "Cardiac physiology practitioners help diagnose and treat patients with known or suspected heart disease across diagnostic and therapeutic specialities from in-utero scans to end-of-life care." },
+    { "chunk_id": "cardiac-scientist-004", "section": "entry_requirements", "text": "Useful school subjects include Maths, Statistics, Physics, Biology, Chemistry, and English." },
+    { "chunk_id": "cardiac-scientist-005", "section": "education_and_training", "text": "Routes include the clinical physiology undergraduate training programme (employed by NHS Health Board while completing an undergraduate degree at SCQF level 10) or an alternative 3-year work-based training programme for those with a relevant degree." },
+    { "chunk_id": "cardiac-scientist-006", "section": "career_progression", "text": "With training and experience, cardiac scientists can progress to cardiac physiology service manager. Equivalence recognition allows progression to clinical scientist in cardiac physiology." },
+    { "chunk_id": "cardiac-scientist-007", "section": "professional_bodies", "text": "Cardiac scientists can register with the Academy for Healthcare Science (AHCS) and join the Society for Cardiological Science and Technology (SCST) and British Heart Rhythm Society (BHRS)." }
+  ]
+}

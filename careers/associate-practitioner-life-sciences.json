@@ -1,0 +1,64 @@
+{
+  "id": "associate-practitioner-life-sciences",
+  "title": "Associate Practitioner — Life Sciences",
+  "sector": "Healthcare Science",
+  "sub_sector": "Laboratory Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/laboratory-sciences/associate-practitioner-life-sciences/",
+  "published": "03/06/2023",
+  "last_updated": "09/12/2025",
+  "how_to_become": "To become an associate practitioner in life sciences, you'll need an HND in Applied Biological Sciences or an equivalent qualification at SCQF level 8.",
+  "description": "Associate practitioners in life sciences provide technical and analytical support to healthcare science practitioners, biomedical scientists, and clinical scientists in hospital laboratories. They work in infection sciences, blood sciences, cell sciences, or gene sciences.",
+  "role_overview": "In the laboratory, you'll process and test biological samples using a range of technologies and send results to biomedical scientists for validation and authorisation. You'll also calibrate, operate, and maintain specialised testing equipment including automated analysers.",
+  "work_areas": [
+    "Infection sciences",
+    "Blood sciences",
+    "Cell sciences",
+    "Gene sciences"
+  ],
+  "entry_requirements": {
+    "overview": "An HND in Applied Biological Sciences or equivalent at SCQF level 8 is required, or completion of IBMS Certificate of Achievement Part 2 as an alternative route.",
+    "useful_subjects": [
+      "English",
+      "Biology",
+      "Chemistry",
+      "Maths"
+    ],
+    "alternative_route": "IBMS Certificate of Achievement Part 2 — a portfolio-based professional vocational qualification demonstrating knowledge, skills, and evidence of laboratory training."
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland. Some associate practitioners start as assistant practitioners in the lab.",
+  "learning_and_development": {
+    "training_topics": [
+      "Standard operating procedures",
+      "Quality management policies",
+      "External quality assessment and internal quality control",
+      "Laboratory and hospital health and safety",
+      "Risk management"
+    ]
+  },
+  "career_progression": {
+    "overview": "Associate practitioners can progress to biomedical scientist through further study.",
+    "qualifications_for_progression": [
+      "Part-time IBMS-accredited honours degree programme"
+    ],
+    "progression_roles": [
+      "Biomedical scientist"
+    ]
+  },
+  "professional_bodies": [
+    "Institute of Biomedical Science (IBMS)"
+  ],
+  "related_careers": [
+    "Biomedical scientist",
+    "Clinical scientist — embryology",
+    "Clinical scientist — immunology"
+  ],
+  "chunks": [
+    { "chunk_id": "associate-practitioner-life-sciences-001", "section": "how_to_become", "text": "To become an associate practitioner in life sciences, you'll need an HND in Applied Biological Sciences or equivalent at SCQF level 8, or alternatively the IBMS Certificate of Achievement Part 2." },
+    { "chunk_id": "associate-practitioner-life-sciences-002", "section": "description", "text": "Associate practitioners in life sciences provide technical and analytical support to healthcare science practitioners, biomedical scientists, and clinical scientists in hospital laboratories across infection sciences, blood sciences, cell sciences, or gene sciences." },
+    { "chunk_id": "associate-practitioner-life-sciences-003", "section": "role_overview", "text": "Associate practitioners process and test biological samples, send results to biomedical scientists for validation, and calibrate, operate, and maintain specialised testing equipment including automated analysers." },
+    { "chunk_id": "associate-practitioner-life-sciences-004", "section": "entry_requirements", "text": "Useful school subjects include English, Biology, Chemistry, and Maths. An HND in Applied Biological Sciences at SCQF level 8 is required, or the IBMS Certificate of Achievement Part 2 as an alternative route." },
+    { "chunk_id": "associate-practitioner-life-sciences-005", "section": "learning_and_development", "text": "Training covers standard operating procedures, quality management, quality control, laboratory and hospital health and safety, and risk management." },
+    { "chunk_id": "associate-practitioner-life-sciences-006", "section": "career_progression", "text": "Associate practitioners can progress to biomedical scientist by completing a part-time IBMS-accredited honours degree programme." },
+    { "chunk_id": "associate-practitioner-life-sciences-007", "section": "professional_bodies", "text": "Associate practitioners in life sciences can join the Institute of Biomedical Science (IBMS)." }
+  ]
+}

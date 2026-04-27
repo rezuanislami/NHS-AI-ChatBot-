@@ -1,0 +1,68 @@
+{
+  "id": "strategic-planner",
+  "title": "Strategic Planner",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/strategic-planner/",
+  "how_to_become": "The training and education pathway for strategic planners is varied. Some start their careers in other roles within health and social care. You could also apply with an undergraduate or postgraduate degree in subjects such as Public Health, Business Management, Nursing, or Economics.",
+  "salary": {
+    "entry": "£50,861",
+    "entry_note": "Strategic planners in the NHS start at £50,861 before tax.",
+    "experienced": "£79,164",
+    "experienced_note": "Senior strategic planners can earn up to £67,665. Lead strategic planners can earn up to £79,164 before tax."
+  },
+  "description": "Strategic planners help organisations decide what they want to do and work out how to make it happen. Their analysis and insight inform decisions on what services to deliver and how to deliver them. Strategic planners are employed in all NHS boards and health and social care partnerships across Scotland.",
+  "key_responsibilities": [
+    "Drawing on a wide source of evidence such as data and people's experiences to address current and future needs of people in Scotland.",
+    "Analysing how the whole health and social care system needs to work together to meet those needs.",
+    "Following curiosity about what is happening and why in order to understand how to make it better.",
+    "Translating evidence and information into insight that decision-makers need to improve organisations, services, and support."
+  ],
+  "role_overview": "As a strategic planner, you'll help organisations develop their strategy and direction of travel, defining what they want to achieve and where they want to be in the future. You'll develop plans that support them to achieve this strategy by laying out what they will do and how.",
+  "typical_backgrounds": [
+    "Clinician, such as a nurse or allied health professional",
+    "Health or social care service manager",
+    "Project or programme coordinator or manager",
+    "Data analyst or performance measurement professional",
+    "Public health or health improvement professional",
+    "Community organisation or charity worker"
+  ],
+  "motivations_for_entering_role": [
+    "Working to set up a new service or redesign a current one involving elements of strategic planning.",
+    "Working within a health and social care service and seeing strategic planning as an opportunity to make changes at a strategic level.",
+    "Working in public health and seeing strategic planning as an opportunity to pursue system-wide levers to improve population health."
+  ],
+  "education_and_training": {
+    "overview": "The education pathway for strategic planners is varied. Most universities accept a wide range of qualifications.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "degree_programmes": [
+      "Public Health",
+      "Economics",
+      "Public Policy",
+      "Strategic Service Planning",
+      "Health Analytics",
+      "Business Management",
+      "Clinical subjects including nursing and allied health professions"
+    ]
+  },
+  "learning_and_development": {
+    "overview": "During your career, self-directed learning will provide opportunities to learn new skills and gain qualifications, supporting progression into more senior roles."
+  },
+  "career_progression": {
+    "overview": "Self-directed learning and experience support progression into more senior strategic planning roles.",
+    "progression_roles": [
+      "Senior strategic planner",
+      "Lead strategic planner"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "strategic-planner-001", "section": "how_to_become", "text": "The pathway to becoming a strategic planner is varied. Many start in other health and social care roles. An undergraduate or postgraduate degree in Public Health, Business Management, Nursing, or Economics can also support entry." },
+    { "chunk_id": "strategic-planner-002", "section": "salary", "text": "Strategic planners in the NHS start at £50,861 before tax. Senior strategic planners can earn up to £67,665. Lead strategic planners can earn up to £79,164 before tax." },
+    { "chunk_id": "strategic-planner-003", "section": "description", "text": "Strategic planners help NHS organisations decide what they want to achieve and how to make it happen. Their analysis and insight inform decisions on what services to deliver and how. They are employed across all NHS boards and health and social care partnerships in Scotland." },
+    { "chunk_id": "strategic-planner-004", "section": "key_responsibilities", "text": "Strategic planners draw on data and people's experiences to address population needs, analyse how the health and social care system works together, and translate evidence into insight for decision-makers to improve organisations and services." },
+    { "chunk_id": "strategic-planner-005", "section": "role_overview", "text": "As a strategic planner, you'll help organisations develop their strategy and direction, defining goals and developing plans that lay out what they will do and how to achieve them." },
+    { "chunk_id": "strategic-planner-006", "section": "typical_backgrounds", "text": "Most strategic planners move from other health and social care roles such as clinician, service manager, project coordinator, data analyst, public health professional, or community organisation worker." },
+    { "chunk_id": "strategic-planner-007", "section": "motivations", "text": "People are often drawn to strategic planning through experience setting up new services, seeing the need for strategic-level change within health and social care services, or pursuing system-wide improvements in public health." },
+    { "chunk_id": "strategic-planner-008", "section": "education_and_training", "text": "Relevant degree subjects include Public Health, Economics, Public Policy, Strategic Service Planning, Health Analytics, Business Management, and clinical subjects including nursing and allied health professions. SWAP supports adult learners into higher education." },
+    { "chunk_id": "strategic-planner-009", "section": "learning_and_development", "text": "Self-directed learning during your career provides opportunities to learn new skills and gain qualifications, supporting progression into senior strategic planner or lead strategic planner roles." }
+  ]
+}

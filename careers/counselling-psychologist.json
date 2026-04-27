@@ -1,0 +1,42 @@
+{
+  "id": "counselling-psychologist",
+  "title": "Counselling Psychologist",
+  "sector": "Psychology",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/psychology/counselling-psychologist/",
+  "how_to_become": "To enter a counselling psychology training programme, you need an accredited undergraduate or postgraduate degree and graduate membership of the BPS, plus experience working with adults or children.",
+  "description": "Counselling psychologists support people experiencing mental health problems concerning life issues including bereavement, domestic violence, sexual abuse, traumas, and relationship issues. They combine theory and research with therapeutic practice.",
+  "entry_requirements": {
+    "overview": "An undergraduate or postgraduate degree accredited by the BPS leading to graduate membership is required, plus experience working with adults or children.",
+    "useful_subjects": [
+      "Psychology",
+      "Religious, Moral and Philosophical Studies",
+      "English",
+      "Human Biology",
+      "Maths"
+    ],
+    "widening_access": "SWAP supports adult learners with few or no qualifications to enter higher education."
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "learning_and_development": {
+    "overview": "Personal therapy as a client is required as part of training and continued professional development."
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Register of Psychologists Specialising in Psychotherapy",
+      "Clinical supervisor",
+      "Head of a psychology service",
+      "Consultant psychologist",
+      "Research and teaching roles"
+    ]
+  },
+  "professional_bodies": [
+    "British Psychological Society (BPS) — graduate and chartered membership",
+    "Health and Care Professions Council (HCPC) — mandatory registration"
+  ],
+  "chunks": [
+    { "chunk_id": "counselling-psychologist-001", "section": "how_to_become", "text": "To enter counselling psychology training, you need a BPS-accredited degree leading to graduate membership and experience working with adults or children." },
+    { "chunk_id": "counselling-psychologist-002", "section": "description", "text": "Counselling psychologists support people with mental health problems relating to life issues including bereavement, domestic violence, sexual abuse, traumas, and relationship difficulties, combining theory and research with therapeutic practice." },
+    { "chunk_id": "counselling-psychologist-003", "section": "career_progression", "text": "Counselling psychologists can qualify for the Register of Psychologists Specialising in Psychotherapy, become clinical supervisors, head of a psychology service, consultant psychologist, or move into research and teaching." },
+    { "chunk_id": "counselling-psychologist-004", "section": "professional_bodies", "text": "Counselling psychologists must be HCPC-registered. They can join the BPS at graduate and chartered membership levels." }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "adult-nurse",
+  "title": "Adult Nurse",
+  "sector": "Nursing",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/nursing/adult-nurse/",
+  "how_to_become": "To become an adult nurse in the NHS, complete a pre-registration degree programme accredited by the Nursing and Midwifery Council (NMC).",
+  "description": "Adult nurses have the specialist knowledge and skills to provide care to adults from the age of 18 onwards. They use a wide range of skills to influence, deliver, plan, and assess a person's care and treatment, and play a vital role in empowering patients to make informed decisions about their care and wellbeing.",
+  "role_overview": "As an adult registered nurse, you'll be a key member of the healthcare team, delivering direct care and support and making complex clinical decisions. You'll be responsible for people's physical, clinical, and emotional needs across a variety of specialities.",
+  "entry_requirements": {
+    "useful_subjects": [
+      "Biology",
+      "Chemistry",
+      "Psychology",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience. Contact your local health board to find out about opportunities.",
+  "education_and_training": {
+    "undergraduate_universities": [
+      "Edinburgh Napier University",
+      "Glasgow Caledonian University",
+      "Queen Margaret University",
+      "Robert Gordon University",
+      "University of Dundee",
+      "University of Edinburgh",
+      "University of Glasgow",
+      "University of Stirling",
+      "University of the Highlands and Islands",
+      "University of the West of Scotland"
+    ],
+    "undergraduate_duration": "3 years full-time.",
+    "postgraduate_universities": [
+      "Edinburgh Napier University",
+      "Glasgow Caledonian University",
+      "University of Dundee",
+      "University of Edinburgh"
+    ],
+    "postgraduate_duration": "3 years full-time. Requires an undergraduate degree in any subject.",
+    "open_university": "4-year part-time BSc combining nursing support worker role with online study. Scottish Government covers all tuition fees.",
+    "hnc_route": "HNC in Healthcare Practice at SCQF level 7 — a stepping stone for healthcare support workers, may allow entry to year 2 of a nursing degree.",
+    "certhe_route": "CertHE in Healthcare Practice at SCQF level 7 — for nursing support workers, progressing to assistant practitioner or nursing degree.",
+    "swap_route": "SWAP — one-year access course for adult learners out of education for 3+ years, preparing for entry to a partnered university nursing degree.",
+    "return_to_practice": "Former NMC-registered nurses can return via a return to practice course (14 to 26 weeks) or the NMC Test of Competence.",
+    "bursary": "Paramedic, Nursing and Midwifery Student Bursary (PNMSB) — £10,000 non-repayable bursary for eligible students ordinarily residing in Scotland."
+  },
+  "learning_and_development": {
+    "overview": "Once registered, there are ongoing education and skills development requirements. Flying Start programme provides extra support in the first year.",
+    "revalidation": "Nurses must revalidate with the NMC every 3 years."
+  },
+  "career_progression": {
+    "specialisms": [
+      "District nursing",
+      "General practice nursing",
+      "Rehabilitation nursing",
+      "Older people's nursing",
+      "Accident and emergency nursing",
+      "Intensive care nursing",
+      "Theatre nursing",
+      "Cancer and palliative care nursing",
+      "Community staff nursing",
+      "Occupational health nursing",
+      "Public health",
+      "Clinical research"
+    ],
+    "progression_roles": [
+      "Senior nurse",
+      "Advanced nurse practitioner",
+      "Consultant nurse"
+    ]
+  },
+  "professional_bodies": [
+    "Nursing and Midwifery Council (NMC) — mandatory registration",
+    "Royal College of Nursing (RCN)"
+  ],
+  "chunks": [
+    { "chunk_id": "adult-nurse-001", "section": "how_to_become", "text": "To become an adult nurse in the NHS, complete a pre-registration degree programme accredited by the NMC." },
+    { "chunk_id": "adult-nurse-002", "section": "description", "text": "Adult nurses provide care to adults from age 18 onwards, using a wide range of skills to influence, deliver, plan, and assess care and treatment, empowering patients to make informed decisions about their wellbeing." },
+    { "chunk_id": "adult-nurse-003", "section": "role_overview", "text": "Adult nurses deliver direct care, make complex clinical decisions, and are responsible for patients' physical, clinical, and emotional needs across a variety of specialities." },
+    { "chunk_id": "adult-nurse-004", "section": "entry_requirements", "text": "Useful school subjects include Biology, Chemistry, Psychology, English, and Maths." },
+    { "chunk_id": "adult-nurse-005", "section": "education_and_training", "text": "10 Scottish universities offer NMC-approved undergraduate adult nursing degrees (3 years full-time). Postgraduate routes (3 years) are available at 4 universities for those with any undergraduate degree. Open University offers a 4-year part-time route. HNC Healthcare Practice, CertHE, and SWAP provide alternative access routes. A £10,000 PNMSB bursary is available." },
+    { "chunk_id": "adult-nurse-006", "section": "career_progression", "text": "Adult nurses can specialise in district nursing, general practice, emergency care, intensive care, cancer care, and more. Progression routes include senior nurse, advanced nurse practitioner, and consultant nurse." },
+    { "chunk_id": "adult-nurse-007", "section": "professional_bodies", "text": "Adult nurses must register with the NMC and revalidate every 3 years. They can also join the Royal College of Nursing (RCN)." }
+  ]
+}

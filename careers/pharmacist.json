@@ -1,0 +1,96 @@
+{
+  "id": "pharmacist",
+  "title": "Pharmacist",
+  "sector": "Pharmacy",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/pharmacy/pharmacist/",
+  "how_to_become": "To become a pharmacist, complete a 4-year Master of Pharmacy (MPharm) degree, a 1-year Foundation Training Year (FTY), and pass the GPhC registration assessment. From 2026, all newly registered pharmacists in Scotland will also be qualified as independent prescribers.",
+  "salary": {
+    "entry": "£41,608",
+    "entry_note": "Newly qualified pharmacists in the NHS start at around £41,608 before tax.",
+    "experienced": "£128,051",
+    "experienced_note": "Lead and highly specialised pharmacists can earn up to £79,164. Chief and consultant pharmacists can earn up to £128,051 before tax."
+  },
+  "description": "Pharmacists are highly skilled healthcare professionals and experts in medicines. They have a vital role in delivering safe, effective, and person-centred care across Scotland's health system, working in hospitals, GP practices, community pharmacies, and specialist services.",
+  "key_responsibilities": [
+    "Medicine review and optimisation — ensuring prescriptions are clinically appropriate, safe, and effective.",
+    "Patient education and support — advising patients on medicines, side effects, and self-management.",
+    "Providing clinical and public health services — vaccinations, blood pressure checks, smoking cessation, and NHS Pharmacy First Scotland.",
+    "Prescribing and clinical decision-making — many Scottish pharmacists are independent prescribers.",
+    "Supporting multidisciplinary teams — advising on medicine choice, dosing, and interactions.",
+    "Medicine safe supply and governance — overseeing dispensing, including aseptic preparation of chemotherapy and high-risk medicines."
+  ],
+  "entry_requirements": {
+    "overview": "A 4-year MPharm degree (GPhC-accredited) is required. Chemistry is essential as a school subject.",
+    "useful_subjects": [
+      "Chemistry (essential)",
+      "Biology",
+      "Maths",
+      "Physics",
+      "English",
+      "Administration and IT",
+      "Business Management",
+      "Foundation Apprenticeship: Scientific Technologies"
+    ]
+  },
+  "work_experience": "Work placements and volunteering in community or hospital pharmacy are recommended to demonstrate commitment and gain realistic understanding of the career.",
+  "education_and_training": {
+    "mpharm_universities": [
+      "Robert Gordon University, Aberdeen",
+      "University of Strathclyde, Glasgow"
+    ],
+    "mpharm_duration": "4 years full-time.",
+    "widening_access_routes": [
+      "Degree Link — guaranteed progression from HNC/HND to Robert Gordon University.",
+      "Focus West — programme for S4-S6 pupils from lower-income or underrepresented backgrounds.",
+      "Scottish Wider Access Programme (SWAP) — one-year college courses providing a route to higher education.",
+      "Existing healthcare professionals (e.g. registered pharmacy technicians) may apply.",
+      "Graduate entry programmes for those with a relevant degree."
+    ],
+    "foundation_training_year": "1-year paid Foundation Training Year (FTY) delivered in clinical settings, managed by NES. Trainees must register with the GPhC as a foundation trainee.",
+    "gphc_registration_assessment": "Final exam testing clinical knowledge and decision-making. Must be passed to become a qualified pharmacist.",
+    "independent_prescribing": "From 2026, all newly registered pharmacists in Scotland will be qualified as independent prescribers."
+  },
+  "learning_and_development": {
+    "overview": "Registered pharmacists must engage in CPD and revalidate annually with the GPhC.",
+    "cpd_providers": [
+      "NES Pharmacy",
+      "Royal Pharmaceutical Society (RPS)",
+      "Universities and other training bodies"
+    ]
+  },
+  "career_progression": {
+    "specialisms": [
+      "Oncology",
+      "Mental health",
+      "Paediatrics",
+      "Critical care",
+      "Infectious diseases"
+    ],
+    "progression_roles": [
+      "Senior pharmacist",
+      "Specialist pharmacist",
+      "Clinical lead",
+      "Pharmacy manager",
+      "Consultant pharmacist",
+      "Chief pharmacist"
+    ]
+  },
+  "professional_bodies": [
+    "General Pharmaceutical Council (GPhC) — mandatory registration, renewed annually",
+    "Royal Pharmaceutical Society (RPS)"
+  ],
+  "related_careers": [
+    "Pharmacy technician",
+    "Pharmacy support worker"
+  ],
+  "chunks": [
+    { "chunk_id": "pharmacist-001", "section": "how_to_become", "text": "To become a pharmacist, complete a 4-year MPharm degree, a 1-year Foundation Training Year (FTY), and pass the GPhC registration assessment. From 2026, all newly registered pharmacists in Scotland will also be qualified as independent prescribers. Total time to qualify: 5 years." },
+    { "chunk_id": "pharmacist-002", "section": "salary", "text": "Newly qualified pharmacists start at around £41,608 before tax. Lead and specialist pharmacists can earn up to £79,164. Chief and consultant pharmacists can earn up to £128,051 before tax." },
+    { "chunk_id": "pharmacist-003", "section": "description", "text": "Pharmacists are experts in medicines, delivering safe, effective, and person-centred care in hospitals, GP practices, community pharmacies, and specialist services across Scotland's health system." },
+    { "chunk_id": "pharmacist-004", "section": "key_responsibilities", "text": "Pharmacists conduct medicine reviews, advise patients on medicines and side effects, deliver public health services (vaccinations, blood pressure checks, smoking cessation), prescribe medicines as independent prescribers, advise multidisciplinary teams on medicine choice, and oversee safe supply and governance of medicines." },
+    { "chunk_id": "pharmacist-005", "section": "entry_requirements", "text": "Chemistry is an essential school subject. Other useful subjects include Biology, Maths, Physics, and English. A GPhC-accredited MPharm degree is required. Widening access routes include Degree Link, Focus West, SWAP, and graduate entry programmes." },
+    { "chunk_id": "pharmacist-006", "section": "education_and_training", "text": "MPharm degrees are offered at Robert Gordon University and University of Strathclyde (4 years full-time). This is followed by a 1-year paid Foundation Training Year managed by NES and a GPhC registration assessment. From 2026, all newly registered pharmacists will be independent prescribers." },
+    { "chunk_id": "pharmacist-007", "section": "career_progression", "text": "Pharmacists can specialise in oncology, mental health, paediatrics, critical care, or infectious diseases, and progress to specialist pharmacist, pharmacy manager, consultant pharmacist, or chief pharmacist." },
+    { "chunk_id": "pharmacist-008", "section": "professional_bodies", "text": "Pharmacists must maintain annual GPhC registration. They can also join the Royal Pharmaceutical Society (RPS)." }
+  ]
+}
