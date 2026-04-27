@@ -1,0 +1,741 @@
+:root {
+    --nhs-blue: #005eb8;
+    --nhs-dark-blue: #003d7a;
+    --nhs-light-blue: #41b6e6;
+    --nhs-white: #ffffff;
+    --nhs-black: #231f20;
+    --nhs-grey-1: #f5f7f9;
+    --nhs-grey-2: #e8ebed;
+    --nhs-grey-3: #d4d8db;
+    --nhs-grey-4: #8c9497;
+    --nhs-green: #007f5c;
+    --nhs-yellow: #f7c700;
+    --shadow-sm: 0 4px 10px rgba(0, 0, 0, 0.08);
+    --shadow-md: 0 12px 28px rgba(0, 45, 98, 0.14);
+    --shadow-lg: 0 18px 40px rgba(0, 45, 98, 0.22);
+    --border-radius: 10px;
+    --border-radius-lg: 18px;
+    --transition: all 0.2s ease-in-out;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: var(--nhs-black);
+    background: linear-gradient(180deg, #f7fbff 0%, #eef4f8 100%);
+}
+
+.nhsuk-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.nhsuk-header {
+    background-color: var(--nhs-blue);
+    color: var(--nhs-white);
+    padding: 18px 0;
+    box-shadow: var(--shadow-sm);
+}
+
+.nhsuk-header__logo {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.nhsuk-header__logo-img {
+    width: 220px;
+    max-width: 100%;
+    height: auto;
+}
+
+.nhsuk-header__title {
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+
+main {
+    padding: 52px 0 140px;
+}
+
+.page-title {
+    font-size: 2.5rem;
+    color: var(--nhs-dark-blue);
+    margin-bottom: 18px;
+}
+
+.page-intro,
+.content-text,
+.footer-text,
+.copyright,
+.chat-subtitle,
+.recent-questions-title,
+.modal-header p {
+    font-size: 1.02rem;
+}
+
+.content-section {
+    background: var(--nhs-white);
+    border-radius: var(--border-radius-lg);
+    box-shadow: var(--shadow-sm);
+    padding: 28px;
+    margin-bottom: 24px;
+}
+
+.section-title {
+    color: var(--nhs-dark-blue);
+    font-size: 1.6rem;
+    margin-bottom: 12px;
+}
+
+.standard-list {
+    padding-left: 24px;
+    margin: 16px 0;
+}
+
+.section-note,
+.copyright-note {
+    margin-top: 10px;
+}
+
+.inline-link {
+    color: var(--nhs-blue);
+    font-weight: 700;
+}
+
+.careers-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 18px;
+    margin-top: 18px;
+}
+
+.career-card {
+    background: linear-gradient(180deg, #ffffff 0%, #f7fbff 100%);
+    border: 1px solid var(--nhs-grey-2);
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: var(--shadow-sm);
+}
+
+.career-card h3 {
+    color: var(--nhs-dark-blue);
+    margin-bottom: 10px;
+}
+
+.nhsuk-footer {
+    background: #002d62;
+    color: var(--nhs-white);
+    padding: 42px 0 28px;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 24px;
+}
+
+.footer-section h3 {
+    font-size: 1.2rem;
+    margin-bottom: 12px;
+}
+
+.footer-links {
+    list-style: none;
+}
+
+.footer-links li {
+    margin-bottom: 8px;
+}
+
+.footer-links a {
+    color: var(--nhs-light-blue);
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    margin-top: 28px;
+    padding-top: 18px;
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+    color: rgba(255, 255, 255, 0.8);
+}
+
+#chat-widget {
+    position: fixed;
+    right: 24px;
+    bottom: 24px;
+    z-index: 1000;
+}
+
+#chat-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    border-radius: 999px;
+    background: linear-gradient(135deg, var(--nhs-blue), var(--nhs-dark-blue));
+    color: var(--nhs-white);
+    padding: 16px 26px;
+    font-size: 1.05rem;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: var(--shadow-lg);
+    transition: var(--transition);
+}
+
+#chat-toggle:hover,
+#chat-toggle:focus {
+    transform: translateY(-1px);
+}
+
+#chat-window {
+    position: absolute;
+    right: 0;
+    bottom: 78px;
+    width: 570px;
+    max-width: calc(100vw - 32px);
+    height: 700px;
+    max-height: calc(100vh - 110px);
+    background: var(--nhs-white);
+    border-radius: 24px;
+    overflow: hidden;
+    box-shadow: 0 24px 60px rgba(0, 45, 98, 0.3);
+    display: flex;
+    flex-direction: column;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(18px) scale(0.98);
+    transition: var(--transition);
+    border: 1px solid rgba(0, 94, 184, 0.12);
+}
+
+#chat-window.visible {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0) scale(1);
+}
+
+.chat-header {
+    background: linear-gradient(135deg, var(--nhs-blue), var(--nhs-dark-blue));
+    color: var(--nhs-white);
+    padding: 12px 16px 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: flex-start;
+}
+
+.chat-header h2 {
+    font-size: 1.1rem;
+    line-height: 1.2;
+    margin: 6px 0 2px;
+}
+
+.chat-subtitle {
+    font-size: 0.88rem;
+    line-height: 1.25;
+    margin: 0;
+}
+
+.chat-badge {
+    display: inline-block;
+    padding: 4px 9px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.18);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+
+#chat-close,
+.modal-close {
+    background: rgba(255, 255, 255, 0.14);
+    color: var(--nhs-white);
+    border: none;
+    border-radius: 10px;
+    width: 36px;
+    height: 36px;
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+
+.recent-questions-panel {
+    margin-top: -4px;
+    padding: 0 20px 16px;
+    background: linear-gradient(180deg, #ffffff 0%, #f9fbfd 100%);
+}
+
+.recent-questions-title {
+    display: none;
+}
+
+.recent-questions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+}
+
+.question-chip {
+    border: 1.5px solid rgba(0, 94, 184, 0.45);
+    background: #ffffff;
+    color: var(--nhs-blue);
+    border-radius: 999px;
+    padding: 8px 14px;
+    font-size: 0.84rem;
+    font-weight: 700;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: var(--transition);
+    box-shadow: 0 4px 12px rgba(0, 45, 98, 0.06);
+}
+
+.question-chip:hover,
+.question-chip:focus {
+    background: #eaf4fd;
+    border-color: var(--nhs-blue);
+    transform: translateY(-1px);
+}
+
+.chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 20px 20px 10px;
+    background: linear-gradient(180deg, #ffffff 0%, #f9fbfd 100%);
+}
+
+.message {
+    max-width: 85%;
+    margin-bottom: 16px;
+    padding: 14px 16px;
+    border-radius: 18px;
+    box-shadow: var(--shadow-sm);
+}
+
+.welcome-message {
+    margin-bottom: 12px;
+}
+
+.bot-message {
+    background: #f0f7ff;
+    border-top-left-radius: 6px;
+}
+
+.user-message {
+    background: var(--nhs-blue);
+    color: var(--nhs-white);
+    margin-left: auto;
+    border-top-right-radius: 6px;
+}
+
+.message-time {
+    font-size: 0.78rem;
+    opacity: 0.8;
+    margin-top: 8px;
+}
+
+.chat-input-container {
+    display: flex;
+    gap: 12px;
+    padding: 18px 20px;
+    border-top: 1px solid var(--nhs-grey-2);
+    background: var(--nhs-white);
+}
+
+#user-input,
+.ticket-form input,
+.ticket-form textarea,
+.ticket-form select {
+    width: 100%;
+    border: 1px solid var(--nhs-grey-3);
+    border-radius: 10px;
+    padding: 10px 12px;
+    font-size: 0.95rem;
+    outline: none;
+    background: var(--nhs-white);
+}
+
+#user-input:focus,
+.ticket-form input:focus,
+.ticket-form textarea:focus,
+.ticket-form select:focus {
+    border-color: var(--nhs-blue);
+    box-shadow: 0 0 0 3px rgba(0, 94, 184, 0.12);
+}
+
+#send-btn,
+.ticket-btn,
+.modal-submit-btn {
+    border: none;
+    border-radius: 10px;
+    background: var(--nhs-blue);
+    color: var(--nhs-white);
+    font-weight: 700;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+#send-btn {
+    padding: 0 20px;
+    min-width: 90px;
+}
+
+.chat-footer {
+    padding: 0 20px 20px;
+    background: var(--nhs-white);
+}
+
+.ticket-btn {
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 14px 18px;
+    background: #eaf4fd;
+    color: var(--nhs-dark-blue);
+    border: 1px solid rgba(0, 94, 184, 0.16);
+}
+
+.ticket-btn:hover,
+.modal-submit-btn:hover,
+#send-btn:hover {
+    transform: translateY(-1px);
+}
+
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 20, 40, 0.45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    opacity: 0;
+    pointer-events: none;
+    transition: var(--transition);
+    z-index: 1200;
+}
+
+.modal-overlay.visible {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.modal-card {
+    width: 100%;
+    max-width: 430px;
+    background: var(--nhs-white);
+    border-radius: 8px;
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+    border: 1px solid rgba(0, 94, 184, 0.14);
+}
+
+.modal-header {
+    background: linear-gradient(135deg, var(--nhs-blue), var(--nhs-dark-blue));
+    color: var(--nhs-white);
+    padding: 16px 18px;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.modal-header h2 {
+    margin: 0 0 4px;
+    font-size: 1.05rem;
+}
+
+.modal-header p {
+    margin: 0;
+    font-size: 0.84rem;
+    line-height: 1.35;
+}
+
+.ticket-form {
+    padding: 16px 18px 18px;
+    display: grid;
+    gap: 12px;
+}
+
+.ticket-form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.ticket-form label {
+    display: grid;
+    gap: 6px;
+    font-weight: 700;
+    font-size: 0.84rem;
+    color: var(--nhs-dark-blue);
+}
+
+.ticket-form .full-width {
+    grid-column: 1 / -1;
+}
+
+.ticket-form textarea {
+    min-height: 92px;
+    resize: vertical;
+}
+
+.ticket-form input[type="file"] {
+    padding: 8px 10px;
+}
+
+.ticket-consent-label {
+    display: flex !important;
+    align-items: flex-start;
+    gap: 10px;
+    font-weight: 600;
+    color: #24415f;
+}
+
+.ticket-consent-label input {
+    width: 16px;
+    height: 16px;
+    margin-top: 2px;
+    flex: 0 0 auto;
+}
+
+.ticket-status {
+    min-height: 18px;
+    font-size: 0.82rem;
+    color: #8a1538;
+}
+
+.ticket-status.success {
+    color: #0b6b3a;
+}
+
+.ticket-status.loading {
+    color: var(--nhs-blue);
+}
+
+.modal-submit-btn {
+    padding: 11px 14px;
+    width: 100%;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.new-message {
+    animation: fadeInUp 0.3s ease;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 640px) {
+    .ticket-form-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .nhsuk-container {
+        padding: 0 16px;
+    }
+
+    .page-title {
+        font-size: 2rem;
+    }
+
+    #chat-widget {
+        right: 12px;
+        bottom: 12px;
+        left: 12px;
+    }
+
+    #chat-toggle {
+        width: 100%;
+        justify-content: center;
+    }
+
+    #chat-window {
+        right: 0;
+        left: 0;
+        width: 100%;
+        bottom: 72px;
+        height: calc(100vh - 100px);
+        max-height: none;
+    }
+
+    .chat-input-container {
+        flex-direction: column;
+    }
+
+    #send-btn {
+        width: 100%;
+        padding: 14px 18px;
+    }
+}
+
+
+/* Chatbot enhancements */
+#chat-window {
+    height: 760px;
+}
+
+.chat-messages {
+    padding: 20px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.message-row {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    width: 100%;
+}
+
+.bot-row {
+    justify-content: flex-start;
+}
+
+.user-row {
+    justify-content: flex-end;
+}
+
+.message-avatar {
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--nhs-blue), var(--nhs-dark-blue));
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    box-shadow: 0 8px 20px rgba(0, 94, 184, 0.18);
+    margin-bottom: 2px;
+}
+
+.message {
+    max-width: 82%;
+}
+
+.bot-message,
+.user-message {
+    border-radius: 18px;
+    padding: 14px 16px;
+    position: relative;
+}
+
+.bot-message {
+    background: #f3f7fb;
+    border: 1px solid rgba(0, 94, 184, 0.12);
+}
+
+.user-message {
+    background: linear-gradient(135deg, var(--nhs-blue), var(--nhs-dark-blue));
+    color: #fff;
+    margin-left: auto;
+}
+
+.message-time {
+    margin-top: 8px;
+    font-size: 0.76rem;
+    opacity: 0.72;
+}
+
+.loading-message .bot-message {
+    padding: 14px 16px 12px;
+}
+
+.typing-dots {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-height: 14px;
+}
+
+.typing-dots span {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--nhs-blue);
+    opacity: 0.35;
+    animation: typingBounce 1.2s infinite ease-in-out;
+}
+
+.typing-dots span:nth-child(2) { animation-delay: 0.16s; }
+.typing-dots span:nth-child(3) { animation-delay: 0.32s; }
+
+@keyframes typingBounce {
+    0%, 80%, 100% {
+        transform: translateY(0);
+        opacity: 0.3;
+    }
+    40% {
+        transform: translateY(-5px);
+        opacity: 1;
+    }
+}
+
+.recent-questions-panel {
+    margin-left: 48px;
+}
+
+@media (max-width: 640px) {
+    .ticket-form-grid {
+        grid-template-columns: 1fr;
+    }
+
+    #chat-window {
+        width: calc(100vw - 20px);
+        height: calc(100vh - 100px);
+        right: -4px;
+    }
+
+    .message {
+        max-width: 88%;
+    }
+}
+
+
+.chat-link {
+    color: var(--nhs-dark-blue);
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.chat-link:hover,
+.chat-link:focus {
+    text-decoration-thickness: 2px;
+}
