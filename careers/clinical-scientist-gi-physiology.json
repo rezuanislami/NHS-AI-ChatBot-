@@ -1,0 +1,76 @@
+{
+  "id": "clinical-scientist-gi-physiology",
+  "title": "Clinical Scientist — GI Physiology",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physiological Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physiological-sciences/clinical-scientist-gi-physiology/",
+  "how_to_become": "Complete a postgraduate-level work-based training programme, or apply for registration through an equivalence route if you have significant professional experience and relevant qualifications.",
+  "description": "Clinical scientists in gastrointestinal (GI) physiology carry out diagnostic tests for suspected diseases or disorders in the digestive system including swallowing disorders, gastro-oesophageal reflux disease, lactose intolerance, small bowel bacterial overgrowth, chronic constipation, and faecal incontinence. They report results to help doctors make informed decisions about patients' medical and surgical care.",
+  "role_overview": "As a clinical scientist in GI physiology, you'll carry out complex investigations of patients' digestive systems using specialist equipment and provide accurate diagnostic analysis to inform patient care. You'll also work with nurses and doctors to offer specialist treatments, undertake research projects, and participate in teaching and training.",
+  "conditions_investigated": [
+    "Swallowing disorders",
+    "Gastro-oesophageal reflux disease",
+    "Lactose intolerance",
+    "Small bowel bacterial overgrowth",
+    "Chronic constipation",
+    "Faecal incontinence"
+  ],
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree at SCQF level 10 in a relevant subject is required to apply for the clinical scientist training programme.",
+    "useful_subjects": [
+      "Chemistry",
+      "English",
+      "Biology",
+      "Maths",
+      "Physics"
+    ],
+    "undergraduate_degrees": [
+      "Physiology",
+      "Anatomy",
+      "Medical Physiology",
+      "Medical Biosciences",
+      "Physiology and Pharmacology",
+      "Biomedical Sciences",
+      "Biological Sciences",
+      "Biology"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience. Clinical scientists in GI physiology work directly with patients.",
+  "education_and_training": {
+    "training_programmes": [
+      "Scientist Training Programme (STP) — 3-year work-based programme.",
+      "Alternative work-based training programme — 3-year programme offered by some health boards."
+    ],
+    "registration": "On completion, register as a clinical scientist with the HCPC.",
+    "equivalence_route": "Those with significant NHS GI physiology experience can apply for equivalence recognition by submitting a portfolio to the Academy for Healthcare Science or Association of Clinical Scientists and attending an interview."
+  },
+  "learning_and_development": {
+    "overview": "Clinical scientists must undertake CPD to keep knowledge and skills up to date and maintain HCPC registration.",
+    "further_qualifications": [
+      "Higher specialist development",
+      "PhDs and professional doctorates"
+    ]
+  },
+  "career_progression": {
+    "overview": "Gaining qualifications leads to more senior roles, specialised practice, research, or teaching.",
+    "progression_roles": [
+      "Senior clinical scientist — GI physiology",
+      "Research roles",
+      "Teaching roles"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Academy for Healthcare Science (AHCS)",
+    "Association of Gastrointestinal Physiology (AGIP)"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-scientist-gi-physiology-001", "section": "how_to_become", "text": "To become a clinical scientist in GI physiology, complete a 3-year work-based training programme (STP or alternative). An equivalence route is available for those with significant NHS GI physiology experience." },
+    { "chunk_id": "clinical-scientist-gi-physiology-002", "section": "description", "text": "Clinical scientists in GI physiology carry out diagnostic tests for digestive system disorders including swallowing disorders, gastro-oesophageal reflux disease, lactose intolerance, constipation, and faecal incontinence, reporting results to inform medical and surgical care decisions." },
+    { "chunk_id": "clinical-scientist-gi-physiology-003", "section": "role_overview", "text": "Clinical scientists in GI physiology investigate patients' digestive systems using specialist equipment, provide diagnostic analysis to inform patient care, and contribute to specialist treatments, research, and teaching." },
+    { "chunk_id": "clinical-scientist-gi-physiology-004", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, English, Biology, Maths, and Physics. An undergraduate honours degree at SCQF level 10 in Physiology, Anatomy, Medical Biosciences, Biomedical Sciences, Biological Sciences, or Biology is required." },
+    { "chunk_id": "clinical-scientist-gi-physiology-005", "section": "education_and_training", "text": "Training is via the 3-year STP or an alternative work-based programme. On completion, registration with the HCPC as a clinical scientist is required. An equivalence route is available for experienced practitioners." },
+    { "chunk_id": "clinical-scientist-gi-physiology-006", "section": "career_progression", "text": "With qualifications and experience, clinical scientists in GI physiology can progress to senior roles, specialised practice, research, or teaching." },
+    { "chunk_id": "clinical-scientist-gi-physiology-007", "section": "professional_bodies", "text": "Clinical scientists in GI physiology must register with the HCPC. They can also join the Academy for Healthcare Science (AHCS) and Association of Gastrointestinal Physiology (AGIP)." }
+  ]
+}

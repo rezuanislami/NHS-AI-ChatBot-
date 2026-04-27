@@ -1,0 +1,56 @@
+{
+  "id": "health-visitor",
+  "title": "Health Visitor",
+  "sector": "Midwifery",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/midwifery/health-visitor/",
+  "how_to_become": "To become a health visitor, you must be registered with the Nursing and Midwifery Council (NMC) as a nurse or midwife, then apply for an approved health visitor training programme.",
+  "description": "Health visitors are registered nurses or midwives who have undertaken further study at master's level to become registered health visitors. They work in the community to provide a proactive and universal service to families with young children, aiming to support and empower families to promote health and wellbeing.",
+  "role_overview": "Health visitors visit families in their own home, provide health advice and support based on the universal health visiting pathway: promoting and safeguarding children's wellbeing, building strong relationships with families from early in pregnancy, supporting early parenthood, and harnessing family strengths while assessing and responding to their needs.",
+  "entry_requirements": {
+    "overview": "You must first become a registered nurse or midwife, then apply for an approved health visitor training programme. To gain entry, you should be educated to degree level, though some universities accept prior learning.",
+    "useful_subjects": [
+      "Human Biology",
+      "Chemistry",
+      "English",
+      "Maths",
+      "Psychology"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "prerequisite": "Registration with the NMC as a nurse or midwife is required before applying for health visitor training.",
+    "college_route": "HNC in Healthcare Practice can lead to an undergraduate pre-registration nursing or midwifery degree.",
+    "widening_access": "SWAP supports adult learners with few or no qualifications to enter higher education.",
+    "health_visitor_training_universities": [
+      "Glasgow Caledonian University",
+      "Queen Margaret University",
+      "Robert Gordon University",
+      "University of Stirling",
+      "University of West of Scotland"
+    ],
+    "qualification": "Postgraduate programme in Specialist Community Public Health Nursing — Health Visiting."
+  },
+  "learning_and_development": {
+    "overview": "Training is provided during induction and throughout your career in areas including child protection, advanced practice, teaching and supervision, and management and leadership.",
+    "revalidation": "Health visitors must revalidate with the NMC every 3 years."
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Team leader",
+      "Team manager",
+      "Specialist health visitor",
+      "Leadership roles via the NHS Leadership Academy"
+    ]
+  },
+  "professional_bodies": [
+    "Nursing and Midwifery Council (NMC) — mandatory registration"
+  ],
+  "chunks": [
+    { "chunk_id": "health-visitor-001", "section": "how_to_become", "text": "To become a health visitor, you must be NMC-registered as a nurse or midwife, then apply for an approved health visitor training programme (Specialist Community Public Health Nursing — Health Visiting postgraduate programme)." },
+    { "chunk_id": "health-visitor-002", "section": "description", "text": "Health visitors are registered nurses or midwives with further master's-level study, working in the community to provide a proactive and universal service to families with young children, supporting and empowering families to promote health and wellbeing." },
+    { "chunk_id": "health-visitor-003", "section": "role_overview", "text": "Health visitors visit families at home, promoting and safeguarding children's wellbeing, building strong relationships from early pregnancy, supporting early parenthood, and harnessing family strengths while assessing their needs." },
+    { "chunk_id": "health-visitor-004", "section": "entry_requirements", "text": "Useful school subjects include Human Biology, Chemistry, English, Maths, and Psychology. NMC registration as a nurse or midwife is required before applying. Degree-level education is required, though prior learning may be considered." },
+    { "chunk_id": "health-visitor-005", "section": "education_and_training", "text": "Health visitor training is offered as postgraduate programmes in Specialist Community Public Health Nursing — Health Visiting at Glasgow Caledonian University, Queen Margaret University, Robert Gordon University, University of Stirling, and University of West of Scotland." },
+    { "chunk_id": "health-visitor-006", "section": "career_progression", "text": "Health visitors can progress to team leader, team manager, specialist health visitor, or leadership roles via the NHS Leadership Academy." }
+  ]
+}

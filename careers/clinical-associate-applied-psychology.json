@@ -1,0 +1,55 @@
+{
+  "id": "clinical-associate-applied-psychology",
+  "title": "Clinical Associate in Applied Psychology (CAAP)",
+  "sector": "Psychology",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/psychology/clinical-associate-in-applied-psychology/",
+  "how_to_become": "You need at least a 2:1 honours degree from a BPS-accredited psychological degree programme to meet entry requirements for CAAP training.",
+  "description": "Clinical associates in applied psychology (CAAPs) are specialist mental health professionals who work in primary care and adult mental health settings, or with children, young people, and families. They work under the supervision of a clinical psychologist to reduce psychological distress and promote psychological wellbeing using evidence-based psychological methods.",
+  "role_overview": "As a CAAP, your aim is to reduce distress and improve psychological wellbeing of clients under the supervision of a clinical psychologist. You'll help patients with mild to moderate depression, anxiety disorders, behavioural difficulties in children, and adjustment difficulties.",
+  "conditions_treated": [
+    "Mild to moderate low mood or depression",
+    "Mild to moderate anxiety disorders",
+    "Behavioural difficulties in children",
+    "Adjustment difficulties"
+  ],
+  "entry_requirements": {
+    "overview": "At least a 2:1 honours degree from a BPS-accredited psychological degree programme is required. If your degree is in a different subject, a conversion course in psychology can provide the Graduate Basis for Chartership (GBC).",
+    "useful_subjects": [
+      "Psychology",
+      "Religious, Moral and Philosophical Studies",
+      "English",
+      "Human Biology",
+      "Maths"
+    ],
+    "college_route": [
+      "HNC Counselling",
+      "HND Counselling"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "postgraduate_programme": "MSc in Applied Psychology specialising in either primary care and adult mental health, or children, young people and families. Takes one year to complete.",
+    "universities": [
+      "University of Edinburgh",
+      "University of Stirling and University of Dundee (joint)"
+    ],
+    "widening_access": "SWAP supports adult learners with few or no qualifications to enter higher education."
+  },
+  "learning_and_development": {
+    "cpd_activities": [
+      "Post-qualification training courses",
+      "Professional supervision",
+      "Systematic reflection on practice"
+    ]
+  },
+  "professional_bodies": [
+    "British Psychological Society (BPS) — student, graduate, and chartered membership levels"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-associate-applied-psychology-001", "section": "how_to_become", "text": "To become a CAAP, you need at least a 2:1 honours degree from a BPS-accredited psychology programme and an MSc in Applied Psychology from the University of Edinburgh or University of Stirling/Dundee." },
+    { "chunk_id": "clinical-associate-applied-psychology-002", "section": "description", "text": "CAAPs are specialist mental health professionals working in primary care, adult mental health, or with children, young people, and families. Under clinical psychologist supervision, they use evidence-based psychological methods to reduce distress and promote wellbeing." },
+    { "chunk_id": "clinical-associate-applied-psychology-003", "section": "conditions_treated", "text": "CAAPs help patients with mild to moderate depression, anxiety disorders, behavioural difficulties in children, and adjustment difficulties." },
+    { "chunk_id": "clinical-associate-applied-psychology-004", "section": "entry_requirements", "text": "At least a 2:1 honours degree from a BPS-accredited psychology programme is required. A conversion course can provide the GBC for those with degrees in other subjects. Useful school subjects include Psychology, English, Human Biology, and Maths." },
+    { "chunk_id": "clinical-associate-applied-psychology-005", "section": "professional_bodies", "text": "CAAPs can join the British Psychological Society (BPS) at student, graduate, or chartered membership levels." }
+  ]
+}

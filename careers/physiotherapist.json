@@ -1,0 +1,95 @@
+{
+  "id": "physiotherapist",
+  "title": "Physiotherapist",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/physiotherapist/",
+  "how_to_become": "You'll need an undergraduate degree in Physiotherapy to become a physiotherapist. You'll then register with the Health and Care Professions Council (HCPC) to work in the NHS.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Physiotherapists in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist physiotherapists can earn up to £50,702. Advanced physiotherapists can earn up to £59,159 before tax."
+  },
+  "description": "Physiotherapists help people affected by injury, illness, or disability through movement and exercise, manual therapy, education, and advice. They maintain health for people of all ages, helping patients manage pain and prevent disease.",
+  "role_overview": "As a physiotherapist, you'll care for people with conditions including multiple sclerosis, back pain, neck injuries, sports injuries, arthritis, stroke, and mental health problems. Physiotherapy plays a significant role in enabling people to improve their health, wellbeing, and quality of life.",
+  "conditions_treated": [
+    "Multiple sclerosis",
+    "Back pain",
+    "Neck injuries",
+    "Sports injuries",
+    "Arthritis",
+    "Stroke",
+    "Mental health problems"
+  ],
+  "entry_requirements": {
+    "overview": "An undergraduate degree in Physiotherapy approved by the HCPC is required.",
+    "useful_subjects": [
+      "Human Biology",
+      "Physical Education",
+      "Care",
+      "Physics",
+      "Chemistry",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "college_route": "At college, you could do an HND in Sports Therapy or Applied Sport Science before applying to university.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_universities": [
+      "Glasgow Caledonian University",
+      "Queen Margaret University",
+      "Robert Gordon University"
+    ],
+    "undergraduate_duration": "4 years full-time.",
+    "postgraduate": "If you have relevant qualifications and healthcare experience, you can do a master's degree in Physiotherapy, usually taking 2 years.",
+    "note": "After graduation, you must register with the HCPC before applying for NHS vacancies."
+  },
+  "learning_and_development": {
+    "overview": "Physiotherapists must keep skills and knowledge up to date through Continuing Professional Development (CPD).",
+    "cpd_provider": "Chartered Society of Physiotherapy (CSP)",
+    "cpd_activities": [
+      "Training courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "specialisms": [
+      "Sports injuries",
+      "Critical care",
+      "Care of the elderly",
+      "Working with children",
+      "Caring for cancer patients"
+    ],
+    "progression_roles": [
+      "Specialist physiotherapist",
+      "Advanced physiotherapist",
+      "Consultant physiotherapist",
+      "Head of physiotherapy service",
+      "Teaching and research roles"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Chartered Society of Physiotherapy (CSP)"
+  ],
+  "related_careers": [
+    "Occupational therapist",
+    "Prosthetist",
+    "Orthotist"
+  ],
+  "chunks": [
+    { "chunk_id": "physiotherapist-001", "section": "how_to_become", "text": "To become a physiotherapist in the NHS, you'll need an undergraduate degree in Physiotherapy approved by the HCPC, followed by HCPC registration." },
+    { "chunk_id": "physiotherapist-002", "section": "salary", "text": "Physiotherapists in the NHS start at £33,247 before tax. Specialist physiotherapists can earn up to £50,702. Advanced physiotherapists can earn up to £59,159 before tax." },
+    { "chunk_id": "physiotherapist-003", "section": "description", "text": "Physiotherapists help people affected by injury, illness, or disability through movement and exercise, manual therapy, education, and advice, maintaining health and helping patients manage pain and prevent disease." },
+    { "chunk_id": "physiotherapist-004", "section": "role_overview", "text": "Physiotherapists care for people with multiple sclerosis, back pain, neck injuries, sports injuries, arthritis, stroke, and mental health problems, helping improve health, wellbeing, and quality of life." },
+    { "chunk_id": "physiotherapist-005", "section": "entry_requirements", "text": "Useful school subjects include Human Biology, Physical Education, Care, Physics, Chemistry, English, and Maths. An undergraduate degree in Physiotherapy approved by the HCPC is required." },
+    { "chunk_id": "physiotherapist-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "physiotherapist-007", "section": "education_and_training", "text": "Undergraduate degrees in Physiotherapy are offered at Glasgow Caledonian University, Queen Margaret University, and Robert Gordon University, taking 4 years full-time. A master's degree is available for those with relevant qualifications and experience, usually taking 2 years. College options include HND in Sports Therapy or Applied Sport Science. SWAP supports adult learners into higher education." },
+    { "chunk_id": "physiotherapist-008", "section": "learning_and_development", "text": "Physiotherapists maintain skills through Continuing Professional Development (CPD) including training courses, conferences, and seminars provided by the Chartered Society of Physiotherapy (CSP)." },
+    { "chunk_id": "physiotherapist-009", "section": "career_progression", "text": "Physiotherapists can specialise in sports injuries, critical care, elderly care, paediatrics, or cancer care. Progression roles include specialist, advanced, and consultant physiotherapist, head of physiotherapy service, and teaching and research roles." },
+    { "chunk_id": "physiotherapist-010", "section": "professional_bodies", "text": "Physiotherapists must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the Chartered Society of Physiotherapy (CSP)." }
+  ]
+}

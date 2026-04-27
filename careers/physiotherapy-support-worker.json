@@ -1,0 +1,50 @@
+{
+  "id": "physiotherapy-support-worker",
+  "title": "Physiotherapy Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/physiotherapy-support-worker/",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship.",
+  "description": "Physiotherapy support workers work alongside physiotherapists to improve the quality of people's lives. They work to maintain, restore, and improve the patient's function and movement.",
+  "role_overview": "As a physiotherapy support worker, you'll support physiotherapists in helping patients restore their mobility and improve movement, working with people of all ages with conditions including multiple sclerosis, back pain, neck injuries, sports injuries, arthritis, stroke, and mental health problems.",
+  "conditions_supported": [
+    "Multiple sclerosis",
+    "Back pain",
+    "Neck injuries",
+    "Sports injuries",
+    "Arthritis",
+    "Stroke",
+    "Mental health problems"
+  ],
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. There are no specific entry requirements.",
+    "useful_subjects": [
+      "Science",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Healthcare Support Modern Apprenticeship with clinical pathway units for physiotherapy. Mandatory units include communication, health and safety, and learning development.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "additional_qualifications": [
+      "SVQ Healthcare Support (Clinical) at SCQF level 7"
+    ]
+  },
+  "career_progression": {
+    "overview": "Experience as a healthcare support worker can support entry to university to become a registered physiotherapist.",
+    "progression_roles": [
+      "Registered physiotherapist (via undergraduate degree)"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "physiotherapy-support-worker-001", "section": "how_to_become", "text": "To become a physiotherapy support worker, apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship in Healthcare Support." },
+    { "chunk_id": "physiotherapy-support-worker-002", "section": "description", "text": "Physiotherapy support workers work alongside physiotherapists to maintain, restore, and improve patients' function and movement." },
+    { "chunk_id": "physiotherapy-support-worker-003", "section": "role_overview", "text": "Physiotherapy support workers support physiotherapists in helping patients restore mobility and improve movement, working with people of all ages with multiple sclerosis, back pain, sports injuries, arthritis, stroke, and mental health problems." },
+    { "chunk_id": "physiotherapy-support-worker-004", "section": "entry_requirements", "text": "No specific entry requirements. Useful school subjects include Science, English, and Maths." },
+    { "chunk_id": "physiotherapy-support-worker-005", "section": "learning_and_development", "text": "Additional qualifications include SVQ Healthcare Support (Clinical) at SCQF level 7. Mandatory Induction Standards must be completed within 3 to 6 months of employment." },
+    { "chunk_id": "physiotherapy-support-worker-006", "section": "career_progression", "text": "Experience as a physiotherapy support worker can support entry to university to become a registered physiotherapist." }
+  ]
+}

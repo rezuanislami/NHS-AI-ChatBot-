@@ -1,0 +1,64 @@
+{
+  "id": "sleep-scientist",
+  "title": "Sleep Scientist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physiological Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physiological-sciences/sleep-scientist/",
+  "how_to_become": "Apply for trainee opportunities on the NHS recruitment website. Training options include undergraduate-level and in-house training programmes depending on experience and qualifications.",
+  "description": "Sleep physiology practitioners help people to improve the quality of their sleep. They investigate, diagnose, and treat sleep disorders using monitoring devices and specialist equipment.",
+  "role_overview": "As a sleep physiologist, you'll monitor patients with poor sleep quality using remote monitoring devices or overnight sleep studies, identify conditions requiring treatment, and manage long-term care for sleep and breathing disorders.",
+  "conditions_treated": [
+    "Obstructive sleep apnoea hypopnea syndrome",
+    "Narcolepsy",
+    "Parasomnias",
+    "Obesity hypoventilation syndrome",
+    "Neuromuscular disease",
+    "Chronic obstructive pulmonary disease (COPD)"
+  ],
+  "entry_requirements": {
+    "useful_subjects": [
+      "English",
+      "Biology",
+      "Maths",
+      "Chemistry",
+      "Physics"
+    ],
+    "undergraduate_degrees": [
+      "Healthcare Science (Respiratory and Sleep Physiology)",
+      "Physiology",
+      "Physiology and Sports Science",
+      "Sport and Exercise Science",
+      "Physiological Sciences"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "undergraduate_route": "Complete an undergraduate honours degree at SCQF level 10, then apply for NHS training. As a trainee, complete a 3-year practical and theoretical training programme.",
+    "alternative_route": "Some health boards offer alternative work-based training programmes for those with a related undergraduate degree at SCQF level 10.",
+    "registration": "On completion, register as a healthcare science practitioner with the AHCS."
+  },
+  "learning_and_development": {
+    "overview": "Ongoing requirements for continuous education and skills development after registration."
+  },
+  "career_progression": {
+    "overview": "With training and experience, sleep scientists can move into specialist, advanced, or management roles.",
+    "progression_roles": [
+      "Specialist sleep physiologist",
+      "Advanced sleep physiologist",
+      "Sleep physiology service manager",
+      "Clinical scientist in sleep physiology (via equivalence recognition)"
+    ]
+  },
+  "professional_bodies": [
+    "Academy for Healthcare Science (AHCS)"
+  ],
+  "chunks": [
+    { "chunk_id": "sleep-scientist-001", "section": "how_to_become", "text": "To become a sleep scientist, apply for trainee opportunities on the NHS recruitment website. Training includes undergraduate-level and in-house programmes depending on your experience and qualifications." },
+    { "chunk_id": "sleep-scientist-002", "section": "description", "text": "Sleep physiology practitioners investigate, diagnose, and treat sleep disorders using monitoring devices and specialist equipment to help people improve the quality of their sleep." },
+    { "chunk_id": "sleep-scientist-003", "section": "role_overview", "text": "Sleep physiologists monitor patients with poor sleep quality using remote monitoring or overnight sleep studies, identifying conditions such as sleep apnoea, narcolepsy, parasomnias, and obesity hypoventilation syndrome requiring treatment and long-term management." },
+    { "chunk_id": "sleep-scientist-004", "section": "entry_requirements", "text": "Useful school subjects include English, Biology, Maths, Chemistry, and Physics. Relevant undergraduate degrees include Healthcare Science (Respiratory and Sleep Physiology), Physiology, Physiology and Sports Science, Sport and Exercise Science, and Physiological Sciences." },
+    { "chunk_id": "sleep-scientist-005", "section": "education_and_training", "text": "Complete an undergraduate honours degree at SCQF level 10, then a 3-year practical and theoretical NHS training programme. Some health boards offer alternative work-based programmes for those with a relevant degree. On completion, register with the AHCS." },
+    { "chunk_id": "sleep-scientist-006", "section": "career_progression", "text": "Sleep scientists can progress to specialist, advanced, and management roles including sleep physiology service manager. Equivalence recognition allows progression to clinical scientist in sleep physiology." },
+    { "chunk_id": "sleep-scientist-007", "section": "professional_bodies", "text": "Sleep scientists can register as a healthcare science practitioner with the Academy for Healthcare Science (AHCS)." }
+  ]
+}

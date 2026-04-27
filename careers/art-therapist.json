@@ -1,0 +1,77 @@
+{
+  "id": "art-therapist",
+  "title": "Art Therapist",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/art-therapist/",
+  "how_to_become": "You'll need a postgraduate-level degree in Art Psychotherapy to become an art therapist. You'll then register with the Health and Care Professions Council (HCPC) to work in the NHS.",
+  "salary": {
+    "entry": "£43,321",
+    "entry_note": "Art therapists in the NHS start at £43,321 before tax.",
+    "experienced": "£61,466",
+    "experienced_note": "Specialist art therapists in the NHS can earn up to £61,466 before tax."
+  },
+  "description": "Art therapists work with people to explore their emotions and feelings through art and creative activities. They help people express themselves and build self-confidence using non-verbal approaches involving a range of creative materials. They support children and young people, adults, and older people who may have emotional, physical, or mental health problems.",
+  "role_overview": "Art therapists create a secure environment where people can come to terms with their difficulties, disabilities, or diagnoses including emotional, behavioural, or mental health problems, learning or physical disabilities, life-limiting conditions, and neurological conditions. They support people individually or as part of a group.",
+  "entry_requirements": {
+    "overview": "A postgraduate degree in Art Psychotherapy approved by the HCPC is required. Entry requirements include a UK honours degree in visual arts and a portfolio of artwork.",
+    "useful_subjects": [
+      "Art and Design",
+      "Psychology",
+      "Maths",
+      "English"
+    ],
+    "useful_undergraduate_degrees": [
+      "Psychology",
+      "Teaching",
+      "Occupational Therapy",
+      "Nursing",
+      "Social Work"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland. Art therapy workshops or foundation courses provided by the British Association of Art Therapists (BAAT) can also help you decide if this career is right for you.",
+  "education_and_training": {
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "postgraduate": "A postgraduate degree in Art Psychotherapy is required, approved by the HCPC. In Scotland, Queen Margaret University (QMU) in Edinburgh offers this programme. It takes 2 years full-time or 3 to 4 years part-time.",
+    "foundation_courses": "Art therapy workshops and foundation courses are provided by the British Association of Art Therapists (BAAT) to help explore if this career is right for you."
+  },
+  "learning_and_development": {
+    "overview": "Art therapists must keep skills and knowledge up to date through Continuing Professional Development (CPD).",
+    "cpd_activities": [
+      "Training courses",
+      "Conferences",
+      "Seminars"
+    ],
+    "cpd_provider": "British Association of Arts Therapists (BAAT)"
+  },
+  "career_progression": {
+    "specialisms": [
+      "Children and young people",
+      "Older people",
+      "Offenders",
+      "People living with dementia",
+      "People with mental health problems",
+      "People receiving palliative care"
+    ],
+    "progression_roles": [
+      "Senior art therapist",
+      "Consultant art therapist",
+      "Head of arts therapy department"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "British Association of Art Therapists (BAAT)"
+  ],
+  "chunks": [
+    { "chunk_id": "art-therapist-001", "section": "how_to_become", "text": "To become an art therapist in the NHS, you'll need a postgraduate degree in Art Psychotherapy approved by the HCPC, followed by HCPC registration." },
+    { "chunk_id": "art-therapist-002", "section": "salary", "text": "Art therapists in the NHS start at £43,321 before tax. Specialist art therapists can earn up to £61,466 before tax." },
+    { "chunk_id": "art-therapist-003", "section": "description", "text": "Art therapists help people explore emotions and feelings through art and creative activities, supporting children, young people, adults, and older people with emotional, physical, or mental health problems using non-verbal creative approaches." },
+    { "chunk_id": "art-therapist-004", "section": "role_overview", "text": "Art therapists create secure environments for people to address difficulties including mental health problems, learning or physical disabilities, life-limiting conditions, and neurological conditions. Support is provided individually or in groups." },
+    { "chunk_id": "art-therapist-005", "section": "entry_requirements", "text": "Entry requires a UK honours degree in visual arts and a portfolio of artwork to apply for a postgraduate degree in Art Psychotherapy approved by the HCPC. Useful undergraduate subjects include Psychology, Teaching, Occupational Therapy, Nursing, and Social Work. Useful school subjects include Art and Design, Psychology, Maths, and English." },
+    { "chunk_id": "art-therapist-006", "section": "work_experience", "text": "Work placements and volunteering provide healthcare experience. Art therapy workshops and foundation courses from the British Association of Art Therapists (BAAT) can help explore if this career is right for you." },
+    { "chunk_id": "art-therapist-007", "section": "education_and_training", "text": "In Scotland, Queen Margaret University (QMU) in Edinburgh offers the Art Psychotherapy postgraduate programme, taking 2 years full-time or 3 to 4 years part-time. SWAP supports adult learners into higher education." },
+    { "chunk_id": "art-therapist-008", "section": "learning_and_development", "text": "Art therapists maintain skills through Continuing Professional Development (CPD) including training courses, conferences, and seminars provided by the British Association of Arts Therapists (BAAT)." },
+    { "chunk_id": "art-therapist-009", "section": "career_progression", "text": "Art therapists can specialise in working with children, older people, offenders, people with dementia, mental health problems, or those receiving palliative care. Senior roles include senior art therapist, consultant art therapist, and head of arts therapy department." },
+    { "chunk_id": "art-therapist-010", "section": "professional_bodies", "text": "Art therapists must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the British Association of Art Therapists (BAAT)." }
+  ]
+}

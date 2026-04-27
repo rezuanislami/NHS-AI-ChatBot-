@@ -1,0 +1,77 @@
+{
+  "id": "nursing-support-worker",
+  "title": "Nursing Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/nursing-support-worker/",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship.",
+  "description": "Nursing support workers assist registered nurses in delivering a high standard of care and treatment to patients and provide support to patients' families and carers. They work across primary, community, and acute care services in a wide range of settings including hospital wards, GP practices, health centres, and mental health settings.",
+  "role_overview": "As a nursing support worker, you'll provide a high level of care reflecting what matters to patients as individuals, working in a team with healthcare support workers, nurses, and other healthcare professionals. Good communication skills are essential throughout the patient care pathway.",
+  "work_areas": [
+    "Children's services",
+    "Oncology care",
+    "Cardiac rehabilitation",
+    "Neurological rehabilitation",
+    "Orthopaedics",
+    "Critical care, ICU, and HDU",
+    "Emergency department",
+    "Ambulatory care",
+    "Surgical admission",
+    "Mental health, learning disabilities, and recovery services",
+    "Paediatric complex care",
+    "Dementia care"
+  ],
+  "patient_support_tasks": [
+    "Personal care",
+    "Taking medications",
+    "Routine social and physical activities",
+    "Mobility",
+    "Mealtimes"
+  ],
+  "entry_requirements": {
+    "overview": "A good standard of education is needed.",
+    "useful_subjects": [
+      "Biology",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Healthcare Support Modern Apprenticeship with clinical pathway units for nursing. Mandatory units include communication, health and safety, and learning development.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "work_based_training": [
+      "Infection control",
+      "Risk management",
+      "Patient confidentiality",
+      "Child protection",
+      "Health and safety"
+    ],
+    "note": "Career development is planned and reviewed annually through the Personal Development Planning (PDP) cycle."
+  },
+  "career_progression": {
+    "overview": "Nursing support workers can progress to senior roles or study to become a registered nurse.",
+    "qualifications_for_progression": [
+      "HNC Healthcare Practice at SCQF level 7",
+      "Certificate of Higher Education in Healthcare Practice at SCQF level 7",
+      "Open University undergraduate nursing degree (no formal entry qualifications required, must remain employed while studying)"
+    ],
+    "progression_roles": [
+      "Senior nursing support worker",
+      "Nursing assistant practitioner",
+      "Registered nurse (via undergraduate degree)"
+    ]
+  },
+  "professional_bodies": [
+    "Royal College of Nursing (RCN)"
+  ],
+  "chunks": [
+    { "chunk_id": "nursing-support-worker-001", "section": "how_to_become", "text": "To become a nursing support worker, apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship in Healthcare Support." },
+    { "chunk_id": "nursing-support-worker-002", "section": "description", "text": "Nursing support workers assist registered nurses in delivering high-standard care and treatment to patients across primary, community, and acute care services in hospital wards, GP practices, health centres, mental health settings, and other environments." },
+    { "chunk_id": "nursing-support-worker-003", "section": "work_areas", "text": "Nursing support workers work in children's services, oncology, cardiac rehabilitation, neurological rehabilitation, orthopaedics, critical care, emergency department, mental health, learning disabilities, paediatric complex care, and dementia care." },
+    { "chunk_id": "nursing-support-worker-004", "section": "entry_requirements", "text": "A good standard of education is needed. Useful school subjects include Biology, English, and Maths." },
+    { "chunk_id": "nursing-support-worker-005", "section": "learning_and_development", "text": "Work-based training includes infection control, risk management, patient confidentiality, child protection, and health and safety. Career development is reviewed annually through the PDP cycle." },
+    { "chunk_id": "nursing-support-worker-006", "section": "career_progression", "text": "Nursing support workers can progress to senior nursing support worker or nursing assistant practitioner, or study to become a registered nurse via HNC Healthcare Practice, CertHE in Healthcare Practice, or the Open University undergraduate nursing degree." }
+  ]
+}

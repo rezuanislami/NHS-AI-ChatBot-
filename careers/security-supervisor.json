@@ -1,0 +1,40 @@
+{
+  "id": "security-supervisor",
+  "title": "Security Supervisor",
+  "sector": "Support Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/support-services/security-supervisor/",
+  "published": "23/04/2024",
+  "last_updated": "21/06/2024",
+  "how_to_become": "To become a security supervisor, you'll need experience in supervising staff and working in the security industry.",
+  "description": "An NHS security supervisor is responsible for overseeing security operations within NHS facilities. They protect and help staff and patients on NHSScotland premises, provide training and operational leadership to security staff, and are responsible for allocating and prioritising the work of staff under their leadership.",
+  "role_overview": "As a security supervisor, you'll supervise, lead, and coordinate security staff on a day-to-day basis. You'll ensure security systems function correctly, equipment is ready for emergency situations, and the department has enough staff on shift to run on-site security services.",
+  "entry_requirements": {
+    "overview": "Experience or training in supervising and supporting staff is required. A verified employment and personal history and PVG or Disclosure Scotland check are also required.",
+    "useful_subjects": ["English", "Maths", "Administration and IT"],
+    "useful_qualifications": [
+      "First aid qualification",
+      "Full UK driving licence",
+      "Health and safety qualification (IOSH or NEBOSH)",
+      "SIA accredited training",
+      "Customer service training or experience"
+    ]
+  },
+  "learning_and_development": {
+    "overview": "Professional development and promotion opportunities are available through training in different systems and procedures."
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Security manager",
+      "Manager within another discipline using transferable skills"
+    ]
+  },
+  "professional_bodies": [
+    "National Association for Healthcare Security (NAHS)"
+  ],
+  "chunks": [
+    { "chunk_id": "security-supervisor-001", "section": "how_to_become", "text": "To become a security supervisor in the NHS, you need experience in supervising staff and working in the security industry, with a verified employment history and PVG check." },
+    { "chunk_id": "security-supervisor-002", "section": "description", "text": "NHS security supervisors oversee security operations, protect staff and patients, provide training and operational leadership, and allocate and prioritise the work of security staff." },
+    { "chunk_id": "security-supervisor-003", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, and Administration and IT. Useful qualifications include first aid, full UK driving licence, IOSH or NEBOSH health and safety, and SIA-accredited training." },
+    { "chunk_id": "security-supervisor-004", "section": "career_progression", "text": "Security supervisors can progress to security manager or move into management roles in other disciplines using transferable skills." }
+  ]
+}

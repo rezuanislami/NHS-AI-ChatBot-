@@ -1,0 +1,66 @@
+{
+  "id": "dental-nurse",
+  "title": "Dental Nurse",
+  "sector": "Dental",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/dental/dental-nurse/",
+  "published": "27/03/2023",
+  "last_updated": "27/02/2026",
+  "how_to_become": "To become a dental nurse, you'll need to complete a pre-registration training programme. You must then register with the General Dental Council (GDC).",
+  "salary": {
+    "entry": "£28,011",
+    "entry_note": "Dental nurses in the NHS start at £28,011 before tax. Trainees are paid a percentage of the qualified salary, increasing as they progress through the training programme.",
+    "experienced": "£33,016",
+    "experienced_note": "Qualified dental nurses can earn up to £33,016 before tax."
+  },
+  "description": "Dental nurses contribute to the safe and effective care of patients by providing support to other members of the dental team. They promote and maintain health and safety in the workplace and ensure a high standard of infection control. They work in all areas of dentistry including general dental practice, dental hospitals, public dental services, and within the armed forces.",
+  "role_overview": "As a dental nurse, you'll assist dentists, dental therapists, orthodontic therapists, and hygienists to provide a range of dental treatments. You may also assist with reception work, greeting patients and booking appointments. You'll help anxious or nervous patients feel comfortable. Dental nurses in Scotland must be registered with the Protecting Vulnerable Groups (PVG) Scheme.",
+  "entry_requirements": {
+    "overview": "A pre-registration training programme leading to GDC registration is required. All dental professionals must have the necessary knowledge of English to practise safely in the UK.",
+    "useful_subjects": [
+      "Biology",
+      "English",
+      "Maths",
+      "Skills for Work: Health and Social Care",
+      "Foundation Apprenticeship: Social Services and Healthcare"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland.",
+  "education_and_training": {
+    "induction": "NHS Education for Scotland (NES) offers a Dental Nurse Induction learning programme with 4 modules, studied at your own pace with workplace support. It provides a clear understanding of the role while waiting to start a pre-registration training programme.",
+    "pre_registration": "Trainee dental nurses must complete a recognised training programme leading to GDC registration. Trainees must be employed and enrolled on a recognised programme or studying on a programme that leads directly to GDC registration.",
+    "modern_apprenticeship": "A Modern Apprenticeship in Dental Nursing is available, leading to SVQ in Dental Nursing at SCQF level 7 and PDA in Dental Nursing at SCQF level 7, plus 5 SQA Core Skills Units.",
+    "english_language": "All dental professionals must be sufficiently fluent in written and spoken English to communicate effectively with patients, relatives, the dental team, and other healthcare professionals."
+  },
+  "learning_and_development": {
+    "overview": "Dental nurses are expected to undertake continuing professional development (CPD) to maintain skills, knowledge, competence, and GDC registration."
+  },
+  "career_progression": {
+    "extended_scope": [
+      "Impression taking",
+      "Dental radiographs",
+      "Clinical photographs",
+      "Applying fluoride varnish to prevent tooth decay"
+    ],
+    "progression_roles": [
+      "Orthodontic therapist",
+      "Dental hygienist",
+      "Dental therapist"
+    ]
+  },
+  "professional_bodies": [
+    "General Dental Council (GDC) — mandatory for NHS practice",
+    "British Association of Dental Nurses (BADN)",
+    "Society of British Dental Nurses (SBDN)"
+  ],
+  "chunks": [
+    { "chunk_id": "dental-nurse-001", "section": "how_to_become", "text": "To become a dental nurse, complete a pre-registration training programme and then register with the General Dental Council (GDC)." },
+    { "chunk_id": "dental-nurse-002", "section": "salary", "text": "Dental nurses in the NHS start at £28,011 before tax. Trainees are paid a percentage of the qualified salary, increasing through training. Qualified dental nurses can earn up to £33,016 before tax." },
+    { "chunk_id": "dental-nurse-003", "section": "description", "text": "Dental nurses support other members of the dental team to provide safe and effective patient care, maintaining health and safety and infection control standards. They work in general dental practice, dental hospitals, public dental services, and within the armed forces." },
+    { "chunk_id": "dental-nurse-004", "section": "role_overview", "text": "Dental nurses assist dentists, dental therapists, orthodontic therapists, and hygienists with dental treatments. They may also handle reception duties and help anxious patients feel comfortable. In Scotland, dental nurses must be registered with the PVG Scheme." },
+    { "chunk_id": "dental-nurse-005", "section": "entry_requirements", "text": "Useful school subjects include Biology, English, Maths, Skills for Work: Health and Social Care, and Foundation Apprenticeship: Social Services and Healthcare. A pre-registration training programme leading to GDC registration is required. English language proficiency is required by the GDC." },
+    { "chunk_id": "dental-nurse-006", "section": "education_and_training", "text": "NES offers a Dental Nurse Induction programme with 4 modules for trainees waiting to start a pre-registration programme. A Modern Apprenticeship in Dental Nursing leads to SVQ and PDA qualifications in Dental Nursing at SCQF level 7 and 5 SQA Core Skills Units." },
+    { "chunk_id": "dental-nurse-007", "section": "learning_and_development", "text": "Dental nurses must undertake continuing professional development (CPD) to maintain skills, knowledge, competence, and GDC registration." },
+    { "chunk_id": "dental-nurse-008", "section": "career_progression", "text": "Dental nurses can extend their scope to include impression taking, dental radiographs, clinical photographs, and applying fluoride varnish. With further training and qualifications, they can progress to orthodontic therapist, dental hygienist, or dental therapist." },
+    { "chunk_id": "dental-nurse-009", "section": "professional_bodies", "text": "Dental nurses must register with the General Dental Council (GDC). They can also join the British Association of Dental Nurses (BADN) and the Society of British Dental Nurses (SBDN)." }
+  ]
+}

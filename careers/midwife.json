@@ -1,0 +1,74 @@
+{
+  "id": "midwife",
+  "title": "Midwife",
+  "sector": "Midwifery",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/midwifery/midwife/",
+  "how_to_become": "To become a midwife in the NHS, you must complete a pre-registration undergraduate or postgraduate degree programme approved by the Nursing and Midwifery Council (NMC).",
+  "description": "As lead maternity healthcare professionals, midwives support women and birthing people to have a safe and positive birth and early parent experience. Midwives provide evidence-based, respectful, and compassionate care from pre-pregnancy to early parenthood.",
+  "role_overview": "Midwives build relationships with women and birthing people to keep them well during pregnancy. In straightforward pregnancies, the midwife is the lead carer. In complicated pregnancies, they work closely with health and social care services. Midwives provide emotional and practical support during labour, supervise students, and provide leadership to ensure quality of care.",
+  "entry_requirements": {
+    "useful_subjects": [
+      "Biology",
+      "Chemistry",
+      "Psychology",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "college_route": "HNC in Healthcare Practice at SCQF level 7 can contribute to entry requirements for an undergraduate pre-registration midwifery degree.",
+    "undergraduate_universities": [
+      "Edinburgh Napier University",
+      "Robert Gordon University",
+      "University of the West of Scotland"
+    ],
+    "undergraduate_duration": "3 years full-time.",
+    "support_worker_routes": [
+      "HNC in Healthcare Practice at SCQF level 7",
+      "Certificate of Higher Education Maternity Care Assistant at SCQF level 7"
+    ],
+    "postgraduate_route": "Some universities offer a 3-year postgraduate master's-level route at SCQF level 11.",
+    "return_to_practice": "Former NMC-registered midwives can return via a university return to practice programme (14 to 26 weeks) or the NMC Test of Competence.",
+    "bursary": "Paramedic, Nursing and Midwifery Student Bursary (PNMSB) — £10,000 non-repayable bursary for eligible students ordinarily residing in Scotland."
+  },
+  "learning_and_development": {
+    "overview": "Once registered, there are ongoing education and skills development requirements. In the first year, the Flying Start programme provides extra support.",
+    "revalidation": "Midwives must revalidate with the NMC every 3 years.",
+    "career_initiatives": [
+      "Early Clinical Career Fellowships",
+      "Leading Excellence in Care",
+      "Scottish multi-professional maternity development programme",
+      "Leadership and Management Zone on Turas Learn"
+    ]
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Senior midwife",
+      "Advanced midwife",
+      "Consultant midwife",
+      "Lead midwife",
+      "Service manager",
+      "Research and education roles"
+    ]
+  },
+  "professional_bodies": [
+    "Nursing and Midwifery Council (NMC) — mandatory registration",
+    "Royal College of Midwives (RCM)"
+  ],
+  "related_careers": [
+    "Maternity support worker",
+    "Maternity care assistant",
+    "Health visitor"
+  ],
+  "chunks": [
+    { "chunk_id": "midwife-001", "section": "how_to_become", "text": "To become a midwife in the NHS, complete a pre-registration undergraduate or postgraduate degree programme approved by the NMC." },
+    { "chunk_id": "midwife-002", "section": "description", "text": "Midwives support women and birthing people to have a safe and positive birth and early parent experience, providing evidence-based, respectful, and compassionate care from pre-pregnancy to early parenthood." },
+    { "chunk_id": "midwife-003", "section": "role_overview", "text": "Midwives are lead carers in straightforward pregnancies and work with health and social care services in complicated ones. They provide emotional and practical support during labour, supervise students, and provide leadership to ensure quality of care." },
+    { "chunk_id": "midwife-004", "section": "entry_requirements", "text": "Useful school subjects include Biology, Chemistry, Psychology, English, and Maths." },
+    { "chunk_id": "midwife-005", "section": "education_and_training", "text": "Undergraduate midwifery programmes (3 years full-time) are offered at Edinburgh Napier University, Robert Gordon University, and University of the West of Scotland. Postgraduate routes are also available. College options include HNC Healthcare Practice at SCQF level 7. Support worker routes include HNC Healthcare Practice or CertHE Maternity Care Assistant. A £10,000 PNMSB bursary is available." },
+    { "chunk_id": "midwife-006", "section": "learning_and_development", "text": "Newly qualified midwives are supported by the Flying Start programme. Midwives must revalidate with the NMC every 3 years. Career initiatives include Early Clinical Career Fellowships, Leading Excellence in Care, and the Scottish multi-professional maternity development programme." },
+    { "chunk_id": "midwife-007", "section": "career_progression", "text": "Midwives can progress to senior, advanced, or consultant level, lead midwife, service manager, or move into research and education." },
+    { "chunk_id": "midwife-008", "section": "professional_bodies", "text": "Midwives must register with the Nursing and Midwifery Council (NMC). They can also join the Royal College of Midwives (RCM)." }
+  ]
+}

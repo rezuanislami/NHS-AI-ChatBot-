@@ -1,0 +1,93 @@
+{
+  "id": "mental-health-nurse",
+  "title": "Mental Health Nurse",
+  "sector": "Nursing",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/nursing/mental-health-nurse/",
+  "how_to_become": "To become a mental health nurse in the NHS, complete a pre-registration degree programme accredited by the Nursing and Midwifery Council (NMC).",
+  "description": "Mental health nurses work with people who have a range of mental health difficulties, including emotional distress and mental illness. They provide high-quality and trauma-informed care for people at all stages of their recovery journey, working in hospitals and the community.",
+  "role_overview": "As a mental health nurse, you'll support recovery and wellbeing using therapeutic approaches to help people build coping strategies. You'll support people with diverse needs including schizophrenia, bipolar disorder, anxiety, depression, eating disorders, PTSD, and addiction. You'll build trusting relationships and actively challenge mental health stigma.",
+  "conditions_supported": [
+    "Schizophrenia",
+    "Psychosis",
+    "Schizo-affective disorder",
+    "Bipolar disorder",
+    "Obsessive compulsive disorder (OCD)",
+    "Anxiety",
+    "Depression",
+    "Eating disorders",
+    "Post-traumatic stress disorder (PTSD)",
+    "Addiction",
+    "Dementia",
+    "ADHD",
+    "Autism",
+    "Perinatal mental health"
+  ],
+  "entry_requirements": {
+    "useful_subjects": [
+      "Biology",
+      "Chemistry",
+      "Psychology",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience. Contact your local health board to find out about opportunities.",
+  "education_and_training": {
+    "undergraduate_universities": [
+      "Abertay University",
+      "Edinburgh Napier University",
+      "Glasgow Caledonian University",
+      "Robert Gordon University",
+      "University of Dundee",
+      "University of Stirling",
+      "University of the Highlands and Islands",
+      "University of the West of Scotland"
+    ],
+    "undergraduate_duration": "3 years full-time.",
+    "postgraduate_universities": [
+      "Edinburgh Napier University",
+      "University of Dundee",
+      "University of the West of Scotland"
+    ],
+    "postgraduate_duration": "3 years full-time. Requires an undergraduate degree in any subject.",
+    "open_university": "4-year part-time undergraduate mental health nursing degree. Scottish Government covers all tuition fees.",
+    "hnc_route": "HNC in Healthcare Practice at SCQF level 7 — stepping stone for healthcare support workers.",
+    "certhe_route": "CertHE in Healthcare Practice at SCQF level 7 — for nursing support workers.",
+    "swap_route": "SWAP — one-year access course for adult learners out of education for 3+ years.",
+    "return_to_practice": "Former NMC-registered nurses can return via a return to practice course (14 to 26 weeks) or the NMC Test of Competence.",
+    "bursary": "Paramedic, Nursing and Midwifery Student Bursary (PNMSB) — £10,000 non-repayable bursary for eligible students."
+  },
+  "learning_and_development": {
+    "overview": "Once registered, there are ongoing education and skills development requirements. Flying Start programme provides extra support in the first year.",
+    "revalidation": "Nurses must revalidate with the NMC every 3 years."
+  },
+  "career_progression": {
+    "specialisms": [
+      "Substance misuse",
+      "Early intervention",
+      "Dementia care",
+      "Children and young people's mental health",
+      "Community mental health",
+      "Forensic mental health",
+      "Clinical research"
+    ],
+    "progression_roles": [
+      "Senior mental health nurse",
+      "Advanced nurse practitioner",
+      "Consultant nurse"
+    ]
+  },
+  "professional_bodies": [
+    "Nursing and Midwifery Council (NMC) — mandatory registration",
+    "Royal College of Nursing (RCN)"
+  ],
+  "chunks": [
+    { "chunk_id": "mental-health-nurse-001", "section": "how_to_become", "text": "To become a mental health nurse in the NHS, complete a pre-registration degree programme accredited by the NMC." },
+    { "chunk_id": "mental-health-nurse-002", "section": "description", "text": "Mental health nurses work with people with a range of mental health difficulties, providing high-quality and trauma-informed care at all stages of the recovery journey, in hospitals and community settings." },
+    { "chunk_id": "mental-health-nurse-003", "section": "role_overview", "text": "Mental health nurses support recovery using therapeutic approaches, working with people experiencing schizophrenia, bipolar disorder, anxiety, depression, PTSD, addiction, autism, and perinatal mental health. They build trusting relationships and challenge mental health stigma." },
+    { "chunk_id": "mental-health-nurse-004", "section": "entry_requirements", "text": "Useful school subjects include Biology, Chemistry, Psychology, English, and Maths." },
+    { "chunk_id": "mental-health-nurse-005", "section": "education_and_training", "text": "8 Scottish universities offer NMC-approved undergraduate mental health nursing degrees (3 years full-time). Postgraduate routes are available at 3 universities. Open University offers a 4-year part-time route. HNC, CertHE, and SWAP provide alternative access routes. A £10,000 PNMSB bursary is available." },
+    { "chunk_id": "mental-health-nurse-006", "section": "career_progression", "text": "Mental health nurses can specialise in substance misuse, dementia, children's mental health, forensic mental health, and clinical research, progressing to advanced nurse practitioner or consultant nurse." },
+    { "chunk_id": "mental-health-nurse-007", "section": "professional_bodies", "text": "Mental health nurses must register with the NMC and revalidate every 3 years. They can also join the Royal College of Nursing (RCN)." }
+  ]
+}

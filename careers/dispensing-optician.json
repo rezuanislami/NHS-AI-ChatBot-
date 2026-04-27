@@ -1,0 +1,60 @@
+{
+  "id": "dispensing-optician",
+  "title": "Dispensing Optician",
+  "sector": "Optometry",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/optometry/dispensing-optician/",
+  "how_to_become": "To become a dispensing optician, complete an undergraduate degree programme or an ophthalmic dispensing diploma.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Dispensing opticians in the NHS start at £33,247 before tax.",
+    "experienced": "£50,702",
+    "experienced_note": "Senior dispensing opticians can earn up to £50,702 before tax."
+  },
+  "description": "Dispensing opticians are healthcare professionals registered with the General Optical Council (GOC). They supply and fit glasses, contact lenses, and other aids to suit a person's visual, occupational, or lifestyle needs, including protective eyewear, glasses for children, and low-vision aids.",
+  "role_overview": "As a dispensing optician, you'll supply and fit glasses based on spectacle prescriptions, advise on common eye care conditions, myopia management, and glasses care. You may also help partially sighted patients with low-vision aids. With further training, you can fit contact lenses, provide enhanced clinical care, and help patients with minor eye conditions.",
+  "entry_requirements": {
+    "useful_subjects": [
+      "Biology",
+      "Maths",
+      "English",
+      "Chemistry",
+      "Physics",
+      "Science"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "undergraduate_route": "Undergraduate degree in Ophthalmic Dispensing at SCQF level 10. A list of approved programmes is available on the GOC website.",
+    "diploma_route": "ABDO Level 6 Diploma in Ophthalmic Dispensing by distance learning — available to trainees or optical assistants.",
+    "registration_requirements": "Students must apply for ABDO membership and register with the GOC. PVG scheme membership is also required. After graduation, one year of supervised practice is required before professional GOC registration."
+  },
+  "learning_and_development": {
+    "overview": "CPD is a statutory requirement for maintaining annual GOC registration. NES provides support and training for dispensing opticians providing care under the NHS General Ophthalmic Services (GOS) contract."
+  },
+  "career_progression": {
+    "overview": "With specialist training, dispensing opticians can extend their scope of practice.",
+    "specialist_qualifications": [
+      "Contact Lens Certificate — qualifying to fit and advise on contact lenses",
+      "Extended services contact lens optician — caring for patients with sudden eye conditions"
+    ]
+  },
+  "professional_bodies": [
+    "General Optical Council (GOC) — mandatory registration, renewed annually",
+    "Association of British Dispensing Opticians (ABDO)",
+    "The Federation of Optometrists and Dispensing Opticians",
+    "Optometry Scotland (representative body for Scotland)"
+  ],
+  "related_careers": [
+    "Optometrist",
+    "Orthoptist"
+  ],
+  "chunks": [
+    { "chunk_id": "dispensing-optician-001", "section": "how_to_become", "text": "To become a dispensing optician, complete an undergraduate degree in Ophthalmic Dispensing at SCQF level 10 or the ABDO Level 6 Diploma in Ophthalmic Dispensing by distance learning." },
+    { "chunk_id": "dispensing-optician-002", "section": "salary", "text": "Dispensing opticians in the NHS start at £33,247 before tax. Senior dispensing opticians can earn up to £50,702 before tax." },
+    { "chunk_id": "dispensing-optician-003", "section": "description", "text": "Dispensing opticians supply and fit glasses, contact lenses, and other aids for visual, occupational, or lifestyle needs, including protective eyewear, children's glasses, and low-vision aids. They must be GOC-registered." },
+    { "chunk_id": "dispensing-optician-004", "section": "role_overview", "text": "Dispensing opticians supply and fit glasses, advise on eye care conditions, myopia management, and glasses care. With further training, they can fit contact lenses, provide enhanced clinical care, and help with minor eye conditions." },
+    { "chunk_id": "dispensing-optician-005", "section": "entry_requirements", "text": "Useful school subjects include Biology, Maths, English, Chemistry, Physics, and Science." },
+    { "chunk_id": "dispensing-optician-006", "section": "education_and_training", "text": "Routes include an undergraduate degree in Ophthalmic Dispensing at SCQF level 10 or the ABDO Level 6 Diploma by distance learning. Students must register with GOC and join PVG scheme. One year of supervised practice after graduation is required for GOC registration." },
+    { "chunk_id": "dispensing-optician-007", "section": "professional_bodies", "text": "Dispensing opticians must maintain GOC registration (renewed annually) and ABDO membership. They can also join the Federation of Optometrists and Dispensing Opticians and Optometry Scotland." }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "health-economist",
+  "title": "Health Economist",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/health-economist/",
+  "how_to_become": "You can become a health economist by completing an undergraduate degree in a subject such as economics, public health, mathematics, or statistics, followed by a postgraduate qualification in Health Economics.",
+  "salary": {
+    "entry": "£50,826",
+    "entry_note": "Health economists in the NHS start at £50,826 before tax.",
+    "experienced": "£79,164",
+    "experienced_note": "Senior health economists can earn up to £67,665. Principal or lead health economists can earn up to £79,164 before tax."
+  },
+  "description": "Health economists provide the expert analysis that helps NHS Scotland make fair and evidence-based financial decisions. This helps the NHS when making decisions about investing the annual budget for new medicines and health technologies.",
+  "role_overview": "As a health economist, your work will have a direct and tangible impact on people across Scotland. It will inform national guidance that determines which new medicines are approved for use in the NHS, which medical devices and technologies are introduced in hospitals, and the recommendations within national clinical guidelines that doctors and nurses use every day. Many health economists work within Healthcare Improvement Scotland (HIS).",
+  "what_health_economists_analyse": [
+    "Cost-effectiveness of new cancer drugs",
+    "Cost-effectiveness of surgical robots",
+    "Cost-effectiveness of national screening programmes"
+  ],
+  "key_responsibilities": [
+    "Synthesising evidence — analysing vast amounts of information to understand a technology's benefits and costs, including clinical trial results, academic literature, and real-world data.",
+    "Building economic models — constructing sophisticated computer models to simulate the long-term health and financial impacts of adopting a new technology.",
+    "Communicating with clarity — translating complex findings into clear, compelling advice for decision-making committees such as SHTG, SIGN, and SMC."
+  ],
+  "typical_backgrounds": [
+    "Data analyst or statistician",
+    "Academic or industry researcher",
+    "Public health professional",
+    "Pharmacist",
+    "Economist in another sector"
+  ],
+  "entry_requirements": {
+    "overview": "A degree in economics, mathematics, statistics, or health sciences is required, along with a postgraduate qualification in health economics and experience in applied health economics including building and validating economic models.",
+    "undergraduate_degrees": [
+      "Economics",
+      "Mathematics",
+      "Statistics",
+      "Health Sciences",
+      "Public Health"
+    ],
+    "postgraduate": "A postgraduate qualification in Health Economics is required."
+  },
+  "work_experience": "Experience in applied health economics, including building and validating economic models, is required. Backgrounds in data analysis, public health, pharmacy, or academic research are common entry routes.",
+  "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes to help gain degree entry qualifications.",
+  "learning_and_development": {
+    "overview": "Health economists are expected to maintain specialist knowledge through continuing professional development (CPD).",
+    "cpd_activities": [
+      "Attending training courses",
+      "Participating in knowledge-sharing networks"
+    ]
+  },
+  "career_progression": {
+    "senior_health_economist": [
+      "Leading and managing complex projects independently",
+      "Mentoring and supervising health economists",
+      "Taking on a greater role in developing methodology and strategy",
+      "Representing the team at national committees and engaging with senior stakeholders"
+    ],
+    "principal_or_lead_health_economist": [
+      "Managing the health economics team and its overall work programme",
+      "Providing expert strategic advice to senior leaders within NHS Scotland and the Scottish Government",
+      "Holding national responsibility for the quality and impact of health economic advice"
+    ],
+    "progression_roles": [
+      "Senior health economist",
+      "Principal health economist",
+      "Lead health economist"
+    ]
+  },
+  "wider_career_opportunities": [
+    "Senior management roles within NHS Scotland",
+    "Health policy roles within the Scottish Government",
+    "Academic research and teaching positions at universities",
+    "Industry roles with pharmaceutical or medical technology companies"
+  ],
+  "professional_bodies": [
+    "The Health Economics Study Group (HESG)",
+    "The International Society for Pharmacoeconomics and Outcomes Research (ISPOR)"
+  ],
+  "chunks": [
+    { "chunk_id": "health-economist-001", "section": "how_to_become", "text": "To become a health economist, complete an undergraduate degree in economics, public health, mathematics, or statistics, followed by a postgraduate qualification in Health Economics." },
+    { "chunk_id": "health-economist-002", "section": "salary", "text": "Health economists in the NHS start at £50,826 before tax. Senior health economists can earn up to £67,665. Principal or lead health economists can earn up to £79,164 before tax." },
+    { "chunk_id": "health-economist-003", "section": "description", "text": "Health economists provide expert analysis that helps NHS Scotland make fair and evidence-based financial decisions about investing the annual budget for new medicines and health technologies." },
+    { "chunk_id": "health-economist-004", "section": "key_responsibilities", "text": "Health economists synthesise evidence from clinical trials and real-world data, build economic models to simulate long-term health and financial impacts, and communicate complex findings clearly to decision-making committees such as SHTG, SIGN, and SMC." },
+    { "chunk_id": "health-economist-005", "section": "what_health_economists_analyse", "text": "Health economists analyse the cost-effectiveness of health technologies such as new cancer drugs, surgical robots, and national screening programmes." },
+    { "chunk_id": "health-economist-006", "section": "typical_backgrounds", "text": "Many health economists come from backgrounds such as data analyst, statistician, academic or industry researcher, public health professional, pharmacist, or economist in another sector." },
+    { "chunk_id": "health-economist-007", "section": "entry_requirements", "text": "A degree in economics, mathematics, statistics, or health sciences is required, along with a postgraduate qualification in health economics and experience in applied health economics including building and validating economic models." },
+    { "chunk_id": "health-economist-008", "section": "widening_access", "text": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications." },
+    { "chunk_id": "health-economist-009", "section": "role_overview", "text": "Health economists inform national guidance on which new medicines are approved for NHS use, which medical devices are introduced in hospitals, and national clinical guidelines used by doctors and nurses. Many work within Healthcare Improvement Scotland (HIS)." },
+    { "chunk_id": "health-economist-010", "section": "learning_and_development", "text": "Health economists maintain specialist knowledge through continuing professional development (CPD), including attending training courses and participating in knowledge-sharing networks." },
+    { "chunk_id": "health-economist-011", "section": "career_progression", "text": "With experience, health economists progress to senior roles involving independent project leadership, mentoring, and national committee representation. At the most senior levels, principal or lead health economists manage the team, advise NHS Scotland and the Scottish Government, and hold national responsibility for health economic advice." },
+    { "chunk_id": "health-economist-012", "section": "wider_career_opportunities", "text": "Health economist skills are highly transferable. Career opportunities include senior management within NHS Scotland, health policy roles in the Scottish Government, academic research and teaching, and industry roles with pharmaceutical or medical technology companies." },
+    { "chunk_id": "health-economist-013", "section": "professional_bodies", "text": "Health economists can engage with professional bodies including the Health Economics Study Group (HESG) and the International Society for Pharmacoeconomics and Outcomes Research (ISPOR)." }
+  ]
+}

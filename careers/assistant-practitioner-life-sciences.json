@@ -1,0 +1,80 @@
+{
+  "id": "assistant-practitioner-life-sciences",
+  "title": "Assistant Practitioner — Life Sciences",
+  "sector": "Healthcare Science",
+  "sub_sector": "Laboratory Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/laboratory-sciences/assistant-practitioner-life-sciences/",
+  "published": "03/06/2023",
+  "last_updated": "09/12/2025",
+  "how_to_become": "You can become an assistant practitioner in life sciences by doing a Modern Apprenticeship or applying for a vacancy on the NHS recruitment website.",
+  "description": "Assistant practitioners in life sciences carry out essential laboratory tasks including preparing biological samples for analysis, updating records, stock control, assisting with equipment maintenance, and maintaining a clean and safe working environment. They work in infection sciences, blood sciences, cell sciences, and gene sciences. They are also known as healthcare science support workers or biomedical science support workers.",
+  "role_overview": "As an assistant practitioner, you'll assist in the smooth running of a busy hospital laboratory across one of four clinical laboratory service areas.",
+  "work_areas": [
+    "Infection sciences",
+    "Blood sciences",
+    "Cell sciences",
+    "Gene sciences"
+  ],
+  "key_tasks": [
+    "Preparing biological samples for analysis",
+    "Updating written and electronic records",
+    "Stock control",
+    "Assisting in the maintenance of laboratory equipment",
+    "Maintaining a clean and safe working environment"
+  ],
+  "entry_requirements": {
+    "overview": "A Modern Apprenticeship or relevant experience is the typical entry route.",
+    "useful_subjects": [
+      "English",
+      "Biology",
+      "Chemistry",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Life Sciences and Related Science Industries Modern Apprenticeship at SCQF level 6, covering operating procedures, health and safety, and laboratory equipment."
+  },
+  "learning_and_development": {
+    "training_topics": [
+      "Standard operating procedures",
+      "Quality management policies",
+      "External quality assessment and internal quality control",
+      "Laboratory and hospital health and safety",
+      "Risk management"
+    ],
+    "additional_qualifications": [
+      "HNC Applied Sciences at SCQF level 7",
+      "HNC Bioscience at SCQF level 7",
+      "Institute of Biomedical Science (IBMS) Certificate of Achievement Part 1"
+    ]
+  },
+  "career_progression": {
+    "overview": "Assistant practitioners can progress to associate practitioner roles through further qualifications.",
+    "qualifications_for_progression": [
+      "HND Applied Biological Sciences at SCQF level 8",
+      "IBMS Certificate of Achievement Part 2"
+    ],
+    "progression_roles": [
+      "Associate practitioner in life sciences"
+    ]
+  },
+  "professional_bodies": [
+    "Institute of Biomedical Science (IBMS)"
+  ],
+  "related_careers": [
+    "Associate practitioner — life sciences",
+    "Biomedical scientist",
+    "Clinical scientist — genomics and molecular pathology"
+  ],
+  "chunks": [
+    { "chunk_id": "assistant-practitioner-life-sciences-001", "section": "how_to_become", "text": "You can become an assistant practitioner in life sciences by doing a Modern Apprenticeship or applying for a vacancy on the NHS recruitment website." },
+    { "chunk_id": "assistant-practitioner-life-sciences-002", "section": "description", "text": "Assistant practitioners in life sciences prepare biological samples, update records, manage stock, assist with equipment maintenance, and maintain safe laboratory environments. They work in infection sciences, blood sciences, cell sciences, and gene sciences, and are also known as healthcare science support workers." },
+    { "chunk_id": "assistant-practitioner-life-sciences-003", "section": "role_overview", "text": "Assistant practitioners assist in the smooth running of a busy hospital laboratory across infection sciences, blood sciences, cell sciences, or gene sciences." },
+    { "chunk_id": "assistant-practitioner-life-sciences-004", "section": "entry_requirements", "text": "Useful school subjects include English, Biology, Chemistry, and Maths. Entry is typically via the Life Sciences and Related Science Industries Modern Apprenticeship at SCQF level 6." },
+    { "chunk_id": "assistant-practitioner-life-sciences-005", "section": "education_and_training", "text": "The Life Sciences and Related Science Industries Modern Apprenticeship at SCQF level 6 covers operating procedures, health and safety, and laboratory equipment." },
+    { "chunk_id": "assistant-practitioner-life-sciences-006", "section": "learning_and_development", "text": "Training covers standard operating procedures, quality management, quality control, health and safety, and risk management. Additional qualifications include HNC Applied Sciences or Bioscience at SCQF level 7 and IBMS Certificate of Achievement Part 1." },
+    { "chunk_id": "assistant-practitioner-life-sciences-007", "section": "career_progression", "text": "With HND Applied Biological Sciences at SCQF level 8 and IBMS Certificate of Achievement Part 2, assistant practitioners can progress to associate practitioner in life sciences." },
+    { "chunk_id": "assistant-practitioner-life-sciences-008", "section": "professional_bodies", "text": "Assistant practitioners in life sciences can join the Institute of Biomedical Science (IBMS)." }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "software-engineer",
+  "title": "Software Engineer",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/software-engineer/",
+  "how_to_become": "A Modern Apprenticeship could kickstart your career in software engineering. You could also study Software Engineering or Computer Science at college or university.",
+  "salary": {
+    "entry": "£41,608",
+    "entry_note": "Software engineers in the NHS start at £41,608 before tax.",
+    "experienced": "£67,665",
+    "experienced_note": "Senior software engineers can earn up to £59,159. Lead software engineers can earn up to £67,665 before tax."
+  },
+  "description": "In the NHS, software engineers build technology that improves the care and wellbeing of people using health and social care services. They work in teams with other digital professionals to produce clean, secure, and efficient code, test and deploy technology solutions, and maintain and improve existing products and services.",
+  "key_responsibilities": [
+    "Produce clean, secure, and efficient code that meets required standards and technical specifications.",
+    "Test, debug, and deploy technology solutions.",
+    "Maintain and improve existing products and services."
+  ],
+  "role_overview": "Software engineers work in almost all sectors including healthcare and social care. Services in patient care, including telecare and home health monitoring, are expanding. In NHS Scotland, the demand for software developers is high. You may work on more than one project at a time depending on organisational needs.",
+  "entry_requirements": {
+    "overview": "A college or degree-level qualification in Software Engineering or Computer Science is typical. Programming bootcamps and intensive courses are also recognised.",
+    "useful_subjects": [
+      "Physics",
+      "Computing Science",
+      "Engineering",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeships": [
+      "IT and Telecommunications"
+    ],
+    "college_courses": [
+      "HND Computer Science"
+    ],
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "degree_programmes": [
+      "Software Engineering (undergraduate or postgraduate)",
+      "Computer Science (undergraduate or postgraduate)"
+    ],
+    "other": "Programming bootcamps and intensive courses are also available online."
+  },
+  "learning_and_development": {
+    "overview": "During your career as a software engineer, you could gain additional qualifications and pursue self-directed learning.",
+    "qualifications": [
+      "Master's in Software Engineering",
+      "Master's in Computer Science",
+      "Short courses for new tools, technologies, systems, and processes"
+    ]
+  },
+  "career_progression": {
+    "overview": "Gaining new qualifications and experience could lead to more senior roles.",
+    "progression_roles": [
+      "Lead software engineer",
+      "Technical architect",
+      "Development team lead"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "software-engineer-001", "section": "how_to_become", "text": "A Modern Apprenticeship could kickstart a career in software engineering. You could also study Software Engineering or Computer Science at college or university." },
+    { "chunk_id": "software-engineer-002", "section": "salary", "text": "Software engineers in the NHS start at £41,608 before tax. Senior software engineers can earn up to £59,159. Lead software engineers can earn up to £67,665 before tax." },
+    { "chunk_id": "software-engineer-003", "section": "description", "text": "NHS software engineers build technology that improves the care and wellbeing of people using health and social care services, producing clean and secure code, testing and deploying solutions, and maintaining existing products." },
+    { "chunk_id": "software-engineer-004", "section": "key_responsibilities", "text": "Software engineers produce clean, secure, and efficient code to required standards, test, debug, and deploy technology solutions, and maintain and improve existing NHS products and services." },
+    { "chunk_id": "software-engineer-005", "section": "role_overview", "text": "NHS software engineers work across healthcare and social care, including patient care services like telecare and home health monitoring. Demand for software developers in NHS Scotland is high. Engineers may work on multiple projects simultaneously." },
+    { "chunk_id": "software-engineer-006", "section": "entry_requirements", "text": "Useful school subjects include Physics, Computing Science, Engineering, English, and Maths. A college or degree-level qualification in Software Engineering or Computer Science is typical." },
+    { "chunk_id": "software-engineer-007", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "software-engineer-008", "section": "education_and_training", "text": "A Modern Apprenticeship in IT and Telecommunications is available. College options include HND Computer Science. Universities offer Software Engineering and Computer Science at undergraduate and postgraduate level. Programming bootcamps are also an option. SWAP supports adult learners into higher education." },
+    { "chunk_id": "software-engineer-009", "section": "learning_and_development", "text": "Software engineers can gain postgraduate degrees such as a master's in Software Engineering or Computer Science, and pursue short courses or self-directed learning to explore new tools and technologies." },
+    { "chunk_id": "software-engineer-010", "section": "career_progression", "text": "With qualifications and experience, software engineers can progress to lead software engineer, technical architect, or development team lead." }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "clinical-scientist-health-informatics",
+  "title": "Clinical Scientist — Health Informatics (Bioinformatician)",
+  "sector": "Healthcare Science",
+  "sub_sector": "Health Informatics Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/health-informatics-sciences/clinical-scientist-health-informatics/",
+  "how_to_become": "To become a clinical scientist in health informatics in the NHS, you'll need a postgraduate-level qualification in Bioinformatics. You can apply for vacancies on the NHS recruitment website.",
+  "description": "Clinical bioinformatics combines computing science with medicine, information science, biology, statistics, and mathematics. Bioinformaticians analyse biological data to support service delivery and patient care, working in areas such as clinical genomics and pathogen genomics.",
+  "role_overview": "As a bioinformatician, you'll combine computing science skills with knowledge of biology, medicine, or mathematics to analyse biological data. In clinical genomics, you'll support diagnosis and treatment based on patients' unique genetic makeup. In pathogen genomics, you'll support tracking and investigation of pathogens or outbreaks. You'll create and maintain databases, write code, develop algorithms, use bioinformatics software, and present findings in reports.",
+  "work_areas": [
+    "Clinical genomics — supporting diagnosis and treatment based on patients' unique genetic makeup.",
+    "Pathogen genomics — supporting the tracking and investigation of pathogens or outbreaks."
+  ],
+  "key_tasks": [
+    "Creating and maintaining databases to organise and store biological information.",
+    "Writing code and developing algorithms.",
+    "Using bioinformatics software to process and analyse data.",
+    "Presenting analysis results in reports including methods descriptions and data visualisations."
+  ],
+  "entry_requirements": {
+    "overview": "A master's degree or postgraduate certificate in Bioinformatics at SCQF level 11 is required. A postgraduate-level qualification in a related subject may also be considered.",
+    "useful_subjects": [
+      "Maths",
+      "English",
+      "Computer Science",
+      "Human Biology",
+      "Statistics",
+      "Chemistry",
+      "Engineering Science"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "learning_and_development": {
+    "overview": "Bioinformaticians must undertake continuous professional development to keep knowledge and skills up to date.",
+    "further_qualifications": [
+      "PhDs",
+      "Professional doctorates"
+    ],
+    "equivalence_recognition": "Bioinformaticians with significant NHS experience can apply for clinical scientist equivalence recognition by submitting a portfolio to the Academy for Healthcare Science and attending an interview. If successful, they can register with the HCPC as a clinical scientist."
+  },
+  "career_progression": {
+    "overview": "Gaining qualifications leads to more senior roles or advancement into more specialised areas of service.",
+    "progression_routes": [
+      "Senior bioinformatician",
+      "Clinical scientist in bioinformatics via equivalence recognition",
+      "Academic research with PhD or professional doctorate"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for clinical scientist registration",
+    "Academy for Healthcare Science (AHCS)"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-scientist-health-informatics-001", "section": "how_to_become", "text": "To become a clinical scientist in health informatics (bioinformatician) in the NHS, you'll need a master's degree or postgraduate certificate in Bioinformatics at SCQF level 11. A postgraduate qualification in a related subject may also be considered." },
+    { "chunk_id": "clinical-scientist-health-informatics-002", "section": "description", "text": "Clinical bioinformatics combines computing science with medicine, information science, biology, statistics, and mathematics. Bioinformaticians analyse biological data to support service delivery and patient care in areas including clinical genomics and pathogen genomics." },
+    { "chunk_id": "clinical-scientist-health-informatics-003", "section": "role_overview", "text": "Bioinformaticians combine computing skills with knowledge of biology, medicine, or mathematics to analyse biological data. In clinical genomics they support diagnosis and treatment based on genetic makeup. In pathogen genomics they support tracking and investigation of pathogens or outbreaks." },
+    { "chunk_id": "clinical-scientist-health-informatics-004", "section": "key_tasks", "text": "Bioinformaticians create and maintain databases to store biological information, write code and develop algorithms, use bioinformatics software to process and analyse data, and present findings in reports including data visualisations." },
+    { "chunk_id": "clinical-scientist-health-informatics-005", "section": "entry_requirements", "text": "Useful school subjects include Maths, English, Computer Science, Human Biology, Statistics, Chemistry, and Engineering Science. A master's degree or postgraduate certificate in Bioinformatics at SCQF level 11 is required." },
+    { "chunk_id": "clinical-scientist-health-informatics-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland." },
+    { "chunk_id": "clinical-scientist-health-informatics-007", "section": "learning_and_development", "text": "Bioinformaticians must maintain CPD throughout their career. Further qualifications such as PhDs and professional doctorates support progression to senior and specialist roles." },
+    { "chunk_id": "clinical-scientist-health-informatics-008", "section": "equivalence_recognition", "text": "Bioinformaticians with significant NHS experience can apply for clinical scientist equivalence recognition by submitting a portfolio to the Academy for Healthcare Science and attending an interview. If successful, they can register with the HCPC as a clinical scientist in bioinformatics." },
+    { "chunk_id": "clinical-scientist-health-informatics-009", "section": "professional_bodies", "text": "Clinical scientists in health informatics must register with the Health and Care Professions Council (HCPC). They can also join the Academy for Healthcare Science (AHCS)." }
+  ]
+}

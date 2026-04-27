@@ -1,0 +1,97 @@
+{
+  "id": "orthotist",
+  "title": "Orthotist",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/orthotist/",
+  "how_to_become": "To become an orthotist in the NHS, you must complete a pre-registration undergraduate degree programme approved by the Health and Care Professions Council (HCPC).",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Orthotists in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist orthotists can earn up to £50,702. Advanced orthotists can earn up to £59,159 before tax."
+  },
+  "description": "Orthotists work with people of all ages and specialise in the use of splints, braces, or special footwear called orthoses, which can reduce pain or increase a person's mobility and independence. They design, manufacture, and fit orthoses by combining knowledge of human biology with engineering principles.",
+  "role_overview": "As an orthotist, you'll assess patients' conditions to design and fit orthoses to aid movement, stop deformities from progressing, or relieve discomfort. You treat people from head to toe for problems including foot and ankle injuries, knee pain, sports-related injuries, foot drop, and limb or spinal deformity. You'll work with orthotic technicians, prosthetists, doctors, nurses, physiotherapists, and occupational therapists.",
+  "devices_fitted": [
+    "Insoles and footwear",
+    "Braces",
+    "Callipers",
+    "Neck collars",
+    "Splints"
+  ],
+  "conditions_treated": [
+    "Foot and ankle injuries",
+    "Knee pain",
+    "Sports-related injuries",
+    "Foot drop",
+    "Limb or spinal deformity"
+  ],
+  "entry_requirements": {
+    "overview": "A Prosthetics and Orthotics undergraduate degree at SCQF level 10 approved by the HCPC is required.",
+    "useful_subjects": [
+      "Biology",
+      "Maths",
+      "Physics",
+      "English",
+      "Engineering Science"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "college_route": "At college, you could do an HND in Engineering Systems at SCQF level 8.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_universities": [
+      "University of Strathclyde"
+    ],
+    "undergraduate_duration": "4 years full-time.",
+    "note": "After graduation, you must register with the HCPC before applying for NHS vacancies. HCPC registration must be renewed every 2 years."
+  },
+  "learning_and_development": {
+    "overview": "Orthotists must keep skills and knowledge up to date through continuing professional development (CPD). HCPC registration must be renewed every 2 years.",
+    "cpd_providers": [
+      "British Association of Prosthetists and Orthotists (BAPO)",
+      "International Society for Prosthetics and Orthotics (ISPO)"
+    ],
+    "cpd_activities": [
+      "Courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "specialisms": [
+      "Sports injuries",
+      "Working with children"
+    ],
+    "progression_roles": [
+      "Senior orthotist",
+      "Specialist orthotist",
+      "Head of orthotics and prosthetics service",
+      "Teaching and research roles",
+      "Practice educator"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "British Association of Prosthetists and Orthotists (BAPO)",
+    "International Society for Prosthetics and Orthotics (ISPO)"
+  ],
+  "related_careers": [
+    "Prosthetist",
+    "Physiotherapist",
+    "Occupational therapist"
+  ],
+  "chunks": [
+    { "chunk_id": "orthotist-001", "section": "how_to_become", "text": "To become an orthotist in the NHS, you must complete a pre-registration undergraduate degree programme in Prosthetics and Orthotics approved by the HCPC." },
+    { "chunk_id": "orthotist-002", "section": "salary", "text": "Orthotists in the NHS start at £33,247 before tax. Specialist orthotists can earn up to £50,702. Advanced orthotists can earn up to £59,159 before tax." },
+    { "chunk_id": "orthotist-003", "section": "description", "text": "Orthotists design, manufacture, and fit orthoses such as splints, braces, and special footwear to reduce pain or increase mobility and independence for people of all ages, combining knowledge of human biology with engineering principles." },
+    { "chunk_id": "orthotist-004", "section": "role_overview", "text": "Orthotists assess patients and design and fit orthoses to aid movement, prevent deformities progressing, or relieve discomfort. They treat foot and ankle injuries, knee pain, sports injuries, foot drop, and limb or spinal deformity, working alongside orthotic technicians, prosthetists, doctors, nurses, physiotherapists, and occupational therapists." },
+    { "chunk_id": "orthotist-005", "section": "devices_fitted", "text": "Orthotists design and fit surgical appliances including insoles and footwear, braces, callipers, neck collars, and splints, using measurements, casts, digital imaging, computer-aided design, and computer-aided modelling." },
+    { "chunk_id": "orthotist-006", "section": "entry_requirements", "text": "Useful school subjects include Biology, Maths, Physics, English, and Engineering Science. A Prosthetics and Orthotics undergraduate degree at SCQF level 10 approved by the HCPC is required." },
+    { "chunk_id": "orthotist-007", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland." },
+    { "chunk_id": "orthotist-008", "section": "education_and_training", "text": "In Scotland, the University of Strathclyde offers a 4-year pre-registration undergraduate programme in Prosthetics and Orthotics approved by the HCPC and ISPO. College options include HND in Engineering Systems at SCQF level 8. SWAP supports adult learners into higher education." },
+    { "chunk_id": "orthotist-009", "section": "learning_and_development", "text": "Orthotists maintain skills through CPD including courses, conferences, and seminars provided by BAPO and ISPO. HCPC registration must be renewed every 2 years, confirming practice, proficiency standards, and CPD standards have been met." },
+    { "chunk_id": "orthotist-010", "section": "career_progression", "text": "Orthotists can specialise in sports injuries or working with children, and progress to senior, specialist, or head of orthotics and prosthetics service roles with team and budget responsibility. Teaching, research, and practice educator opportunities are also available." },
+    { "chunk_id": "orthotist-011", "section": "professional_bodies", "text": "Orthotists must register with the HCPC to work in the NHS. They can also join the British Association of Prosthetists and Orthotists (BAPO) and the International Society for Prosthetics and Orthotics (ISPO)." }
+  ]
+}

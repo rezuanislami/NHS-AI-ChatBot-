@@ -1,0 +1,73 @@
+{
+  "id": "dental-therapist",
+  "title": "Dental Therapist",
+  "sector": "Dental",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/dental/dental-therapist/",
+  "published": "30/03/2023",
+  "last_updated": "12/12/2025",
+  "how_to_become": "To become a dental therapist, you'll need to complete a pre-registration training programme and register with the General Dental Council (GDC).",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Qualified dental therapists in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist dental therapists can earn up to £50,702. Advanced dental therapists can earn up to £59,159 before tax."
+  },
+  "description": "Dental therapists play a crucial and expanding role within the dental team. They are qualified to diagnose dental diseases and provide a wide range of treatments within their scope of practice, including preventative advice, treatments for gum disease and tooth decay, restorative treatments, extractions, and crowns on children's primary teeth.",
+  "role_overview": "As a dental therapist, you'll work within a team with an increasing focus on preventing disease and promoting healthy lifestyles. You may work in a general dental practice, community health centre, or hospital setting, providing direct care or treating patients under prescription from a dentist.",
+  "entry_requirements": {
+    "overview": "A pre-registration BSc degree in Oral Health Sciences approved by the GDC is typically required. English language proficiency is required by the GDC.",
+    "useful_subjects": [
+      "Biology or Human Biology",
+      "English",
+      "Maths",
+      "Chemistry"
+    ],
+    "alternative_entry": "Some training providers accept applications from candidates who have successfully completed a SWAP access course."
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "degree_programme": "BSc in Oral Health Sciences is a common pathway, approved by the GDC.",
+    "universities": [
+      "University of Dundee — BSc Oral Health Sciences",
+      "Glasgow Caledonian University — BSc Oral Health Science",
+      "University of the Highlands and Islands — BSc Oral Health Science"
+    ],
+    "application": "Applications are typically made through UCAS. Entry requirements vary between providers.",
+    "english_language": "All dental professionals must be sufficiently fluent in written and spoken English to communicate effectively with patients, relatives, the dental team, and other healthcare professionals."
+  },
+  "learning_and_development": {
+    "overview": "Dental therapists must undertake ongoing continuing professional development (CPD) to maintain and update skills, knowledge, and competence and retain GDC registration."
+  },
+  "career_progression": {
+    "extended_scope": [
+      "Administering inhalation sedation",
+      "Removing sutures after a wound has been checked by a dentist",
+      "Carrying out tooth whitening under the prescription of a dentist"
+    ],
+    "progression_roles": [
+      "Management roles",
+      "Dental therapist tutor"
+    ]
+  },
+  "professional_bodies": [
+    "General Dental Council (GDC) — mandatory for NHS practice",
+    "British Association of Dental Therapists",
+    "British Society of Dental Hygiene and Therapy"
+  ],
+  "related_careers": [
+    "Dental nurse",
+    "Dentist"
+  ],
+  "chunks": [
+    { "chunk_id": "dental-therapist-001", "section": "how_to_become", "text": "To become a dental therapist, complete a pre-registration training programme and register with the General Dental Council (GDC)." },
+    { "chunk_id": "dental-therapist-002", "section": "salary", "text": "Qualified dental therapists in the NHS start at £33,247 before tax. Specialist dental therapists can earn up to £50,702. Advanced dental therapists can earn up to £59,159 before tax." },
+    { "chunk_id": "dental-therapist-003", "section": "description", "text": "Dental therapists diagnose dental diseases and provide a wide range of treatments including preventative advice, treatments for gum disease and tooth decay, fillings on adults' and children's teeth, extractions, and crowns on children's primary teeth." },
+    { "chunk_id": "dental-therapist-004", "section": "role_overview", "text": "Dental therapists work within a team in general dental practice, community health centres, or hospital settings, focusing on disease prevention and promoting healthy lifestyles. They provide direct care or treat patients under prescription from a dentist." },
+    { "chunk_id": "dental-therapist-005", "section": "entry_requirements", "text": "Useful school subjects include Biology or Human Biology, English, Maths, and Chemistry. A BSc in Oral Health Sciences approved by the GDC is typically required. SWAP access courses may be accepted by some providers. English language proficiency is required by the GDC." },
+    { "chunk_id": "dental-therapist-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "dental-therapist-007", "section": "education_and_training", "text": "BSc Oral Health Sciences programmes are offered at the University of Dundee, Glasgow Caledonian University, and the University of the Highlands and Islands. Applications are typically made through UCAS." },
+    { "chunk_id": "dental-therapist-008", "section": "learning_and_development", "text": "Dental therapists must undertake ongoing CPD to maintain skills, knowledge, and competence and retain GDC registration." },
+    { "chunk_id": "dental-therapist-009", "section": "career_progression", "text": "Dental therapists can extend their scope to include inhalation sedation, removing sutures, and tooth whitening under prescription. They can also progress to management roles or become a dental therapist tutor." },
+    { "chunk_id": "dental-therapist-010", "section": "professional_bodies", "text": "Dental therapists must register with the General Dental Council (GDC). They can also join the British Association of Dental Therapists and the British Society of Dental Hygiene and Therapy." }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "childrens-nurse",
+  "title": "Children's Nurse",
+  "sector": "Nursing",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/nursing/childrens-nurse/",
+  "how_to_become": "To become a children's nurse in the NHS, complete a pre-registration degree programme accredited by the Nursing and Midwifery Council (NMC).",
+  "description": "Children's nurses work in partnership with children, young people, and their families in various health and care settings. They support the physical, mental, and emotional health and wellbeing of children and young people, assessing their needs, planning care, delivering treatment, and monitoring their health.",
+  "role_overview": "Caring for children and young people requires knowledge of developmental stages, adapting communication to suit the young person's age, and interpreting behaviours and reactions. Building close relationships with young people and their families is an essential and rewarding aspect of the role.",
+  "entry_requirements": {
+    "useful_subjects": [
+      "Biology",
+      "Chemistry",
+      "Psychology",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience. Contact your local health board to find out about opportunities.",
+  "education_and_training": {
+    "undergraduate_universities": [
+      "Edinburgh Napier University",
+      "Glasgow Caledonian University",
+      "Robert Gordon University",
+      "University of Dundee"
+    ],
+    "undergraduate_duration": "3 years full-time.",
+    "postgraduate_programmes": [
+      "University of Dundee — Child Nursing MSc",
+      "University of Dundee — Child and Mental Health Nursing MSc"
+    ],
+    "postgraduate_duration": "3 years full-time. Requires an undergraduate degree in any subject.",
+    "open_university": "4-year part-time undergraduate children's nursing degree. Scottish Government covers all tuition fees.",
+    "hnc_route": "HNC in Healthcare Practice at SCQF level 7 — stepping stone for healthcare support workers, may allow entry to year 2 of a nursing degree.",
+    "certhe_route": "CertHE in Healthcare Practice at SCQF level 7 — for nursing support workers progressing to assistant practitioner or nursing degree.",
+    "swap_route": "SWAP — one-year access course for adult learners out of education for 3+ years.",
+    "return_to_practice": "Former NMC-registered nurses can return via a return to practice course (14 to 26 weeks) or the NMC Test of Competence.",
+    "bursary": "Paramedic, Nursing and Midwifery Student Bursary (PNMSB) — £10,000 non-repayable bursary for eligible students."
+  },
+  "learning_and_development": {
+    "overview": "Once registered, there are ongoing education and skills development requirements. Flying Start programme provides extra support in the first year.",
+    "cpd_areas": [
+      "Children's and young people's specific policy",
+      "Advanced paediatric life support",
+      "Neonatal care"
+    ],
+    "revalidation": "Nurses must revalidate with the NMC every 3 years."
+  },
+  "career_progression": {
+    "specialisms": [
+      "Accident and emergency nursing",
+      "Intensive care nursing",
+      "Cancer and palliative care nursing",
+      "Community staff nursing"
+    ],
+    "progression_roles": [
+      "Charge nurse",
+      "Clinical nurse specialist",
+      "Practice educator",
+      "Child health lecturer",
+      "Senior nurse",
+      "Advanced nurse practitioner",
+      "Consultant nurse"
+    ]
+  },
+  "professional_bodies": [
+    "Nursing and Midwifery Council (NMC) — mandatory registration",
+    "Royal College of Nursing (RCN)"
+  ],
+  "chunks": [
+    { "chunk_id": "childrens-nurse-001", "section": "how_to_become", "text": "To become a children's nurse in the NHS, complete a pre-registration degree programme accredited by the NMC." },
+    { "chunk_id": "childrens-nurse-002", "section": "description", "text": "Children's nurses work in partnership with children, young people, and their families, supporting physical, mental, and emotional health and wellbeing by assessing needs, planning care, delivering treatment, and monitoring health." },
+    { "chunk_id": "childrens-nurse-003", "section": "entry_requirements", "text": "Useful school subjects include Biology, Chemistry, Psychology, English, and Maths." },
+    { "chunk_id": "childrens-nurse-004", "section": "education_and_training", "text": "4 Scottish universities offer NMC-approved undergraduate children's nursing degrees (3 years full-time): Edinburgh Napier, Glasgow Caledonian, Robert Gordon, and University of Dundee. Postgraduate MSc programmes are available at University of Dundee. Open University offers a 4-year part-time route. HNC, CertHE, and SWAP provide alternative access routes. A £10,000 PNMSB bursary is available." },
+    { "chunk_id": "childrens-nurse-005", "section": "career_progression", "text": "Children's nurses can specialise in emergency care, intensive care, cancer care, and community nursing, and progress to charge nurse, clinical nurse specialist, practice educator, child health lecturer, or advanced nurse practitioner." },
+    { "chunk_id": "childrens-nurse-006", "section": "professional_bodies", "text": "Children's nurses must register with the NMC and revalidate every 3 years. They can also join the Royal College of Nursing (RCN)." }
+  ]
+}

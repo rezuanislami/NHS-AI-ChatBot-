@@ -1,0 +1,76 @@
+{
+  "id": "communications-officer",
+  "title": "Communications Officer",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/communications-officer/",
+  "published": "29/03/2023",
+  "last_updated": "13/10/2025",
+  "how_to_become": "You'll need a college or degree-level qualification in communications, journalism, public relations, or marketing to become a communications officer in the NHS.",
+  "salary": {
+    "entry": "£30,353",
+    "entry_note": "Communications officers in the NHS start at £30,353 before tax.",
+    "experienced": "£50,702",
+    "experienced_note": "Senior communications officers in the NHS can earn up to £50,702 before tax."
+  },
+  "description": "Communications officers help NHSScotland Boards to engage with their local communities, employees, other health and social care organisations, schools, the Scottish Government, and the media. They also provide public health information and promote health and social care services, education, and training initiatives to internal and external audiences.",
+  "media_types_used": [
+    "Press releases",
+    "Websites",
+    "Social media",
+    "Video and podcasts",
+    "Email marketing",
+    "Intranets",
+    "TV and radio"
+  ],
+  "role_overview": "As a communications officer, you'll be the lead contact for engagement, marketing, and communications for an NHSScotland Board. You'll work in a team with other communications and marketing professionals, including digital marketing assistants and public relations managers. Communications officers are employed in all NHS Boards across Scotland.",
+  "entry_requirements": {
+    "overview": "A college or degree-level qualification in communications, journalism, public relations, or marketing is required.",
+    "useful_subjects": [
+      "Media",
+      "Administration and IT",
+      "Business Management",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "college_courses": [
+      "HND Media and Communication",
+      "HND Practical Journalism"
+    ],
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes to help gain degree entry qualifications.",
+    "degree_programmes": [
+      "Communications",
+      "Journalism",
+      "Public Relations",
+      "Marketing"
+    ],
+    "modern_apprenticeships": [
+      "Creative and Digital Media",
+      "Digital Marketing"
+    ]
+  },
+  "learning_and_development": {
+    "overview": "During your career, self-directed learning will provide opportunities to learn new skills and gain qualifications. You'll be able to apply to more senior roles as you progress."
+  },
+  "career_progression": {
+    "overview": "Self-directed learning and gaining qualifications during your career supports progression into more senior communications roles.",
+    "progression_roles": [
+      "Senior communications officer",
+      "Public relations manager"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "communications-officer-001", "section": "how_to_become", "text": "To become a communications officer in the NHS, you'll need a college or degree-level qualification in communications, journalism, public relations, or marketing." },
+    { "chunk_id": "communications-officer-002", "section": "salary", "text": "Communications officers in the NHS start at £30,353 before tax at entry level. Senior communications officers can earn up to £50,702 before tax." },
+    { "chunk_id": "communications-officer-003", "section": "description", "text": "Communications officers help NHSScotland Boards engage with local communities, employees, health and social care organisations, schools, the Scottish Government, and the media. They provide public health information and promote health and social care services, education, and training initiatives." },
+    { "chunk_id": "communications-officer-004", "section": "media_types_used", "text": "Communications officers use a range of media including press releases, websites, social media, video and podcasts, email marketing, intranets, and TV and radio." },
+    { "chunk_id": "communications-officer-005", "section": "role_overview", "text": "As a communications officer, you'll be the lead contact for engagement, marketing, and communications for an NHSScotland Board, working alongside digital marketing assistants and public relations managers. The role exists in all NHS Boards across Scotland." },
+    { "chunk_id": "communications-officer-006", "section": "entry_requirements", "text": "Useful school subjects include Media, Administration and IT, Business Management, English, and Maths." },
+    { "chunk_id": "communications-officer-007", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "communications-officer-008", "section": "education_and_training", "text": "College options include HND Media and Communication and HND Practical Journalism. Relevant degree subjects include Communications, Journalism, Public Relations, and Marketing. Modern Apprenticeships in Creative and Digital Media or Digital Marketing are also available." },
+    { "chunk_id": "communications-officer-009", "section": "widening_access", "text": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications." },
+    { "chunk_id": "communications-officer-010", "section": "learning_and_development", "text": "Self-directed learning during your career provides opportunities to learn new skills and gain qualifications, supporting progression into more senior roles." }
+  ]
+}

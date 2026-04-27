@@ -1,0 +1,70 @@
+{
+  "id": "ward-clerk",
+  "title": "Ward Clerk",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/ward-clerk/",
+  "how_to_become": "You can become a ward clerk by completing a Modern Apprenticeship or applying for vacancies on the NHS recruitment website.",
+  "salary": {
+    "entry": "£25,694",
+    "entry_note": "Ward clerks in the NHS start at £25,694 before tax.",
+    "experienced": "£30,230",
+    "experienced_note": "Ward clerks in the NHS can earn up to £30,230 before tax."
+  },
+  "description": "Ward clerks work in hospital wards, providing administrative support to healthcare professionals. They welcome patients, relatives, and visitors, take phone calls and answer emails, manage access to patient medical records, and look after patient test results.",
+  "role_overview": "As a ward clerk, you'll provide administrative support in a hospital ward, including answering telephone calls, updating confidential patient data, and making sure healthcare professionals have access to patients' medical records. You'll also have direct contact with relatives, carers, and visitors, providing information about a patient's care.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed to become a ward clerk.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Administration and IT",
+      "Information and Communications Technology"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "modern_apprenticeships": [
+      "Business and Administration",
+      "Healthcare Support"
+    ],
+    "college_courses": [
+      "SVQ Business and Administration at SCQF level 5",
+      "SVQ Healthcare Support at SCQF level 6"
+    ]
+  },
+  "learning_and_development": {
+    "overview": "You will be encouraged to develop your career in the NHS. As well as learning specific to your role, you'll need to complete mandatory training.",
+    "mandatory_training": [
+      "Health and safety",
+      "Occupational health",
+      "Fire safety",
+      "Counter-fraud",
+      "Moving and handling",
+      "Safe information handling"
+    ],
+    "note": "Your NHS employer will confirm their mandatory training requirements during your induction."
+  },
+  "career_progression": {
+    "overview": "Gaining new qualifications will help when applying for more senior roles.",
+    "qualifications": [
+      "SVQ Business and Administration at SCQF level 6",
+      "SVQ Management at SCQF level 7",
+      "HNC Administration and Information Technology at SCQF level 7"
+    ],
+    "progression_roles": [
+      "Team leader",
+      "Ward manager"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "ward-clerk-001", "section": "how_to_become", "text": "You can become a ward clerk by completing a Modern Apprenticeship or applying for vacancies on the NHS recruitment website." },
+    { "chunk_id": "ward-clerk-002", "section": "salary", "text": "Ward clerks in the NHS start at £25,694 before tax and can earn up to £30,230 before tax at experienced level." },
+    { "chunk_id": "ward-clerk-003", "section": "description", "text": "Ward clerks work in hospital wards providing administrative support to healthcare professionals. They welcome patients, relatives, and visitors, take phone calls, manage patient medical records, and look after patient test results." },
+    { "chunk_id": "ward-clerk-004", "section": "role_overview", "text": "As an NHS ward clerk, you'll answer telephone calls, update confidential patient data, ensure healthcare professionals have access to medical records, and provide information to relatives, carers, and visitors about a patient's care." },
+    { "chunk_id": "ward-clerk-005", "section": "entry_requirements", "text": "Useful school subjects for a ward clerk career include English, Maths, Administration and IT, and Information and Communications Technology." },
+    { "chunk_id": "ward-clerk-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "ward-clerk-007", "section": "education_and_training", "text": "Modern Apprenticeships in Business and Administration or Healthcare Support are available. College qualifications include SVQ Business and Administration at SCQF level 5 and SVQ Healthcare Support at SCQF level 6." },
+    { "chunk_id": "ward-clerk-008", "section": "learning_and_development", "text": "Mandatory training for NHS ward clerks includes health and safety, occupational health, fire safety, counter-fraud, moving and handling, and safe information handling. Requirements are confirmed during induction." },
+    { "chunk_id": "ward-clerk-009", "section": "career_progression", "text": "Further qualifications such as SVQ Business and Administration at SCQF level 6, SVQ Management at SCQF level 7, and HNC Administration and Information Technology at SCQF level 7 support progression into team leader or ward manager roles." }
+  ]
+}

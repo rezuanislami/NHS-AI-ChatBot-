@@ -1,0 +1,90 @@
+{
+  "id": "public-health-librarian",
+  "title": "Public Health Librarian",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/public-health-librarian/",
+  "how_to_become": "To become a public health librarian, you'll need a postgraduate level qualification, or 2 years of equivalent experience delivering knowledge management services in a public health or healthcare environment.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Public health librarians in the NHS start at £33,247 before tax.",
+    "experienced": "£50,702",
+    "experienced_note": "Public health librarians in the NHS can earn up to £50,702 before tax."
+  },
+  "description": "A public health librarian delivers specialist knowledge services to internal and external service users. They lead on the delivery of knowledge services, making sure that the organisation has high-quality resources to support its staff.",
+  "role_overview": "Public health librarians provide tailored literature searches and evidence and information management support. They liaise with external stakeholders to understand their information needs and contribute to the development of knowledge such as reviews, reports, and guidance documents.",
+  "stakeholders": [
+    "Scottish Government",
+    "NHS boards",
+    "Higher education institutions",
+    "Local authorities",
+    "Research organisations",
+    "Third sector organisations"
+  ],
+  "entry_requirements": {
+    "overview": "A postgraduate level qualification is required, or 2 years of equivalent experience delivering knowledge management services in a public health or healthcare environment.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Information Systems",
+      "Business Studies"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "college_courses": [
+      "Library and Information Services HNC at SCQF level 7",
+      "Administration and Information Technology HND at SCQF level 8"
+    ],
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_degrees": [
+      "English",
+      "History",
+      "Psychology",
+      "Linguistics"
+    ],
+    "postgraduate": "A postgraduate qualification in information and library studies is required. Three Scottish universities offer postgraduate qualifications in this area: University of Strathclyde, Robert Gordon University, and Glasgow University."
+  },
+  "learning_and_development": {
+    "overview": "You will be encouraged to develop your career in the NHS. As well as learning specific to your role, you'll need to complete mandatory training.",
+    "mandatory_training": [
+      "Health and safety",
+      "Occupational health",
+      "Fire safety",
+      "Counter-fraud",
+      "Moving and handling",
+      "Safe information handling"
+    ],
+    "note": "Your NHS employer will confirm their mandatory training requirements during your induction."
+  },
+  "career_progression": {
+    "overview": "With experience you could progress to more senior library and knowledge management roles.",
+    "progression_roles": [
+      "Library services manager",
+      "Head of library and knowledge services"
+    ]
+  },
+  "professional_bodies": [
+    "Chartered Institute of Library and Information Professionals (CILIP)"
+  ],
+  "professional_body_benefits": [
+    "Professional development",
+    "Accreditation",
+    "Resources including journals and research papers"
+  ],
+  "related_careers": [
+    "Senior library and knowledge services assistant",
+    "Library and knowledge services assistant"
+  ],
+  "chunks": [
+    { "chunk_id": "public-health-librarian-001", "section": "how_to_become", "text": "To become a public health librarian, you'll need a postgraduate level qualification, or 2 years of equivalent experience delivering knowledge management services in a public health or healthcare environment." },
+    { "chunk_id": "public-health-librarian-002", "section": "salary", "text": "Public health librarians in the NHS start at £33,247 before tax and can earn up to £50,702 before tax at experienced level." },
+    { "chunk_id": "public-health-librarian-003", "section": "description", "text": "Public health librarians deliver specialist knowledge services to internal and external service users and lead on making sure the organisation has high-quality resources to support its staff." },
+    { "chunk_id": "public-health-librarian-004", "section": "role_overview", "text": "Public health librarians provide tailored literature searches, evidence and information management support, and liaise with stakeholders including the Scottish Government, NHS boards, higher education institutions, local authorities, research organisations, and third sector organisations." },
+    { "chunk_id": "public-health-librarian-005", "section": "entry_requirements", "text": "A postgraduate qualification in information and library studies is required, or 2 years of equivalent experience in knowledge management in a public health or healthcare environment. Useful school subjects include English, Maths, Information Systems, and Business Studies." },
+    { "chunk_id": "public-health-librarian-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland." },
+    { "chunk_id": "public-health-librarian-007", "section": "education_and_training", "text": "College options include Library and Information Services HNC and Administration and Information Technology HND. Relevant undergraduate degrees include English, History, Psychology, and Linguistics. Postgraduate qualifications in information and library studies are offered by the University of Strathclyde, Robert Gordon University, and Glasgow University. SWAP supports adult learners into higher education." },
+    { "chunk_id": "public-health-librarian-008", "section": "learning_and_development", "text": "Mandatory training includes health and safety, occupational health, fire safety, counter-fraud, moving and handling, and safe information handling. Requirements are confirmed during induction." },
+    { "chunk_id": "public-health-librarian-009", "section": "career_progression", "text": "With experience, public health librarians can progress to library services manager or head of library and knowledge services." },
+    { "chunk_id": "public-health-librarian-010", "section": "professional_bodies", "text": "Membership of the Chartered Institute of Library and Information Professionals (CILIP) is desirable. CILIP membership provides access to professional development, accreditation, and resources including journals and research papers." }
+  ]
+}

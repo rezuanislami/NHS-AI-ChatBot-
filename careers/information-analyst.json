@@ -1,0 +1,69 @@
+{
+  "id": "information-analyst",
+  "title": "Information Analyst",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/information-analyst/",
+  "how_to_become": "You'll need a college or degree-level qualification to become an information analyst in the NHS.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Information analysts in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Senior information analysts can earn up to £50,702. Principal information analysts can earn up to £59,159 before tax."
+  },
+  "description": "Information analysts use powerful analytics tools and modelling software to analyse and interpret data. Their findings and insights are used to help inform decision-making, strategy, and processes.",
+  "role_overview": "As an information analyst working in the NHS, you'll examine complex data and create models. You'll also identify trends and present results to stakeholders and colleagues using data visualisation techniques.",
+  "entry_requirements": {
+    "overview": "A college or degree-level qualification is required to become an information analyst in the NHS.",
+    "useful_subjects": [
+      "Information and Communication Technology",
+      "Physics",
+      "Computing Science",
+      "Statistics",
+      "Business",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "college_courses": [
+      "HND Business",
+      "HND Computer Science",
+      "HND Social Sciences"
+    ],
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes to help gain degree entry qualifications.",
+    "degree_programmes": [
+      "Mathematics and Statistics",
+      "Data Science",
+      "Business Information Systems",
+      "Statistics and Operational Research",
+      "Business Management",
+      "Social Science"
+    ],
+    "modern_apprenticeships": [
+      "Business and Administration",
+      "Data Analytics Technical"
+    ]
+  },
+  "learning_and_development": {
+    "overview": "With training and experience, you could move into a supervisory or management role, such as senior information analyst or principal information analyst, with responsibility for a team of staff and managing a budget."
+  },
+  "career_progression": {
+    "overview": "Training and experience support progression into supervisory and management roles with team and budget responsibilities.",
+    "progression_roles": [
+      "Senior information analyst",
+      "Principal information analyst"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "information-analyst-001", "section": "how_to_become", "text": "To become an information analyst in the NHS, you'll need a college or degree-level qualification." },
+    { "chunk_id": "information-analyst-002", "section": "salary", "text": "Information analysts in the NHS start at £33,247 before tax. Senior information analysts can earn up to £50,702. Principal information analysts can earn up to £59,159 before tax." },
+    { "chunk_id": "information-analyst-003", "section": "description", "text": "Information analysts use powerful analytics tools and modelling software to analyse and interpret data. Their findings and insights help inform decision-making, strategy, and processes in the NHS." },
+    { "chunk_id": "information-analyst-004", "section": "role_overview", "text": "As an NHS information analyst, you'll examine complex data, create models, identify trends, and present results to stakeholders and colleagues using data visualisation techniques." },
+    { "chunk_id": "information-analyst-005", "section": "entry_requirements", "text": "Useful school subjects include Information and Communication Technology, Physics, Computing Science, Statistics, Business, English, and Maths." },
+    { "chunk_id": "information-analyst-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "information-analyst-007", "section": "education_and_training", "text": "College options include HND Business, HND Computer Science, and HND Social Sciences. Relevant degree subjects include Mathematics and Statistics, Data Science, Business Information Systems, Statistics and Operational Research, Business Management, and Social Science. Modern Apprenticeships in Business and Administration or Data Analytics Technical are also available." },
+    { "chunk_id": "information-analyst-008", "section": "widening_access", "text": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications." },
+    { "chunk_id": "information-analyst-009", "section": "career_progression", "text": "With training and experience, information analysts can progress to senior information analyst or principal information analyst roles, taking on responsibility for managing a team of staff and a budget." }
+  ]
+}

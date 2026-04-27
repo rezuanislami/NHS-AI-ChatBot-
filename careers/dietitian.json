@@ -1,0 +1,95 @@
+{
+  "id": "dietitian",
+  "title": "Dietitian",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/dietitian/",
+  "how_to_become": "You'll need a degree in Dietetics accredited by the Health and Care Professions Council (HCPC) to become a dietitian in the NHS.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Dietitians in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist dietitians can earn up to £50,702. Advanced dietitians can earn up to £59,159 before tax."
+  },
+  "description": "Dietitians provide practical advice about nutrition and diet using the most up-to-date public health and scientific research on food, fitness, and disease. They help people of all ages make appropriate food and lifestyle choices. Dietitians are the only qualified healthcare professionals that assess, diagnose, and treat dietary and nutritional problems at both individual and wider public health levels.",
+  "role_overview": "Dietitians work with people who have diet-related disorders, providing evidence-based practical advice. They work with people with long-term conditions such as diabetes or kidney failure, learning disabilities, mental health conditions including eating disorders, digestive system conditions, immune diseases, neurological conditions, and cancer. They may also train, support, and advise other AHPs, healthcare support workers, and students.",
+  "conditions_treated": [
+    "Long-term conditions such as diabetes or kidney failure",
+    "Learning disabilities",
+    "Mental health conditions including eating disorders",
+    "Digestive system conditions",
+    "Immune diseases",
+    "Neurological conditions",
+    "Cancer"
+  ],
+  "entry_requirements": {
+    "overview": "A pre-registration degree programme in Dietetics approved by the HCPC is required.",
+    "useful_subjects": [
+      "Biology",
+      "Human Biology",
+      "Chemistry",
+      "Health and Food Technology",
+      "Maths",
+      "English"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_universities": [
+      "Glasgow Caledonian University",
+      "Queen Margaret University",
+      "Robert Gordon University"
+    ],
+    "undergraduate_duration": "4 years full-time.",
+    "postgraduate": "If you have an undergraduate degree in a life science subject, you can do a postgraduate diploma or master's in Dietetics, usually taking one to two years.",
+    "college_route": "At college, you could do an HNC in a science-based subject before applying to university."
+  },
+  "learning_and_development": {
+    "overview": "Dietitians must undertake Continuing Professional Development (CPD) to keep knowledge and skills up to date and meet HCPC CPD standards for registration.",
+    "cpd_provider": "British Dietetic Association (BDA)",
+    "cpd_activities": [
+      "5-year CPD programme provided by the BDA"
+    ]
+  },
+  "career_progression": {
+    "overview": "There is a clearly defined route for career progression within NHSScotland, from newly qualified dietitian through specialist and advanced roles to management level.",
+    "specialisms": [
+      "Cancer",
+      "Gastroenterology",
+      "Diabetes",
+      "Elderly",
+      "Children",
+      "People with learning difficulties"
+    ],
+    "progression_roles": [
+      "Specialist dietitian",
+      "Advanced dietitian",
+      "Management with team, department, and budget responsibility",
+      "Teaching and research",
+      "Self-employment and freelance work"
+    ],
+    "wider_opportunities": [
+      "Sports",
+      "Health education",
+      "Public relations",
+      "Scientific research",
+      "Journalism"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "British Dietetic Association (BDA)"
+  ],
+  "chunks": [
+    { "chunk_id": "dietitian-001", "section": "how_to_become", "text": "To become a dietitian in the NHS, you'll need a degree in Dietetics accredited by the Health and Care Professions Council (HCPC)." },
+    { "chunk_id": "dietitian-002", "section": "salary", "text": "Dietitians in the NHS start at £33,247 before tax. Specialist dietitians can earn up to £50,702. Advanced dietitians can earn up to £59,159 before tax." },
+    { "chunk_id": "dietitian-003", "section": "description", "text": "Dietitians provide practical advice about nutrition and diet using up-to-date public health and scientific research. They are the only qualified healthcare professionals that assess, diagnose, and treat dietary and nutritional problems at individual and wider public health levels." },
+    { "chunk_id": "dietitian-004", "section": "role_overview", "text": "Dietitians work with people who have diet-related disorders including diabetes, kidney failure, learning disabilities, eating disorders, digestive conditions, immune diseases, neurological conditions, and cancer. They also train and advise other AHPs, healthcare support workers, and students." },
+    { "chunk_id": "dietitian-005", "section": "entry_requirements", "text": "Useful school subjects include Biology, Human Biology, Chemistry, Health and Food Technology, Maths, and English. A pre-registration degree in Dietetics approved by the HCPC is required." },
+    { "chunk_id": "dietitian-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "dietitian-007", "section": "education_and_training", "text": "Undergraduate degrees in Dietetics are offered at Glasgow Caledonian University, Queen Margaret University, and Robert Gordon University, taking 4 years full-time. A postgraduate diploma or master's is available for those with a life science degree, usually taking one to two years. SWAP supports adult learners into higher education." },
+    { "chunk_id": "dietitian-008", "section": "learning_and_development", "text": "Dietitians must maintain CPD to meet HCPC registration standards. The British Dietetic Association (BDA) offers a 5-year CPD programme to support this." },
+    { "chunk_id": "dietitian-009", "section": "career_progression", "text": "Dietitians can specialise in areas such as cancer, gastroenterology, diabetes, or work with specific groups like children or the elderly. Progression routes include specialist and advanced roles, management, teaching, research, self-employment, and wider opportunities in sports, health education, and journalism." },
+    { "chunk_id": "dietitian-010", "section": "professional_bodies", "text": "Dietitians must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the British Dietetic Association (BDA)." }
+  ]
+}

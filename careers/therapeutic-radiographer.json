@@ -1,0 +1,75 @@
+{
+  "id": "therapeutic-radiographer",
+  "title": "Therapeutic Radiographer",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/therapeutic-radiographer/",
+  "how_to_become": "You must complete a pre-registration degree programme to become a therapeutic radiographer in the NHS.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Therapeutic radiographers in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist therapeutic radiographers can earn up to £50,702. Advanced therapeutic radiographers can earn up to £59,159 before tax."
+  },
+  "description": "Therapeutic radiographers are highly qualified, highly specialised professionals and the only profession in the UK that can legally deliver radiotherapy treatment. Radiotherapy uses high-energy radiation to treat cancer and tumours while minimising damage to surrounding healthy tissue. They meet patients at a difficult and vulnerable time in their lives, providing care, compassion, and support.",
+  "role_overview": "As a therapeutic radiographer, you'll plan and deliver radiation treatment including high-energy radiation, accurate radiation dose calculation, and the use of dedicated equipment. You'll build relationships with patients, explain the process and possible side effects, assess patients daily, monitor side effects, and provide support throughout treatment.",
+  "entry_requirements": {
+    "overview": "A pre-registration degree in Therapeutic Radiography or Radiotherapy and Oncology approved by the HCPC is required.",
+    "useful_subjects": [
+      "Human Biology",
+      "Physics",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "college_route": "At college, you could do an HNC in a science-based subject before applying to university.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_universities": [
+      "Glasgow Caledonian University",
+      "Queen Margaret University"
+    ],
+    "undergraduate_duration": "4 years full-time.",
+    "note": "After graduation, you must register with the HCPC before applying for NHS vacancies."
+  },
+  "learning_and_development": {
+    "overview": "Therapeutic radiographers must keep skills and knowledge up to date through Continuing Professional Development (CPD).",
+    "cpd_provider": "Society of Radiographers (SoR)",
+    "cpd_activities": [
+      "Training courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "specialisms": [
+      "Breast treatment service",
+      "Specific cancer types",
+      "Specific patient age groups"
+    ],
+    "progression_roles": [
+      "Specialist therapeutic radiographer",
+      "Advanced therapeutic radiographer",
+      "Consultant radiographer with independent prescribing rights",
+      "Head of radiography service",
+      "Management roles",
+      "Research, teaching, or counselling therapies for cancer patients"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Society of Radiographers (SoR)"
+  ],
+  "chunks": [
+    { "chunk_id": "therapeutic-radiographer-001", "section": "how_to_become", "text": "To become a therapeutic radiographer in the NHS, you must complete a pre-registration degree programme in Therapeutic Radiography or Radiotherapy and Oncology approved by the HCPC." },
+    { "chunk_id": "therapeutic-radiographer-002", "section": "salary", "text": "Therapeutic radiographers in the NHS start at £33,247 before tax. Specialist therapeutic radiographers can earn up to £50,702. Advanced therapeutic radiographers can earn up to £59,159 before tax." },
+    { "chunk_id": "therapeutic-radiographer-003", "section": "description", "text": "Therapeutic radiographers are the only profession in the UK that can legally deliver radiotherapy treatment. They use high-energy radiation to treat cancer and tumours while minimising damage to surrounding healthy tissue, providing care, compassion, and support to patients at a difficult time." },
+    { "chunk_id": "therapeutic-radiographer-004", "section": "role_overview", "text": "Therapeutic radiographers plan and deliver radiation treatment, calculate accurate radiation doses, and use dedicated equipment. They build relationships with patients, explain treatment and side effects, assess patients daily, and provide ongoing support." },
+    { "chunk_id": "therapeutic-radiographer-005", "section": "entry_requirements", "text": "Useful school subjects include Human Biology, Physics, English, and Maths. A pre-registration degree in Therapeutic Radiography or Radiotherapy and Oncology approved by the HCPC is required." },
+    { "chunk_id": "therapeutic-radiographer-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "therapeutic-radiographer-007", "section": "education_and_training", "text": "Undergraduate degrees in Therapeutic Radiography or Radiotherapy and Oncology are offered at Glasgow Caledonian University and Queen Margaret University, taking 4 years full-time. College options include HNC in a science-based subject. SWAP supports adult learners into higher education." },
+    { "chunk_id": "therapeutic-radiographer-008", "section": "learning_and_development", "text": "Therapeutic radiographers maintain skills through Continuing Professional Development (CPD) including training courses, conferences, and seminars provided by the Society of Radiographers (SoR)." },
+    { "chunk_id": "therapeutic-radiographer-009", "section": "career_progression", "text": "Therapeutic radiographers can specialise in breast treatment, specific cancer types, or particular patient groups. Progression roles include specialist, advanced, and consultant radiographer with independent prescribing rights, head of radiography service, and roles in management, research, teaching, or counselling for cancer patients." },
+    { "chunk_id": "therapeutic-radiographer-010", "section": "professional_bodies", "text": "Therapeutic radiographers must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the Society of Radiographers (SoR)." }
+  ]
+}

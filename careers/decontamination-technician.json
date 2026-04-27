@@ -1,0 +1,54 @@
+{
+  "id": "decontamination-technician",
+  "title": "Decontamination Technician",
+  "sector": "Healthcare Science",
+  "sub_sector": "Engineering Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/engineering-sciences/decontamination-technician/",
+  "how_to_become": "To become a decontamination technician in the NHS, you must complete a work-based training programme. You can apply for trainee opportunities on the NHS recruitment website.",
+  "description": "Decontamination technicians work in teams that decontaminate reusable medical devices to ensure they are returned to users in a sterile condition for reuse on patients. Devices come from theatres, wards, and clinics.",
+  "role_overview": "As a decontamination technician, you'll provide a safe and efficient decontamination service to all specialties including orthopaedics, general surgery, ear nose and throat (ENT), ophthalmic, gynaecology, and urology. The training programme is designed to make you multiskilled across all work areas of the unit.",
+  "specialties_served": [
+    "Orthopaedics",
+    "General surgery",
+    "Ear, nose and throat (ENT)",
+    "Ophthalmic",
+    "Gynaecology",
+    "Urology"
+  ],
+  "entry_requirements": {
+    "overview": "A good standard of education is required. No specific prior qualifications are needed beyond the work-based training programme.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Science"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_scheme": "Institute of Decontamination Sciences (IDSc) training programme, equivalent to SCQF level 6, delivered in the workplace.",
+    "duration": "1 year.",
+    "structure": "Trainees are mentored and supported by colleagues and a supervisory team throughout the programme, gaining skills to decontaminate medical devices for all specialities across every work area of the unit.",
+    "qualification_awarded": "IDSc Technical Certificate exam on completion of the programme."
+  },
+  "learning_and_development": {
+    "overview": "With training and experience, decontamination technicians can progress to supervisory roles, training and managing other decontamination technicians."
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Supervisor of decontamination technicians"
+    ]
+  },
+  "professional_bodies": [
+    "Institute of Decontamination Sciences (IDSc)"
+  ],
+  "chunks": [
+    { "chunk_id": "decontamination-technician-001", "section": "how_to_become", "text": "To become a decontamination technician in the NHS, complete a work-based training programme. Trainee opportunities are advertised on the NHS recruitment website." },
+    { "chunk_id": "decontamination-technician-002", "section": "description", "text": "Decontamination technicians work in teams that decontaminate reusable medical devices from theatres, wards, and clinics, ensuring they are returned to users in a sterile condition for reuse on patients." },
+    { "chunk_id": "decontamination-technician-003", "section": "role_overview", "text": "Decontamination technicians provide safe and efficient decontamination services to all specialties including orthopaedics, general surgery, ENT, ophthalmic, gynaecology, and urology. Training makes technicians multiskilled across all work areas of the unit." },
+    { "chunk_id": "decontamination-technician-004", "section": "entry_requirements", "text": "A good standard of education is required. Useful school subjects include English, Maths, and Science. No specific prior qualifications are needed beyond completing the work-based training programme." },
+    { "chunk_id": "decontamination-technician-005", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "decontamination-technician-006", "section": "education_and_training", "text": "The IDSc training programme is delivered in the workplace over 1 year, equivalent to SCQF level 6. Trainees are mentored and supported throughout, gaining skills to decontaminate medical devices for all specialities. Completion leads to the IDSc Technical Certificate exam." },
+    { "chunk_id": "decontamination-technician-007", "section": "career_progression", "text": "With training and experience, decontamination technicians can progress to supervisor roles, training and managing other decontamination technicians." },
+    { "chunk_id": "decontamination-technician-008", "section": "professional_bodies", "text": "Decontamination technicians can register with the Institute of Decontamination Sciences (IDSc)." }
+  ]
+}

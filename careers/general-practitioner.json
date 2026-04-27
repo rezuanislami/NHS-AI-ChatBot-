@@ -1,0 +1,37 @@
+{
+  "id": "general-practitioner",
+  "title": "General Practitioner (GP)",
+  "sector": "Medicine",
+  "source_url": "https://www.careers.nhs.scot/work-with-us/my-gp-career/",
+  "description": "A career in General Practice in Scotland is varied, flexible, and fulfilling. GPs are expert medical generalists who form a vital part of their local community. The 2018 Scottish GP Contract has redesigned General Practice to provide more sustainable and rewarding careers, reducing workload pressures and business risks.",
+  "role_overview": "GPs work alongside a wider multidisciplinary team including pharmacists, physiotherapists, and mental health nurses. Their role focuses on expert diagnosis and managing complex care. Career options include salaried, partner, and portfolio roles combining clinical work with research or teaching.",
+  "key_features": [
+    "Collaborative, team-based approach supporting expert medical generalist work.",
+    "Reduced business risk — the 2018 Scottish GP Contract boosts financial stability and cuts administrative burdens.",
+    "Greater flexibility — salaried, partner, and portfolio roles available.",
+    "Multidisciplinary team support from pharmacists, physiotherapists, and mental health nurses."
+  ],
+  "career_options": [
+    "Salaried GP",
+    "Partner GP",
+    "Portfolio GP (combining clinical work with research or teaching)"
+  ],
+  "learning_and_development": {
+    "overview": "Support is available at every career stage, from medical school to leading your own practice. Health and wellbeing support and confidential resources are available throughout your career.",
+    "support_resources": [
+      "Royal College of General Practitioners",
+      "My GP Career resources on the NHS Scotland website"
+    ]
+  },
+  "professional_bodies": [
+    "General Medical Council (GMC) — mandatory registration",
+    "Royal College of General Practitioners (RCGP)"
+  ],
+  "chunks": [
+    { "chunk_id": "general-practitioner-001", "section": "description", "text": "A career in General Practice in Scotland offers a varied, flexible, and fulfilling role as an expert medical generalist and vital part of the local community. The 2018 Scottish GP Contract redesigned the role to reduce workload pressures and business risk." },
+    { "chunk_id": "general-practitioner-002", "section": "role_overview", "text": "GPs work alongside multidisciplinary teams including pharmacists, physiotherapists, and mental health nurses, focusing on expert diagnosis and managing complex care. Career options include salaried, partner, and portfolio roles." },
+    { "chunk_id": "general-practitioner-003", "section": "key_features", "text": "General Practice in Scotland features a collaborative team-based approach, reduced business risk under the 2018 Scottish GP Contract, greater flexibility with salaried and portfolio roles, and a supportive multidisciplinary clinical network." },
+    { "chunk_id": "general-practitioner-004", "section": "career_options", "text": "GPs in Scotland can work as a salaried GP, partner GP, or portfolio GP combining clinical work with research or teaching." },
+    { "chunk_id": "general-practitioner-005", "section": "professional_bodies", "text": "GPs must be registered with the General Medical Council (GMC). They can also join the Royal College of General Practitioners (RCGP)." }
+  ]
+}

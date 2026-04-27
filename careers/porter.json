@@ -1,0 +1,43 @@
+{
+  "id": "porter",
+  "title": "Porter",
+  "sector": "Support Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/support-services/porter/",
+  "published": "12/06/2023",
+  "last_updated": "21/06/2024",
+  "how_to_become": "Apply for vacancies on the NHS recruitment website.",
+  "description": "Porters work in portering services teams, helping ensure that equipment, materials, mail, biological samples, and medications are in the right place at the right time. They also transport patients between hospital wards and departments safely, with care and dignity.",
+  "role_overview": "As a porter, you'll carry out a wide range of general tasks to ensure a high level of service is provided at all times.",
+  "entry_requirements": {
+    "overview": "A good standard of education and some customer service and healthcare experience including manual handling skills are useful.",
+    "useful_subjects": ["English", "Maths", "Administration and IT"],
+    "college_courses": [
+      "SVQ Customer Service at SCQF level 4",
+      "SVQ Hospitality Services at SCQF level 4",
+      "SVQ Facilities Services at SCQF level 5"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "learning_and_development": {
+    "role_specific_training": [
+      "Porter Workbook",
+      "Health and safety training",
+      "Risk management training",
+      "ADR Awareness training"
+    ]
+  },
+  "career_progression": {
+    "qualifications": [
+      "Medical Gas Certificate",
+      "SVQ Healthcare Support (non-clinical) at SCQF level 6",
+      "HNC Facilities Management at SCQF level 7"
+    ],
+    "progression_roles": ["Portering supervisor", "Support services manager"]
+  },
+  "chunks": [
+    { "chunk_id": "porter-001", "section": "how_to_become", "text": "To become a porter in the NHS, apply for vacancies on the NHS recruitment website." },
+    { "chunk_id": "porter-002", "section": "description", "text": "NHS porters ensure equipment, materials, mail, biological samples, and medications are in the right place at the right time, and transport patients between wards and departments safely with care and dignity." },
+    { "chunk_id": "porter-003", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, and Administration and IT. College options include SVQ Customer Service, SVQ Hospitality Services at SCQF level 4, and SVQ Facilities Services at SCQF level 5. Customer service and manual handling experience are useful." },
+    { "chunk_id": "porter-004", "section": "career_progression", "text": "With qualifications such as Medical Gas Certificate, SVQ Healthcare Support (non-clinical), and HNC Facilities Management, porters can progress to portering supervisor or support services manager." }
+  ]
+}

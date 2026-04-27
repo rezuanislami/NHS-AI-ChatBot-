@@ -1,0 +1,57 @@
+{
+  "id": "respiratory-scientist",
+  "title": "Respiratory Scientist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physiological Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physiological-sciences/respiratory-scientist/",
+  "how_to_become": "Apply for trainee opportunities on the NHS recruitment website, or complete an undergraduate degree at university.",
+  "description": "Respiratory scientists diagnose and treat patients with lung disease and breathing difficulties including asthma and cystic fibrosis. Patients may be referred from cardiology, thoracic surgery, or clinical oncology to assess their fitness for surgery or treatment.",
+  "role_overview": "As a respiratory physiology practitioner, you'll carry out diagnostic tests to identify and treat lung disease and breathing problems. You'll coach and encourage patients to use different breathing techniques during testing, and produce reports to help other healthcare professionals make a diagnosis or assess a patient's response to treatment.",
+  "conditions_treated": [
+    "Asthma",
+    "Fibrosis",
+    "Emphysema",
+    "Respiratory muscle disease",
+    "Pulmonary vascular disorders",
+    "Obstructive sleep apnoea"
+  ],
+  "entry_requirements": {
+    "useful_subjects": [
+      "Chemistry",
+      "English",
+      "Biology",
+      "Maths",
+      "Physics"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "undergraduate_route": "Clinical physiology undergraduate training programme — employed by an NHSScotland Health Board while completing an undergraduate honours degree at SCQF level 10, with departmental training.",
+    "alternative_route": "Some health boards offer alternative 2-year work-based training programmes for those with an undergraduate honours degree in a related science subject at SCQF level 10.",
+    "registration": "On completion, register as a healthcare science practitioner with the AHCS."
+  },
+  "learning_and_development": {
+    "overview": "Ongoing requirements for education and skills development after registration."
+  },
+  "career_progression": {
+    "overview": "With training and experience, respiratory scientists can move into specialist, supervisory, or management roles.",
+    "progression_roles": [
+      "Specialist respiratory physiologist",
+      "Respiratory physiology service manager",
+      "Clinical scientist in respiratory physiology (via equivalence recognition)"
+    ]
+  },
+  "professional_bodies": [
+    "Academy for Healthcare Science (AHCS)"
+  ],
+  "chunks": [
+    { "chunk_id": "respiratory-scientist-001", "section": "how_to_become", "text": "To become a respiratory scientist in the NHS, apply for trainee opportunities on the recruitment website or complete an undergraduate degree at university." },
+    { "chunk_id": "respiratory-scientist-002", "section": "description", "text": "Respiratory scientists diagnose and treat patients with lung disease and breathing difficulties including asthma and cystic fibrosis. Patients may be referred from cardiology, thoracic surgery, or clinical oncology." },
+    { "chunk_id": "respiratory-scientist-003", "section": "role_overview", "text": "Respiratory physiology practitioners carry out diagnostic tests for lung disease and breathing problems, coaching patients through breathing techniques and producing reports to help diagnose conditions or assess treatment response." },
+    { "chunk_id": "respiratory-scientist-004", "section": "conditions_treated", "text": "Respiratory scientists diagnose and treat asthma, fibrosis, emphysema, respiratory muscle disease, pulmonary vascular disorders, and obstructive sleep apnoea." },
+    { "chunk_id": "respiratory-scientist-005", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, English, Biology, Maths, and Physics." },
+    { "chunk_id": "respiratory-scientist-006", "section": "education_and_training", "text": "Routes include the clinical physiology undergraduate training programme (employed by NHS Health Board while completing an undergraduate degree at SCQF level 10) or an alternative 2-year work-based training programme for those with a relevant degree." },
+    { "chunk_id": "respiratory-scientist-007", "section": "career_progression", "text": "Respiratory scientists can progress to specialist, supervisory, and management roles including respiratory physiology service manager. Equivalence recognition allows progression to clinical scientist in respiratory physiology." },
+    { "chunk_id": "respiratory-scientist-008", "section": "professional_bodies", "text": "Respiratory scientists can register as a healthcare science practitioner with the Academy for Healthcare Science (AHCS)." }
+  ]
+}

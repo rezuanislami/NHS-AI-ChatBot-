@@ -1,0 +1,67 @@
+{
+  "id": "reconstructive-scientist",
+  "title": "Reconstructive Scientist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physical and Imaging Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physical-and-imaging-sciences/reconstructive-scientist/",
+  "how_to_become": "To become a reconstructive scientist in the NHS, complete a postgraduate-level work-based training programme via the NHS Scientist Training Programme (STP).",
+  "description": "Reconstructive scientists, also known as maxillofacial prosthetists, are registered clinical scientists who specialise in prosthetic reconstruction for patients needing corrective treatment for congenital abnormalities, deformities following cancer treatment, and burns or traumatic injuries.",
+  "role_overview": "As a reconstructive scientist, you'll design, construct, and apply bespoke medical devices for patients needing constructive treatment, often working on the face, jaw, and skull. Devices are monitored over time to ensure they continue to meet patients' needs.",
+  "devices_created": [
+    "Realistic silicone or acrylic prostheses",
+    "Therapeutic splints",
+    "Titanium skull and jaw plates"
+  ],
+  "conditions_treated": [
+    "Congenital abnormalities",
+    "Deformities following cancer treatment",
+    "Burns and other traumatic injuries"
+  ],
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree in Dental Technology at SCQF level 10 accredited by the General Dental Council (GDC) is required, along with experience as a GDC-registered dental technician. Alternatively, a master's in Dental Technology or a relevant postgraduate science degree with a GDC-accredited dental technology qualification.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Biology",
+      "Physics",
+      "Design and Technology",
+      "Art",
+      "Engineering"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "NHS Scientist Training Programme (STP) — 3-year work-based programme supported by a university-accredited master's degree at SCQF level 11, part-funded by the National School of Healthcare Science.",
+    "entry_requirements_detail": "Undergraduate honours degree in Dental Technology at SCQF level 10 accredited by the GDC, and experience as a GDC-registered dental technician. Alternatively, a master's in Dental Technology or relevant postgraduate science degree with a GDC-accredited qualification.",
+    "registration": "On completion, register with the HCPC as a clinical scientist. Registration with the GDC is also required."
+  },
+  "learning_and_development": {
+    "overview": "Reconstructive scientists must undertake CPD to keep knowledge and skills up to date and maintain HCPC registration."
+  },
+  "career_progression": {
+    "overview": "Reconstructive scientists are often at the forefront of advances in science and technology, with opportunities in research, management, and teaching.",
+    "progression_roles": [
+      "Senior reconstructive scientist",
+      "Management roles",
+      "Teaching roles",
+      "Researcher in prosthetic technology"
+    ]
+  },
+  "professional_bodies": [
+    "General Dental Council (GDC) — mandatory registration",
+    "Health and Care Professions Council (HCPC) — mandatory registration",
+    "Institute of Maxillofacial Prosthetists and Technologists (IMPT)",
+    "Academy for Healthcare Science (AHCS)"
+  ],
+  "chunks": [
+    { "chunk_id": "reconstructive-scientist-001", "section": "how_to_become", "text": "To become a reconstructive scientist in the NHS, complete the 3-year NHS Scientist Training Programme (STP), a work-based programme supported by a master's degree at SCQF level 11." },
+    { "chunk_id": "reconstructive-scientist-002", "section": "description", "text": "Reconstructive scientists, also known as maxillofacial prosthetists, design, construct, and fit bespoke prostheses and devices for patients with congenital abnormalities, deformities from cancer treatment, and burns or traumatic injuries." },
+    { "chunk_id": "reconstructive-scientist-003", "section": "role_overview", "text": "Reconstructive scientists design, construct, and apply devices including silicone or acrylic prostheses, therapeutic splints, and titanium plates for the skull and jaw. They often work on the face, jaw, and skull, monitoring devices over time." },
+    { "chunk_id": "reconstructive-scientist-004", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Biology, Physics, Design and Technology, Art, and Engineering. A GDC-accredited undergraduate honours degree in Dental Technology at SCQF level 10 and experience as a GDC-registered dental technician are required. Alternatively, a master's in Dental Technology or relevant postgraduate science degree with a GDC-accredited qualification." },
+    { "chunk_id": "reconstructive-scientist-005", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland." },
+    { "chunk_id": "reconstructive-scientist-006", "section": "education_and_training", "text": "The NHS STP is a 3-year work-based programme supported by a university-accredited master's degree at SCQF level 11, part-funded by the National School of Healthcare Science. On completion, registration with both the GDC and HCPC as a clinical scientist is required." },
+    { "chunk_id": "reconstructive-scientist-007", "section": "learning_and_development", "text": "Reconstructive scientists must maintain CPD and HCPC registration throughout their career." },
+    { "chunk_id": "reconstructive-scientist-008", "section": "career_progression", "text": "Reconstructive scientists can progress to senior roles, management, teaching, or research in prosthetic technology innovations." },
+    { "chunk_id": "reconstructive-scientist-009", "section": "professional_bodies", "text": "Reconstructive scientists must register with both the GDC and HCPC. They can also join the Institute of Maxillofacial Prosthetists and Technologists (IMPT) and the Academy for Healthcare Science (AHCS)." }
+  ]
+}

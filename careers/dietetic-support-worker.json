@@ -1,0 +1,43 @@
+{
+  "id": "dietetic-support-worker",
+  "title": "Dietetic Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/dietetic-support-worker/",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship.",
+  "description": "Dietetic support workers have a vital role in helping dietitians assess, diagnose, treat, and care for patients with dietary problems or nutritional needs. They also promote healthy lifestyle behaviours by delivering initiatives to individuals and groups to help them make positive changes to their diet and nutrition.",
+  "role_overview": "Dietetic support workers help dietitians assess, diagnose, and treat patients and review nutritional care plans. They provide advice on good nutrition and hydration practices, using feeding tubes and pumps, and making food choices from hospital menus.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. There are no specific entry requirements.",
+    "useful_subjects": [
+      "Science",
+      "English",
+      "Health and Food Technology",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Healthcare Support Modern Apprenticeship with clinical pathway units for dietetics. All apprentices study communication, health and safety, and learning development as mandatory units.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "additional_qualifications": [
+      "SVQ Healthcare Support (Clinical) at SCQF level 7",
+      "HNC Food Science and Technology at SCQF level 7"
+    ]
+  },
+  "career_progression": {
+    "overview": "Experience as a healthcare support worker can support entry to university to become a registered dietitian.",
+    "progression_roles": [
+      "Registered dietitian (via undergraduate degree)"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "dietetic-support-worker-001", "section": "how_to_become", "text": "To become a dietetic support worker, apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship in Healthcare Support." },
+    { "chunk_id": "dietetic-support-worker-002", "section": "description", "text": "Dietetic support workers help dietitians assess, diagnose, treat, and care for patients with dietary problems or nutritional needs, and promote healthy lifestyle behaviours through diet and nutrition initiatives." },
+    { "chunk_id": "dietetic-support-worker-003", "section": "role_overview", "text": "Dietetic support workers assist dietitians in reviewing nutritional care plans and advise patients on nutrition and hydration, using feeding tubes and pumps, and making food choices from hospital menus." },
+    { "chunk_id": "dietetic-support-worker-004", "section": "entry_requirements", "text": "No specific entry requirements. Useful school subjects include Science, English, Health and Food Technology, and Maths." },
+    { "chunk_id": "dietetic-support-worker-005", "section": "learning_and_development", "text": "Additional qualifications include SVQ Healthcare Support (Clinical) at SCQF level 7 and HNC Food Science and Technology at SCQF level 7. Mandatory Induction Standards must be completed within 3 to 6 months of employment." },
+    { "chunk_id": "dietetic-support-worker-006", "section": "career_progression", "text": "Experience as a dietetic support worker can support entry to university to study to become a registered dietitian." }
+  ]
+}

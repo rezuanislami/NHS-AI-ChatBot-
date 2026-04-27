@@ -1,0 +1,90 @@
+{
+  "id": "dramatherapist",
+  "title": "Dramatherapist",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/dramatherapist/",
+  "how_to_become": "You'll need a postgraduate-level degree in Dramatherapy to become a dramatherapist. You'll then register with the Health and Care Professions Council (HCPC) to work in the NHS.",
+  "salary": {
+    "entry": "£43,321",
+    "entry_note": "Dramatherapists in the NHS start at £43,321 before tax.",
+    "experienced": "£61,466",
+    "experienced_note": "Specialist dramatherapists in the NHS can earn up to £61,466 before tax."
+  },
+  "description": "Dramatherapists help people of all ages explore and manage personal, emotional, and social issues using storytelling, play, movement, puppetry, and improvisation.",
+  "role_overview": "As a dramatherapist, you'll support people with emotional, behavioural, or mental health problems, learning or physical disabilities, neurological conditions, and physical illnesses. You'll work with individuals and groups.",
+  "entry_requirements": {
+    "overview": "A postgraduate degree in Dramatherapy approved by the HCPC is required. Entry requirements include a UK honours degree in a related subject such as Drama or Theatre Arts.",
+    "useful_subjects": [
+      "Drama",
+      "Psychology",
+      "Care",
+      "Dance",
+      "Human Biology",
+      "Maths",
+      "English"
+    ],
+    "useful_undergraduate_degrees": [
+      "Psychology",
+      "Theatre Studies",
+      "Occupational Therapy",
+      "Social Work",
+      "Nursing"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "postgraduate_universities": [
+      "Queen Margaret University",
+      "Anglia Ruskin University",
+      "University of Derby",
+      "University of Roehampton"
+    ],
+    "note": "After graduation, you must register with the HCPC before applying for NHS vacancies."
+  },
+  "learning_and_development": {
+    "overview": "Dramatherapists must keep skills and knowledge up to date through Continuing Professional Development (CPD).",
+    "cpd_provider": "British Association of Dramatherapists (BADth)",
+    "cpd_activities": [
+      "Courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "specialisms": [
+      "Children and young people",
+      "Adults",
+      "Offenders",
+      "People receiving palliative care",
+      "People with dementia",
+      "People with mental health problems"
+    ],
+    "progression_roles": [
+      "Senior dramatherapist",
+      "Consultant dramatherapist",
+      "Head of arts therapy department"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "British Association of Dramatherapists (BADth)"
+  ],
+  "related_careers": [
+    "Art therapist",
+    "Music therapist",
+    "Occupational therapist"
+  ],
+  "chunks": [
+    { "chunk_id": "dramatherapist-001", "section": "how_to_become", "text": "To become a dramatherapist in the NHS, you'll need a postgraduate degree in Dramatherapy approved by the HCPC, followed by HCPC registration." },
+    { "chunk_id": "dramatherapist-002", "section": "salary", "text": "Dramatherapists in the NHS start at £43,321 before tax. Specialist dramatherapists can earn up to £61,466 before tax." },
+    { "chunk_id": "dramatherapist-003", "section": "description", "text": "Dramatherapists help people of all ages explore and manage personal, emotional, and social issues using storytelling, play, movement, puppetry, and improvisation." },
+    { "chunk_id": "dramatherapist-004", "section": "role_overview", "text": "Dramatherapists support people with emotional, behavioural, or mental health problems, learning or physical disabilities, neurological conditions, and physical illnesses, working with individuals and groups." },
+    { "chunk_id": "dramatherapist-005", "section": "entry_requirements", "text": "A postgraduate degree in Dramatherapy approved by the HCPC is required, with entry requirements including a UK honours degree in Drama or Theatre Arts. Useful undergraduate subjects include Psychology, Theatre Studies, Occupational Therapy, Social Work, and Nursing. Useful school subjects include Drama, Psychology, Care, Dance, Human Biology, Maths, and English." },
+    { "chunk_id": "dramatherapist-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "dramatherapist-007", "section": "education_and_training", "text": "Postgraduate programmes in Dramatherapy are offered at Queen Margaret University, Anglia Ruskin University, University of Derby, and University of Roehampton. After graduation, HCPC registration is required before applying for NHS vacancies. SWAP supports adult learners into higher education." },
+    { "chunk_id": "dramatherapist-008", "section": "learning_and_development", "text": "Dramatherapists maintain skills through Continuing Professional Development (CPD) including courses, conferences, and seminars provided by the British Association of Dramatherapists (BADth)." },
+    { "chunk_id": "dramatherapist-009", "section": "career_progression", "text": "Dramatherapists can specialise in working with children, adults, offenders, or people with dementia, mental health problems, or those receiving palliative care. Progression roles include senior dramatherapist, consultant dramatherapist, and head of arts therapy department." },
+    { "chunk_id": "dramatherapist-010", "section": "professional_bodies", "text": "Dramatherapists must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the British Association of Dramatherapists (BADth)." }
+  ]
+}

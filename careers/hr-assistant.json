@@ -1,0 +1,84 @@
+{
+  "id": "hr-assistant",
+  "title": "HR Assistant",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/hr-assistant/",
+  "how_to_become": "To become a human resources (HR) administration assistant in the NHS, you can apply for vacancies on the NHS recruitment website. You could also do a Modern Apprenticeship.",
+  "salary": {
+    "entry": "£25,694",
+    "entry_note": "HR assistants in the NHS start at £25,694 before tax.",
+    "experienced": "£33,016",
+    "experienced_note": "Senior HR assistants in the NHS can earn up to £33,016 before tax."
+  },
+  "description": "HR administrative assistants provide comprehensive administration support to the wider HR team.",
+  "key_responsibilities": [
+    "Produce reports to support business processes and objectives.",
+    "Make sure payroll information is accurately recorded.",
+    "Process documentation such as leave forms and sickness records.",
+    "Process changes to terms and conditions of employment.",
+    "Issue forms to staff to provide process guidance and support to employees.",
+    "Signpost employees to employment policies.",
+    "Help to resolve HR-related queries and escalate to colleagues as necessary."
+  ],
+  "role_overview": "As an HR administrative assistant, you'll need to be detail-orientated and an effective communicator. You'll collaborate with colleagues in your own team and throughout the organisation.",
+  "entry_requirements": {
+    "overview": "Some experience in providing support in an HR environment is needed, along with a related qualification.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Business Management",
+      "Administration and IT"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "college_courses": [
+      "SVQ Business and Administration at SCQF level 6",
+      "HNC Human Resource Management at SCQF level 7"
+    ],
+    "modern_apprenticeships": [
+      "Business and Administration"
+    ],
+    "note": "Other relevant qualifications at SCQF level 7 may also be accepted."
+  },
+  "learning_and_development": {
+    "overview": "You'll be encouraged to develop your career in the NHS. As well as learning specific to your role, you'll need to complete mandatory training.",
+    "mandatory_training": [
+      "Health and safety",
+      "Occupational health",
+      "Fire safety",
+      "Counter-fraud",
+      "Moving and handling",
+      "Safe information handling",
+      "Information governance"
+    ],
+    "note": "Your NHS employer will confirm their mandatory training requirements during your induction."
+  },
+  "career_progression": {
+    "overview": "Through training and earning new qualifications, you'd be eligible to apply for more senior roles. You could also access professional qualifications or undergraduate degree programmes.",
+    "qualifications": [
+      "Level 3 Foundation Certificate in People Practice at SCQF level 6",
+      "HNC Human Resource Management at SCQF level 7"
+    ],
+    "progression_roles": [
+      "Senior HR assistant",
+      "HR officer"
+    ]
+  },
+  "professional_bodies": [
+    "Chartered Institute of Personnel and Development (CIPD)"
+  ],
+  "chunks": [
+    { "chunk_id": "hr-assistant-001", "section": "how_to_become", "text": "To become an HR administration assistant in the NHS, you can apply for vacancies on the NHS recruitment website or do a Modern Apprenticeship." },
+    { "chunk_id": "hr-assistant-002", "section": "salary", "text": "HR assistants in the NHS start at £25,694 before tax at entry level. Senior HR assistants can earn up to £33,016 before tax." },
+    { "chunk_id": "hr-assistant-003", "section": "description", "text": "HR administrative assistants provide comprehensive administration support to the wider HR team, including processing documentation, payroll, employment changes, and resolving HR-related queries." },
+    { "chunk_id": "hr-assistant-004", "section": "key_responsibilities", "text": "HR assistants produce reports, accurately record payroll information, process leave forms and sickness records, handle changes to terms and conditions of employment, issue guidance forms to staff, signpost employees to employment policies, and help resolve HR-related queries." },
+    { "chunk_id": "hr-assistant-005", "section": "role_overview", "text": "As an HR administrative assistant, you'll need to be detail-orientated and an effective communicator, collaborating with colleagues across your own team and throughout the organisation." },
+    { "chunk_id": "hr-assistant-006", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Business Management, and Administration and IT. Some experience in providing support in an HR environment is also needed." },
+    { "chunk_id": "hr-assistant-007", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "hr-assistant-008", "section": "education_and_training", "text": "College qualifications include SVQ Business and Administration at SCQF level 6 and HNC Human Resource Management at SCQF level 7. A Modern Apprenticeship in Business and Administration is also available. Other relevant qualifications at SCQF level 7 may be accepted." },
+    { "chunk_id": "hr-assistant-009", "section": "learning_and_development", "text": "Mandatory training for NHS HR assistants includes health and safety, occupational health, fire safety, counter-fraud, moving and handling, safe information handling, and information governance. Requirements are confirmed during induction." },
+    { "chunk_id": "hr-assistant-010", "section": "career_progression", "text": "HR assistants can progress to more senior roles by gaining qualifications such as the Level 3 Foundation Certificate in People Practice at SCQF level 6 and HNC Human Resource Management at SCQF level 7. Professional qualifications and undergraduate degree programmes are also accessible." },
+    { "chunk_id": "hr-assistant-011", "section": "professional_bodies", "text": "HR administrative assistants can become a member of the Chartered Institute of Personnel and Development (CIPD), a professional body for HR and people development offering qualifications and community support." }
+  ]
+}

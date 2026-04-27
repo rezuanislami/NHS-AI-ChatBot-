@@ -1,0 +1,49 @@
+{
+  "id": "podiatry-support-worker",
+  "title": "Podiatry Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/podiatry-support-worker/",
+  "how_to_become": "Do a Modern Apprenticeship or apply for a vacancy on the NHS recruitment website.",
+  "description": "Podiatry support workers work with podiatrists to treat common problems, assist with minor surgeries, and give advice to patients for good foot and nail health.",
+  "role_overview": "As a podiatry support worker, you'll give clinical support to the podiatrist, prepare patients for treatment, and carry out simple foot and nail treatments following the podiatrist's assessment and treatment plan. You'll care for people of all ages with conditions including arthritic conditions, skin conditions, diabetes, heart and blood disorders, nervous system disorders, and sports injuries.",
+  "conditions_treated": [
+    "Arthritic conditions",
+    "Skin conditions",
+    "Diabetes",
+    "Heart and blood disorders",
+    "Disorders of the nervous system",
+    "Sports injuries to the foot and lower limb"
+  ],
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. There are no specific entry requirements.",
+    "useful_subjects": [
+      "Science",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Healthcare Support Modern Apprenticeship with clinical pathway units for podiatry. Mandatory units include communication, health and safety, and learning development.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "additional_qualifications": [
+      "SVQ Healthcare Support (Clinical) at SCQF level 7"
+    ]
+  },
+  "career_progression": {
+    "overview": "Experience as a healthcare support worker can support entry to university to become a registered podiatrist.",
+    "progression_roles": [
+      "Registered podiatrist (via undergraduate degree)"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "podiatry-support-worker-001", "section": "how_to_become", "text": "To become a podiatry support worker, do a Modern Apprenticeship in Healthcare Support or apply for a vacancy on the NHS recruitment website." },
+    { "chunk_id": "podiatry-support-worker-002", "section": "description", "text": "Podiatry support workers work with podiatrists to treat common foot problems, assist with minor surgeries, and advise patients on good foot and nail health." },
+    { "chunk_id": "podiatry-support-worker-003", "section": "role_overview", "text": "Podiatry support workers provide clinical support to podiatrists, prepare patients for treatment, and carry out simple foot and nail treatments for people of all ages with conditions including diabetes, arthritis, skin conditions, and sports injuries." },
+    { "chunk_id": "podiatry-support-worker-004", "section": "entry_requirements", "text": "No specific entry requirements. Useful school subjects include Science, English, and Maths." },
+    { "chunk_id": "podiatry-support-worker-005", "section": "learning_and_development", "text": "Additional qualifications include SVQ Healthcare Support (Clinical) at SCQF level 7. Mandatory Induction Standards must be completed within 3 to 6 months of employment." },
+    { "chunk_id": "podiatry-support-worker-006", "section": "career_progression", "text": "Experience as a podiatry support worker can support entry to university to become a registered podiatrist." }
+  ]
+}

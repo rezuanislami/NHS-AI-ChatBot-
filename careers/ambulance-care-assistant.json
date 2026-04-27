@@ -1,0 +1,65 @@
+{
+  "id": "ambulance-care-assistant",
+  "title": "Ambulance Care Assistant",
+  "sector": "Ambulance Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/ambulance-services/ambulance-care-assistant/",
+  "how_to_become": "Apply for vacancies on the NHS recruitment website to become an ambulance care assistant. There are no specific entry requirements, but the Scottish Ambulance Service will expect a good standard of education. A full UK driving licence including category D1 is required.",
+  "salary": {
+    "entry": "£29,103",
+    "entry_note": "Ambulance care assistants start at £29,103 before tax. Trainees are paid £21,827, increasing to £29,103 on completion of the training programme.",
+    "experienced": "£31,409",
+    "experienced_note": "Ambulance care assistants can earn up to £31,409 before tax."
+  },
+  "description": "Ambulance care assistants provide a non-emergency transport service, taking elderly, sick, and disabled people to and from hospital appointments where medical or clinical support is needed during the journey.",
+  "role_overview": "Working in the ambulance transport team, you'll provide high-quality care and safe transportation for non-emergency patients, driving patients from home to hospital for clinical appointments or between hospitals when a different level of care is needed. You'll also provide additional support during major incidents or large public events.",
+  "entry_requirements": {
+    "overview": "No specific entry requirements, but a good standard of education and a full UK driving licence including category D1 are required.",
+    "useful_subjects": [
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "An internal education programme lasting approximately 4 months. From the start date, trainees are employees of the Scottish Ambulance Service and enrolled in a 4-week clinical programme.",
+    "training_includes": [
+      "Classroom training",
+      "Advanced safe driving",
+      "Moving and handling",
+      "First aid",
+      "Using automated defibrillators",
+      "Managing conflict and difficult situations",
+      "Patient care",
+      "Patient care for priority groups such as cancer, cardiology, and mental health patients",
+      "Health and safety"
+    ],
+    "qualification_awarded": "Certificate for Ambulance Patient Care: Non-Urgent Care Services"
+  },
+  "learning_and_development": {
+    "overview": "During your career, you must keep your skills and knowledge up to date. The Scottish Ambulance Service will provide training specific to your role."
+  },
+  "career_progression": {
+    "overview": "With experience and training, you could move into more senior or emergency roles.",
+    "progression_roles": [
+      "Team leader",
+      "Supervisor",
+      "Patient transport services controller",
+      "Ambulance technician"
+    ]
+  },
+  "related_careers": [
+    "Paramedic",
+    "Ambulance technician",
+    "Emergency call handler"
+  ],
+  "chunks": [
+    { "chunk_id": "ambulance-care-assistant-001", "section": "how_to_become", "text": "To become an ambulance care assistant, apply for vacancies on the NHS recruitment website. No specific entry qualifications are required, but a good standard of education and a full UK driving licence including category D1 are needed." },
+    { "chunk_id": "ambulance-care-assistant-002", "section": "salary", "text": "Ambulance care assistants start at £29,103 before tax. Trainees are paid £21,827, increasing to £29,103 on completion of the training programme. Experienced ambulance care assistants can earn up to £31,409 before tax." },
+    { "chunk_id": "ambulance-care-assistant-003", "section": "description", "text": "Ambulance care assistants provide a non-emergency transport service, taking elderly, sick, and disabled people to and from hospital appointments where medical or clinical support is needed during the journey." },
+    { "chunk_id": "ambulance-care-assistant-004", "section": "role_overview", "text": "Ambulance care assistants provide high-quality care and safe transportation for non-emergency patients, driving them from home to hospital or between hospitals. They also provide additional support during major incidents or large public events." },
+    { "chunk_id": "ambulance-care-assistant-005", "section": "entry_requirements", "text": "No specific entry requirements are needed, but a good standard of education including English and Maths, and a full UK driving licence including category D1 are required." },
+    { "chunk_id": "ambulance-care-assistant-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland." },
+    { "chunk_id": "ambulance-care-assistant-007", "section": "education_and_training", "text": "Training is delivered through a 4-month internal Scottish Ambulance Service programme including classroom training, advanced safe driving, first aid, moving and handling, using automated defibrillators, patient care, and managing conflict. Trainees receive a Certificate for Ambulance Patient Care: Non-Urgent Care Services on completion." },
+    { "chunk_id": "ambulance-care-assistant-008", "section": "career_progression", "text": "With experience and training, ambulance care assistants can progress to team leader, supervisor, patient transport services controller, or apply for accident and emergency roles such as ambulance technician." }
+  ]
+}

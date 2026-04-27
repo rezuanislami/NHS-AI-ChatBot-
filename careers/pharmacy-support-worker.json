@@ -1,0 +1,44 @@
+{
+  "id": "pharmacy-support-worker",
+  "title": "Pharmacy Support Worker",
+  "sector": "Pharmacy",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/pharmacy/pharmacy-support-worker/",
+  "how_to_become": "Apply directly for pharmacy support worker jobs in community pharmacies or NHS Scotland Health Boards. All training is provided on the job.",
+  "salary": {
+    "entry": "£25,694",
+    "entry_note": "Pharmacy support workers in the NHS start at £25,694 before tax.",
+    "experienced": "£33,016",
+    "experienced_note": "Higher-level pharmacy support workers can earn up to £33,016 before tax."
+  },
+  "description": "Pharmacy support workers, also known as pharmacy assistants or dispensing assistants, prepare, label, and dispense medicines safely under the supervision of a pharmacist or pharmacy technician. They manage stock, answer queries, and in hospitals deliver medicines to wards and check expiry dates.",
+  "role_overview": "As a pharmacy support worker, you'll use stock control and dispensing systems to manage supplies and update records. You'll carry out administrative tasks and act as a first point of contact for many queries.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. All training is provided on the job.",
+    "useful_subjects": [
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Getting healthcare experience through a work placement or volunteering can help your application.",
+  "education_and_training": {
+    "on_the_job_training": "Mandatory Induction Standards for healthcare support workers and a formal qualification such as SVQ in Pharmacy Services at SCQF Level 6, supported by the employer."
+  },
+  "career_progression": {
+    "overview": "This role is a good starting point for a pharmacy career.",
+    "progression_routes": [
+      "Senior pharmacy support worker",
+      "Pre-registration trainee pharmacy technician — completing the Diploma in Pharmacy Services or Technical Apprenticeship in Pharmacy Services to become a registered pharmacy technician."
+    ]
+  },
+  "related_careers": [
+    "Pharmacist",
+    "Pharmacy technician"
+  ],
+  "chunks": [
+    { "chunk_id": "pharmacy-support-worker-001", "section": "how_to_become", "text": "To become a pharmacy support worker, apply directly for vacancies in community pharmacies or NHS Scotland Health Boards. All training is provided on the job." },
+    { "chunk_id": "pharmacy-support-worker-002", "section": "salary", "text": "Pharmacy support workers start at £25,694 before tax. Higher-level pharmacy support workers can earn up to £33,016 before tax." },
+    { "chunk_id": "pharmacy-support-worker-003", "section": "description", "text": "Pharmacy support workers prepare, label, and dispense medicines safely under supervision of a pharmacist or pharmacy technician. They manage stock, answer queries, and in hospitals deliver medicines to wards and check expiry dates." },
+    { "chunk_id": "pharmacy-support-worker-004", "section": "education_and_training", "text": "Training includes Mandatory Induction Standards and a formal qualification such as SVQ in Pharmacy Services at SCQF Level 6, supported by the employer." },
+    { "chunk_id": "pharmacy-support-worker-005", "section": "career_progression", "text": "Pharmacy support workers can progress to senior pharmacy support worker or, with experience and additional qualifications, apply for a pre-registration trainee pharmacy technician post, completing the Diploma or Technical Apprenticeship in Pharmacy Services." }
+  ]
+}

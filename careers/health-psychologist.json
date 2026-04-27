@@ -1,0 +1,73 @@
+{
+  "id": "health-psychologist",
+  "title": "Health Psychologist",
+  "sector": "Psychology",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/psychology/health-psychologist/",
+  "how_to_become": "You need an undergraduate honours degree in psychology, then a BPS-accredited master's degree in health psychology (Stage 1), followed by a doctoral-level qualification approved by the HCPC (Stage 2).",
+  "description": "Health psychology focuses on how biological, psychological, and social factors influence health, illness, and healthcare. Health psychologists use their knowledge to promote wellbeing and healthy behaviours and understand the psychological and emotional aspects of health and illness.",
+  "role_overview": "As a health psychologist, you'll promote healthier lifestyles, improve physical health through psychological interventions, and enhance people's ability to manage long-term and chronic conditions. You'll also provide training, advice, and supervision to health and social care professionals and advise services and policy makers.",
+  "conditions_addressed": [
+    "Addictive behaviours",
+    "Adjustment to physical health conditions",
+    "Diabetes and coronary heart disease",
+    "Weight management",
+    "Gastroenterology conditions (e.g. irritable bowel syndrome)",
+    "Staff health and wellbeing",
+    "Vaccine uptake",
+    "Covid-19 prevention and recovery"
+  ],
+  "entry_requirements": {
+    "overview": "At least a 2:1 honours degree from a BPS-accredited psychology programme is required for the GBC. A conversion course can provide the GBC for those with other degree subjects.",
+    "useful_subjects": [
+      "Psychology",
+      "Religious, Moral and Philosophical Studies",
+      "English",
+      "Human Biology",
+      "Maths"
+    ],
+    "widening_access": "SWAP supports adult learners with few or no qualifications to enter higher education."
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "stage_1": "BPS-accredited master's degree in health psychology — provides knowledge, theory, and research skills.",
+    "stage_1_universities": [
+      "University of Aberdeen",
+      "University of Stirling"
+    ],
+    "stage_2_routes": [
+      "Doctorate in health psychology — Glasgow Caledonian University (DPsych) or University of Stirling (ProfD), 3 years, approved by HCPC and BPS.",
+      "NHSScotland funded route — 2-year fixed-term posts completing BPS stage 2 training while employed by NHS Health Boards.",
+      "BPS independent training route — completing training while working or volunteering in a relevant role or undertaking a PhD."
+    ]
+  },
+  "learning_and_development": {
+    "cpd_requirement": "An average of 40 hours CPD per calendar year over a 3-year period is required to maintain HCPC registration.",
+    "cpd_activities": [
+      "Post-qualification training courses",
+      "Professional supervision",
+      "Personal psychological counselling for professional purposes",
+      "Systematic reflection on practice",
+      "Research activities"
+    ]
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Senior health psychologist",
+      "Consultant psychologist",
+      "Teaching and research roles"
+    ]
+  },
+  "professional_bodies": [
+    "British Psychological Society (BPS) — graduate and chartered membership",
+    "Health and Care Professions Council (HCPC) — mandatory registration"
+  ],
+  "chunks": [
+    { "chunk_id": "health-psychologist-001", "section": "how_to_become", "text": "To become a health psychologist, complete a BPS-accredited psychology undergraduate degree, then a BPS-accredited MSc in health psychology (Stage 1), followed by a doctoral-level Stage 2 qualification approved by the HCPC." },
+    { "chunk_id": "health-psychologist-002", "section": "description", "text": "Health psychology focuses on how biological, psychological, and social factors influence health and illness. Health psychologists promote wellbeing and healthy behaviours and understand the psychological aspects of health conditions." },
+    { "chunk_id": "health-psychologist-003", "section": "role_overview", "text": "Health psychologists promote healthier lifestyles, improve physical health through psychological interventions, and help people manage long-term conditions. They also train health professionals and advise services and policy makers." },
+    { "chunk_id": "health-psychologist-004", "section": "entry_requirements", "text": "At least a 2:1 BPS-accredited psychology degree is required for the GBC. Useful school subjects include Psychology, English, Human Biology, and Maths. SWAP supports adult learners." },
+    { "chunk_id": "health-psychologist-005", "section": "education_and_training", "text": "Stage 1: BPS-accredited MSc in health psychology at University of Aberdeen or University of Stirling. Stage 2: Doctorate (Glasgow Caledonian University or University of Stirling), NHSScotland funded route (2-year NHS posts), or BPS independent training route." },
+    { "chunk_id": "health-psychologist-006", "section": "learning_and_development", "text": "40 hours CPD per year over a 3-year period is required to maintain HCPC registration, including training courses, supervision, and research activities." },
+    { "chunk_id": "health-psychologist-007", "section": "professional_bodies", "text": "Health psychologists must be HCPC-registered. They can join the BPS at graduate and chartered membership levels." }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "security-officer",
+  "title": "Security Officer",
+  "sector": "Support Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/support-services/security-officer/",
+  "published": "06/10/2023",
+  "last_updated": "23/11/2023",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website.",
+  "description": "NHSScotland security officers maintain a safe and secure environment for patients, visitors, and staff within NHS facilities. They play a crucial role in preventing and responding to security incidents, protecting NHS assets, and promoting the overall wellbeing of individuals within healthcare settings.",
+  "role_overview": "As a security officer, you'll help ensure hospitals and other NHS sites are safe and accessible for patients, visitors, and staff. The role is wide and varied, requiring calm performance under pressure.",
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. Useful qualifications include IOSH or NEBOSH health and safety qualifications, SIA-accredited training, and a full UK driving licence.",
+    "useful_subjects": ["English", "Maths", "Administration and IT"],
+    "useful_qualifications": [
+      "IOSH or NEBOSH health and safety qualifications",
+      "Traffic management",
+      "SIA-accredited training",
+      "Full UK driving licence",
+      "Customer service training or experience",
+      "Security manager accreditation"
+    ]
+  },
+  "learning_and_development": {
+    "overview": "Training in systems, policies, procedures, and equipment is required throughout your career. Some roles involving a helipad require Rescue and Fire Fighting Service training with the Civil Aviation Authority (annual refresher required).",
+    "training_topics": [
+      "Control and Restraint",
+      "Information Governance",
+      "Public Protection"
+    ]
+  },
+  "career_progression": {
+    "progression_roles": ["Security supervisor", "Security manager"]
+  },
+  "professional_bodies": [
+    "National Association for Healthcare Security (NAHS)"
+  ],
+  "chunks": [
+    { "chunk_id": "security-officer-001", "section": "how_to_become", "text": "To become a security officer in the NHS, apply for a vacancy on the NHS recruitment website." },
+    { "chunk_id": "security-officer-002", "section": "description", "text": "NHSScotland security officers maintain safe and secure environments for patients, visitors, and staff, preventing and responding to security incidents and protecting NHS assets." },
+    { "chunk_id": "security-officer-003", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, and Administration and IT. Useful qualifications include IOSH or NEBOSH health and safety, SIA-accredited training, full UK driving licence, and customer service experience." },
+    { "chunk_id": "security-officer-004", "section": "career_progression", "text": "With qualifications and experience, security officers can progress to security supervisor or security manager." }
+  ]
+}

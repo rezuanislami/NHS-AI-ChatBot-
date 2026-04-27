@@ -1,0 +1,75 @@
+{
+  "id": "vascular-scientist",
+  "title": "Vascular Scientist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physiological Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physiological-sciences/vascular-scientist/",
+  "how_to_become": "Complete a 3-year postgraduate-level work-based training programme via the NHS Scientist Training Programme (STP).",
+  "description": "Vascular scientists are crucial in diagnosing and managing conditions affecting blood flow. They use ultrasound and non-invasive pressure tests to assess blood flow in the neck, arm, abdomen, and leg vessels. They provide essential routine and emergency clinical services to vascular surgery, stroke, and renal medicine specialties.",
+  "role_overview": "As a vascular scientist, you'll investigate, measure, and assess blood flow in arteries and veins using ultrasound, colour and spectral Doppler ultrasound, and pressure tests including ankle-brachial pressure index (ABPI) and toe pressure tests. You'll analyse and report results to assist in diagnosing vascular diseases and identifying results requiring urgent medical attention.",
+  "conditions_assessed": [
+    "Peripheral arterial disease",
+    "Deep vein thrombosis",
+    "Varicose veins",
+    "Abdominal aortic aneurysm",
+    "Carotid artery disease",
+    "Thoracic outlet",
+    "Steal syndromes",
+    "Arterial venous malformations"
+  ],
+  "vascular_conditions_investigated": [
+    "Narrowing or complete blockage of blood vessels",
+    "Impingement",
+    "Enlargement (aneurysm)",
+    "Assessment of blood volume flow in blood vessels and surgical grafts",
+    "Assessment of blood vessel walls",
+    "Assessment of blood flow direction"
+  ],
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree at SCQF level 10 in a related subject is required to apply for the STP.",
+    "useful_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Statistics",
+      "English",
+      "Maths"
+    ],
+    "undergraduate_degrees": [
+      "Biology",
+      "Anatomy",
+      "Vascular Science"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "NHS Scientist Training Programme (STP) — 3-year work-based programme supported by a university-accredited master's degree at SCQF level 11, part-funded by the National School of Healthcare Science.",
+    "registration": "On completion, register with the HCPC as a clinical scientist."
+  },
+  "learning_and_development": {
+    "overview": "Vascular scientists must undertake CPD to maintain knowledge and skills and HCPC registration, following professional performance guidelines from the CSVS."
+  },
+  "career_progression": {
+    "overview": "Vascular scientists are often at the forefront of advances in science and technology, with opportunities in research, management, and teaching.",
+    "progression_roles": [
+      "Senior vascular scientist",
+      "Management roles",
+      "Teaching roles",
+      "Researcher in vascular technology"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "College and Society for Clinical Vascular Science (CSVS) — encouraged, with accreditation available"
+  ],
+  "chunks": [
+    { "chunk_id": "vascular-scientist-001", "section": "how_to_become", "text": "To become a vascular scientist, complete the 3-year NHS Scientist Training Programme (STP), a work-based programme supported by a master's degree at SCQF level 11." },
+    { "chunk_id": "vascular-scientist-002", "section": "description", "text": "Vascular scientists diagnose and manage conditions affecting blood flow using ultrasound and non-invasive pressure tests to assess blood flow in the neck, arm, abdomen, and leg vessels, providing services to vascular surgery, stroke, and renal medicine specialties." },
+    { "chunk_id": "vascular-scientist-003", "section": "role_overview", "text": "Vascular scientists investigate blood flow using ultrasound and Doppler techniques and pressure tests. They analyse and report results to assist in diagnosing vascular diseases and identify results requiring urgent medical attention." },
+    { "chunk_id": "vascular-scientist-004", "section": "conditions_assessed", "text": "Vascular scientists assess conditions including peripheral arterial disease, deep vein thrombosis, varicose veins, abdominal aortic aneurysm, carotid artery disease, and arterial venous malformations." },
+    { "chunk_id": "vascular-scientist-005", "section": "entry_requirements", "text": "Useful school subjects include Biology, Chemistry, Physics, Statistics, English, and Maths. An undergraduate honours degree at SCQF level 10 in Biology, Anatomy, or Vascular Science is required." },
+    { "chunk_id": "vascular-scientist-006", "section": "education_and_training", "text": "The NHS STP is a 3-year work-based programme supported by a master's degree at SCQF level 11, part-funded by the National School of Healthcare Science. On completion, registration with the HCPC as a clinical scientist is required." },
+    { "chunk_id": "vascular-scientist-007", "section": "career_progression", "text": "Vascular scientists can progress to senior roles, management, teaching, or research in vascular technology innovations." },
+    { "chunk_id": "vascular-scientist-008", "section": "professional_bodies", "text": "Vascular scientists must register with the HCPC. They are encouraged to join the College and Society for Clinical Vascular Science (CSVS), where accreditation as a clinical vascular scientist is also available." }
+  ]
+}

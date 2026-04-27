@@ -1,0 +1,40 @@
+{
+  "id": "domestic-supervisor",
+  "title": "Domestic Supervisor",
+  "sector": "Support Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/support-services/domestic-supervisor/",
+  "published": "31/03/2023",
+  "last_updated": "10/10/2023",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website. Experience working as a domestic assistant in a hospital or healthcare setting is essential.",
+  "description": "Domestic supervisors work in hospitals and health centres, monitoring domestic cleaning to ensure quality and hygiene standards are met. They manage teams of domestic assistants, organise work rotas, issue cleaning materials, and ensure equipment is in working order.",
+  "role_overview": "As a domestic supervisor, you'll supervise domestic assistants, assigning tasks to maintain clean and hygienic hospitals, health centres, and offices in clinical and non-clinical areas, ensuring agreed service levels for cleaning are met.",
+  "entry_requirements": {
+    "overview": "A good standard of education and experience working as a domestic assistant in a hospital or healthcare setting are essential. Supervisor experience is helpful but training will be provided.",
+    "useful_subjects": ["English", "Maths", "Administration and IT"]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "learning_and_development": {
+    "training_areas": [
+      "Specific skills training",
+      "Health and wellbeing",
+      "Infection prevention and control",
+      "COSHH — Control of Substances Hazardous to Health",
+      "Mandatory training programmes",
+      "Health and safety",
+      "Risk management"
+    ],
+    "additional_qualifications": [
+      "SVQ Cleaning and Support Services at SCQF Level 5",
+      "IOSH Health & Safety awarded by the Institute of Occupational Safety and Health"
+    ]
+  },
+  "career_progression": {
+    "progression_roles": ["Domestic manager", "Support services manager"]
+  },
+  "chunks": [
+    { "chunk_id": "domestic-supervisor-001", "section": "how_to_become", "text": "To become a domestic supervisor, apply for a vacancy on the NHS recruitment website. Experience as a domestic assistant in a hospital or healthcare setting is essential." },
+    { "chunk_id": "domestic-supervisor-002", "section": "description", "text": "Domestic supervisors monitor cleaning quality and hygiene standards in hospitals and health centres, managing teams of domestic assistants, organising rotas, and ensuring equipment is in working order." },
+    { "chunk_id": "domestic-supervisor-003", "section": "learning_and_development", "text": "Training includes infection prevention and control, COSHH, mandatory training, health and safety, and risk management. Additional qualifications include SVQ Cleaning and Support Services at SCQF Level 5 and IOSH Health & Safety." },
+    { "chunk_id": "domestic-supervisor-004", "section": "career_progression", "text": "With qualifications and experience, domestic supervisors can progress to domestic manager or support services manager." }
+  ]
+}

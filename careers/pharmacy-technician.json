@@ -1,0 +1,85 @@
+{
+  "id": "pharmacy-technician",
+  "title": "Pharmacy Technician",
+  "sector": "Pharmacy",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/pharmacy/pharmacy-technician/",
+  "how_to_become": "Apply for a pre-registration trainee pharmacy technician job — a paid training opportunity through an NHS Scotland Health Board. Complete either the Technical Apprenticeship in Pharmacy Services (SCQF level 8) or the Diploma in Pharmacy Services (SCQF level 7), both 2-year programmes.",
+  "salary": {
+    "entry": "£30,353",
+    "entry_note": "Qualified pharmacy technicians start at £30,535 per year before tax. Trainees are paid a percentage of the qualified salary, increasing annually through training.",
+    "experienced": "£59,159",
+    "experienced_note": "Lead and specialist pharmacy technicians can earn up to £59,159 before tax."
+  },
+  "description": "Pharmacy technicians are registered healthcare professionals who work alongside pharmacists and other healthcare staff. They prepare and dispense medicines to ensure patients receive safe and effective care, and have essential responsibilities across the pharmacy team.",
+  "key_responsibilities": [
+    "Preparing and dispensing medicines, including complex items like chemotherapy or sterile feeds.",
+    "Taking medication histories from patients admitted to hospital.",
+    "Carrying out final accuracy checks on prescriptions.",
+    "Carrying out medication reviews with patients during home visits.",
+    "Advising patients on medicines, inhaler devices, and managing side effects.",
+    "Providing health advice in community pharmacy (e.g. smoking cessation).",
+    "Managing medicines stock and secure storage.",
+    "Training and supervising new pharmacy support staff."
+  ],
+  "role_overview": "Pharmacy technicians work in community pharmacy (dispensing, managing stock, providing public health services), hospital pharmacy (dispensing, preparing sterile products, medicines reconciliation), and primary care (managing repeat prescriptions, medicines reviews, advising patients).",
+  "entry_requirements": {
+    "useful_subjects": [
+      "Chemistry",
+      "Biology",
+      "Maths",
+      "English"
+    ]
+  },
+  "work_experience": "Work placements and volunteering in healthcare or pharmacy can help your application.",
+  "education_and_training": {
+    "training_programmes": [
+      "Technical Apprenticeship in Pharmacy Services at SCQF level 8 — 2 years.",
+      "Diploma in Pharmacy Services at SCQF level 7 — 2 years."
+    ],
+    "structure": "Both are paid, work-based programmes combining practical experience with structured learning. Trainees rotate through hospital wards, main dispensary, aseptic units, and GP practices, building a portfolio of evidence.",
+    "registration": "On completing training and assessments, apply to join the GPhC register as a pharmacy technician. GPhC registration is required to practise."
+  },
+  "learning_and_development": {
+    "overview": "Registered pharmacy technicians must engage in CPD and revalidate annually with the GPhC."
+  },
+  "career_progression": {
+    "specialisms": [
+      "Medicines management",
+      "General practice",
+      "Procurement",
+      "Clinical trials",
+      "Education and training",
+      "IT and digital solutions",
+      "Aseptic",
+      "Care at home",
+      "Oncology",
+      "Paediatrics",
+      "Medicines information",
+      "Research and development",
+      "Service development and management",
+      "Clinical pharmacy"
+    ],
+    "progression_roles": [
+      "Lead pharmacy technician",
+      "Specialist pharmacy technician"
+    ]
+  },
+  "professional_bodies": [
+    "General Pharmaceutical Council (GPhC) — mandatory registration, renewed annually",
+    "Association of Pharmacy Technicians (APTUK)"
+  ],
+  "related_careers": [
+    "Pharmacist",
+    "Pharmacy support worker"
+  ],
+  "chunks": [
+    { "chunk_id": "pharmacy-technician-001", "section": "how_to_become", "text": "To become a pharmacy technician, apply for a pre-registration trainee pharmacy technician job at an NHS Scotland Health Board. Complete either the 2-year Technical Apprenticeship in Pharmacy Services (SCQF level 8) or Diploma in Pharmacy Services (SCQF level 7), then join the GPhC register." },
+    { "chunk_id": "pharmacy-technician-002", "section": "salary", "text": "Qualified pharmacy technicians start at £30,535 per year before tax. Trainees are paid a percentage increasing annually. Lead and specialist pharmacy technicians can earn up to £59,159 before tax." },
+    { "chunk_id": "pharmacy-technician-003", "section": "description", "text": "Pharmacy technicians are registered healthcare professionals who prepare and dispense medicines, take medication histories, carry out accuracy checks, advise patients on medicines, manage stock, and train pharmacy support staff." },
+    { "chunk_id": "pharmacy-technician-004", "section": "role_overview", "text": "Pharmacy technicians work in community pharmacy (dispensing, stock management, public health services), hospital pharmacy (sterile products, medicines reconciliation, ward supply), and primary care (repeat prescriptions, medicines reviews, patient advice)." },
+    { "chunk_id": "pharmacy-technician-005", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, Biology, Maths, and English. Work experience in healthcare or pharmacy is helpful." },
+    { "chunk_id": "pharmacy-technician-006", "section": "education_and_training", "text": "Both the 2-year Technical Apprenticeship in Pharmacy Services (SCQF level 8) and the 2-year Diploma in Pharmacy Services (SCQF level 7) are paid, work-based programmes. Trainees rotate through dispensary, wards, aseptic units, and GP practices, building a portfolio. On completion, join the GPhC register." },
+    { "chunk_id": "pharmacy-technician-007", "section": "career_progression", "text": "Pharmacy technicians can specialise in medicines management, oncology, paediatrics, clinical trials, aseptic, primary care, IT and digital solutions, and more. Progression roles include lead pharmacy technician and specialist pharmacy technician." },
+    { "chunk_id": "pharmacy-technician-008", "section": "professional_bodies", "text": "Pharmacy technicians must maintain annual GPhC registration. They can also join the Association of Pharmacy Technicians (APTUK)." }
+  ]
+}

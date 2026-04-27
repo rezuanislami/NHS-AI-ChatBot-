@@ -1,0 +1,102 @@
+{
+  "id": "biomedical-scientist",
+  "title": "Biomedical Scientist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Laboratory Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/laboratory-sciences/biomedical-scientist/",
+  "published": "28/03/2023",
+  "last_updated": "09/12/2025",
+  "how_to_become": "To become a biomedical scientist in the NHS, you'll need an undergraduate honours degree in Biomedical Science accredited by the Institute of Biomedical Science (IBMS).",
+  "salary": {
+    "entry": "Not specified",
+    "entry_note": "Salary information not listed on this page. See NHS Scotland pay and benefits for details.",
+    "experienced": "Not specified"
+  },
+  "description": "Biomedical scientists work in laboratories using computers and complex lab equipment to conduct scientific tests that help doctors and healthcare professionals diagnose, monitor, and manage diseases. They can also carry out tests for blood transfusion.",
+  "role_overview": "Biomedical scientists conduct complex tests to investigate medical conditions such as cancer, diabetes, meningitis, hepatitis, and HIV/AIDS using automated testing machines, microscopes, and computers. They investigate samples from health tests, surgery, and blood donation services, and carefully record results while assisting doctors and healthcare science staff.",
+  "specialisms": [
+    "Infection sciences — medical microbiology and virology",
+    "Blood sciences — clinical chemistry, transfusion science, haematology, and immunology",
+    "Cell sciences — histopathology and cytology",
+    "Gene sciences — genetics and molecular pathology"
+  ],
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree in Biomedical Science at SCQF level 10 accredited by the IBMS or HCPC is required. PVG scheme membership is also required.",
+    "useful_subjects": [
+      "Chemistry",
+      "Biology",
+      "Statistics",
+      "English",
+      "Maths"
+    ],
+    "college_route": [
+      "HNC Applied Science at SCQF level 7",
+      "HND Applied Bioscience at SCQF level 8",
+      "HND Applied Biological Sciences at SCQF level 8"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience. Students are encouraged to find placements that build laboratory experience.",
+  "education_and_training": {
+    "degree": "Undergraduate honours degree in Biomedical Science accredited by the IBMS or HCPC at SCQF level 10.",
+    "registration_portfolio": "IBMS Registration Training Portfolio Certificate of Competence — a work-based professional qualification carried out in an approved clinical laboratory, demonstrating competence to meet HCPC Standards of Proficiency.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education.",
+    "non_accredited_route": "If your degree is not IBMS-accredited, you can apply for an associate practitioner role and have your degree assessed by the IBMS to identify supplementary modules needed before applying for a trainee biomedical scientist role."
+  },
+  "learning_and_development": {
+    "overview": "Biomedical scientists must undertake CPD to maintain knowledge, skills, and HCPC registration, renewed every 2 years.",
+    "ibms_specialist_diploma_disciplines": [
+      "Cellular pathology",
+      "Medical microbiology",
+      "Clinical biochemistry",
+      "Haematology and transfusion science",
+      "Transfusion science",
+      "Blood science"
+    ]
+  },
+  "career_progression": {
+    "overview": "With experience and advanced knowledge, biomedical scientists can progress to registered scientist, chartered scientist, or clinical scientist roles.",
+    "specialist_areas": [
+      "Clinical chemistry",
+      "Haematology",
+      "Histology",
+      "Medical microbiology",
+      "Immunology",
+      "Leadership and management",
+      "Virology",
+      "Transfusion science",
+      "Training",
+      "Quality"
+    ],
+    "progression_roles": [
+      "Registered scientist (RSci)",
+      "Chartered scientist (CSci)",
+      "Advanced biomedical scientist",
+      "Consultant biomedical scientist",
+      "Clinical scientist",
+      "Teaching roles (with MSc or PhD)"
+    ],
+    "advanced_diplomas": [
+      "Advanced Specialist Diploma in Cervical Cytology",
+      "Advanced Specialist Diploma in Histopathology Reporting",
+      "Advanced Specialist Diploma in Non-Gynaecological Cytology",
+      "Advanced Specialist Diploma in Ophthalmic Pathology",
+      "Advanced Specialist Diploma in Specimen Dissection"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory, renewed every 2 years",
+    "Institute of Biomedical Science (IBMS)",
+    "Science Council",
+    "British Blood Transfusion Society (BBTS)"
+  ],
+  "chunks": [
+    { "chunk_id": "biomedical-scientist-001", "section": "how_to_become", "text": "To become a biomedical scientist in the NHS, you'll need an undergraduate honours degree in Biomedical Science accredited by the IBMS or HCPC at SCQF level 10." },
+    { "chunk_id": "biomedical-scientist-002", "section": "description", "text": "Biomedical scientists use computers and complex lab equipment to conduct scientific tests helping doctors diagnose, monitor, and manage diseases including cancer, diabetes, meningitis, hepatitis, and HIV/AIDS. They can also carry out blood transfusion tests." },
+    { "chunk_id": "biomedical-scientist-003", "section": "specialisms", "text": "Biomedical scientists specialise in infection sciences (microbiology, virology), blood sciences (clinical chemistry, transfusion, haematology, immunology), cell sciences (histopathology, cytology), or gene sciences (genetics, molecular pathology)." },
+    { "chunk_id": "biomedical-scientist-004", "section": "entry_requirements", "text": "Useful school subjects include Chemistry, Biology, Statistics, English, and Maths. An IBMS or HCPC-accredited honours degree in Biomedical Science at SCQF level 10 is required. PVG scheme membership is required for all NHSScotland laboratory roles. College options include HNC Applied Science or HND Applied Bioscience." },
+    { "chunk_id": "biomedical-scientist-005", "section": "education_and_training", "text": "An IBMS Registration Training Portfolio Certificate of Competence is required — a work-based qualification in an approved clinical laboratory. Non-IBMS-accredited graduates can apply for associate practitioner roles and have their degree assessed for supplementary modules. SWAP supports adult learners into higher education." },
+    { "chunk_id": "biomedical-scientist-006", "section": "learning_and_development", "text": "Biomedical scientists must maintain CPD and renew HCPC registration every 2 years. The IBMS Specialist Diploma is available in disciplines including cellular pathology, medical microbiology, clinical biochemistry, haematology, transfusion science, and blood science." },
+    { "chunk_id": "biomedical-scientist-007", "section": "career_progression", "text": "With experience, biomedical scientists can progress to registered scientist, chartered scientist, advanced biomedical scientist, or consultant biomedical scientist. Further qualifications support specialisation in clinical chemistry, haematology, immunology, virology, and other areas. MSc or PhD can lead to teaching roles." },
+    { "chunk_id": "biomedical-scientist-008", "section": "professional_bodies", "text": "Biomedical scientists must maintain HCPC registration every 2 years. They can also join the Institute of Biomedical Science (IBMS), Science Council, and British Blood Transfusion Society (BBTS)." }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "clinical-scientist-immunology",
+  "title": "Clinical Scientist — Immunology",
+  "sector": "Healthcare Science",
+  "sub_sector": "Laboratory Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/laboratory-sciences/clinical-scientist-immunology/",
+  "published": "04/03/2024",
+  "last_updated": "09/12/2025",
+  "how_to_become": "To become a clinical scientist in immunology, complete a postgraduate-level work-based training programme, or apply for registration through an equivalence route if you have significant professional immunology experience and relevant qualifications.",
+  "description": "Clinical scientists in immunology are involved in the diagnosis and care of patients with diseases resulting from disorders of the immune system and conditions in which immunological treatment is an important part of therapy. They ensure appropriate diagnostic tests are carried out and provide consultants and GPs with information for accurate diagnosis and monitoring.",
+  "role_overview": "As a clinical scientist in immunology, you'll receive and prepare samples for analysis, validate results, and advise on specific types of treatment for individual patients. You'll also have responsibility for service delivery, staff training and assessment, and quality control within the department.",
+  "entry_requirements": {
+    "overview": "A relevant undergraduate honours degree at SCQF level 10 is required to apply for the clinical scientist training programme.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Biology",
+      "Chemistry"
+    ],
+    "undergraduate_degrees": [
+      "Immunology",
+      "Biomedical Sciences",
+      "Biochemistry",
+      "Microbiology",
+      "Genetics",
+      "Molecular Biology"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programmes": [
+      "Scientist Training Programme (STP) — 3-year work-based programme.",
+      "Alternative work-based training programme — for those with relevant experience in a diagnostics laboratory and a postgraduate degree at SCQF level 11."
+    ],
+    "registration": "On completion, register as a clinical scientist with the HCPC.",
+    "equivalence_route": "Those with significant NHS immunology experience can apply for equivalence recognition by submitting a portfolio to the Academy for Healthcare Science, Association of Clinical Scientists, or Institute of Biomedical Science and attending an interview."
+  },
+  "learning_and_development": {
+    "overview": "Clinical scientists must undertake CPD to keep knowledge and skills up to date and maintain HCPC registration.",
+    "further_qualifications": [
+      "Royal College of Pathologists Part 1 Examination (non-medical candidates)",
+      "Royal College of Pathologists Part 2 Examination"
+    ]
+  },
+  "career_progression": {
+    "overview": "Gaining qualifications leads to more senior roles or advancement into specialised practice areas.",
+    "progression_roles": [
+      "Senior clinical scientist — immunology",
+      "Specialist clinical scientist"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Academy for Healthcare Science (AHCS)",
+    "Association of Clinical Scientists (ACS)",
+    "British Society for Immunology",
+    "Royal College of Pathologists",
+    "Association for Clinical Biochemistry (ACB)"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-scientist-immunology-001", "section": "how_to_become", "text": "To become a clinical scientist in immunology, complete a 3-year work-based training programme (STP or alternative). An equivalence route is available for those with significant NHS immunology experience." },
+    { "chunk_id": "clinical-scientist-immunology-002", "section": "description", "text": "Clinical scientists in immunology diagnose and care for patients with immune system disorders and conditions where immunological treatment is important. They ensure appropriate diagnostic tests are carried out and provide consultants and GPs with information for accurate diagnosis and monitoring." },
+    { "chunk_id": "clinical-scientist-immunology-003", "section": "role_overview", "text": "Clinical scientists in immunology receive and prepare samples, validate results, advise on treatment for individual patients, and have responsibility for service delivery, staff training, and quality control within the department." },
+    { "chunk_id": "clinical-scientist-immunology-004", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Biology, and Chemistry. An undergraduate honours degree at SCQF level 10 in Immunology, Biomedical Sciences, Biochemistry, Microbiology, Genetics, or Molecular Biology is required." },
+    { "chunk_id": "clinical-scientist-immunology-005", "section": "education_and_training", "text": "Training is via the 3-year STP or an alternative work-based programme for those with relevant experience and a postgraduate degree at SCQF level 11. On completion, registration with the HCPC is required. An equivalence route is available for experienced practitioners." },
+    { "chunk_id": "clinical-scientist-immunology-006", "section": "learning_and_development", "text": "Clinical scientists in immunology must maintain CPD and HCPC registration. Royal College of Pathologists Part 1 and Part 2 Examinations support career progression." },
+    { "chunk_id": "clinical-scientist-immunology-007", "section": "professional_bodies", "text": "Clinical scientists in immunology must register with the HCPC. They can also join AHCS, ACS, British Society for Immunology, Royal College of Pathologists, and Association for Clinical Biochemistry (ACB)." }
+  ]
+}

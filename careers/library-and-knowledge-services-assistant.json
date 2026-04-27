@@ -1,0 +1,60 @@
+{
+  "id": "library-and-knowledge-services-assistant",
+  "title": "Library and Knowledge Services Assistant",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/library-and-knowledge-services-assistant/",
+  "how_to_become": "To become a library and knowledge services assistant, you'll need a good standard of education including a qualification in English, plus experience of working in a library or customer service role.",
+  "salary": {
+    "entry": "£25,694",
+    "entry_note": "Library and knowledge services assistants in the NHS start at £25,694 before tax.",
+    "experienced": "£30,230",
+    "experienced_note": "Library and knowledge services assistants in the NHS can earn up to £30,230 before tax."
+  },
+  "description": "Library and knowledge services assistants are the first point of contact at the library. They respond to and manage enquiries from service users and monitor the availability of online resources, books, and other items to make sure they are easily accessible to users.",
+  "role_overview": "Library and knowledge services assistants need excellent communication and organisational skills. You'll assist service users to access library resources, help with the day-to-day running of the library, and use IT and digital skills for databases and creating documents.",
+  "entry_requirements": {
+    "overview": "A good standard of education including a qualification in English is required, along with experience in a library or customer service role.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Administration and IT",
+      "Business Management",
+      "Information and Communications Technology"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "learning_and_development": {
+    "overview": "You will be encouraged to develop your career in the NHS. As well as learning specific to your role, you'll need to complete mandatory training.",
+    "mandatory_training": [
+      "Health and safety",
+      "Occupational health",
+      "Fire safety",
+      "Counter-fraud",
+      "Moving and handling",
+      "Safe information handling"
+    ],
+    "note": "Your NHSScotland employer will confirm their mandatory training requirements during your induction."
+  },
+  "career_progression": {
+    "overview": "With experience, you could progress to more senior library roles.",
+    "progression_roles": [
+      "Senior library and knowledge services assistant"
+    ]
+  },
+  "professional_bodies": [
+    "Chartered Institute of Library and Information Professionals (CILIP)"
+  ],
+  "related_careers": [
+    "Senior library and knowledge services assistant"
+  ],
+  "chunks": [
+    { "chunk_id": "library-and-knowledge-services-assistant-001", "section": "how_to_become", "text": "To become a library and knowledge services assistant, you'll need a good standard of education including a qualification in English, plus experience working in a library or customer service role." },
+    { "chunk_id": "library-and-knowledge-services-assistant-002", "section": "salary", "text": "Library and knowledge services assistants in the NHS start at £25,694 before tax and can earn up to £30,230 before tax at experienced level." },
+    { "chunk_id": "library-and-knowledge-services-assistant-003", "section": "description", "text": "Library and knowledge services assistants are the first point of contact at the library. They manage enquiries from service users and monitor the availability of online resources, books, and other items to ensure accessibility." },
+    { "chunk_id": "library-and-knowledge-services-assistant-004", "section": "role_overview", "text": "Library and knowledge services assistants assist service users to access resources, support the day-to-day running of the library, and use IT and digital skills for databases and document creation. Excellent communication and organisational skills are required." },
+    { "chunk_id": "library-and-knowledge-services-assistant-005", "section": "entry_requirements", "text": "Useful school subjects include English, Maths, Administration and IT, Business Management, and Information and Communications Technology. A qualification in English and experience in a library or customer service role are required." },
+    { "chunk_id": "library-and-knowledge-services-assistant-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland." },
+    { "chunk_id": "library-and-knowledge-services-assistant-007", "section": "learning_and_development", "text": "Mandatory training includes health and safety, occupational health, fire safety, counter-fraud, moving and handling, and safe information handling. Requirements are confirmed during induction." },
+    { "chunk_id": "library-and-knowledge-services-assistant-008", "section": "career_progression", "text": "With experience, library and knowledge services assistants can progress to senior library and knowledge services assistant. Qualified staff can also join the Chartered Institute of Library and Information Professionals (CILIP)." }
+  ]
+}

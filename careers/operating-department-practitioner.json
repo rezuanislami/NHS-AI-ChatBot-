@@ -1,0 +1,61 @@
+{
+  "id": "operating-department-practitioner",
+  "title": "Operating Department Practitioner",
+  "sector": "Nursing",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/nursing/operating-department-practitioner/",
+  "how_to_become": "To become an operating department practitioner (ODP), complete a 3-year Graduate Apprenticeship. Apply for training opportunities on the NHS recruitment website.",
+  "description": "Operating department practitioners (ODPs) provide a high standard of perioperative care to patients, working as part of a team to make sure procedures carried out in the operating theatre are safe and effective.",
+  "role_overview": "ODPs have an important role in 3 phases of perioperative care: the anaesthetic phase (assisting patients before surgery, preparing specialist equipment and drugs), the surgical phase (working alongside surgeons with correct instruments and materials), and the recovery phase (assessing and monitoring patients after surgery). Some ODPs specialise in one phase.",
+  "perioperative_phases": [
+    "Anaesthetic phase — assisting patients before surgery, preparing specialist equipment and drugs.",
+    "Surgical phase — working alongside surgeons, providing the correct surgical instruments and materials.",
+    "Recovery phase — assessing and monitoring patients after surgery."
+  ],
+  "entry_requirements": {
+    "useful_subjects": [
+      "Biology",
+      "Maths",
+      "English"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "training_programme": "Pre-registration Graduate Apprenticeship — 3-year BSc degree at the University of the West of Scotland (UWS). Trainees receive a training salary while working full-time, work-based learning, and supported study time for online university classes.",
+    "registration": "On completion, register with the Health and Care Professions Council (HCPC).",
+    "note": "Apply for an NHS Scotland trainee ODP vacancy on the recruitment website — you must not apply directly to the university."
+  },
+  "learning_and_development": {
+    "overview": "Once qualified, undertake CPD to maintain HCPC registration. Flying Start programme provides extra support in the first year.",
+    "cpd_activities": [
+      "Courses",
+      "Lectures",
+      "Meetings",
+      "Workshops",
+      "Conferences",
+      "Mentoring"
+    ]
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Surgical care practitioner",
+      "Physician's assistant",
+      "Manager of operating theatre suites",
+      "Education and training roles",
+      "Research and development roles"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory registration",
+    "College of Operating Department Practitioners (CODP)",
+    "Association for Perioperative Practice (AfPP)"
+  ],
+  "chunks": [
+    { "chunk_id": "operating-department-practitioner-001", "section": "how_to_become", "text": "To become an operating department practitioner, apply for an NHS Scotland trainee ODP vacancy and complete a 3-year Graduate Apprenticeship BSc degree at the University of the West of Scotland." },
+    { "chunk_id": "operating-department-practitioner-002", "section": "description", "text": "Operating department practitioners provide high-standard perioperative care as part of the operating theatre team, ensuring procedures are safe and effective." },
+    { "chunk_id": "operating-department-practitioner-003", "section": "perioperative_phases", "text": "ODPs work in 3 phases: anaesthetic phase (preparing patients and equipment before surgery), surgical phase (providing correct instruments alongside surgeons), and recovery phase (assessing and monitoring patients after surgery)." },
+    { "chunk_id": "operating-department-practitioner-004", "section": "entry_requirements", "text": "Useful school subjects include Biology, Maths, and English." },
+    { "chunk_id": "operating-department-practitioner-005", "section": "education_and_training", "text": "Training is via a 3-year Graduate Apprenticeship BSc at the University of the West of Scotland, receiving a training salary, work-based learning, and supported university study. On completion, register with the HCPC." },
+    { "chunk_id": "operating-department-practitioner-006", "section": "career_progression", "text": "With experience, ODPs can progress to surgical care practitioner, physician's assistant, theatre suite manager, or move into education, training, or research and development." },
+    { "chunk_id": "operating-department-practitioner-007", "section": "professional_bodies", "text": "ODPs must register with the HCPC. They can also join the College of Operating Department Practitioners (CODP) and Association for Perioperative Practice (AfPP)." }
+  ]
+}

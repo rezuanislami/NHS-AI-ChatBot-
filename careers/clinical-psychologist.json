@@ -1,0 +1,73 @@
+{
+  "id": "clinical-psychologist",
+  "title": "Clinical Psychologist",
+  "sector": "Psychology",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/psychology/clinical-psychologist/",
+  "how_to_become": "Clinical psychology is studied at postgraduate level. You'll need an undergraduate honours degree in psychology and then complete a doctorate in clinical psychology approved by the HCPC.",
+  "description": "Clinical psychologists use psychological methods and research to offer evidence-based help, supporting people to make positive changes to their lives. They carry out research and evaluation, provide training and supervision, and support other clinicians to deliver psychological therapies.",
+  "role_overview": "As a clinical psychologist, your aim is to reduce distress and improve the psychological wellbeing of clients with a variety of mental and physical health conditions including depression, anxiety, eating disorders, neurological disorders, learning disabilities, psychosis, and offending behaviour.",
+  "conditions_treated": [
+    "Depression",
+    "Anxiety",
+    "Adjustment difficulties",
+    "Interpersonal and relationship difficulties",
+    "Addictive behaviours",
+    "Eating disorders",
+    "Neurological disorders including dementia or stroke",
+    "Learning disabilities",
+    "Psychosis",
+    "Offending behaviour"
+  ],
+  "entry_requirements": {
+    "overview": "At least a 2:1 honours degree from a BPS-accredited psychology programme is required. A conversion course can provide the GBC for those with other degree subjects.",
+    "useful_subjects": [
+      "Psychology",
+      "Religious, Moral and Philosophical Studies",
+      "English",
+      "Human Biology",
+      "Maths"
+    ],
+    "widening_access": "SWAP supports adult learners with few or no qualifications to enter higher education."
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "doctorate_universities": [
+      "University of Edinburgh (DClinPsychol)",
+      "University of Glasgow (DClinPsy)"
+    ],
+    "doctorate_duration": "3 years full-time. Programmes must be approved by the HCPC.",
+    "registration": "On qualifying and registering with the HCPC, you can use the title 'practitioner psychologist' and apply to become a chartered BPS member (CPsychol)."
+  },
+  "learning_and_development": {
+    "cpd_requirement": "An average of 40 hours of CPD per calendar year over a 3-year period is required to maintain HCPC registration.",
+    "cpd_activities": [
+      "Post-qualification training courses",
+      "Professional supervision",
+      "Personal psychological counselling for professional purposes",
+      "Systematic reflection on practice"
+    ]
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Principal clinical psychologist",
+      "Clinical management",
+      "Neuropsychologist (via BPS QiCN)",
+      "Clinical academic research",
+      "Teaching and lecturing",
+      "Expert witness and legal report writing"
+    ]
+  },
+  "professional_bodies": [
+    "British Psychological Society (BPS) — mandatory for Graduate Basis for Chartership",
+    "Health and Care Professions Council (HCPC) — mandatory registration"
+  ],
+  "chunks": [
+    { "chunk_id": "clinical-psychologist-001", "section": "how_to_become", "text": "To become a clinical psychologist, complete a BPS-accredited undergraduate psychology degree (at least 2:1), then a 3-year HCPC-approved doctorate in clinical psychology at the University of Edinburgh or University of Glasgow." },
+    { "chunk_id": "clinical-psychologist-002", "section": "description", "text": "Clinical psychologists use psychological methods and evidence-based research to help people make positive changes. They carry out research, provide training and supervision, and support other clinicians to deliver psychological therapies." },
+    { "chunk_id": "clinical-psychologist-003", "section": "conditions_treated", "text": "Clinical psychologists work with conditions including depression, anxiety, eating disorders, neurological disorders, dementia, stroke, learning disabilities, psychosis, addictive behaviours, and offending behaviour." },
+    { "chunk_id": "clinical-psychologist-004", "section": "entry_requirements", "text": "At least a 2:1 honours degree from a BPS-accredited psychology programme is required. A conversion course can provide the GBC. Useful school subjects include Psychology, Religious and Moral Studies, English, Human Biology, and Maths." },
+    { "chunk_id": "clinical-psychologist-005", "section": "learning_and_development", "text": "An average of 40 hours CPD per year over a 3-year period is required to maintain HCPC registration, including training courses, supervision, and reflective practice." },
+    { "chunk_id": "clinical-psychologist-006", "section": "career_progression", "text": "Clinical psychologists can progress to principal clinical psychologist, clinical management, neuropsychology (via BPS QiCN), academic research, teaching, or expert witness roles." },
+    { "chunk_id": "clinical-psychologist-007", "section": "professional_bodies", "text": "Clinical psychologists must be HCPC-registered and can join the BPS at student, graduate, and chartered membership levels." }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "speech-and-language-therapist",
+  "title": "Speech and Language Therapist",
+  "sector": "Allied Health Professions",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/allied-health-professions/speech-and-language-therapist/",
+  "how_to_become": "You must complete a pre-registration degree programme to become a speech and language therapist in the NHS.",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Speech and language therapists in the NHS start at £33,247 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist speech and language therapists can earn up to £50,702. Advanced speech and language therapists can earn up to £59,159 before tax."
+  },
+  "description": "Speech and language therapists provide treatment, support, and care for children and adults with communication difficulties or eating, drinking, and swallowing problems.",
+  "role_overview": "As a speech and language therapist, you'll work with people who experience communication or swallowing difficulties caused by developmental delay, learning disability, autism, brain injury, stroke, Parkinson's disease, dementia, cancer of the mouth and throat, a stammer, or hearing loss.",
+  "conditions_treated": [
+    "Developmental delay",
+    "Learning disability",
+    "Autism",
+    "Brain injury",
+    "Stroke",
+    "Parkinson's disease",
+    "Dementia",
+    "Cancer of the mouth and throat",
+    "Stammer",
+    "Hearing loss"
+  ],
+  "entry_requirements": {
+    "overview": "A pre-registration degree in Speech and Language Therapy approved by the HCPC is required.",
+    "useful_subjects": [
+      "Human Biology",
+      "Psychology",
+      "Care",
+      "Childcare and Development",
+      "Physics",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland.",
+  "education_and_training": {
+    "college_route": "At college, you could do an HNC in Healthcare Practice before applying to university.",
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications.",
+    "undergraduate_universities": [
+      "Queen Margaret University",
+      "University of Strathclyde"
+    ],
+    "undergraduate_duration": "4 years full-time.",
+    "postgraduate": "If you have relevant qualifications and healthcare experience, you can do a postgraduate diploma or master's degree in Speech and Language Therapy, usually taking 2 to 3 years.",
+    "note": "After graduation, you must register with the HCPC before applying for NHS vacancies."
+  },
+  "learning_and_development": {
+    "overview": "Speech and language therapists must keep skills and knowledge up to date through Continuing Professional Development (CPD).",
+    "cpd_provider": "Royal College of Speech and Language Therapists (RCSLT)",
+    "cpd_activities": [
+      "Training courses",
+      "Conferences",
+      "Seminars"
+    ]
+  },
+  "career_progression": {
+    "overview": "Speech and language therapists can progress to specialist, advanced, and consultant roles through training and experience.",
+    "progression_roles": [
+      "Specialist speech and language therapist",
+      "Advanced speech and language therapist"
+    ]
+  },
+  "professional_bodies": [
+    "Health and Care Professions Council (HCPC) — mandatory for NHS practice",
+    "Royal College of Speech and Language Therapists (RCSLT)"
+  ],
+  "related_careers": [
+    "Dramatherapist",
+    "Physiotherapist",
+    "Occupational therapist"
+  ],
+  "chunks": [
+    { "chunk_id": "speech-and-language-therapist-001", "section": "how_to_become", "text": "To become a speech and language therapist in the NHS, you must complete a pre-registration degree programme in Speech and Language Therapy approved by the HCPC." },
+    { "chunk_id": "speech-and-language-therapist-002", "section": "salary", "text": "Speech and language therapists in the NHS start at £33,247 before tax. Specialist speech and language therapists can earn up to £50,702. Advanced speech and language therapists can earn up to £59,159 before tax." },
+    { "chunk_id": "speech-and-language-therapist-003", "section": "description", "text": "Speech and language therapists provide treatment, support, and care for children and adults with communication difficulties or eating, drinking, and swallowing problems." },
+    { "chunk_id": "speech-and-language-therapist-004", "section": "role_overview", "text": "Speech and language therapists work with people experiencing communication or swallowing difficulties caused by developmental delay, learning disability, autism, brain injury, stroke, Parkinson's disease, dementia, cancer of the mouth and throat, stammer, or hearing loss." },
+    { "chunk_id": "speech-and-language-therapist-005", "section": "entry_requirements", "text": "Useful school subjects include Human Biology, Psychology, Care, Childcare and Development, Physics, English, and Maths. A pre-registration degree in Speech and Language Therapy approved by the HCPC is required." },
+    { "chunk_id": "speech-and-language-therapist-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "speech-and-language-therapist-007", "section": "education_and_training", "text": "Undergraduate degrees in Speech and Language Therapy are offered at Queen Margaret University and University of Strathclyde, taking 4 years full-time. A postgraduate diploma or master's is available for those with relevant qualifications and experience, usually taking 2 to 3 years. College options include HNC in Healthcare Practice. SWAP supports adult learners into higher education." },
+    { "chunk_id": "speech-and-language-therapist-008", "section": "learning_and_development", "text": "Speech and language therapists maintain skills through Continuing Professional Development (CPD) including training courses, conferences, and seminars provided by the Royal College of Speech and Language Therapists (RCSLT)." },
+    { "chunk_id": "speech-and-language-therapist-009", "section": "career_progression", "text": "Speech and language therapists can progress to specialist and advanced roles through training and experience." },
+    { "chunk_id": "speech-and-language-therapist-010", "section": "professional_bodies", "text": "Speech and language therapists must register with the Health and Care Professions Council (HCPC) to work in the NHS. They can also join the Royal College of Speech and Language Therapists (RCSLT)." }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "prison-nurse",
+  "title": "Prison Nurse",
+  "sector": "Nursing",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/nursing/prison-nurse/",
+  "how_to_become": "To become a prison nurse, first qualify as an adult nurse, mental health nurse, or learning disability nurse, and be registered with the Nursing and Midwifery Council (NMC). There are no prison-specific nursing qualifications.",
+  "description": "Prison nurses are core members of the multidisciplinary team working in prison healthcare centres. They help patients understand their diagnoses and treatment and support their general health and wellbeing. Prison nurses come from various nursing backgrounds including adult, mental health, and learning disability.",
+  "role_overview": "As a prison nurse, you'll work as part of a multidisciplinary team providing holistic, person-centred care to people in prison, delivering a hybrid of primary and secondary care services. You'll work with people aged 16 to 86 from all parts of society, often with multiple health conditions.",
+  "work_areas": [
+    "Minor injuries",
+    "Long-term conditions",
+    "Mental health",
+    "Substance recovery",
+    "Sexual health and blood-borne virus",
+    "Mother and baby care",
+    "End-of-life and palliative care"
+  ],
+  "entry_requirements": {
+    "overview": "You must be NMC-registered as an adult nurse, mental health nurse, or learning disability nurse. No prison-specific nursing qualifications are required."
+  },
+  "learning_and_development": {
+    "overview": "NHS Health Boards offer training opportunities and career pathways within prison healthcare teams.",
+    "further_qualifications": [
+      "Non-medical prescriber accreditation (for senior nurses)",
+      "Graduate Diploma in Integrated Community Nursing — offered at Queen Margaret University and University of the West of Scotland"
+    ]
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Specialist nurse",
+      "Advanced nurse practitioner",
+      "Management position"
+    ]
+  },
+  "professional_bodies": [
+    "Nursing and Midwifery Council (NMC) — mandatory registration"
+  ],
+  "chunks": [
+    { "chunk_id": "prison-nurse-001", "section": "how_to_become", "text": "To become a prison nurse, first qualify as an adult nurse, mental health nurse, or learning disability nurse and be NMC-registered. There are no prison-specific nursing qualifications." },
+    { "chunk_id": "prison-nurse-002", "section": "description", "text": "Prison nurses are core members of multidisciplinary teams in prison healthcare centres, helping patients understand diagnoses and treatment and supporting general health and wellbeing. They come from adult, mental health, and learning disability nursing backgrounds." },
+    { "chunk_id": "prison-nurse-003", "section": "role_overview", "text": "Prison nurses provide holistic, person-centred care as part of a multidisciplinary team, delivering a hybrid of primary and secondary care services to people aged 16 to 86 with often multiple health conditions." },
+    { "chunk_id": "prison-nurse-004", "section": "work_areas", "text": "Prison nurses work in minor injuries, long-term conditions, mental health, substance recovery, sexual health, blood-borne virus care, mother and baby care, and end-of-life and palliative care." },
+    { "chunk_id": "prison-nurse-005", "section": "learning_and_development", "text": "Senior nurses can complete further accreditation to become non-medical prescribers. The Graduate Diploma in Integrated Community Nursing is offered at Queen Margaret University and University of the West of Scotland." },
+    { "chunk_id": "prison-nurse-006", "section": "career_progression", "text": "Prison nurses can progress to specialist nurse, advanced nurse practitioner, or management positions." }
+  ]
+}

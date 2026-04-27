@@ -1,0 +1,76 @@
+{
+  "id": "finance-assistant",
+  "title": "Finance Assistant",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/finance-assistant/",
+  "how_to_become": "To become a finance assistant in the NHS, you can apply for vacancies on the NHS recruitment website. You could also do a Modern Apprenticeship.",
+  "salary": {
+    "entry": "£25,694",
+    "entry_note": "Finance assistants in the NHS start at £25,694 before tax.",
+    "experienced": "£33,016",
+    "experienced_note": "Senior finance assistants in the NHS can earn up to £33,016 before tax."
+  },
+  "description": "In the NHS, finance assistants work in finance teams that provide high-quality and effective financial accounting services within a health board. They process sales and purchase invoices, process income, set up suppliers and customers on the ledger, reconcile supplier statements, and process expenses.",
+  "role_overview": "As a finance assistant in the NHS, you will work in a team that provides accurate and efficient accounting services. You will analyse and reconcile financial data, process routine transactions, and input data into the finance ledger system.",
+  "entry_requirements": {
+    "overview": "A good standard of education is helpful, with relevant school subjects supporting entry into college or NHS roles.",
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Administration and IT",
+      "Business Management",
+      "Economics"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "modern_apprenticeships": [
+      "Accounting",
+      "Business and Administration"
+    ],
+    "college_courses": [
+      "SVQ Business and Administration at SCQF level 6",
+      "Association of Accounting Technicians (AAT) Diploma in Accounting at SCQF level 6"
+    ]
+  },
+  "learning_and_development": {
+    "overview": "You will be encouraged to develop your career in the NHS. As well as learning specific to your role, you'll need to complete mandatory training.",
+    "mandatory_training": [
+      "Health and safety",
+      "Occupational health",
+      "Fire safety",
+      "Counter-fraud",
+      "Moving and handling",
+      "Safe information handling"
+    ],
+    "note": "Your NHS employer will confirm their mandatory training requirements during your induction."
+  },
+  "career_progression": {
+    "overview": "Gaining new qualifications will help when applying for more senior roles.",
+    "qualifications": [
+      "SVQ Certificate in Payroll at SCQF level 6",
+      "HNC Accounting at SCQF level 7"
+    ],
+    "progression_roles": [
+      "Finance officer",
+      "Finance accountant"
+    ]
+  },
+  "professional_bodies": [
+    "Association of Accounting Technicians (AAT)",
+    "The Institute of Chartered Accountants of Scotland (ICAS)",
+    "The Chartered Institute of Public Finance and Accountancy (CIPFA)"
+  ],
+  "chunks": [
+    { "chunk_id": "finance-assistant-001", "section": "how_to_become", "text": "To become a finance assistant in the NHS, you can apply for vacancies on the NHS recruitment website or do a Modern Apprenticeship." },
+    { "chunk_id": "finance-assistant-002", "section": "salary", "text": "Finance assistants in the NHS start at £25,694 before tax at entry level. Senior finance assistants can earn up to £33,016 before tax." },
+    { "chunk_id": "finance-assistant-003", "section": "description", "text": "NHS finance assistants work in finance teams providing high-quality financial accounting services within a health board. They process sales and purchase invoices, income, set up suppliers and customers on the ledger, reconcile supplier statements, and process expenses." },
+    { "chunk_id": "finance-assistant-004", "section": "role_overview", "text": "As a finance assistant in the NHS, you will work in a team providing accurate and efficient accounting services, analysing and reconciling financial data, processing routine transactions, and inputting data into the finance ledger system." },
+    { "chunk_id": "finance-assistant-005", "section": "entry_requirements", "text": "Useful school subjects for a finance assistant career include English, Maths, Administration and IT, Business Management, and Economics." },
+    { "chunk_id": "finance-assistant-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland." },
+    { "chunk_id": "finance-assistant-007", "section": "education_and_training", "text": "Modern Apprenticeship frameworks available include Accounting and Business and Administration. College qualifications include SVQ Business and Administration at SCQF level 6 and the AAT Diploma in Accounting at SCQF level 6." },
+    { "chunk_id": "finance-assistant-008", "section": "learning_and_development", "text": "Mandatory training for NHS finance assistants includes health and safety, occupational health, fire safety, counter-fraud, moving and handling, and safe information handling. Requirements are confirmed during induction." },
+    { "chunk_id": "finance-assistant-009", "section": "career_progression", "text": "Further qualifications such as SVQ Certificate in Payroll at SCQF level 6 and HNC Accounting at SCQF level 7 support progression into roles like finance officer or finance accountant." },
+    { "chunk_id": "finance-assistant-010", "section": "professional_bodies", "text": "Finance assistants can join professional bodies including the Association of Accounting Technicians (AAT), the Institute of Chartered Accountants of Scotland (ICAS), and the Chartered Institute of Public Finance and Accountancy (CIPFA)." }
+  ]
+}

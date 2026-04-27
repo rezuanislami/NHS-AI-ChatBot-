@@ -1,0 +1,86 @@
+{
+  "id": "dental-technician",
+  "title": "Dental Technician",
+  "sector": "Dental",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/dental/dental-technician/",
+  "published": "30/03/2023",
+  "last_updated": "16/10/2025",
+  "how_to_become": "To become a dental technician, you'll need to complete a pre-registration training programme and then register with the General Dental Council (GDC).",
+  "salary": {
+    "entry": "£33,247",
+    "entry_note": "Dental technicians in the NHS start at £33,247 before tax. Trainees are paid a percentage of the qualified salary, increasing as they progress through training.",
+    "experienced": "£59,159",
+    "experienced_note": "Specialist dental technicians can earn up to £50,702. Advanced dental technicians can earn up to £59,159 before tax."
+  },
+  "description": "Dental technicians are essential members of the dental team who manufacture, repair, and provide advice on custom-made dental appliances prescribed by a dentist or clinical dental technician. They use a wide range of materials, specialised equipment, and cutting-edge technologies like CAD/CAM, 3D printing, and digital imaging.",
+  "role_overview": "As a dental technician, you'll work within a team with a growing emphasis on innovative digital technologies to design and produce customised dental devices. Work is carried out in regulated dental laboratories in commercial, independent, or hospital settings.",
+  "specialist_areas": [
+    "Removable prosthodontics — dentures",
+    "Fixed prosthesis — crowns, bridges, and veneers",
+    "Orthodontics — appliances that correct teeth alignment and jaw positioning",
+    "Maxillofacial prosthesis — specialised prosthetics for patients with facial or oral defects due to trauma, surgery, or congenital conditions"
+  ],
+  "entry_requirements": {
+    "overview": "A pre-registration training programme leading to GDC registration is required. English language proficiency is required by the GDC.",
+    "useful_subjects": [
+      "Biology",
+      "Design and Manufacture",
+      "English",
+      "Maths"
+    ],
+    "academic_requirements": "2 SQA Highers at grade C or above, one in a science subject which could include Maths, or equivalent qualifications at SCQF level 6 or above."
+  },
+  "work_experience": "Work placements and volunteering can provide helpful experience when applying for NHS roles.",
+  "education_and_training": {
+    "programme": "University of Aberdeen Diploma in Higher Education (DipHE) in Dental Technology at SCQF Level 8.",
+    "duration": "2 years, studying towards a professional qualification while working as a trainee dental technician in a registered dental lab.",
+    "programme_covers": [
+      "Technical and theoretical skills for creating, repairing, and advising on custom dental devices",
+      "Biomaterials",
+      "Technical and digital methods for designing fixed and removable prostheses and orthodontic devices",
+      "Anatomy, physiology, and human diseases relevant to dental technology"
+    ],
+    "english_language": "All dental professionals must be sufficiently fluent in written and spoken English to communicate effectively with patients, relatives, the dental team, and other healthcare professionals."
+  },
+  "learning_and_development": {
+    "extended_scope": [
+      "Working with a dentist in the clinic assisting with treatment by helping to fit attachments at the chairside",
+      "Taking impressions",
+      "Recording facebows",
+      "Carrying out intra-oral and extra-oral tracing",
+      "Carrying out implant frame assessments",
+      "Recording occlusal registrations",
+      "Tracing cephalographs",
+      "Carrying out intra-oral scanning for CAD/CAM",
+      "Taking intra and extra-oral photographs"
+    ]
+  },
+  "career_progression": {
+    "overview": "With experience and qualifications, dental technicians can move into new career paths or registrant groups.",
+    "progression_roles": [
+      "Clinical dental technician",
+      "Management roles",
+      "Teaching roles",
+      "Healthcare scientist specialising in reconstructive science"
+    ]
+  },
+  "professional_bodies": [
+    "General Dental Council (GDC) — mandatory for NHS practice",
+    "Dental Technologists Association (DTA)"
+  ],
+  "related_careers": [
+    "Reconstructive scientist",
+    "Dentist"
+  ],
+  "chunks": [
+    { "chunk_id": "dental-technician-001", "section": "how_to_become", "text": "To become a dental technician, complete a pre-registration training programme and register with the General Dental Council (GDC)." },
+    { "chunk_id": "dental-technician-002", "section": "salary", "text": "Dental technicians in the NHS start at £33,247 before tax. Specialist dental technicians can earn up to £50,702. Advanced dental technicians can earn up to £59,159 before tax." },
+    { "chunk_id": "dental-technician-003", "section": "description", "text": "Dental technicians manufacture, repair, and advise on custom-made dental appliances prescribed by a dentist or clinical dental technician, using materials, specialised equipment, and technologies including CAD/CAM, 3D printing, and digital imaging." },
+    { "chunk_id": "dental-technician-004", "section": "specialist_areas", "text": "Dental technicians work in four specialist areas: removable prosthodontics (dentures), fixed prosthesis (crowns, bridges, and veneers), orthodontics (teeth alignment and jaw positioning appliances), and maxillofacial prosthesis (prosthetics for patients with facial or oral defects)." },
+    { "chunk_id": "dental-technician-005", "section": "entry_requirements", "text": "Useful school subjects include Biology, Design and Manufacture, English, and Maths. Academic entry requires 2 SQA Highers at grade C or above including a science subject, or equivalent at SCQF level 6 or above. English language proficiency is required by the GDC." },
+    { "chunk_id": "dental-technician-006", "section": "education_and_training", "text": "The University of Aberdeen offers a 2-year Diploma in Higher Education (DipHE) in Dental Technology at SCQF Level 8, covering technical and digital methods for creating custom dental devices, biomaterials, anatomy, physiology, and relevant human diseases." },
+    { "chunk_id": "dental-technician-007", "section": "learning_and_development", "text": "Dental technicians can extend their scope to include chairside work with dentists, taking impressions, recording facebows, intra-oral scanning for CAD/CAM, and taking intra and extra-oral photographs." },
+    { "chunk_id": "dental-technician-008", "section": "career_progression", "text": "With experience and qualifications, dental technicians can progress to clinical dental technician, management, teaching, or healthcare scientist specialising in reconstructive science." },
+    { "chunk_id": "dental-technician-009", "section": "professional_bodies", "text": "Dental technicians must register with the General Dental Council (GDC). They can also join the Dental Technologists Association (DTA)." }
+  ]
+}

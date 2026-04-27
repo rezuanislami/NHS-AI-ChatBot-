@@ -1,0 +1,50 @@
+{
+  "id": "occupational-therapy-support-worker",
+  "title": "Occupational Therapy Support Worker",
+  "sector": "Healthcare Support Workers",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-support-workers/occupational-therapy-support-worker/",
+  "how_to_become": "Apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship.",
+  "description": "Occupational therapy support workers help occupational therapists to assess, diagnose, and treat people with physical, mental, or social issues. They also support people to adjust their lifestyles and find new ways of doing things to achieve their full potential.",
+  "role_overview": "As an occupational therapy support worker, you'll provide practical support to help patients continue doing day-to-day tasks and activities they enjoy. You'll care for people of all ages including people with dementia, stroke patients, the elderly, children with disabilities, and patients recovering from major surgery.",
+  "patient_groups": [
+    "People with dementia",
+    "Stroke patients",
+    "The elderly",
+    "Children with disabilities",
+    "Patients recovering from major surgery"
+  ],
+  "entry_requirements": {
+    "overview": "A good standard of education is needed. There are no specific entry requirements.",
+    "useful_subjects": [
+      "Science",
+      "English",
+      "Maths"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying for a new job with NHSScotland.",
+  "education_and_training": {
+    "modern_apprenticeship": "Healthcare Support Modern Apprenticeship with clinical pathway units for occupational therapy. Mandatory units include communication, health and safety, and learning development.",
+    "mandatory_induction": "Mandatory Induction Standards must be completed within 3 to 6 months of employment."
+  },
+  "learning_and_development": {
+    "additional_qualifications": [
+      "SVQ Healthcare Support (Clinical) at SCQF level 7",
+      "SQA HNC Occupational Therapy Support",
+      "Professional Development Award (PDA) Occupational Therapy Support"
+    ]
+  },
+  "career_progression": {
+    "overview": "Experience as a healthcare support worker can support entry to university to become a registered occupational therapist.",
+    "progression_roles": [
+      "Registered occupational therapist (via undergraduate degree)"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "occupational-therapy-support-worker-001", "section": "how_to_become", "text": "To become an occupational therapy support worker, apply for a vacancy on the NHS recruitment website or do a Modern Apprenticeship." },
+    { "chunk_id": "occupational-therapy-support-worker-002", "section": "description", "text": "Occupational therapy support workers help occupational therapists assess, diagnose, and treat people with physical, mental, or social issues, and support people to adjust their lifestyles and find new ways of doing things." },
+    { "chunk_id": "occupational-therapy-support-worker-003", "section": "role_overview", "text": "Occupational therapy support workers provide practical support to help patients continue day-to-day tasks, caring for people of all ages including those with dementia, stroke patients, the elderly, children with disabilities, and post-surgery patients." },
+    { "chunk_id": "occupational-therapy-support-worker-004", "section": "entry_requirements", "text": "No specific entry requirements. Useful school subjects include Science, English, and Maths." },
+    { "chunk_id": "occupational-therapy-support-worker-005", "section": "learning_and_development", "text": "Additional qualifications include SVQ Healthcare Support (Clinical) at SCQF level 7, SQA HNC Occupational Therapy Support, and PDA Occupational Therapy Support." },
+    { "chunk_id": "occupational-therapy-support-worker-006", "section": "career_progression", "text": "Experience as an occupational therapy support worker can support entry to university to become a registered occupational therapist." }
+  ]
+}

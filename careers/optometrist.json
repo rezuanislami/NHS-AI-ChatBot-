@@ -1,0 +1,70 @@
+{
+  "id": "optometrist",
+  "title": "Optometrist",
+  "sector": "Optometry",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/optometry/optometrist/",
+  "how_to_become": "To become an optometrist, complete an integrated master's degree programme at SCQF level 11.",
+  "salary": {
+    "entry": "£41,608",
+    "entry_note": "Optometrists in the NHS start at £41,608 before tax.",
+    "experienced": "£67,665",
+    "experienced_note": "Senior optometrists can earn up to £59,159. Lead optometrists can earn up to £67,665 before tax."
+  },
+  "description": "Optometrists are healthcare professionals registered with the General Optical Council (GOC). They examine the internal and external structure of eyes, test vision, check for defects and abnormalities, identify signs of injury, diagnose and manage ocular conditions, detect general health problems, and prescribe glasses, contact lenses, and low-vision aids.",
+  "role_overview": "As an optometrist, you'll test for, detect, diagnose, and treat eye health conditions including glaucoma, age-related macular degeneration, cataracts, and diabetic retinopathy. You'll assess eye coordination, prescribe glasses and contact lenses, and if trained, prescribe medicines to treat eye conditions.",
+  "conditions_treated": [
+    "Glaucoma",
+    "Age-related macular degeneration",
+    "Cataracts",
+    "Diabetic retinopathy"
+  ],
+  "entry_requirements": {
+    "useful_subjects": [
+      "Biology",
+      "Maths",
+      "English",
+      "Chemistry",
+      "Physics"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "degree": "Integrated master's degree in Optometry at SCQF level 11, approved by the GOC. Students must register with GOC and join the PVG scheme.",
+    "placement_programmes": [
+      "Foundation Training Year (FTY) — for those studying at Scottish universities, managed by NHS Education for Scotland (NES).",
+      "Clinical Learning in Practice (CLiP) — managed by the College of Optometrists, for those studying elsewhere in the UK."
+    ],
+    "gos_certificate": "Newly qualified optometrists wishing to join an ophthalmic list in Scotland must apply for a GOS competency certificate from NES."
+  },
+  "learning_and_development": {
+    "overview": "CPD is a statutory requirement for maintaining annual GOC registration. NES provides support and mandatory training for optometrists providing care under the NHS GOS contract."
+  },
+  "career_progression": {
+    "specialist_qualifications": [
+      "Independent prescribing — embedded in Scottish optometry courses from September 2024.",
+      "Higher qualifications in contact lens practice, glaucoma, low vision, medical retina, and paediatric eye care (accredited by the College of Optometrists).",
+      "MSc in Primary Care Ophthalmology — developed by NES, RCSEd, and University of Edinburgh."
+    ]
+  },
+  "professional_bodies": [
+    "General Optical Council (GOC) — mandatory registration, renewed annually",
+    "College of Optometrists",
+    "Association of Optometrists",
+    "The Federation of Optometrists and Dispensing Opticians",
+    "Optometry Scotland"
+  ],
+  "related_careers": [
+    "Dispensing optician",
+    "Orthoptist"
+  ],
+  "chunks": [
+    { "chunk_id": "optometrist-001", "section": "how_to_become", "text": "To become an optometrist, complete an integrated master's degree in Optometry at SCQF level 11 approved by the GOC, followed by the Foundation Training Year (FTY) managed by NES in Scotland." },
+    { "chunk_id": "optometrist-002", "section": "salary", "text": "Optometrists in the NHS start at £41,608 before tax. Senior optometrists can earn up to £59,159. Lead optometrists can earn up to £67,665 before tax." },
+    { "chunk_id": "optometrist-003", "section": "description", "text": "Optometrists examine the internal and external structure of eyes, test vision, diagnose and manage ocular conditions, detect general health problems, and prescribe glasses, contact lenses, and low-vision aids. They must be GOC-registered." },
+    { "chunk_id": "optometrist-004", "section": "role_overview", "text": "Optometrists test for, detect, diagnose, and treat eye conditions including glaucoma, age-related macular degeneration, cataracts, and diabetic retinopathy. They prescribe glasses, contact lenses, and if trained, medicines for eye conditions." },
+    { "chunk_id": "optometrist-005", "section": "entry_requirements", "text": "Useful school subjects include Biology, Maths, English, Chemistry, and Physics." },
+    { "chunk_id": "optometrist-006", "section": "education_and_training", "text": "An integrated master's degree in Optometry (GOC-approved) is required, followed by the Foundation Training Year (FTY) in Scotland managed by NES. Students must register with GOC and join the PVG scheme. A GOS competency certificate from NES is required to join the ophthalmic list in Scotland." },
+    { "chunk_id": "optometrist-007", "section": "career_progression", "text": "Optometrists can gain independent prescribing qualifications (embedded in Scottish courses from 2024), higher qualifications in specialist areas, and an MSc in Primary Care Ophthalmology." },
+    { "chunk_id": "optometrist-008", "section": "professional_bodies", "text": "Optometrists must maintain annual GOC registration. They can also join the College of Optometrists, Association of Optometrists, Federation of Optometrists and Dispensing Opticians, and Optometry Scotland." }
+  ]
+}

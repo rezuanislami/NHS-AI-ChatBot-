@@ -1,0 +1,52 @@
+{
+  "id": "forensic-psychologist",
+  "title": "Forensic Psychologist",
+  "sector": "Psychology",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/psychology/forensic-psychologist/",
+  "how_to_become": "To become a forensic psychologist, you need an undergraduate honours degree in psychology, then a postgraduate degree in forensic psychology approved by the HCPC, followed by either 3 years of supervised practice or an HCPC-accredited doctoral programme.",
+  "description": "Forensic psychologists work with the psychological aspects of criminal investigation, legal process, and offending behaviour. They treat people who have committed offences and apply psychological methods to reduce the impact of criminality and future reoffending.",
+  "role_overview": "As a forensic psychologist, you'll offer treatment to those who have committed offences to reduce the impact of their experiences and reduce chances of reoffending. You'll work in areas including sexual offending, violence and aggression, interpersonal and social skills, and drug and alcohol intervention.",
+  "treatment_areas": [
+    "Sexual offending",
+    "Violence and aggression",
+    "Interpersonal and social skills",
+    "Intervention to help stop illicit drug and alcohol use"
+  ],
+  "entry_requirements": {
+    "overview": "An undergraduate honours degree in psychology is required, followed by a postgraduate degree in forensic psychology approved by the HCPC. Experience in a forensic setting (prisons, probation services, youth offending) is essential.",
+    "useful_subjects": [
+      "Psychology",
+      "Religious, Moral and Philosophical Studies",
+      "English",
+      "Human Biology",
+      "Maths"
+    ],
+    "college_route": [
+      "HNC Counselling",
+      "HND Counselling"
+    ],
+    "widening_access": "SWAP supports adult learners with few or no qualifications to enter higher education."
+  },
+  "work_experience": "Experience in forensic settings such as prisons, probation services, or youth offending services is essential for accessing forensic psychology training programmes.",
+  "education_and_training": {
+    "postgraduate_requirement": "A postgraduate degree in forensic psychology approved by the HCPC, then either 3 years of evidence-supervised practice in forensic settings or an HCPC-accredited doctoral programme with practice placements and a third-year research thesis."
+  },
+  "career_progression": {
+    "progression_roles": [
+      "Consultant psychologist",
+      "Head of a psychology service",
+      "Research and teaching roles"
+    ]
+  },
+  "professional_bodies": [
+    "British Psychological Society (BPS) — graduate and chartered membership",
+    "Health and Care Professions Council (HCPC) — mandatory registration"
+  ],
+  "chunks": [
+    { "chunk_id": "forensic-psychologist-001", "section": "how_to_become", "text": "To become a forensic psychologist, complete a psychology undergraduate degree, an HCPC-approved postgraduate degree in forensic psychology, then either 3 years of supervised forensic practice or an HCPC-accredited doctoral programme." },
+    { "chunk_id": "forensic-psychologist-002", "section": "description", "text": "Forensic psychologists work with the psychological aspects of criminal investigation, legal process, and offending behaviour, treating people who have committed offences to reduce criminality and future reoffending." },
+    { "chunk_id": "forensic-psychologist-003", "section": "treatment_areas", "text": "Forensic psychologists work in areas including sexual offending, violence and aggression, interpersonal and social skills, and drug and alcohol intervention." },
+    { "chunk_id": "forensic-psychologist-004", "section": "entry_requirements", "text": "An undergraduate psychology degree is required followed by postgraduate forensic psychology training. Experience in forensic settings (prisons, probation, youth offending) is essential. Useful school subjects include Psychology, English, Human Biology, and Maths." },
+    { "chunk_id": "forensic-psychologist-005", "section": "professional_bodies", "text": "Forensic psychologists must be HCPC-registered. They can join the BPS at graduate and chartered membership levels." }
+  ]
+}

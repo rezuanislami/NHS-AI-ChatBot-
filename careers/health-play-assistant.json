@@ -1,0 +1,72 @@
+{
+  "id": "health-play-assistant",
+  "title": "Health Play Assistant",
+  "sector": "Health Play Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/health-play-services/health-play-assistant/",
+  "how_to_become": "To become a health play assistant, you'll need an HNC in Childhood Practice or an SVQ in Playwork, plus experience of working with young people or children.",
+  "salary": {
+    "entry": "£25,694",
+    "entry_note": "Health play assistants in the NHS start at £25,694 before tax.",
+    "experienced": "£30,230",
+    "experienced_note": "Health play assistants in the NHS can earn up to £30,230 before tax."
+  },
+  "description": "Health play assistants supervise age-appropriate play activities for children in hospitals to reduce stress and anxiety. They also help with the everyday running of hospital play facilities.",
+  "role_overview": "As a health play assistant, you'll organise and supervise therapeutic play and recreational activities in a child-focused environment. You'll support families and carers to ensure appropriate information is shared and individual patient needs are met. You'll also provide professional advice on play activities to the multidisciplinary team including nurses, consultants, and physiotherapists.",
+  "entry_requirements": {
+    "overview": "One of the following qualifications is required, along with experience working in a team caring for children and young people, preferably in a hospital setting.",
+    "qualifications": [
+      "HNC in Childhood Practice at SCQF level 7",
+      "SVQ in Playwork at SCQF level 6",
+      "National Certificate in Childhood Practice at SCQF level 6",
+      "NCFE CACHE Level 3 Applied General Certificate for Early Years, Childcare and Education (equivalent to SCQF level 6)"
+    ],
+    "useful_subjects": [
+      "English",
+      "Maths",
+      "Biology",
+      "Psychology",
+      "Childcare and development"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland.",
+  "learning_and_development": {
+    "overview": "You'll be encouraged to develop your career in the NHS. As well as learning specific to your role, you'll need to complete mandatory training.",
+    "mandatory_training": [
+      "Health and safety",
+      "Occupational health",
+      "Fire safety",
+      "Counter-fraud",
+      "Moving and handling",
+      "Safe information handling"
+    ],
+    "ongoing_development": [
+      "Hospital play best practice",
+      "Supportive care for children with special needs",
+      "Child protection"
+    ],
+    "note": "Your NHS employer will confirm their mandatory training requirements during your induction."
+  },
+  "career_progression": {
+    "overview": "Further qualifications support progression into more senior roles.",
+    "qualifications": [
+      "Foundation degree in Health Play Specialism"
+    ],
+    "progression_roles": [
+      "Health play specialist",
+      "Senior health play specialist"
+    ]
+  },
+  "related_careers": [
+    "Health play specialist"
+  ],
+  "chunks": [
+    { "chunk_id": "health-play-assistant-001", "section": "how_to_become", "text": "To become a health play assistant, you'll need an HNC in Childhood Practice or an SVQ in Playwork, plus experience working with children or young people." },
+    { "chunk_id": "health-play-assistant-002", "section": "salary", "text": "Health play assistants in the NHS start at £25,694 before tax and can earn up to £30,230 before tax at experienced level." },
+    { "chunk_id": "health-play-assistant-003", "section": "description", "text": "Health play assistants supervise age-appropriate play activities for children in hospitals to reduce stress and anxiety, and help with the everyday running of hospital play facilities." },
+    { "chunk_id": "health-play-assistant-004", "section": "role_overview", "text": "Health play assistants organise and supervise therapeutic play and recreational activities, support families and carers with information and individual patient needs, and provide advice on play activities to the multidisciplinary team including nurses, consultants, and physiotherapists." },
+    { "chunk_id": "health-play-assistant-005", "section": "entry_requirements", "text": "Required qualifications include HNC in Childhood Practice at SCQF level 7, SVQ in Playwork at SCQF level 6, National Certificate in Childhood Practice at SCQF level 6, or NCFE CACHE Level 3 Applied General Certificate for Early Years at SCQF level 6. Useful school subjects include English, Maths, Biology, Psychology, and Childcare and development." },
+    { "chunk_id": "health-play-assistant-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to college or a new job with NHSScotland." },
+    { "chunk_id": "health-play-assistant-007", "section": "learning_and_development", "text": "Mandatory training includes health and safety, occupational health, fire safety, counter-fraud, moving and handling, and safe information handling. Health play assistants must also stay updated on hospital play best practice, supportive care for children with special needs, and child protection." },
+    { "chunk_id": "health-play-assistant-008", "section": "career_progression", "text": "Health play assistants can progress to health play specialist or senior health play specialist by completing a foundation degree in Health Play Specialism." }
+  ]
+}

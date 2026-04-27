@@ -1,0 +1,88 @@
+{
+  "id": "information-security-officer",
+  "title": "Information Security Officer",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/information-security-officer/",
+  "how_to_become": "Becoming an information security officer (ISO) in the NHS requires a combination of education, training, and relevant experience. You should carefully review specific job adverts and tailor your application to meet the qualifications and requirements outlined in the job description.",
+  "salary": {
+    "entry": "£50,861",
+    "entry_note": "Information security officers in the NHS start at £50,861 before tax.",
+    "experienced": "£59,159",
+    "experienced_note": "Information security officers in the NHS can earn up to £59,159 before tax."
+  },
+  "description": "In NHSScotland, an information security officer (ISO) ensures reasonable security measures are in place for valuable information assets, maintains resilience of digital healthcare services, and oversees compliance with information security regulations to maintain the confidentiality, integrity, and availability of NHS information.",
+  "key_responsibilities": [
+    "Making sure that reasonable security measures are in place for valuable information assets.",
+    "Ensuring the resilience of digital-driven healthcare services, including sensitive healthcare data.",
+    "The secure operation of information systems within their area of the NHS.",
+    "Developing and implementing security policies.",
+    "Conducting and analysing information security risk assessments.",
+    "Providing information security advice.",
+    "Managing security incidents.",
+    "Promoting a culture of security awareness among staff.",
+    "Overseeing compliance with information security regulations.",
+    "Working to mitigate cyber security threats."
+  ],
+  "role_overview": "An information security officer in the NHS has a critical role in ensuring the confidentiality, integrity, and availability of valuable information assets. This includes sensitive healthcare data and information systems. Most assets are digital, but the scope also covers paper data and information in other formats including imaging and sound.",
+  "entry_requirements": {
+    "overview": "ISOs typically have relevant work experience in at least 2 infosec domains, along with an undergraduate degree and professional certifications. Some positions may require a master's degree.",
+    "useful_subjects": [
+      "Computer Science",
+      "Maths",
+      "English"
+    ],
+    "undergraduate_degrees": [
+      "Computer Science",
+      "Information Technology",
+      "Cyber Security"
+    ],
+    "certifications": [
+      "ISACA Certified Information Systems Auditor (CISA)",
+      "ISACA Certified Information Security Manager (CISM)",
+      "ISC2 Certified Information Systems Security Professional (CISSP)",
+      "BCS Certification in Information Security Management Principles (CISMP)"
+    ],
+    "certification_bodies": [
+      "International Board for IT Governance Qualifications (IBITGQ)",
+      "Information System Audit and Control Association (ISACA)",
+      "International Information System Security Certification Consortium (ISC2)",
+      "British Computer Society, The Chartered Institute for IT (BCS)"
+    ]
+  },
+  "typical_previous_roles": [
+    "Senior network security engineer",
+    "Senior security systems analyst",
+    "Senior security administrator"
+  ],
+  "work_experience": "Work placements can provide experience working in healthcare. Networking and seeking guidance from current information security professionals within the NHS can also be valuable in navigating the application process.",
+  "learning_and_development": {
+    "overview": "Many NHS ISO roles require relevant certifications to be maintained throughout your career.",
+    "required_certifications": [
+      "Certified Information Systems Security Professional (CISSP)",
+      "Certified Information Security Manager (CISM)",
+      "Certified Information Systems Auditor (CISA)",
+      "Certificate in Information Security Management Principles",
+      "Other recognised certifications in cyber security"
+    ]
+  },
+  "professional_bodies": [
+    "International Information System Security Certification Consortium (ISC2)",
+    "Information Systems Audit and Control Association (ISACA)",
+    "CompTIA",
+    "The Chartered Institute of Information Security (CIISec)",
+    "British Computer Society, the Chartered Institute for IT (BCS)"
+  ],
+  "chunks": [
+    { "chunk_id": "information-security-officer-001", "section": "how_to_become", "text": "Becoming an information security officer in the NHS requires a combination of education, training, and relevant experience. Applications should be tailored to meet the qualifications and requirements outlined in each specific job description." },
+    { "chunk_id": "information-security-officer-002", "section": "salary", "text": "Information security officers in the NHS start at £50,861 before tax and can earn up to £59,159 before tax at experienced level." },
+    { "chunk_id": "information-security-officer-003", "section": "description", "text": "NHS information security officers ensure reasonable security measures are in place for valuable information assets, maintain resilience of digital healthcare services, and oversee compliance with information security regulations to maintain confidentiality, integrity, and availability of NHS information." },
+    { "chunk_id": "information-security-officer-004", "section": "key_responsibilities", "text": "Information security officers implement security policies, conduct risk assessments, provide security advice, manage security incidents, promote security awareness among staff, and mitigate cyber security threats across NHS information systems." },
+    { "chunk_id": "information-security-officer-005", "section": "role_overview", "text": "The ISO role covers the confidentiality, integrity, and availability of NHS information assets including sensitive healthcare data. Scope includes digital systems, paper data, imaging, and sound formats." },
+    { "chunk_id": "information-security-officer-006", "section": "entry_requirements", "text": "ISOs typically have experience in at least 2 infosec domains and an undergraduate degree in Computer Science, Information Technology, or Cyber Security. Some positions require a master's degree. Useful school subjects include Computer Science, Maths, and English." },
+    { "chunk_id": "information-security-officer-007", "section": "certifications", "text": "Widely recognised certifications include ISACA CISA, ISACA CISM, ISC2 CISSP, and BCS CISMP. Certification bodies include IBITGQ, ISACA, ISC2, and BCS." },
+    { "chunk_id": "information-security-officer-008", "section": "typical_previous_roles", "text": "Many information security officers move into the role from positions such as senior network security engineer, senior security systems analyst, or senior security administrator." },
+    { "chunk_id": "information-security-officer-009", "section": "work_experience", "text": "Work placements in healthcare are helpful. Networking with current NHS information security professionals can also be valuable when navigating the application process." },
+    { "chunk_id": "information-security-officer-010", "section": "learning_and_development", "text": "NHS ISO roles require certifications such as CISSP, CISM, CISA, and Certificate in Information Security Management Principles to be maintained throughout your career." },
+    { "chunk_id": "information-security-officer-011", "section": "professional_bodies", "text": "Information security officers can join professional bodies including ISC2, ISACA, CompTIA, the Chartered Institute of Information Security (CIISec), and the British Computer Society (BCS)." }
+  ]
+}

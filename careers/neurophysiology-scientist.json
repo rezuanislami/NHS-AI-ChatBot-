@@ -1,0 +1,50 @@
+{
+  "id": "neurophysiology-scientist",
+  "title": "Neurophysiology Scientist",
+  "sector": "Healthcare Science",
+  "sub_sector": "Physiological Sciences",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/healthcare-science/physiological-sciences/neurophysiology-scientist/",
+  "how_to_become": "Apply for trainee opportunities on the NHS recruitment website, or complete an undergraduate honours degree at university.",
+  "description": "Neurophysiology scientists investigate the function of the central and peripheral nervous systems using specialist equipment to help diagnose and monitor neurological conditions such as epilepsy, multiple sclerosis, and carpal tunnel syndrome. They also map and monitor neurological function during orthopaedic and neurosurgery.",
+  "role_overview": "As a neurophysiology practitioner, you'll help diagnose and monitor patients of all ages with neurological conditions using specialist diagnostic equipment.",
+  "entry_requirements": {
+    "useful_subjects": [
+      "English",
+      "Biology",
+      "Maths",
+      "Physics",
+      "Computing Science"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to college, university, or a new job with NHSScotland.",
+  "education_and_training": {
+    "undergraduate_route": "Clinical physiology undergraduate training programme — employed by an NHSScotland Health Board while completing an undergraduate honours degree at SCQF level 10, with departmental training.",
+    "alternative_route": "Some health boards offer alternative 3-year work-based training programmes for those with an undergraduate honours degree in Healthcare Science (Neurophysiology) at SCQF level 10 or other science subjects.",
+    "registration": "On completion, register with the AHCS via the practitioner equivalence route."
+  },
+  "learning_and_development": {
+    "overview": "Ongoing requirements for education and skills development after registration."
+  },
+  "career_progression": {
+    "overview": "With training and experience, neurophysiology scientists can move into specialist, supervisory, or management roles.",
+    "progression_roles": [
+      "Specialist neurophysiology scientist",
+      "Neurophysiology service manager",
+      "Clinical scientist in neurophysiology (via equivalence recognition)"
+    ]
+  },
+  "professional_bodies": [
+    "Academy for Healthcare Science (AHCS)",
+    "Association of Neurophysiological Scientists (ANS)",
+    "British Society for Clinical Neurophysiology",
+    "British Society for Intraoperative Neurophysiology"
+  ],
+  "chunks": [
+    { "chunk_id": "neurophysiology-scientist-001", "section": "how_to_become", "text": "To become a neurophysiology scientist in the NHS, apply for trainee opportunities on the recruitment website or complete an undergraduate honours degree at university." },
+    { "chunk_id": "neurophysiology-scientist-002", "section": "description", "text": "Neurophysiology scientists investigate the central and peripheral nervous systems using specialist equipment to diagnose and monitor conditions including epilepsy, multiple sclerosis, and carpal tunnel syndrome. They also monitor neurological function during orthopaedic and neurosurgery." },
+    { "chunk_id": "neurophysiology-scientist-003", "section": "entry_requirements", "text": "Useful school subjects include English, Biology, Maths, Physics, and Computing Science." },
+    { "chunk_id": "neurophysiology-scientist-004", "section": "education_and_training", "text": "Routes include the clinical physiology undergraduate training programme (employed by NHS Health Board while completing an undergraduate degree at SCQF level 10) or a 3-year alternative work-based training programme for those with a relevant degree." },
+    { "chunk_id": "neurophysiology-scientist-005", "section": "career_progression", "text": "Neurophysiology scientists can progress to specialist, supervisory, and management roles including neurophysiology service manager. Equivalence recognition allows progression to clinical scientist in neurophysiology." },
+    { "chunk_id": "neurophysiology-scientist-006", "section": "professional_bodies", "text": "Neurophysiology scientists can register with the AHCS and join the Association of Neurophysiological Scientists (ANS), British Society for Clinical Neurophysiology, and British Society for Intraoperative Neurophysiology." }
+  ]
+}

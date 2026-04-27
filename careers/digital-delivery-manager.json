@@ -1,0 +1,64 @@
+{
+  "id": "digital-delivery-manager",
+  "title": "Digital Delivery Manager",
+  "sector": "Administrative Services",
+  "source_url": "https://www.careers.nhs.scot/explore-careers/administrative-services/digital-delivery-manager/",
+  "published": "18/04/2023",
+  "last_updated": "13/10/2025",
+  "how_to_become": "To become a digital delivery manager, you'll need a degree in a relevant subject and significant experience in the planning and delivery of technology solutions.",
+  "salary": {
+    "entry": "£50,861",
+    "entry_note": "Digital delivery managers in the NHS start at £50,861 before tax.",
+    "experienced": "£67,665",
+    "experienced_note": "Digital delivery managers in the NHS can earn up to £67,665 before tax."
+  },
+  "description": "Digital delivery managers lead teams of technical specialists focused on problem-solving, adding value, and continuous improvement. They are responsible for the delivery of digital services, projects, and products.",
+  "role_overview": "As a digital delivery manager, you'd play a key role in transforming the way digital products and technology services are delivered. This includes work on accessible digital platforms, digital tools and applications used in patient care, digital applications for staff recruitment, training, learning and career development, and data services platforms.",
+  "entry_requirements": {
+    "overview": "A degree in a relevant subject and significant experience in the planning and delivery of technology solutions is required.",
+    "useful_subjects": [
+      "Administration and IT",
+      "Business Management",
+      "Computing Science",
+      "Engineering Science",
+      "English",
+      "Maths",
+      "Physics"
+    ]
+  },
+  "work_experience": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland. You'll get training, increase your knowledge, and learn new skills.",
+  "education_and_training": {
+    "college": [
+      "HNC in Management and Leadership",
+      "HND in Computing: Software Development"
+    ],
+    "widening_access": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to get into higher education. Many universities also provide access programmes to help gain degree entry qualifications.",
+    "undergraduate_degree": [
+      "Software Development",
+      "Information Management",
+      "Business Management and Leadership"
+    ],
+    "postgraduate_degree": "An appropriate postgraduate qualification in IT, business, management, or other technical discipline may also be required. Alternatively, significant experience in planning and delivery of technology solutions is accepted."
+  },
+  "learning_and_development": {
+    "overview": "During your career, self-directed learning will provide opportunities to explore and investigate new tools, technologies and systems."
+  },
+  "career_progression": {
+    "overview": "With experience, you could become a head of service, managing and leading teams to make sure that the strategic objectives of the service or department are met.",
+    "progression_roles": [
+      "Head of service"
+    ]
+  },
+  "chunks": [
+    { "chunk_id": "digital-delivery-manager-001", "section": "how_to_become", "text": "To become a digital delivery manager in the NHS, you'll need a degree in a relevant subject and significant experience in the planning and delivery of technology solutions." },
+    { "chunk_id": "digital-delivery-manager-002", "section": "salary", "text": "Digital delivery managers in the NHS start at £50,861 before tax at entry level and can earn up to £67,665 before tax at experienced level." },
+    { "chunk_id": "digital-delivery-manager-003", "section": "description", "text": "Digital delivery managers lead teams of technical specialists focused on problem-solving, adding value, and continuous improvement. They are responsible for the delivery of digital services, projects, and products." },
+    { "chunk_id": "digital-delivery-manager-004", "section": "role_overview", "text": "Digital delivery managers transform the way digital products and technology services are delivered, including accessible digital platforms, tools used in patient care, applications for staff recruitment and training, and data services platforms." },
+    { "chunk_id": "digital-delivery-manager-005", "section": "entry_requirements", "text": "Useful school subjects include Administration and IT, Business Management, Computing Science, Engineering Science, English, Maths, and Physics." },
+    { "chunk_id": "digital-delivery-manager-006", "section": "work_experience", "text": "Work placements and volunteering can provide healthcare experience and help when applying to university, college, or a new job with NHSScotland." },
+    { "chunk_id": "digital-delivery-manager-007", "section": "education_and_training", "text": "College options include HNC in Management and Leadership and HND in Computing: Software Development. Undergraduate degrees in Software Development, Information Management, or Business Management and Leadership are typically required. A postgraduate qualification in IT, business, or management may also be needed." },
+    { "chunk_id": "digital-delivery-manager-008", "section": "widening_access", "text": "The Scottish Wider Access Programme (SWAP) supports adult learners with few or no qualifications to enter higher education. Many universities also provide access programmes for degree entry qualifications." },
+    { "chunk_id": "digital-delivery-manager-009", "section": "learning_and_development", "text": "Self-directed learning during your career provides opportunities to explore and investigate new tools, technologies, and systems." },
+    { "chunk_id": "digital-delivery-manager-010", "section": "career_progression", "text": "With experience, digital delivery managers can progress to head of service, managing and leading teams to meet the strategic objectives of the service or department." }
+  ]
+}
