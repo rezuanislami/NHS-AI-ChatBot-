@@ -1,6 +1,20 @@
+# --- Web framework / server ---
 fastapi
-uvicorn
-httpx
+uvicorn[standard]
+
+# --- HTTP clients ---
+httpx          # async client used by ollama_service.py and ai_faq_generator.py
+requests       # sync client used by generate_embeddings.py
+
+# --- Config ---
 python-dotenv
+
+# --- Data validation ---
 pydantic
+email-validator   # required for pydantic EmailStr (used by future JIRA ticket schema)
+
+# --- RAG / embeddings ---
 numpy
+
+# --- File uploads (FastAPI multipart, e.g. ticket attachments) ---
+python-multipart

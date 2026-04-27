@@ -1,6 +1,10 @@
 document.getElementById('current-year').textContent = new Date().getFullYear();
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Backend base URL. The page is served from http-server (port 5500),
+    // the API runs under uvicorn (port 8000).
+    const API_BASE = 'http://localhost:8000';
+
     const chatToggle = document.getElementById('chat-toggle');
     const chatWindow = document.getElementById('chat-window');
     const chatClose = document.getElementById('chat-close');
@@ -17,24 +21,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let chatOpen = false;
 
-    const replies = [
-        {
-            match: ['nursing', 'nurse'],
-            html: 'To apply for nursing roles, you would usually need relevant qualifications, registration requirements and an application through NHS Scotland Jobs. <a href="#" class="chat-link" target="_blank" rel="noopener noreferrer">More information</a>'
-        },
-        {
-            match: ['qualification', 'qualifications', 'requirements'],
-            html: 'Entry requirements vary by role, but many healthcare careers ask for specific qualifications, relevant experience and right-to-work checks. <a href="#" class="chat-link" target="_blank" rel="noopener noreferrer">View entry requirements</a>'
-        },
-        {
-            match: ['salary', 'band 5', 'pay'],
-            html: 'Band 5 roles are commonly used for newly qualified professional posts. Salary depends on the role and current pay banding. <a href="#" class="chat-link" target="_blank" rel="noopener noreferrer">See salary information</a>'
-        },
-        {
-            match: ['apprenticeship', 'apprenticeships'],
-            html: 'Apprenticeships can be a good route into NHS Scotland careers. They combine practical work with structured learning and may be available in clinical, business and support roles. <a href="#" class="chat-link" target="_blank" rel="noopener noreferrer">Explore apprenticeships</a>'
-        }
-    ];
+    // Server-issued conversation id, kept only in memory for this tab so the
+    // backend can stitch follow-up turns together.
+    let conversationId = null;
 
     function announceStatus(message) {
         const announcer = document.getElementById('aria-announcer') || document.createElement('div');
@@ -78,26 +67,81 @@ document.addEventListener('DOMContentLoaded', () => {
         return now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
     }
 
-    function addMessage(content, isUser = false, isHtml = false) {
-        const row = document.createElement('div');
-        row.className = `message-row ${isUser ? 'user-row' : 'bot-row'} new-message`;
+    // ---------- Safe DOM rendering ----------
+    // Builds the message bubble using textContent / createElement so anything
+    // the user types (or the model echoes back) cannot inject HTML.
 
-        if (!isUser) {
-            const avatar = document.createElement('div');
-            avatar.className = 'message-avatar';
-            avatar.setAttribute('aria-hidden', 'true');
-            avatar.innerHTML = '<span>NHS</span>';
-            row.appendChild(avatar);
-        }
-
+    function appendBubble(row, paragraphs, sources) {
         const bubble = document.createElement('div');
-        bubble.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
-        if (isHtml) {
-            bubble.innerHTML = `<p>${content}</p><div class="message-time">${formatTime()}</div>`;
-        } else {
-            bubble.innerHTML = `<p>${content}</p><div class="message-time">${formatTime()}</div>`;
+        bubble.className = row.classList.contains('user-row') ? 'message user-message' : 'message bot-message';
+
+        paragraphs.forEach(text => {
+            const p = document.createElement('p');
+            p.textContent = text;
+            bubble.appendChild(p);
+        });
+
+        if (sources && sources.length) {
+            const srcWrap = document.createElement('div');
+            srcWrap.className = 'message-sources';
+
+            const label = document.createElement('span');
+            label.textContent = 'Sources: ';
+            srcWrap.appendChild(label);
+
+            sources.forEach((src, idx) => {
+                const a = document.createElement('a');
+                a.href = src.url || '#';
+                a.target = '_blank';
+                a.rel = 'noopener noreferrer';
+                a.className = 'chat-link';
+                a.textContent = src.title || 'NHS Scotland';
+                srcWrap.appendChild(a);
+                if (idx < sources.length - 1) {
+                    srcWrap.appendChild(document.createTextNode(', '));
+                }
+            });
+
+            bubble.appendChild(srcWrap);
         }
+
+        const time = document.createElement('div');
+        time.className = 'message-time';
+        time.textContent = formatTime();
+        bubble.appendChild(time);
+
         row.appendChild(bubble);
+    }
+
+    function addUserMessage(text) {
+        const row = document.createElement('div');
+        row.className = 'message-row user-row new-message';
+        appendBubble(row, [text], null);
+        chatMessages.appendChild(row);
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+        setTimeout(() => row.classList.remove('new-message'), 300);
+    }
+
+    function addBotMessage(text, sources = []) {
+        const row = document.createElement('div');
+        row.className = 'message-row bot-row new-message';
+
+        const avatar = document.createElement('div');
+        avatar.className = 'message-avatar';
+        avatar.setAttribute('aria-hidden', 'true');
+        const avatarSpan = document.createElement('span');
+        avatarSpan.textContent = 'NHS';
+        avatar.appendChild(avatarSpan);
+        row.appendChild(avatar);
+
+        // Split the model output into paragraphs on blank lines so longer
+        // structured answers stay readable.
+        const paragraphs = String(text)
+            .split(/\n{2,}/)
+            .map(p => p.replace(/\n+/g, ' ').trim())
+            .filter(Boolean);
+
+        appendBubble(row, paragraphs.length ? paragraphs : [String(text)], sources);
 
         chatMessages.appendChild(row);
         chatMessages.scrollTop = chatMessages.scrollHeight;
@@ -112,7 +156,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const avatar = document.createElement('div');
         avatar.className = 'message-avatar';
         avatar.setAttribute('aria-hidden', 'true');
-        avatar.innerHTML = '<span>NHS</span>';
+        const avatarSpan = document.createElement('span');
+        avatarSpan.textContent = 'NHS';
+        avatar.appendChild(avatarSpan);
 
         const bubble = document.createElement('div');
         bubble.className = 'message bot-message';
@@ -129,29 +175,57 @@ document.addEventListener('DOMContentLoaded', () => {
         return row;
     }
 
-    function getReply(text) {
-        const lowerText = text.toLowerCase();
-        const found = replies.find(reply => reply.match.some(keyword => lowerText.includes(keyword)));
+    // ---------- Backend call ----------
 
-        if (found) return found.html;
+    async function sendToBackend(message) {
+        const body = { message };
+        if (conversationId) body.conversation_id = conversationId;
 
-        return 'Thank you for your question. I can help with NHS Scotland careers, applications, qualifications, salaries and training pathways. <a href="#" class="chat-link" target="_blank" rel="noopener noreferrer">More information</a>';
+        const response = await fetch(`${API_BASE}/chat`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(body),
+        });
+
+        if (!response.ok) {
+            const detail = await response.text().catch(() => '');
+            throw new Error(`Server returned ${response.status}: ${detail}`);
+        }
+
+        return response.json();
     }
 
-    function handleSend(prefilledText = '') {
+    async function handleSend(prefilledText = '') {
         const text = (prefilledText || userInput.value).trim();
         if (!text) return;
 
-        addMessage(text, true);
+        addUserMessage(text);
         userInput.value = '';
+        sendBtn.disabled = true;
 
         const typingIndicator = showTypingIndicator();
 
-        setTimeout(() => {
+        try {
+            const data = await sendToBackend(text);
+            if (data && data.conversation_id) {
+                conversationId = data.conversation_id;
+            }
             typingIndicator.remove();
-            addMessage(getReply(text), false, true);
-        }, 1100);
+            addBotMessage(data.reply || 'No reply received.', data.sources || []);
+        } catch (err) {
+            console.error('[chat] backend error:', err);
+            typingIndicator.remove();
+            addBotMessage(
+                "I'm having trouble reaching the assistant right now. Please make sure the backend is running on port 8000 and try again.",
+                []
+            );
+        } finally {
+            sendBtn.disabled = false;
+            userInput.focus();
+        }
     }
+
+    // ---------- Ticket modal (still simulated, JIRA wiring TBD) ----------
 
     function openModal() {
         ticketModal.classList.add('visible');
@@ -244,23 +318,27 @@ document.addEventListener('DOMContentLoaded', () => {
         ticketStatus.textContent = 'Submitting ticket...';
 
         try {
-            // Replace this endpoint when backend is ready.
-            // const response = await fetch('/api/jira-ticket', {
-            //     method: 'POST',
-            //     headers: { 'Content-Type': 'application/json' },
-            //     body: JSON.stringify(payload)
-            // });
-            // const result = await response.json();
+            const response = await fetch(`${API_BASE}/api/jira-ticket`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload),
+            });
 
-            await new Promise(resolve => setTimeout(resolve, 900));
-            const result = { success: true, ticketKey: 'NHS-123' };
+            // Backend returns either { success, ticketKey, url, message }
+            // on 200, or { detail: "..." } on 4xx/5xx.
+            const result = await response.json().catch(() => ({}));
 
-            if (!result.success) {
-                throw new Error('Ticket submission failed');
+            if (!response.ok || !result.success) {
+                const reason = result.detail || result.message || `Server returned ${response.status}`;
+                throw new Error(reason);
             }
 
+            const refLink = result.url
+                ? `<a href="${result.url}" target="_blank" rel="noopener noreferrer">${result.ticketKey}</a>`
+                : result.ticketKey;
+
             ticketStatus.className = 'ticket-status success';
-            ticketStatus.textContent = `Ticket submitted successfully. Reference: ${result.ticketKey}`;
+            ticketStatus.innerHTML = `Ticket submitted successfully. Reference: ${refLink}`;
 
             setTimeout(() => {
                 closeModal();
@@ -269,15 +347,17 @@ document.addEventListener('DOMContentLoaded', () => {
                     chatToggle.setAttribute('aria-expanded', 'true');
                     chatWindow.classList.add('visible');
                 }
-                addMessage(`Your support ticket has been submitted successfully. Reference: ${result.ticketKey}. A member of the team will review your details shortly.`, false);
+                addBotMessage(
+                    `Your support ticket has been submitted successfully. Reference: ${result.ticketKey}. A member of the team will review your details shortly.`
+                );
                 ticketForm.reset();
                 ticketStatus.className = 'ticket-status';
                 ticketStatus.textContent = '';
-            }, 800);
+            }, 1200);
         } catch (error) {
             ticketStatus.className = 'ticket-status';
-            ticketStatus.textContent = 'Unable to submit the ticket right now. Please try again.';
-            console.error(error, payload);
+            ticketStatus.textContent = `Unable to submit the ticket: ${error.message}`;
+            console.error('[ticket]', error, payload);
         } finally {
             ticketSubmitButton.disabled = false;
         }
